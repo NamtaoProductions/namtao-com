@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"NAMTAO Productions","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:05:47.587+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:09:51.943+00:00"}
 ---
 
 An old building stands in front of you, in faded letters above the open door is painted "[[The Phosphene Catalogue Home\|📓The Phosphene Catalogue]]".
