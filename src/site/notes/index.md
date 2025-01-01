@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T21:47:08.586+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T21:47:46.524+00:00"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
@@ -44,7 +44,6 @@
 > - [Bandcamp](https://namtao.bandcamp.com/)
 
 > [!QUESTION]- Would you like to enter the Garden?
-> # Welcome to the Garden.
 > An old building stands in front of you, in faded letters above the open door is painted "[[The Phosphene Catalogue Home\|📓The Phosphene Catalogue]]".
 >
 > You hear a friendly AI voice coming from a little [[Lost-Terminal-Home\|💻Lost Terminal]]. "Hello world!" he says.
