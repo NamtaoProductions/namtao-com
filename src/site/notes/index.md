@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:44:22.105+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:45:15.329+00:00"}
 ---
 
 
@@ -35,13 +35,14 @@
 > - Listen at [PhospheneCatalogue.com](https://phosphenecatalogue.com/)
 > - Follow [@PhospheneCatalogue@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
 
-## 🎹 My Music
-
-I have loved writing and performing music for my whole life.
-I originally made Lost Terminal to showcase my music, but it **immediately** got out of hand, and I now write new music every week for the podcast!
-
-- [Soundcloud](https://soundcloud.com/namtao)
-- [Bandcamp](https://namtao.bandcamp.com/)
+> [!ABSTRACT] Electronic Music
+> ## 🎹 My Music
+>
+> I have loved writing and performing music for my whole life.
+> I originally made Lost Terminal to showcase my music, but it **immediately** got out of hand, and I now write new music every week for the podcast!
+>
+> - [Soundcloud](https://soundcloud.com/namtao)
+> - [Bandcamp](https://namtao.bandcamp.com/)
 
 An old building stands in front of you, in faded letters above the open door is painted "[[The Phosphene Catalogue Home\|📓The Phosphene Catalogue]]".
 
