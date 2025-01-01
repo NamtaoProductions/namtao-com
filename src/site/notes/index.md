@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:32:00.741+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:32:29.377+00:00"}
 ---
 
 
@@ -32,8 +32,7 @@
 
 ## 🖼️ The Phosphene Catalogue
 
-> [!EXAMPLE]
-> _An urban fantasy podcast of tape recordings by the curator of a secretive London-based art auction house. The Phosphene Catalogue is a 1970s mail-order catalogue, specialising in those items that cannot be sold at other auction houses: Paintings of lost origin, statues that are too grotesque for public display, and books better left unread..._
+> [!EXAMPLE] _An urban fantasy podcast of tape recordings by the curator of a secretive London-based art auction house. The Phosphene Catalogue is a 1970s mail-order catalogue, specialising in those items that cannot be sold at other auction houses: Paintings of lost origin, statues that are too grotesque for public display, and books better left unread..._
 >
 > - Listen at [PhospheneCatalogue.com](https://phosphenecatalogue.com/)
 > - Follow [@PhospheneCatalogue@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
