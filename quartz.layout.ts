@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "NAMTAO Productions Discord Community": "https://discord.gg/mCY2bBmDKZ",
+      "GitHub": "https://github.com/NamtaoProductions/namtao-com",
+      "Discord": "https://discord.gg/mCY2bBmDKZ",
     },
   }),
 }
@@ -27,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()),
     //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
       localGraph: {showTags: false },
       global: {showTags: false}
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
 }
 

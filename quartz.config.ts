@@ -12,9 +12,6 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    //analytics: {
-    //  provider: "plausible",
-    //},
     locale: "en-US",
     baseUrl: "www.namtao.com",
     ignorePatterns: ["templates", ".obsidian", "!(public-attachments)**/!(*.md)", "!(*.md)"],
