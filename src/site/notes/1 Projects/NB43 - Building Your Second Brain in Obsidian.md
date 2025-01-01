@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T21:55:03.306+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T21:57:12.323+00:00"}
 ---
 
 
@@ -689,6 +689,7 @@ And to all my patrons!
 
 ## Code Block Fixes
 
+```
 <style>
 :root {--r-code-font: "FiraCode Nerd Font";}
 .reveal .hljs {min-height: 50%;}
@@ -723,3 +724,4 @@ And to all my patrons!
   font-size: 13px;
 }
 </style>
+```
