@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Hi Folks, I'm Tris 👋","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:11:36.670+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Hi Folks, I'm Tris 👋","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:13:30.942+00:00"}
 ---
 
-
-I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@masto.namtao.com]()
+> I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
 
 # 📔 Projects
 
