@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:34:07.898+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:44:22.105+00:00"}
 ---
 
 
-> I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
+> Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
 
 # 📔 Projects
 
-> [!QUOTE] Watch
+> [!QUOTE] Fast Technical Videos
 > ## 📼 No Boilerplate
 >
 > - Watch on [YouTube](https://www.youtube.com/c/NoBoilerplate)
 > - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
 
-> [!SUCCESS] Listen to
+> [!SUCCESS] Hopepunk Scifi Podcast
 > ## 🛰️ Lost Terminal
 > _A hard sci-fi hopepunk podcast following the journey of a little satellite trying to understand what has happened after Earth stops returning his calls._
 >
@@ -21,14 +21,14 @@
 > - Listen at [LostTerminal.com](https://lostterminal.com/)
 > - Follow [@LostTerminal@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
 
-> [!QUESTION] Listen to
+> [!QUESTION] Contemporary Urban Fantasy Podcast
 > ## 🌕 Modem Prometheus
 > _Modem Prometheus is an anthology podcast of urban folktales. This is where any roundabout could be a gateway to Faerie. Where trains that don’t exist run from the foundations of skyscrapers. Where there is no deeper dark than the shadows between buildings. The transmitter mast is calling. Come home._
 >
 > - Listen at [ModemPrometheus.com](https://www.modemprometheus.com/)
 > - Follow [@ModemPrometheus@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
 
-> [!EXAMPLE] Listen to
+> [!EXAMPLE] 1970s Magical Realism Podcast
 > ## 🖼️ The Phosphene Catalogue
 > _An urban fantasy podcast of tape recordings by the curator of a secretive London-based art auction house. The Phosphene Catalogue is a 1970s mail-order catalogue, specialising in those items that cannot be sold at other auction houses: Paintings of lost origin, statues that are too grotesque for public display, and books better left unread..._
 >
