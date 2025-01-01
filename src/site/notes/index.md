@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:30:52.406+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:31:46.344+00:00"}
 ---
 
 
@@ -23,10 +23,12 @@
 > - Follow [@LostTerminal@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
 
 ## 🌕 Modem Prometheus
-_Modem Prometheus is an anthology podcast of urban folktales. This is where any roundabout could be a gateway to Faerie. Where trains that don’t exist run from the foundations of skyscrapers. Where there is no deeper dark than the shadows between buildings. The transmitter mast is calling. Come home._
 
-- Listen at [ModemPrometheus.com](https://www.modemprometheus.com/)
-- Follow [@ModemPrometheus@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
+> [!QUESTION] Podcast
+> _Modem Prometheus is an anthology podcast of urban folktales. This is where any roundabout could be a gateway to Faerie. Where trains that don’t exist run from the foundations of skyscrapers. Where there is no deeper dark than the shadows between buildings. The transmitter mast is calling. Come home._
+>
+> - Listen at [ModemPrometheus.com](https://www.modemprometheus.com/)
+> - Follow [@ModemPrometheus@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
 
 ## 🖼️ The Phosphene Catalogue
 _An urban fantasy podcast of tape recordings by the curator of a secretive London-based art auction house. The Phosphene Catalogue is a 1970s mail-order catalogue, specialising in those items that cannot be sold at other auction houses: Paintings of lost origin, statues that are too grotesque for public display, and books better left unread..._
