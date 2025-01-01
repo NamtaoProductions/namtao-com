@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T22:00:10.934+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T22:01:54.430+00:00"}
 ---
 
 
@@ -7,8 +7,7 @@
 
 Footnote test
 
-test[^1] and another [^2]
-You can also use inline footnotes. ^[This is an inline footnote.]
+test[^1] and another[^2]
 
 ---
 
