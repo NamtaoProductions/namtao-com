@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:29:36.720+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.527+00:00","updated":"2025-01-01T18:30:10.819+00:00"}
 ---
 
 
@@ -7,9 +7,9 @@
 
 # 📔 Projects
 
-## 📼 No Boilerplate
+## 📼 ==No Boilerplate==
 > [!QUOTE] Videos
-> 
+>
 > - Watch on [YouTube](https://www.youtube.com/c/NoBoilerplate)
 > - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
 
