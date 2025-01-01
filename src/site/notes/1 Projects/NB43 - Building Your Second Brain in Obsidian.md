@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T21:51:36.751+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T21:53:10.018+00:00"}
 ---
 
 
@@ -596,7 +596,8 @@ Though the power required to write this is over [power_rating:: 9000],
 ```
 
 notes:
-test[^1]
+
+test[^1] and another [^2]
 - [ ] note that links smell like relational databases, but they're not quite, though you can usefully apply the rules of normalisation to them in a basic way
 
 ---
