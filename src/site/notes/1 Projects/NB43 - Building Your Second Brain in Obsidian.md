@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T21:53:40.116+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T21:55:03.306+00:00"}
 ---
 
 
@@ -600,12 +600,13 @@ notes:
 test[^1] and another [^2]
 - [ ] note that links smell like relational databases, but they're not quite, though you can usefully apply the rules of normalisation to them in a basic way
 
-[^1]: a footnote can these go anywhere?
-
 ---
 
-# References
+# Footnotes
 
+
+
+[^1]: a footnote can these go anywhere?
 [^2]: the second footnote
 
 ---
