@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-02T09:50:12.835+00:00","updated":"2025-01-02T21:55:10.129+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-03T11:23:45.471+00:00","updated":"2025-01-03T11:11:18.000+00:00"}
 ---
 
 
@@ -44,28 +44,35 @@ I made an exception in this case as the collector's offer simply could not be re
 [[1 Projects/The Phosphene Catalogue/Lot No. 8330\|Lot No. 8330]]. "[[1 Projects/The Phosphene Catalogue/Lot No. 8330\|Morgan Le Fey]]", [[Jacob Sprenger\|Jacob Sprenger]], c. 1496. A 3-volume set bound in leather.
 
 - [ ] what is a 1-off printing called?
-Published a year after the author's death, this one-of-a-kind collection represents a unique insight into the ==mind of the church in the 15C==
+Compiled in Strasbourg over the year after the author's death, this one-of-a-kind collection represents a unique insight into both peasant folklore and official Catholic Church demonology of the late 15C.
 
 Our client submitted the volumes a month ago, but due to the breadth of the work, it has taken some time to follow the paper trail of previous owners
 Frankly, most of my time this month has been taken up by simply READING the three volumes of this collection!
 
-- [ ] description, find reference image
+The leather bindings of each of the large books in the set are of identical size and construction: Dark brown leather with a large carved ivory window, inset on each of the front covers. 
+The bindings of the set are exquisite, and of a much higher and more consistent quality than the pages inside. Though Sprenger wrote nearly every page, these books were compiled by [[1 Projects/The Phosphene Catalogue/tpc morgan compiler\|tpc morgan compiler]], who describes himself in the short introduction to the first volume as a friend who wished to honour the work that occupied his friend Jacob's last years.
 
-The Reader may well have heard of the author, Sprenger, by his involvement with the infamous 1496 book, "Malleus Mallefacarum", known in English as "The Hammer of the Witches".
+The Reader may well have heard of the author, Jacob Sprenger, by association with the infamous 1496 book, "Malleus Mallefacarum", known in English as "The Hammer of Witches".
 
-> Sprenger was named along with Heinrich Kramer in the 1484 papal bull Summis desiderantes of Pope Innocent VIII and reprinted in the infamous Malleus Maleficarum. All editions after 1519 named Sprenger as Heinrich Kramer's co-author.
+However: Warrick Blackwood, our historian, told me, with not a small amount of indignation, that Sprenger had nothing to do with this "Bloody handbook of witch-burning" (as he called it). The _Malleus_ was written and published by Heinrich Kramer, and it was only in later printings, 33 years later, that Sprenger's name appeared as co-author. Given that Sprenger seems to have taken every opportunity to denounce Kramer and ban the book, this lends weight to Warrick's conclusion that Kramer used his rival's name to improve his own PR.
+This delightful fact reminds us, dear Reader, that what is old is new again, business never changes.
 
-I have forgotten more German than I ever learned, but with [[Guise German Dictionary\|Guise German Dictionary]] at my elbow, the late nights of study eventually bore fruit.
 
-Most Readers of the Catalogue will know of Morgan Le Fey from Arthurian legends. These Celtic stories evolved and changed over time, and, though it varies slightly depending on which version you read, by the 12C she has been established as King Arthur's supernatrual elder half-sister.
-It is certainly the case in the most well-known edition, Le Morte d'Arthur.
 
-This 3-volume collection represents one man's attempt to catalogue the history of the mythological
-figure, Morgan Le Fey: Her movements, actions, relationships, and nature.
+Though I have forgotten more German than I have ever learned, with [[Guise German Dictionary\|Guise German Dictionary]] at my elbow, my late nights of study eventually bore fruit.
+Most Readers of the Catalogue will know of Morgan Le Fey from Arthurian legends. These Celtic stories evolved and changed over time, and, though varying slightly depending on which version one reads, by the 12C she has been established in the canon as King Arthur's supernatural elder half-sister, such as in the well-known edition, "Le Morte d'Arthur".
 
-The first volume, Origins, discusses Morgan's history, before she met Arthur
+Sprenger's 3-volume collection represents one man's attempt to catalogue and redefine the history of the mythological Morgan: Her movements, actions, relationships, and nature.
 
-- jude reads german, of course
+- [ ] what are the actual german words for maiden, mother, crone
+
+- The first volume, "Mädchen", discusses Morgan's history before Arthurian 5th-century Britain.
+- The second, "Mutter" is given over to a fairly standard retelling of the Arthurian tales she appears in.
+- The final volume, "Großmutter" deviates wildly from established canon. In it, Sprenger details, with quite a hoard of evidence, Morgan Le Fey's influence in the centuries leading up to the contemporary, for his time, 13th Century.
+
+The first volume intregued me when I first read it a month ago, not only k
+
+- jude reads German, of course
 - malleus published in 1486
 
 - [ ] #milestone
@@ -161,6 +168,7 @@ OK, let me turn over this cassette.
 - [ ] Set up the Aldwick antagonist plot
 - [ ] make the tarot predictions come true
 - [ ] reveal the tags 'for your collection' are written by Aldwick
+    - aldwick drops in a gift for Morwenna, with the exact same brown card tag in pencil
 - [ ] Write Side B #milestone
 
 
