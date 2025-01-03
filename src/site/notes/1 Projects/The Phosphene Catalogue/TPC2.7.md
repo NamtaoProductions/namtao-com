@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-03T11:23:45.471+00:00","updated":"2025-01-03T14:02:19.927+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-03T11:23:45.471+00:00","updated":"2025-01-03T14:03:36.806+00:00"}
 ---
 
 
@@ -42,8 +42,6 @@ I made an exception in this case as the collector's offer simply could not be re
 ## Side A: Morgan Le Fey
 
 [[1 Projects/The Phosphene Catalogue/Lot No. 8330\|Lot No. 8330]]. "[[1 Projects/The Phosphene Catalogue/Lot No. 8330\|Morgan Le Fey]]", [[Jacob Sprenger\|Jacob Sprenger]], c. 1496. A 3-volume set bound in leather.
-
-- [ ] what is a 1-off printing called?
 
 Compiled in Strasbourg over the year after the author's death, this one-of-a-kind collection represents a unique insight into both peasant folklore and official Catholic Church demonology of the late 15C.
 
