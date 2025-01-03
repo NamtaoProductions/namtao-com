@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-03T11:23:45.471+00:00","updated":"2025-01-03T13:58:49.862+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-03T11:23:45.471+00:00","updated":"2025-01-03T14:02:19.927+00:00"}
 ---
 
 
@@ -50,7 +50,7 @@ Compiled in Strasbourg over the year after the author's death, this one-of-a-kin
 Our client submitted the volumes a month ago, but due to the breadth of the work, it has taken some time to follow the paper trail of previous owners
 Frankly, most of my time this month has been taken up by simply READING the three volumes of this collection!
 
-The leather bindings of each of the large books in the set are of identical size and construction: Dark brown leather with a large carved ivory window, inset on each of the front covers. 
+The leather bindings of each of the large books in the set are of identical size and construction: Dark brown leather with a large carved ivory window, inset on each of the front covers.
 The bindings of the set are exquisite, and of a much higher and more consistent quality than the pages inside. Though Sprenger wrote nearly every page, these books were compiled by [[1 Projects/The Phosphene Catalogue/tpc morgan compiler\|tpc morgan compiler]], who describes himself in the short introduction to the first volume as a friend who wished to honour the work that occupied his friend Jacob's last years.
 
 The Reader may well have heard of the author, Jacob Sprenger, by association with the infamous 1496 book, "Malleus Mallefacarum", known in English as "The Hammer of Witches".
@@ -60,23 +60,24 @@ This delightful fact reminds us, dear Reader, that what is old is new again, bus
 
 
 
-Though I have forgotten more German than I have ever learned, with [[Guise German Dictionary\|Guise German Dictionary]] at my elbow, my late nights of study eventually bore fruit.
+Though I have forgotten more German than I have ever learned, with [[1 Projects/The Phosphene Catalogue/TPC Guise German Dictionary\|TPC Guise German Dictionary]] at my elbow, my late nights of study eventually bore fruit.
 Most Readers of the Catalogue will know of Morgan Le Fey from Arthurian legends. These Celtic stories evolved and changed over time, and, though varying slightly depending on which version one reads, by the 12C she has been established in the canon as King Arthur's supernatural elder half-sister, such as in the well-known edition, "Le Morte d'Arthur".
 
 Sprenger's 3-volume collection represents one man's attempt to catalogue and redefine the history of the mythological Morgan: Her movements, actions, relationships, and nature.
 
-- [ ] what are the actual german words for maiden, mother, crone
+- [ ] what are the actual german words for maiden, mother, crone?
 
-- The first volume, "Mädchen", discusses Morgan's history before Arthurian 5th-century Britain.
-- The second, "Mutter" is given over to a fairly standard retelling of the Arthurian tales she appears in.
-- The final volume, "Großmutter" deviates wildly from established canon. In it, Sprenger details, with quite a hoard of evidence, Morgan Le Fey's influence in the centuries leading up to the contemporary, for his time, 13th Century.
+The first volume, "Mädchen", discusses Morgan's history before Arthurian 5th-century Britain.
+The second, "Mutter" is given over to a fairly standard retelling of the Arthurian tales she appears in.
+The final volume, "Großmutter" deviates wildly from established canon. In it, Sprenger details, with quite a hoard of evidence, Morgan Le Fey's influence in the centuries leading up to the contemporary, for his time, 13th Century.
 
 The first volume intregued me when I first read it a month ago, not only k
 
-- jude reads German, of course
-- malleus published in 1486
-
 - [ ] #milestone
+
+> [!NOTE] Notes
+> - jude reads German, of course
+> - malleus published in 1486
 
 ### Jude Has Read about how the Fey Are neither Good nor Bad, but Have Their Own Incomprehensible Machinations
 
