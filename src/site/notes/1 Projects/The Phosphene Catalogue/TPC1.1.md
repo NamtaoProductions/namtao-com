@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T19:52:12.712+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T20:18:57.342+00:00"}
 ---
 
 
-<p><span><h1 data-heading="2188 words" dir="auto">2188 words</h1></span></p>
+<p><span><h1 data-heading="2196 words" dir="auto">2196 words</h1></span></p>
 
 # Episode 1.1
 
@@ -230,22 +230,22 @@ Patron tiers:
 # Publishing Checklist
 
 ## Production
-- [ ] record midroll
-- [ ] record credits
-- [ ] Finalise theme music
-- [ ] set up welcome messages to patrons
-- [ ] Smooth out the d in provenance
-- [ ] find a better "and me"
-- [ ] use sigh at end at start
-- [ ] mid roll? Maybe not
-- [ ] fix transition to josephine
+- [ ] record midroll
+- [ ] record credits
+- [ ] Finalise theme music
+- [ ] set up welcome messages to patrons
+- [ ] Smooth out the d in provenance
+- [ ] find a better "and me"
+- [ ] use sigh at end at start
+- [ ] mid roll? Maybe not
+- [x] fix transition to josephine
 ## Earlier in the Week
 
-- [ ] Post audio w/ transcript to Patreon for all patrons
+- [x] Post audio w/ transcript to Patreon for all patrons
     - Early access this to monday (careful of american sundays)
-- [ ] Schedule podcast, with auto reposting to all socials (add transcript patreon link) `Mystery, FineArt, Painting, MentalHealth, AudioFiction, UKAudioFiction`
+- [x] Schedule podcast, with auto reposting to all socials (add transcript patreon link) `Mystery, FineArt, Painting, MentalHealth, AudioFiction, UKAudioFiction`
     - [x] Length OK?
-- [ ] Tweet episode synopsis and patreon reminder:
+- [x] Tweet episode synopsis and patreon reminder:
 
 ```
 Next episode:
@@ -258,7 +258,7 @@ Can't wait? Patrons of all levels can listen to the episode RIGHT NOW!
 
 ## Monday
 
-- [ ] Post masto update:
+- [x] Post masto update:
 
 ```
 📓 The latest issue has arrived:
@@ -273,10 +273,10 @@ https://www.patreon.com/posts/96692821
 #AudioFiction, #Mystery, #FineArt, #Painting, #MentalHealth, #UKAudioFiction
 ```
 
-- [ ] Boost the toot on masto
-- [ ] make low-fi video
-- [ ] Update video playlist
-- [ ] post on discord:
+- [x] Boost the toot on masto
+- [x] make low-fi video
+- [x] Update video playlist
+- [x] post on discord:
 
 ```md
 New episode out! 
@@ -284,5 +284,5 @@ Audio: https://www.spreaker.com/episode/1-1-we-see-light-where-others-see-only-d
 Transcript: https://www.patreon.com/posts/96692821
 ```
 
-- [ ] Post production notes to patreon, prefix `[production-notes]`
-- [ ] Post toot with production notes "Today's production update: {url}"
+- [x] Post production notes to patreon, prefix `[production-notes]`
+- [x] Post toot with production notes "Today's production update: {url}"
