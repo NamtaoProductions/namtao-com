@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:58:02.706+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T21:06:02.023+00:00"}
 ---
 
 
 
 
 
+
+
+
+---
 # Episode 2.1
 
 
@@ -30,7 +34,7 @@ There is a great deal I must show you.
 
 
 
-### [[1 Projects/The Phosphene Catalogue/Season 2/Lot No. 21848\|Lot No. 21848]]. "huijia" (回家), [[1 Projects/The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]], Painted during the Last Century of the Ming Dynasty. An 8' Vertically Rolled Ink Wash Painting, 2' Wide in Black Ink
+
 
 This beautiful example of minimal Far Eastern painting is available for viewing in [[1 Projects/The Phosphene Catalogue/The Pentire Room\|The Pentire Room]]. Please call our office and ask, *politely*, for Morwenna.
 
@@ -164,7 +168,7 @@ OK, let me turn over this cassette.
 
 ## Side B: Sirens
 
-### [[1 Projects/The Phosphene Catalogue/Season 2/Lot No. 23011\|Lot No. 23011]]. [[1 Projects/The Phosphene Catalogue/Season 2/Lot No. 23011\|"Sirens"]], [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Sarah Porter]] 1972, Oil on Canvas, no Frame
+
 
 I first had the pleasure of viewing [[1 Projects/The Phosphene Catalogue/Season 2/Lot No. 23011\|"Sirens"]] at the [[Brighton Guise Show\|Brighton Guise Show]]. (I forget which of the Lanes' basement galleries I found it in, my memory is filled with the crashing waves that this painting visited upon me)
 Indeed, when I first stood in front of it, I was overcome by the sound of the turbulent sea washing over me.
@@ -278,3 +282,99 @@ See you next time.
 
 
 
+# Production Diary
+
+- [x] write production diary
+
+# Publishing Checklist
+
+## Production
+
+- [x] Write #focus
+- [x] Edit #focus
+- [x] Record
+- [x] Produce
+
+## Earlier in the Week
+
+```md
+Featured in this fortnight's issue of the Catalogue:  
+"Huija", an ink wash painting by Li Zhen.
+"Sirens", an oil painting by Sarah Porter.
+
+The next episode available is available TODAY for subscribers: https://patreon.com/phosphenecatalogue
+  
+📓 Free transcript: https://www.patreon.com/posts/2-1-huijia-114567058
+🦣 Mastodon https://masto.namtao.com/@PhospheneCatalogue  
+🎙️ Recorded using a RODE NT-1 v5 USB in 32-bit float, edited with REAPER on Linux
+  
+🙏 CREDITS
+The voice of Jude Francis-Sharp is Wolfie Thorns
+The show is written and produced by Tris Oaten
+❤️ Thank you so much to everyone who supports us, but especially our Patreon Art Producers:
+- Stephen McCandless
+```
+
+- [x] Post audio w/ transcript to Patreon for all patrons
+    - Early access this to monday (careful of american sundays)
+- [x] Schedule podcast, with auto reposting to all socials (add transcript patreon link) `Mystery, FineArt, Painting, MentalHealth, AudioFiction, UKAudioFiction`
+    - Length OK?
+- [x] masto Post episode synopsis and patreon reminder:
+
+```
+🗓️ Episode 2.1 is due on Halloween.
+
+📼 The tape is labelled:
+Side A: Huijia 
+Side B: Sirens 
+
+Patrons of all levels can listen to the episode RIGHT NOW! ❤️ 
+https://www.patreon.com/posts/114567058
+```
+
+## Monday
+
+- [x] Post masto update:
+
+```md
+📓 The latest issue has arrived:
+"2.1 - Huijia and Sirens"
+
+🔊 Listen here or wherever you get your podcasts:
+https://www.spreaker.com/episode/2-1-huijia-sirens--62567481
+
+🗒️ Free transcript:
+https://www.patreon.com/posts/2-1-huijia-114567058
+
+❤ Patrons of all levels can listen to the NEXT episode RIGHT NOW! 
+https://www.patreon.com/posts/115091892
+
+#AudioFiction, #Mystery, #FineArt, #Painting, #MentalHealth, #UKAudioFiction
+```
+
+- [x] Boost the toot on masto
+- [x] Update video title
+- [x] Update video playlist
+- [x] post on discord:
+
+```md
+:tada: New episode out!
+
+# 2.X - [SIDE A] & [SIDE B]
+
+:loud_sound: Audio:
+[spreaker link]
+
+:notepad_spiral: Transcript:
+[patreon link]
+
+:youtube: Video for sharing:
+[youtube link]
+```
+
+- [x] cross-post to LT
+- [x] cross-post to MP
+- [x] Post production notes to patreon
+- [x] Post toot with production notes "Today's production update: {url}"
+
+---
