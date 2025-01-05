@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T21:06:02.023+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T21:06:22.744+00:00"}
 ---
 
 
@@ -54,7 +54,7 @@ My colleague [[1 Projects/The Phosphene Catalogue/Katherine Wilson-Baines\|Kathe
 
 Which I think is sublime, don't you?
 
-
+## Rossetti Thoughts
 
 
 
