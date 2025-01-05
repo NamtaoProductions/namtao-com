@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T21:33:29.089+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T21:33:54.980+00:00"}
 ---
 
 
@@ -28,7 +28,7 @@ There is a great deal I must show you.
 
 
 
- ---
+[[1 Projects/The Phosphene Catalogue/Season 2/Lot No. 21848\|Lot No. 21848]]. "huijia" (回家), [[1 Projects/The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]], Painted during the Last Century of the Ming Dynasty. An 8' Vertically Rolled Ink Wash Painting, 2' Wide in Black Ink
 
 This beautiful example of minimal Far Eastern painting is available for viewing in [[1 Projects/The Phosphene Catalogue/The Pentire Room\|The Pentire Room]]. Please call our office and ask, *politely*, for Morwenna.
 
