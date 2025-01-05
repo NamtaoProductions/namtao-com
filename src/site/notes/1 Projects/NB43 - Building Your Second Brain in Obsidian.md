@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-01T22:03:44.791+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-05T19:48:00.994+00:00"}
 ---
 
-
+[[No Boilerplate Home\|test alias]]
 
 
 ### Footnote Test
