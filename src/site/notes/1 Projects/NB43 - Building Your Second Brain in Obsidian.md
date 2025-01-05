@@ -5,7 +5,7 @@
 [[No Boilerplate Home\|test alias]]
 
 
-### Footnote Test
+
 
 Numbered footnotes are compatible with everything
 
@@ -24,7 +24,7 @@ The power required to write this is over [power_rating:: 9000]
 
 ---
 
-#### Obsidian Structure
+
 
 ```mermaid
 classDiagram
@@ -251,9 +251,9 @@ And we'll start with the curse of FOLDERS.
 
 # The Obsidian Triumvirate
 
-1. #### /FOLDERS/
-2. #### \#TAGS
-3. #### \[\[LINKS]]
+1. 
+2. 
+3. 
 
 notes:
 
@@ -273,7 +273,7 @@ notes:
 
 ![batman-breaking-rifle-weapon-of-the-enemy.png|300](/img/user/3%20Resources/Meta/attachments/batman-breaking-rifle-weapon-of-the-enemy.png)
 
-#### Friends Don't Let Friends Use Folders
+
 
 notes:
 
@@ -322,10 +322,10 @@ Folders contain no data for themselves, just a name, they can't represent text o
 
 ---
 
-### [bbc.co.uk/food/](https://bbc.co.uk/food/)
+
 
 # ⬇
-### [bbc.co.uk/food/==**index.html**==](https://bbc.co.uk/food/index.html)
+
 
 notes:
 The smoking gun that shows the compromise of folders is how we use them in web addresses.
@@ -354,7 +354,7 @@ Tags offer a little more flexibility.
 
 ## You Think You Know Tags?
 
-#### `#you/may/be/surprised`
+
 
 notes:
 
@@ -364,10 +364,10 @@ notes:
 
 ---
 
-### `#animal/dog/corgy/ein`
+
 - Just one good boy
 <br/>
-### `#animal/dog`
+
 - A lot of good boys
 
 notes:
