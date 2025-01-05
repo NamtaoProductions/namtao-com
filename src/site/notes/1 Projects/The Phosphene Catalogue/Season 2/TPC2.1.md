@@ -5,7 +5,7 @@
 
 
 
-
+#### Notes
 
 
 
@@ -34,7 +34,7 @@ There is a great deal I must show you.
 
 
 
-
+### [[1 Projects/The Phosphene Catalogue/Season 2/Lot No. 21848\|Lot No. 21848]]. "huijia" (回家), [[1 Projects/The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]], Painted during the Last Century of the Ming Dynasty. An 8' Vertically Rolled Ink Wash Painting, 2' Wide in Black Ink
 
 This beautiful example of minimal Far Eastern painting is available for viewing in [[1 Projects/The Phosphene Catalogue/The Pentire Room\|The Pentire Room]]. Please call our office and ask, *politely*, for Morwenna.
 
@@ -54,7 +54,7 @@ My colleague [[1 Projects/The Phosphene Catalogue/Katherine Wilson-Baines\|Kathe
 
 Which I think is sublime, don't you?
 
-
+##### Rossetti Thoughts
 
 
 
@@ -86,7 +86,7 @@ Which I think is sublime, don't you?
 > Thank you for _rescuing_ me.
 > I owe you my life.
 
-
+### Huijia Pt 2
 
 Hanging in [[1 Projects/The Phosphene Catalogue/The Pentire Room\|The Pentire Room]], "Huijia" is daunting.
 Occupying most of the vertical space on the wall, I believe it is best appreciated from afar (I think this of my own work, but that's for other reasons). Fight this instinct, reader, should you make an appointment to view this painting. The devil is in the details.
@@ -95,7 +95,7 @@ As with most examples of Ink Wash painting, most of the fabric is left raw and u
 The long and confident brushstrokes, that define the rolling mountain range, seem to only exist to frame the negative space between them.
 Look closely. What do you see hiding in the unpainted valleys and foothills?
 
-
+### Person Reveal
 
 There is a person depicted here in "Huijia".
 This surprises most viewers of the piece, it certainly did me.
@@ -125,7 +125,7 @@ I see a bundle of something at the figure's feet - provisions, perhaps, for thei
 
 This person is nearly home.
 
-
+### Water Depth Painting Description
 
 There is not a single mountain here in silhouette, as one might depict The Matterhorn. In this painting, we are shown layers of peaks that continue on, becoming less and less distinct, until the very air between us and them obscures the farthest from our sight.
 
@@ -182,7 +182,7 @@ We have appraised and sold a number of [[1 Projects/The Phosphene Catalogue/Sara
 
 I understand [[1 Projects/The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Aldwick]] welcomes fellow connoisseurs, but make sure to bring appropriate footwear, the floor around the painting is treacherous.
 
-
+### Sarah Porter Intregue
 
 No longer a newcomer to the scene, [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Miss Porter]]'s artwork may well be familiar to many of our readers.
 After stealing the show at The [[1 Projects/The Phosphene Catalogue/Season 2/Brighton Fringe Below\|Brighton Fringe Below]], and a notable appearance at the [[1 Projects/The Phosphene Catalogue/Season 2/Edinburgh Midnight Hall\|Edinburgh Midnight Hall]], she has now set up in London, at my [[1 Projects/The Phosphene Catalogue/Season 2/Mulberry Street Gallery\|gallery on Mulberry Street]].
@@ -200,7 +200,7 @@ Indeed, we are sharing the gallery space, and it has been most satisfying to wor
 >
 > Thank you, again.
 
-
+### Sirens Pt 2
 
 The composition of "Sirens" is of a solitary, jagged, rock, jutting out of the ocean in the bottom-right of the painting, on which are three slender sirens; beautiful mermaids wearing only seaweed and shells braided through their hair.
 As with nearly all of [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Miss Porter]]'s work, the subject here is the sea. Wide and imposing, the crests of the ocean swell made translucent by a solitary shaft of sunlight piercing the dark clouds.
@@ -212,7 +212,7 @@ Though I don't doubt the Artist's ability to draw a pleasing feminine form, she 
 The sirens' limbs are outstretched towards the centre of the painting, with hooked fingers, their sharp teeth bared, and even a raised fist from one highest up on the rock.
 Their eyes are wide and staring, they look furious, fearsome, or, perhaps... fearful?
 
-
+### Subject Reveal
 
 In my first viewing, as I stepped closer to the work, more detail was revealed.
 Taking care as I approached (the floor was slick with seawater), I was able to look closer.
@@ -245,7 +245,7 @@ It is easy to miss, as I had, initially.
 
 A hooked lance of metal punctures the dead siren, so perfectly aligned with the shaft of light piercing the wave above her that it is almost impossible to tell the two bright lines apart.
 
-
+### Finale
 
 The seawater that drips from "Sirens" canvas is stained by dark ink.
 The painting is not monochromatic.
@@ -281,4 +281,100 @@ See you next time.
 </div></div>
 
 
+# Private
+# Production Diary
 
+- [x] write production diary
+
+# Publishing Checklist
+
+## Production
+
+- [x] Write #focus
+- [x] Edit #focus
+- [x] Record
+- [x] Produce
+
+## Earlier in the Week
+
+```md
+Featured in this fortnight's issue of the Catalogue:  
+"Huija", an ink wash painting by Li Zhen.
+"Sirens", an oil painting by Sarah Porter.
+
+The next episode available is available TODAY for subscribers: https://patreon.com/phosphenecatalogue
+  
+📓 Free transcript: https://www.patreon.com/posts/2-1-huijia-114567058
+🦣 Mastodon https://masto.namtao.com/@PhospheneCatalogue  
+🎙️ Recorded using a RODE NT-1 v5 USB in 32-bit float, edited with REAPER on Linux
+  
+🙏 CREDITS
+The voice of Jude Francis-Sharp is Wolfie Thorns
+The show is written and produced by Tris Oaten
+❤️ Thank you so much to everyone who supports us, but especially our Patreon Art Producers:
+- Stephen McCandless
+```
+
+- [x] Post audio w/ transcript to Patreon for all patrons
+    - Early access this to monday (careful of american sundays)
+- [x] Schedule podcast, with auto reposting to all socials (add transcript patreon link) `Mystery, FineArt, Painting, MentalHealth, AudioFiction, UKAudioFiction`
+    - Length OK?
+- [x] masto Post episode synopsis and patreon reminder:
+
+```
+🗓️ Episode 2.1 is due on Halloween.
+
+📼 The tape is labelled:
+Side A: Huijia 
+Side B: Sirens 
+
+Patrons of all levels can listen to the episode RIGHT NOW! ❤️ 
+https://www.patreon.com/posts/114567058
+```
+
+## Monday
+
+- [x] Post masto update:
+
+```md
+📓 The latest issue has arrived:
+"2.1 - Huijia and Sirens"
+
+🔊 Listen here or wherever you get your podcasts:
+https://www.spreaker.com/episode/2-1-huijia-sirens--62567481
+
+🗒️ Free transcript:
+https://www.patreon.com/posts/2-1-huijia-114567058
+
+❤ Patrons of all levels can listen to the NEXT episode RIGHT NOW! 
+https://www.patreon.com/posts/115091892
+
+#AudioFiction, #Mystery, #FineArt, #Painting, #MentalHealth, #UKAudioFiction
+```
+
+- [x] Boost the toot on masto
+- [x] Update video title
+- [x] Update video playlist
+- [x] post on discord:
+
+```md
+:tada: New episode out!
+
+# 2.X - [SIDE A] & [SIDE B]
+
+:loud_sound: Audio:
+[spreaker link]
+
+:notepad_spiral: Transcript:
+[patreon link]
+
+:youtube: Video for sharing:
+[youtube link]
+```
+
+- [x] cross-post to LT
+- [x] cross-post to MP
+- [x] Post production notes to patreon
+- [x] Post toot with production notes "Today's production update: {url}"
+
+---
