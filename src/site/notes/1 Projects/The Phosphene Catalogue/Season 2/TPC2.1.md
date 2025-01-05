@@ -7,7 +7,7 @@
 
 ## Tasks
 
- directions/cues/explanations are inside double percentage comment marks, not to be spoken 
+
 
 # Episode 2.1
 
