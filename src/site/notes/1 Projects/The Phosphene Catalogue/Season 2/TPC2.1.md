@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:31:07.183+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:31:38.320+00:00"}
 ---
 
 
@@ -66,16 +66,16 @@ Which I think is sublime, don't you?
 >
 > I stood in the centre of the room, as close to the window as the sharply slanted roof would permit, with my large trunk containing all my possessions next to me.
 > Jo closed the door behind her, mentioning tea in the lounge in 10 minutes.
-
-
-
+>
+> 
+>
 > I thought I hated this house?
 > I *DID* hate this house!
 > But... standing there, it felt like home.
 > Why did it feel like home?
-
-
-
+>
+> 
+>
 > Morwenna, thank you for re-appointing me as curator. That's more understanding than I expected, given our parting on good, but, I thought, strictly professional terms.
 > Sometimes, in quiet moments in my Edinburgh box room in Melville street, after my studies were done for the day, I thought you were... ?angry when I handed you my resignation. There was something in your face that I can't describe.
 >
