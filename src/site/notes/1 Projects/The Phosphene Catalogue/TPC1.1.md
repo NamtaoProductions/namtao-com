@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T19:50:27.121+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T19:51:16.997+00:00"}
 ---
 
 
-<p><span><h1 data-heading="2185 words" dir="auto">2185 words</h1></span></p>
+<p><span><h1 data-heading="2188 words" dir="auto">2188 words</h1></span></p>
 
 # Episode 1.1
 
