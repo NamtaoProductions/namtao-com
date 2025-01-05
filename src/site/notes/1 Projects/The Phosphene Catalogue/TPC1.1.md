@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T19:17:49.040+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T19:17:53.331+00:00"}
 ---
 
 
@@ -234,7 +234,6 @@ Patron tiers:
 - [ ] record credits
 - [ ] Finalise theme music
 - [ ] set up welcome messages to patrons
-
 - [ ] Smooth out the d in provenance
 - [ ] find a better "and me"
 - [ ] use sigh at end at start
