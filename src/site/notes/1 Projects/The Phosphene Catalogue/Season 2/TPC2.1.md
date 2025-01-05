@@ -1,27 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:14:56.739+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:20:05.956+00:00"}
 ---
 
 
 
 
 ## Tasks
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-## Hook
-
-- [x] Sarah moves in to [[1 Projects/The Phosphene Catalogue/Edith MacKinley\|Edith MacKinley]]'s old room in [[1 Projects/The Phosphene Catalogue/Rossetti House\|Rossetti House]]
-- [x] Jude doesn't know Morwenna is supernatural
-- [ ] The Catalogue and its staff and denizens is vast and unexplored, and Jude keeps getting lost
-- [x] [[1 Projects/The Phosphene Catalogue/Katherine Wilson-Baines\|Katherine Wilson-Baines]]is introduced
-
-
-</div></div>
-
 
  directions/cues/explanations are inside double percentage comment marks, not to be spoken 
 
