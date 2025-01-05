@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.539+00:00","updated":"2025-01-01T10:11:30.000+00:00"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.539+00:00","updated":"2025-01-05T19:13:25.538+00:00"}
 ---
 
 
@@ -8,7 +8,9 @@
 
 The Phosphene Catalogue is a 1970s mail-order catalogue, specialising in those items that cannot be sold at other auction houses: Paintings of lost origin, statues that are too grotesque for public display, and books better left unread...
 
-Continue your journey into the [[1 Projects/The Phosphene Catalogue/Entrance Lobby\|Entrance Lobby]].
+- Read the [[Phosphene Catalogue Back Issues\|Phosphene Catalogue Back Issues]]
+- Continue your journey into the [[1 Projects/The Phosphene Catalogue/Entrance Lobby\|Entrance Lobby]].
+- Meet the [[1 Projects/The Phosphene Catalogue/TPC Character Index\|TPC Character Index]]
 
 # Inspiration
 
