@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:29:49.463+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:31:07.183+00:00"}
 ---
 
 
@@ -46,7 +46,9 @@ My colleague [[1 Projects/The Phosphene Catalogue/Katherine Wilson-Baines\|Kathe
 
 > [!QUOTE]
 > Sights you are seeking
+>
 > from your path they are fleeing
+>
 > their winter has come.
 
 Which I think is sublime, don't you?
