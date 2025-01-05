@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-05T19:48:00.994+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-05T21:11:23.361+00:00"}
 ---
 
 [[No Boilerplate Home\|test alias]]
@@ -111,33 +111,7 @@ classDiagram
 ```
 ---
 
- style Animal fill:#f9f,stroke:#333,stroke-width:4px
-# Notes
 
-- [ ] emergent structure vs pre-defined folders
-- [ ] "most organizational notetaking decisions can be made up front, once and for all, by deciding on one system." how to take smart notes
-- [ ] simply: use tags where you might use folders, then at least they're part of the files, not part of the filesystem (and therefore less easy to edit)
-- [ ] Don't use tags for metadata, just grouping/categorising
-- [ ] Optimise your data for use, not storage. querying, project plugin
-- [ ] Golden Rule: The work and the metadata happen in the SAME FILE, don't context switch
-- [ ] Central thesis: Markdown, with a few necessary exceptions, is the source of truth
-    - absolute links, or no folders
-- Folders/Tags/Links should be benchmarked.
-    - Using projects for my whole vault of 3k files is crazy slow, whereas tags and folders are indexed. links are not indexed
-- [ ] use [[1 Projects/The HOME method  Humanize, organize, mechanize, execute, with Obsidian, how I replace trello, cal, todoist, etc with Obsidian\|The HOME method  Humanize, organize, mechanize, execute, with Obsidian, how I replace trello, cal, todoist, etc with Obsidian]]
-- [ ] use [[1 Projects/Obsidian is a brain platform. Like in SPIN\|Obsidian is a brain platform. Like in SPIN]]
-- [ ] prioritise plugins that keep the markdown portable, like the kanban plugin
-
-thoughts from Potti:
-Oh, i nearly forgot regarding you Obsidian Video:  
-If its not published yet, might some inspiration from someone that uses it, but not closely to its full potential:  
-1. Using Tags instead of folders: good methods, where to start, which plugins help, which are too much?  
-2. Aliases and how to apply them - often i find there is a problem when writing text and creating nodes, to have a nice readable text and some advice for fluent working.  
-3. Keep it simple, which plugins to avoid that can be replaced by some small CSS.  
-4. Maybe a dive into LaTeX, if interesting.  
-5. How to make Headings more distinguishable. In reading mode its possible with CSS pseudo elements, but editing modes ist kinda resticted. Bars under the heading and curved bars create a non relaxing appearance, too many different colours also. If colors are too close to eachother it looks good, but then hard to distinguish :D
-
----
 
 # ~~"Research"~~
 
