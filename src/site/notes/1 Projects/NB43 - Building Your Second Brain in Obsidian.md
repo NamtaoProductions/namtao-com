@@ -5,7 +5,7 @@
 [[No Boilerplate Home\|test alias]]
 
 
- 
+ ---
 
 Numbered footnotes are compatible with everything
 
@@ -24,7 +24,7 @@ The power required to write this is over [power_rating:: 9000]
 
 ---
 
- 
+ ---
 
 ```mermaid
 classDiagram
@@ -225,9 +225,9 @@ And we'll start with the curse of FOLDERS.
 
 # The Obsidian Triumvirate
 
-1.  
-2.  
-3.  
+1.  ---
+2.  ---
+3.  ---
 
 notes:
 
@@ -247,7 +247,7 @@ notes:
 
 ![batman-breaking-rifle-weapon-of-the-enemy.png|300](/img/user/3%20Resources/Meta/attachments/batman-breaking-rifle-weapon-of-the-enemy.png)
 
- 
+ ---
 
 notes:
 
@@ -296,10 +296,10 @@ Folders contain no data for themselves, just a name, they can't represent text o
 
 ---
 
- 
+ ---
 
 # ⬇
- 
+ ---
 
 notes:
 The smoking gun that shows the compromise of folders is how we use them in web addresses.
@@ -328,7 +328,7 @@ Tags offer a little more flexibility.
 
 ## You Think You Know Tags?
 
- 
+ ---
 
 notes:
 
@@ -338,10 +338,10 @@ notes:
 
 ---
 
- 
+ ---
 - Just one good boy
 <br/>
- 
+ ---
 - A lot of good boys
 
 notes:
