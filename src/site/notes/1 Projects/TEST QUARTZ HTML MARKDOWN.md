@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/test-quartz-html-markdown/","noteIcon":"","created":"2025-01-05T19:54:02.696+00:00","updated":"2025-01-05T20:04:55.209+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/test-quartz-html-markdown/","noteIcon":"","created":"2025-01-05T19:54:02.696+00:00","updated":"2025-01-05T20:05:48.795+00:00"}
 ---
 
-
-<p><span><h1 data-heading="2167 words" dir="auto">2167 words</h1></span></p>
 
 # Episode 1.1
 
