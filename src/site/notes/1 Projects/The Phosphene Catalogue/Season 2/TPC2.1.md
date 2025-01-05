@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:20:05.956+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T20:29:49.463+00:00"}
 ---
 
 
@@ -44,13 +44,14 @@ Huijia, Warrick informs me, translates approximately to "Homecoming", the feelin
 The painting is of an abstract mountainous landscape, with a 3-line Chinese poem written at the top-right, with a large red seal as the artist's mark.
 My colleague [[1 Projects/The Phosphene Catalogue/Katherine Wilson-Baines\|Katherine Wilson-Baines]], attempting to retain the syllabic symmetry of the original, has translated the poem into a haiku, which reads:
 
-> sights you are seeking
+> [!QUOTE]
+> Sights you are seeking
 > from your path they are fleeing
-> their winter has come
+> their winter has come.
 
 Which I think is sublime, don't you?
 
-### Rosetti Thoughts
+
 
 
 
@@ -82,7 +83,7 @@ Which I think is sublime, don't you?
 > Thank you for _rescuing_ me.
 > I owe you my life.
 
-### Huijia Pt 2
+
 
 Hanging in [[1 Projects/The Phosphene Catalogue/The Pentire Room\|The Pentire Room]], "Huijia" is daunting.
 Occupying most of the vertical space on the wall, I believe it is best appreciated from afar (I think this of my own work, but that's for other reasons). Fight this instinct, reader, should you make an appointment to view this painting. The devil is in the details.
@@ -91,7 +92,7 @@ As with most examples of Ink Wash painting, most of the fabric is left raw and u
 The long and confident brushstrokes, that define the rolling mountain range, seem to only exist to frame the negative space between them.
 Look closely. What do you see hiding in the unpainted valleys and foothills?
 
-### Person Reveal
+
 
 There is a person depicted here in "Huijia".
 This surprises most viewers of the piece, it certainly did me.
@@ -121,7 +122,7 @@ I see a bundle of something at the figure's feet - provisions, perhaps, for thei
 
 This person is nearly home.
 
-### Water Depth Painting Description
+
 
 There is not a single mountain here in silhouette, as one might depict The Matterhorn. In this painting, we are shown layers of peaks that continue on, becoming less and less distinct, until the very air between us and them obscures the farthest from our sight.
 
@@ -178,7 +179,7 @@ We have appraised and sold a number of [[1 Projects/The Phosphene Catalogue/Sara
 
 I understand [[1 Projects/The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Aldwick]] welcomes fellow connoisseurs, but make sure to bring appropriate footwear, the floor around the painting is treacherous.
 
-### Sarah Porter Intregue
+
 
 No longer a newcomer to the scene, [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Miss Porter]]'s artwork may well be familiar to many of our readers.
 After stealing the show at The [[1 Projects/The Phosphene Catalogue/Season 2/Brighton Fringe Below\|Brighton Fringe Below]], and a notable appearance at the [[1 Projects/The Phosphene Catalogue/Season 2/Edinburgh Midnight Hall\|Edinburgh Midnight Hall]], she has now set up in London, at my [[1 Projects/The Phosphene Catalogue/Season 2/Mulberry Street Gallery\|gallery on Mulberry Street]].
@@ -196,7 +197,7 @@ Indeed, we are sharing the gallery space, and it has been most satisfying to wor
 >
 > Thank you, again.
 
-### Sirens Pt 2
+
 
 The composition of "Sirens" is of a solitary, jagged, rock, jutting out of the ocean in the bottom-right of the painting, on which are three slender sirens; beautiful mermaids wearing only seaweed and shells braided through their hair.
 As with nearly all of [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Miss Porter]]'s work, the subject here is the sea. Wide and imposing, the crests of the ocean swell made translucent by a solitary shaft of sunlight piercing the dark clouds.
@@ -208,7 +209,7 @@ Though I don't doubt the Artist's ability to draw a pleasing feminine form, she 
 The sirens' limbs are outstretched towards the centre of the painting, with hooked fingers, their sharp teeth bared, and even a raised fist from one highest up on the rock.
 Their eyes are wide and staring, they look furious, fearsome, or, perhaps... fearful?
 
-### Subject Reveal
+
 
 In my first viewing, as I stepped closer to the work, more detail was revealed.
 Taking care as I approached (the floor was slick with seawater), I was able to look closer.
@@ -241,7 +242,7 @@ It is easy to miss, as I had, initially.
 
 A hooked lance of metal punctures the dead siren, so perfectly aligned with the shaft of light piercing the wave above her that it is almost impossible to tell the two bright lines apart.
 
-### Finale
+
 
 The seawater that drips from "Sirens" canvas is stained by dark ink.
 The painting is not monochromatic.
