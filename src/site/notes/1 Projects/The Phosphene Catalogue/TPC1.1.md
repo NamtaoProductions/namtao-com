@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T19:17:53.331+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T19:25:15.767+00:00"}
 ---
 
 
@@ -68,7 +68,7 @@ There is no raised edge of finely detailed tin inlay, nor has it been poured int
 
 Running my thumbs carefully over the tin reveals no imperfection whatsoever - the artist, whoever that may be (and we have tried unsuccessfully to hunt them down), has somehow painted the stone with tin, and it has soaked into the very rock.
 
-This lost technique is only extant in a few statues, due to most examples being destroyed in the dissolution of the Monsateries.
+This lost technique is only extant in a few statues, due to most examples being destroyed in the dissolution of the Monasteries.
 
 I would advise interested buyers to contact their banking agent and provide a letter of credit so that the transfer arrangements may be made in short order after the closing of bidding.
 As usual in these high-value items, we make our in-house master jeweller available to those clients wishing to pay in gold.
