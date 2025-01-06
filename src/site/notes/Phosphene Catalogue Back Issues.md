@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/phosphene-catalogue-back-issues/","noteIcon":"","created":"2025-01-06T07:07:27.420+00:00","updated":"2025-01-05T19:16:47.000+00:00"}
+{"dg-publish":true,"permalink":"/phosphene-catalogue-back-issues/","noteIcon":"","created":"2025-01-06T07:07:27.420+00:00","updated":"2025-01-06T08:32:59.072+00:00"}
 ---
+
+
+> [!INFO] How to read the scripts
+>  Normal text, like this, are read by the narrator (typically [[1 Projects/The Phosphene Catalogue/Jude Francis-Sharp\|Jude Francis-Sharp]]).
+>> Quoted sections, like this, are asides that the narrator does not intend to be printed, and can be more casual, perhaps muttered or spoken slightly off-mic (loudly, or if quiet is needed, close to the mic).
 
 # Season 1
 1. [[1 Projects/The Phosphene Catalogue/TPC1.1\|TPC1.1]]
