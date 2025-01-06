@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-7/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.685+00:00","updated":"2025-01-06T08:29:55.595+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-7/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.685+00:00","updated":"2025-01-06T08:34:09.503+00:00"}
 ---
 
 # Episode 1.7
@@ -372,6 +372,6 @@ Thank you all so much, stay tuned for updates, and listen out for the postman, T
 
 # Footnotes
 
-[^1] "I fell asleep like you fall in love" line with apologies to John Green.
+[^1]: "I fell asleep like you fall in love" line with apologies to John Green.
 
  
