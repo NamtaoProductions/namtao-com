@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-3/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:33.168+00:00","updated":"2025-01-06T07:34:17.922+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-3/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:33.168+00:00","updated":"2025-01-06T07:40:19.719+00:00"}
 ---
 
 
 # Episode 1.3
-test
  
 
 > Tape click
@@ -282,50 +281,4 @@ Say hi on Mastodon @phosphenecatalogue@SOMEWHERE, and check our website, <https:
 Thank you so much for listening,
 See you next time.
 
-# Publishing Checklist
-
-## Production
-
- 
- 
-
-## Earlier in the Week
-
- 
-    - Early access this to monday (careful of american sundays)
- 
-     
-
-## Monday
-
- 
-
-    📓 The latest issue has arrived:
-    "1.3 - Tapestry & Modern Art"
-
-    🔊 Listen here or wherever you get your podcasts:
-    https://www.spreaker.com/episode/1-3-tapestery-modern-art--58692554
-
-    🗒️ Free transcript:
-    https://www.patreon.com/posts/1-3-tapestery-97651268
-
-    #AudioFiction, #Mystery, #FineArt, #Painting, #MentalHealth, #UKAudioFiction
-
- 
- 
- 
- 
-
-    :tada: New episode out!
-# 1.3 - Tapestry & Modern Art
-    
-    :loud_sound: Audio: https://www.spreaker.com/episode/1-3-tapestery-modern-art--58692554
-    
-    :notepad_spiral: Transcript: https://www.patreon.com/posts/1-3-tapestery-97651268
-    
-    :youtube: Video for sharing: https://youtu.be/duLryUV6OGI
-
- 
- 
- 
  
