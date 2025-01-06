@@ -1,13 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-7/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.685+00:00","updated":"2025-01-06T08:26:39.189+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-7/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.685+00:00","updated":"2025-01-06T08:28:29.895+00:00"}
 ---
 
 
-<p><span><h1 data-heading="3265 words" dir="auto">3265 words</h1></span></p>
-
 # Episode 1.7
-
-# Script
 
 > Tape click
 
@@ -105,7 +101,7 @@ The dream drug was like nothing any doctor has prescribed to me before.
 The glinting silver inside it, I could FEEL moving up my arm, like pins and needles, like my arm was falling asleep before the rest of me.
 It reached my shoulder, then my neck, and I shook my head gently as a powerful shudder of fatigue washed over me, pushing my eyes closed.
 
-I fell asleep like you fall in love.
+I fell asleep like you fall in love.[^1]
 Slowly, then all at once.
 
 The last thing I remember was Nelson placing blankets gently over us, and switching on the tape recorder.
@@ -159,6 +155,7 @@ Right.
 
 Let's finish listening to the last cassette in the box, shall we?
 
+---
 ## Side B: Endings
 
 The sunlight hurt my eyes, giving me an immediate, but short-lived headache.
@@ -374,18 +371,8 @@ Thank you all so much, stay tuned for updates, and listen out for the postman, T
 
 ---
 
- ---
+# Footnotes
 
-Main text to be read by narrator
-
-> Asides to be muttered or spoken off-mic (loudly, or if quiet is needed, close to the mic)
-
-
-
----
-
-# Description Notes
-
-"I fell asleep like you fall in love" line with apologies to John Green.
+[^1] "I fell asleep like you fall in love" line with apologies to John Green.
 
  
