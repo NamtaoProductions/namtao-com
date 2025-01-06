@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-5/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.652+00:00","updated":"2025-01-06T08:23:59.860+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-5/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.652+00:00","updated":"2025-01-06T08:24:35.023+00:00"}
 ---
 
-test4
+test5
 # Episode 1.5
 
 > Tape click
@@ -254,73 +254,4 @@ https://phosphenecatalogue.com
 Thank you so much for listening,
 See you next time.
 
-# Publishing Checklist
-
-## Production
-
- 
- 
- 
-
-## Earlier in the Week
-
- 
-    - Early access this to monday (careful of american sundays)
- 
-     
- 
-
-```
-🗓️ Episode 1.5 is due on March the 14th.
-
-📼 The tape is labelled:
-Side A: The Book
-Side B: Iron Coin
-
-Patrons of all levels can listen to the episode RIGHT NOW! ❤️ 
-https://www.patreon.com/posts/1-5-book-iron-98986981
-```
-
-## Monday
-
- 
-```md
-📓 The latest issue has arrived:
-"1.5 - The Book & Iron Coin"
-
-🔊 Listen here or wherever you get your podcasts:
-https://www.spreaker.com/episode/1-5-the-book-iron-coin--58777179
-
-🗒️ Free transcript:
-https://www.patreon.com/posts/1-5-book-iron-98986981
-
-❤ Patrons of all levels can listen to the NEXT episode RIGHT NOW! 
-https://www.patreon.com/posts/1-6-undercroft-100345597
-
-#AudioFiction, #Mystery, #FineArt, #Painting, #MentalHealth, #UKAudioFiction
-```
-
- 
- 
- 
- 
-
-```md
-:tada: New episode out!
-
-# 1.5 - The Book & Iron Coin
-
-:loud_sound: Audio:
-https://www.spreaker.com/episode/1-5-the-book-iron-coin--58777179
-
-:notepad_spiral: Transcript:
-https://www.patreon.com/posts/1-5-book-iron-98986981
-
-:youtube: Video for sharing:
-https://youtu.be/wN4_gLjblbI
-```
-
- 
- 
- 
  
