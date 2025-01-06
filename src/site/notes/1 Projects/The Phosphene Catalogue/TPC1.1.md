@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2024-12-28T19:12:15.604+00:00","updated":"2025-01-05T21:31:06.625+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:33.568+00:00","updated":"2025-01-06T07:22:05.061+00:00"}
 ---
 
 
@@ -209,78 +209,4 @@ patreon.com/phosphenecatalogue
 Thank you so much for listening,
 See you next time.
 
----
-
-Patron tiers:
-1.  (2/mo)
-    - Making the podcast possible
-    - Behind-the-scenes content
-    - Private `#patrons-of-the-arts` discord channel
-2. Journeyman of the Arts (5/mo)
-    - Digital downloads
-    - Early access
-    - Exclusive content
-3. Master of the Arts (10/mo)
-    - Anything from our store, shipped to you as a welcome gift
-4. Art Producer (50/mo)
-    - Shoutout in the credits in every episode
-
-# Publishing Checklist
-
-## Production
-- [ ] record midroll
-- [ ] record credits
-- [ ] Finalise theme music
-- [ ] set up welcome messages to patrons
-- [ ] Smooth out the d in provenance
-- [ ] find a better "and me"
-- [ ] use sigh at end at start
-- [ ] mid roll? Maybe not
-- [x] fix transition to josephine
-## Earlier in the Week
-
-- [x] Post audio w/ transcript to Patreon for all patrons
-    - Early access this to monday (careful of american sundays)
-- [x] Schedule podcast, with auto reposting to all socials (add transcript patreon link) `Mystery, FineArt, Painting, MentalHealth, AudioFiction, UKAudioFiction`
-    - [x] Length OK?
-- [x] Tweet episode synopsis and patreon reminder:
-
-```
-Next episode:
-Side A:
-Side B:
-
-Can't wait? Patrons of all levels can listen to the episode RIGHT NOW!
-(link here)
-```
-
-## Monday
-
-- [x] Post masto update:
-
-```
-📓 The latest issue has arrived:
-"1.1 - We See Light Where Others See Only Darkness"
-
-🔊 Listen here or wherever you get your podcasts: 
-https://www.spreaker.com/episode/1-1-we-see-light-where-others-see-only-darkness--58348580
-
-📓 Free transcript:
-https://www.patreon.com/posts/96692821
-
-#AudioFiction, #Mystery, #FineArt, #Painting, #MentalHealth, #UKAudioFiction
-```
-
-- [x] Boost the toot on masto
-- [x] make low-fi video
-- [x] Update video playlist
-- [x] post on discord:
-
-```md
-New episode out! 
-Audio: https://www.spreaker.com/episode/1-1-we-see-light-where-others-see-only-darkness--58348580
-Transcript: https://www.patreon.com/posts/96692821
-```
-
-- [x] Post production notes to patreon, prefix `[production-notes]`
-- [x] Post toot with production notes "Today's production update: {url}"
+ 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-05T08:48:49.346+00:00","updated":"2025-01-05T21:33:54.980+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-06T07:07:34.826+00:00","updated":"2025-01-05T21:33:54.000+00:00"}
 ---
 
 
@@ -187,7 +187,7 @@ Indeed, we are sharing the gallery space, and it has been most satisfying to wor
 >
 > I really enjoyed our late-night chats around the hearth in your basement room.
 > It was so kind of you to offer the room to me. I did need a safe house, after the trouble I got myself into in Edinburgh.
-> I must have looked such a MESS when I arrived - [[1 Projects/The Phosphene Catalogue/Warrick Blackwood\|Warrick Blackwood]], [[1 Projects/The Phosphene Catalogue/Katherine Wilson-Baines\|Katherine Wilson-Baines]], and [[1 Projects/The Phosphene Catalogue/Season 2/Mina Olivia Copland\|Mina Olivia Copland]] saw the bruises, I think. I wasn't in any state to hide them as you guided me through the building down to this room.
+> I must have looked such a MESS when I arrived  
 >
 > It was almost exactly as I had imagined: Roaring fire, cosy bed, and I'm furious you kept [[1 Projects/The Phosphene Catalogue/Season 2/Nimue\|Nimue]] secret all this time. She slept at the foot of the bed, and I couldn't persuade her to leave the room during the week I was there.
 > (Though I occasionally lost her, or perhaps, she lost herself, in the way black cats often can)

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-5/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.652+00:00","updated":"2025-01-06T08:24:35.023+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-5/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.652+00:00","updated":"2025-01-06T08:24:50.544+00:00"}
 ---
 
-test5
 # Episode 1.5
 
 > Tape click

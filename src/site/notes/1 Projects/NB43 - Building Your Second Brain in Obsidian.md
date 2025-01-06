@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-01T13:49:18.540+00:00","updated":"2025-01-05T21:11:23.361+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-06T07:07:30.892+00:00","updated":"2025-01-05T21:11:23.000+00:00"}
 ---
 
 [[No Boilerplate Home\|test alias]]
@@ -251,7 +251,7 @@ notes:
 
 notes:
 
-- [ ] (TODO expand upon "they are the weapon of the enemy, we do not need them we will not use them")
+ 
 
 - The core problem between folders and obsidian, is they do not play well with all other parts of the system that you will build
 - they feel like a legacy feature that works very differently than all others:
@@ -460,7 +460,7 @@ Go check out [[how to bake a cake]], it's [fun: 9000]
 
 # I'm not _thinking_
 
-- [ ] Luhman quote here
+ 
 
 notes:
 
@@ -491,7 +491,7 @@ Thinking -->|improves| Writing --> |improves| Thinking
 
 notes:
 
-- [ ] fix the formatting
+ 
 
 - Links are the most flexible, powerful, and therefore complex, part of the system.
 - But you must be cautious.
@@ -505,10 +505,10 @@ notes:
 ```markdown
 This is an [[Video]] that I'm drafting,
 about the three very clearly related topics of 
-- [[3 Resources/Research/Inbox/Coffee#Introduction To Europe\|Coffee#Introduction To Europe]], 
-- [[The French Revolution\|The French Revolution]],
-- [[The Mona Lisa]] and,
-- [[Wifi\|Wifi]].
+ 
+ 
+ 
+ 
 
 The power required to write this is 
 over [power_rating:: 9000],
@@ -519,7 +519,7 @@ notes:
 
 - contrast
     - `[[wikilinks|name]]`, (don't work in gh markdown)
-    - [ ] check that the `|name` syntax works in gh wiki
+     
     - `[[absolute/wikiliks|name]]` (don't work in gh wiki),
     - `[friendly name](markdown/links)` (honestly, maybe this is the best option, when are wikilinks better than markdown links?)
 
@@ -538,7 +538,7 @@ Thriving trade brought many goods, including coffee, from the Ottoman Empire to 
 ```markdown
 This is an [[Video]] that I'm drafting,
 about the three very clearly related topics of 
-- [[Coffee#Introduction To Europe]], 
+ 
 ```
 
 notes:
@@ -550,7 +550,7 @@ notes:
 ## Named Links
 
 ```md
-What began with [cause:: [[Coffee#Introduction To Europe]]] led directly to [effect:: [[The French Revolution]]], and then, naturally, to [effect:: [[Wifi]]]
+What began with [cause:: [[3 Resources/Research/Inbox/Coffee#Introduction To Europe\|Coffee#Introduction To Europe]]] led directly to [effect:: [[The French Revolution\|The French Revolution]]], and then, naturally, to [effect:: [[Wifi\|Wifi]]]
 ```
 
 What began with [cause:: [[Coffee#Introduction To Europe]]] led directly to [effect:: [[The French Revolution]]], and then, naturally, to [effect:: [[Wifi]]]
@@ -579,7 +579,7 @@ Though the power required to write this is over [power_rating:: 9000],
 
 notes:
 
-- [ ] note that links smell like relational databases, but they're not quite, though you can usefully apply the rules of normalisation to them in a basic way
+ 
 
 ---
 
@@ -594,28 +594,28 @@ notes:
 
 ## Writing Tasks
 
-- [ ] write outline #milestone
-- [ ] write first half #milestone
-- [ ] write patreon midroll #milestone
-- [ ] write second half #milestone
-- [ ] write final draft #milestone
-- [ ] make slides #milestone
-- [ ] edit video
-- [ ] publish patreon video
-- [ ] make feedback edits
-- [ ] publish final video
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 # Publishing
 
 ## YT Video
 
-- [ ] Post video with early access to next Monday
-- [ ] ERRATA setup
-- [ ] Pinned videos added
-- [ ] Endscreen added
-- [ ] length OK?
-- [ ] Audio sync'd?
-- [ ] 3840 × 2160
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ```md
 ❤️ If you would like to support what I do, I have set up a patreon here: https://www.patreon.com/noboilerplate - Thank you!  
@@ -662,9 +662,9 @@ And to all my patrons!
 #some, #good#, #tags
 ```
 
-- [ ] Boost the toot on masto
-- [ ] Update video playlist
-- [ ] post on #latest-episode-lt discord:
+ 
+ 
+ 
 
 # META
 
@@ -677,7 +677,7 @@ And to all my patrons!
 </style>
 
 ## Mermaid Diagram Fixes
-- [ ] are these needed?
+ 
 <style>
 .reveal .mermaid svg {
   min-width: 100%;

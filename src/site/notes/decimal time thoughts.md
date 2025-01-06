@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/decimal-time-thoughts/","tags":["zettle/fleeting"],"noteIcon":"","created":"2025-01-02T10:03:19.774+00:00","updated":"2025-01-02T19:11:54.468+00:00"}
+{"dg-publish":true,"permalink":"/decimal-time-thoughts/","tags":["zettle/fleeting"],"noteIcon":"","created":"2025-01-03T07:22:18.362+00:00","updated":"2025-01-02T19:11:54.000+00:00"}
 ---
 
 
