@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-02T06:48:55.399+00:00","updated":"2025-01-01T21:48:13.000+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-02T06:48:55.399+00:00","updated":"2025-01-07T09:09:09.952+00:00"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
@@ -10,7 +10,7 @@
 > [!NBVIDEO] Fast Technical Videos
 >
 > - Watch on [YouTube](https://www.youtube.com/c/NoBoilerplate)
-> - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
+> - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@noboilerplate) for updates
 
 ## 🛰️ Lost Terminal
 > [!SUCCESS] Hopepunk Scifi Podcast
@@ -18,14 +18,14 @@
 >
 > - Watch on [YouTube](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=2&t=0s)
 > - Listen at [LostTerminal.com](https://lostterminal.com/)
-> - Follow [@LostTerminal@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
+> - Follow [@LostTerminal@namtao.com](https://namtao.com/@lostterminal) for updates
 
 ## 🌕 Modem Prometheus
 > [!QUESTION] Contemporary Urban Fantasy Podcast
 > _Modem Prometheus is an anthology podcast of urban folktales. This is where any roundabout could be a gateway to Faerie. Where trains that don’t exist run from the foundations of skyscrapers. Where there is no deeper dark than the shadows between buildings. The transmitter mast is calling. Come home._
 >
 > - Listen at [ModemPrometheus.com](https://www.modemprometheus.com/)
-> - Follow [@ModemPrometheus@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
+> - Follow [@ModemPrometheus@namtao.com](https://namtao.com/@modemprometheus) for updates
 
 ## 🖼️ The Phosphene Catalogue
 > [!EXAMPLE] 1970s Magical Realism Podcast
