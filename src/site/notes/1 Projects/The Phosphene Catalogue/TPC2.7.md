@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-07T10:23:31.536+00:00","updated":"2025-01-07T16:09:35.643+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-07T10:23:31.536+00:00","updated":"2025-01-07T16:10:37.656+00:00"}
 ---
 
 
@@ -268,9 +268,7 @@ You know what IS burned into my memory? Your dress made of leaves, constantly gr
 
 ALSO, If you really are King Arthur's sister, apprentice of Merlin, Immortal queen of Avalon - what are you doing running an auction house in east London?
 There are things going on here in this building that I don't yet understand.
-What else is in your the Vaults?
-
----
+What else is in your Vaults?
 
 
  
