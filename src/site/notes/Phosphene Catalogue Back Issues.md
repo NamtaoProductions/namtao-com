@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/phosphene-catalogue-back-issues/","noteIcon":"","created":"2025-01-06T07:07:27.420+00:00","updated":"2025-01-06T08:32:59.072+00:00"}
+{"dg-publish":true,"permalink":"/phosphene-catalogue-back-issues/","noteIcon":"","created":"2025-01-06T08:53:58.328+00:00","updated":"2025-01-07T16:13:29.940+00:00"}
 ---
 
 
@@ -13,8 +13,8 @@
 3. [[1 Projects/The Phosphene Catalogue/TPC1.3\|TPC1.3]]
 4. [[1 Projects/The Phosphene Catalogue/TPC1.4\|TPC1.4]]
 5. [[1 Projects/The Phosphene Catalogue/TPC1.5\|TPC1.5]]
-6. [[1 Projects/The Phosphene Catalogue/TPC1.6\|TPC1.6]]
-7. [[1 Projects/The Phosphene Catalogue/TPC1.7\|TPC1.7]]
+6. Unpublished
+7. Unpublished
 
 # Season 2
 1. [[1 Projects/The Phosphene Catalogue/Season 2/TPC2.1\|TPC2.1]]
@@ -22,5 +22,5 @@
 3. [[1 Projects/The Phosphene Catalogue/Season 2/TPC2.3\|TPC2.3]]
 4. [[1 Projects/The Phosphene Catalogue/Season 2/TPC2.4\|TPC2.4]]
 5. [[1 Projects/The Phosphene Catalogue/Season 2/TPC2.5\|TPC2.5]]
-6. [[1 Projects/The Phosphene Catalogue/Season 2/TPC2.6\|TPC2.6]]
+6. [[1 Projects/The Phosphene Catalogue/TPC2.6\|TPC2.6]]
 7. [[1 Projects/The Phosphene Catalogue/TPC2.7\|TPC2.7]]
