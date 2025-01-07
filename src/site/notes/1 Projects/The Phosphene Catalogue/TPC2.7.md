@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-07T10:23:31.536+00:00","updated":"2025-01-07T15:00:21.639+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-07T10:23:31.536+00:00","updated":"2025-01-07T16:08:37.621+00:00"}
 ---
 
 
@@ -47,10 +47,10 @@ Compiled in Strasbourg during the year after the author's death, this one-of-a-k
 
 Our client submitted the volumes a month ago, but due to the breadth of the work, it has taken some time to follow the paper trail of previous owners.
 Frankly, most of my time this month has been taken up in simply READING the three volumes of this collection!
-Though I have forgotten more German than I have ever learned, with a copy of [[TODO TPC Guise German Dictionary\|TODO TPC Guise German Dictionary]] at my elbow, my late nights of study eventually bore fruit.
+Though I have forgotten more German than I have ever learned, with a copy of [[1 Projects/The Phosphene Catalogue/Walpurga Press German-English Dictionary\|Walpurga Press German-English Dictionary]] at my elbow, my late nights of study eventually bore fruit.
 
 The covers of each of the large books in the set are of identical size and construction: Dark brown leather with a large carved ivory window inset on each of the fronts.
-The binding of the collection are exquisite, and of a much higher and more consistent quality than the pages inside. Though Sprenger wrote nearly every page, these books were compiled by [[1 Projects/The Phosphene Catalogue/tpc morgan compiler\|tpc morgan compiler]], who describes himself in the short introduction to the first volume as a friend who wished to honour the work that occupied Jacob's last years.
+The binding of the collection are exquisite, and of a much higher and more consistent quality than the pages inside. Though Sprenger wrote nearly every page, these books were compiled by [[1 Projects/The Phosphene Catalogue/A. Mentelin\|A. Mentelin]], an unknown contemporary who describes themselves in the short introduction to the first volume as a friend who wished to honour the work that occupied Jacob's last years.
 
 Readers may well have heard of the author, Jacob Sprenger, by association with the infamous book, "Malleus Mallefacarum", known in English as "The Hammer of Witches" and published in the same year.
 
@@ -129,6 +129,8 @@ OK, let me turn over this cassette.
 
 
 
+ 
+
 [[1 Projects/The Phosphene Catalogue/Lot No. 23012\|Lot No. 23012]]. [[1 Projects/The Phosphene Catalogue/Lot No. 23012\|"Mariners' Risk"]], [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Sarah Porter]] 1976, Oil on Canvas, driftwood composite frame.
 
 Readers may recall that [[1 Projects/The Phosphene Catalogue/Season 2/Lot No. 23011\|"Sirens"]] (the last painting auctioned by the artist in issue #[[1 Projects/The Phosphene Catalogue/Season 2/TPC2.1\|15021]]) came with a caution to bring waterproof footwear due to the signature damp conditions her paintings manifest.
@@ -165,8 +167,6 @@ Beyond the white-sailed ships are hints of dark clouds, just over the horizon, b
 >
 > She put me - us - into this painting: Two women sharing their work and perhaps (seeing a hint of their fingers curled together) their lives, in simple, comfortable, happiness...
 > MORWENNA I'VE GOT TO -
-
- 
 
 > Tape click
 
