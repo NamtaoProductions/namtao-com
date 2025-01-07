@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-07T10:23:31.536+00:00","updated":"2025-01-07T14:57:25.934+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-07T10:23:31.536+00:00","updated":"2025-01-07T15:00:21.639+00:00"}
 ---
 
 
@@ -208,7 +208,6 @@ Beyond the white-sailed ships are hints of dark clouds, just over the horizon, b
 > She stepped forward onto the soft hallway carpet, her flat door clicking closed behind her, curled a hand around mine and kissed me.
 > "Apology accepted." She said, and I realised everything I just told her didn't have to be true, with the right person.
 
- 
  
 
  ---
