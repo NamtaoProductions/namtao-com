@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T08:53:58.329+00:00","updated":"2025-01-08T20:38:12.641+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T08:53:58.329+00:00","updated":"2025-01-08T20:41:40.207+00:00"}
 ---
 
-test
 # Episode 1.1
 
 # Script
