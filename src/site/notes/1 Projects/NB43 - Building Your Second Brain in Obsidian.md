@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-06T07:07:30.892+00:00","updated":"2025-01-05T21:11:23.000+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-07T17:27:16.154+00:00","updated":"2025-01-08T14:17:38.176+00:00"}
 ---
 
 [[No Boilerplate Home\|test alias]]
@@ -550,7 +550,7 @@ notes:
 ## Named Links
 
 ```md
-What began with [cause:: [[3 Resources/Research/Inbox/Coffee#Introduction To Europe\|Coffee#Introduction To Europe]]] led directly to [effect:: [[The French Revolution\|The French Revolution]]], and then, naturally, to [effect:: [[Wifi\|Wifi]]]
+What began with [cause:: [[3 Resources/Research/Readitlater/Coffee#Introduction To Europe\|Coffee#Introduction To Europe]]] led directly to [effect:: [[The French Revolution\|The French Revolution]]], and then, naturally, to [effect:: [[Wifi\|Wifi]]]
 ```
 
 What began with [cause:: [[Coffee#Introduction To Europe]]] led directly to [effect:: [[The French Revolution]]], and then, naturally, to [effect:: [[Wifi]]]
