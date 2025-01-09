@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-07T17:27:16.154+00:00","updated":"2025-01-08T14:17:38.176+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-09T07:38:16.594+00:00","updated":"2025-01-08T14:17:38.000+00:00"}
 ---
 
 [[No Boilerplate Home\|test alias]]
