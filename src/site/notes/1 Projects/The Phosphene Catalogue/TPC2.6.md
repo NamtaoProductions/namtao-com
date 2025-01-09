@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-6/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-01T09:50:44.505+00:00","updated":"2025-01-09T08:22:27.516+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-6/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-01T09:50:44.505+00:00","updated":"2025-01-09T08:22:43.332+00:00"}
 ---
 
 
@@ -274,6 +274,7 @@ See you next time.
 </div></div>
 
 
+# Private
 # Production Diary
 
 - todo
