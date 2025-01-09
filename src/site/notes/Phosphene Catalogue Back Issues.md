@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/phosphene-catalogue-back-issues/","noteIcon":"","created":"2025-01-07T17:27:15.015+00:00","updated":"2025-01-07T16:15:57.000+00:00"}
+{"dg-publish":true,"permalink":"/phosphene-catalogue-back-issues/","noteIcon":"","created":"2025-01-08T07:19:23.238+00:00","updated":"2025-01-09T08:23:31.491+00:00"}
 ---
 
 > [!INFO] How to read the scripts
@@ -20,5 +20,5 @@
 3. [[1 Projects/The Phosphene Catalogue/Season 2/TPC2.3\|TPC2.3]]
 4. [[1 Projects/The Phosphene Catalogue/Season 2/TPC2.4\|TPC2.4]]
 5. [[1 Projects/The Phosphene Catalogue/Season 2/TPC2.5\|TPC2.5]]
-6. unpublished
+6. [[1 Projects/The Phosphene Catalogue/TPC2.6\|TPC2.6]]
 7. unpublished
