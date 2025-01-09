@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-09T09:42:54.390+00:00","updated":"2025-01-09T12:15:01.512+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-09T09:42:54.390+00:00","updated":"2025-01-09T12:18:15.291+00:00"}
 ---
 
 
@@ -11,6 +11,7 @@
 ## Introduction
 
 Welcome to The Phosphene Catalogue no. # 15027
+
 _We see light where others see only darkness._
 
 Though we try to avoid lots being sold or otherwise removed ahead of public display and auction, there are occasions when this is not possible.
@@ -74,7 +75,7 @@ The three volumes in the set are titled, "Mädchen", Mutter, and "Zauberin".
 
 The first volume, "Mädchen", discusses Morgan's history before her appearance in 5th-century Arthurian Britain.
 The second, "Mutter" is given over to a fairly standard retelling of the Arthurian tales she appears in.
-Howeve, the final volume, "Zauberin" deviates wildly from established canon. In it, Sprenger details, with quite a hoard of circumstantial evidence, Morgan's influence in the centuries leading up to and including the contemporary, at the time, 13th Century.
+However, the final volume, "Zauberin" deviates wildly from established canon. In it, Sprenger details, with quite a hoard of circumstantial evidence, Morgan's influence in the centuries leading up to and including the contemporary, at the time, 13th Century.
 Or, at least, the influence of this person who called themselves Morgan.
 
 > Are you getting all this, Morwenna? This is the book that I told you about last week that has opened my eyes, somewhat.
@@ -126,7 +127,7 @@ OK, let me turn over this cassette.
 ## Side B: Mariners' Risk
 
 
-[[1 Projects/The Phosphene Catalogue/Lot No. 23012\|Lot No. 23012]]. [[1 Projects/The Phosphene Catalogue/Lot No. 23012\|"Mariners' Risk"]], [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Sarah Porter]] 1976, Oil on Canvas, driftwood composite frame.
+[[1 Projects/The Phosphene Catalogue/Lot No. 23012\|Lot No. 23012]]. [[1 Projects/The Phosphene Catalogue/Lot No. 23012\|"Mariners' Risk"]], [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Sarah Porter]], 1976, Oil on Canvas, driftwood composite frame.
 
 Readers may recall that [[1 Projects/The Phosphene Catalogue/Season 2/Lot No. 23011\|"Sirens"]] (the last painting auctioned by the artist in issue #[[1 Projects/The Phosphene Catalogue/Season 2/TPC2.1\|15021]]) came with a caution to bring waterproof footwear due to the signature damp conditions her paintings manifest.
 In a break with this norm, Mariners' Risk has left my office mercifully dry this week!
@@ -311,8 +312,8 @@ I hope the old dragon doesn't bite my head off.
 
 
 The Phosphene Catalogue is a NAMTAO production.
-The voice of Jude Francis-Sharp is Wolfie Thorns,
-The show is written and produced by me, Tris Oaten.
+- The voice of Jude Francis-Sharp is Wolfie Thorns,
+- The show is written and produced by me, Tris Oaten.
 
 For links to our merch store, the music, and mastodon account, check out the podcast's website,
 <https://phosphenecatalogue.com>
@@ -321,6 +322,7 @@ patreon.com/phosphenecatalogue
 
 Thank you so much for listening,
 See you next time.
+
 
 </div></div>
 

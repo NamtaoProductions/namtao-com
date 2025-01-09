@@ -261,8 +261,8 @@ There is blood in the water.
 
 
 The Phosphene Catalogue is a NAMTAO production.
-The voice of Jude Francis-Sharp is Wolfie Thorns,
-The show is written and produced by me, Tris Oaten.
+- The voice of Jude Francis-Sharp is Wolfie Thorns,
+- The show is written and produced by me, Tris Oaten.
 
 For links to our merch store, the music, and mastodon account, check out the podcast's website,
 <https://phosphenecatalogue.com>
@@ -271,6 +271,7 @@ patreon.com/phosphenecatalogue
 
 Thank you so much for listening,
 See you next time.
+
 
 </div></div>
 
