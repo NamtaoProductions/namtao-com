@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-09T07:36:44.925+00:00","updated":"2025-01-09T08:27:48.600+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-09T09:42:54.391+00:00","updated":"2025-01-09T08:27:48.000+00:00"}
 ---
 
 
@@ -14,7 +14,7 @@ _We see light where others see only darkness._
 My name is Jude Francis-Sharp, and it is an honour, reader, to return to the position of Curator of the Collection.
 
 Long-time subscribers may know me already from my previous work at The Catalogue, or perhaps my latest exhibition in my small Whitechapel gallery in [[1 Projects/The Phosphene Catalogue/Season 2/Mulberry Street Gallery\|Mulberry St]].
-I studied in Paris at the [[4 Archive/readwise-backup/Articles/Académie De La Grande Chaumière\|Académie De La Grande Chaumière]], lower campus. Where, in addition to my own weekly subscription to The Catalogue, I often whiled away the time between my studies browsing the archive of previous issues, dating back as far as the turn of the century.
+I studied in Paris at the [[Académie De La Grande Chaumière\|Académie De La Grande Chaumière]], lower campus. Where, in addition to my own weekly subscription to The Catalogue, I often whiled away the time between my studies browsing the archive of previous issues, dating back as far as the turn of the century.
 
 I must thank and congratulate my colleague, and the Catalogue's resident historian, [[1 Projects/The Phosphene Catalogue/Warrick Blackwood\|Warrick Blackwood]] for his work during my absence. I read each issue of The Catalogue with great interest and amusement during my recent time away "studying" in Edinburgh.
 

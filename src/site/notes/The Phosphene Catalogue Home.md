@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue-home/","tags":["index"],"noteIcon":"","created":"2025-01-06T07:07:27.419+00:00","updated":"2025-01-05T19:16:31.000+00:00"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.539+00:00","updated":"2025-01-05T19:16:31.850+00:00"}
 ---
 
 

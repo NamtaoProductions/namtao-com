@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-7/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T07:07:31.685+00:00","updated":"2025-01-06T08:40:09.524+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-1-7/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T08:53:58.331+00:00","updated":"2025-01-06T08:40:09.000+00:00"}
 ---
 
 # Episode 1.7
