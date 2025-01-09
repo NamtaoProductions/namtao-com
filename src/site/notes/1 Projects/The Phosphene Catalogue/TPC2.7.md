@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-09T09:42:54.390+00:00","updated":"2025-01-09T12:10:20.860+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/the-phosphene-catalogue/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","created":"2025-01-09T09:42:54.390+00:00","updated":"2025-01-09T12:15:01.512+00:00"}
 ---
 
 
@@ -123,7 +123,7 @@ OK, let me turn over this cassette.
 </div></div>
 
 
-## Side B: Painting that Represents Taking a risk
+## Side B: Mariners' Risk
 
 
 [[1 Projects/The Phosphene Catalogue/Lot No. 23012\|Lot No. 23012]]. [[1 Projects/The Phosphene Catalogue/Lot No. 23012\|"Mariners' Risk"]], [[1 Projects/The Phosphene Catalogue/Sarah Porter\|Sarah Porter]] 1976, Oil on Canvas, driftwood composite frame.
