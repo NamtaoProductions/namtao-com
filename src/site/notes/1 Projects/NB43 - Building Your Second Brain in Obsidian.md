@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T13:09:12.954+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T13:10:19.935+00:00"}
 ---
 
 
@@ -21,7 +21,7 @@ Not only do I end the day without cutting down any trees, but if this continues,
 
 ---
 
-> [!WARNING] Yak Shaving
+> [!DANGER] Yak Shaving
 > 1. Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
 >    **BUT ALSO**
 > 3. The actually useless activity you do that appears important when you are consciously or unconsciously procrastinating about a larger problem.
