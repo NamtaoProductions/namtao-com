@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T13:03:49.905+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T13:09:12.954+00:00"}
 ---
 
 
@@ -21,9 +21,10 @@ Not only do I end the day without cutting down any trees, but if this continues,
 
 ---
 
-> [!ERROR] Yak Shaving
-> 1. Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; **BUT ALSO**
-> 2. The actually useless activity you do that appears important when you are consciously or unconsciously procrastinating about a larger problem.
+> [!WARNING] Yak Shaving
+> 1. Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
+>    **BUT ALSO**
+> 3. The actually useless activity you do that appears important when you are consciously or unconsciously procrastinating about a larger problem.
 
 <div class="notes">
 I seems related to the problem, that in programming circles we call Yak Shaving.
@@ -63,7 +64,6 @@ The result is this hedonic treadmill of:
 
 Hoping each time that your next leap will be the leap home.
 Or something like that.
-
 </div>
 
 ---
