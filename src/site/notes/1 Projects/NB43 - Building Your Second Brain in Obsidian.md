@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T12:54:23.930+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T12:58:36.613+00:00"}
 ---
 
-
-> A WIP video fusing advanced obsidian use
 
  
 
@@ -147,5 +145,8 @@ But unlike many other guides you may find, I'm also going to tell you what I wis
 And we'll start with the curse of FOLDERS.
 
 </div>
+
+> [!CAUTION] WIP
+> I'm still working on this video script, the rest is private until published.
 
  
