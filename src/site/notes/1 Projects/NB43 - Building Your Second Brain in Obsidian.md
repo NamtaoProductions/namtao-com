@@ -1,50 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T12:59:42.887+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T13:03:49.905+00:00"}
 ---
 
 
  
-
-```mermaid
-classDiagram
-    Videos <|-- Obsidian_Video
-    Projects <|-- Learn_Mandarin
-    Projects <|-- Videos
-    Projects <|-- Family 
-    Family <|-- Mums_Birthday
-    Videos <|-- Vim_Everywhere
-    Home<|-- Projects
-    
-    class Home {
-        A single root node 
-        with no parent
-    }
-    class Projects {
-        All projects link here
-    }
-    class Videos {
-        All videos link here
-    }
-    class Family {
-        All videos link here
-    }
-    
-    namespace planning-projects {
-        class Vim_Everywhere {
-        }
-        
-        class Learn_Mandarin{
-        }
-    }
-    namespace active-projects {
-        class Obsidian_Video {
-        }
-        class Mums_Birthday{
-        }
-    }
-```
-
----
 
 # ~~"Research"~~
 
@@ -76,6 +35,7 @@ Which is when you're doing:
 Preparing your tools is not the job, doing the job is the job.
 And it's hard, sometimes, to tell which you're really working on.
 </div>
+
 ---
 
 # Tasks
