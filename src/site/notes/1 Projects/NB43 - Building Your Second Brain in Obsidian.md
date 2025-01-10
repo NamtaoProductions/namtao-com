@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T12:42:39.689+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T12:49:08.667+00:00"}
 ---
 
 
 > A WIP video fusing advanced obsidian use
-
 
  
 
@@ -14,8 +13,7 @@
 
 # ~~Procrastination~~
 
-
-<div class="notes"> notes:
+<div class="notes">
 
 Like many of us, I suffer from a sickness.
 
@@ -29,7 +27,7 @@ Not only do I end the day without cutting down any trees, but if this continues,
 > 1. Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; **BUT ALSO**
 > 2. The actually useless activity you do that appears important when you are consciously or unconsciously procrastinating about a larger problem.
 
-notes:
+<div class="notes">
 I seems related to the problem, that in programming circles we call Yak Shaving.
 
 Which is when you're doing:
@@ -38,7 +36,7 @@ Which is when you're doing:
  
 Preparing your tools is not the job, doing the job is the job.
 And it's hard, sometimes, to tell which you're really working on.
-
+</div>
 ---
 
 # Tasks
@@ -47,15 +45,15 @@ And it's hard, sometimes, to tell which you're really working on.
 
 # PKM
 
-notes:
+<div class="notes">
 This illness tends to effect even highly motivated and productive people:
 They know they have to be organised, so they use organisational apps, sites, and services to do so.
-
+</div>
 ---
 
 ![todo-apps-android-police-2023.png](/img/user/3%20Resources/Meta/attachments/todo-apps-android-police-2023.png)
 
-notes:
+<div class="notes">
 But new apps are being published all the time, and the existing ones release new features all the time to keep up with the pace of progress.
 Not to mention when apps disappear or REMOVE features.
 
@@ -67,17 +65,22 @@ The result is this hedonic treadmill of:
 Hoping each time that your next leap will be the leap home.
 Or something like that.
 
+</div>
+
 ---
 
 ![obsidian-screenshot-nb43-slides-writing-research-timeline.png](/img/user/3%20Resources/Meta/attachments/obsidian-screenshot-nb43-slides-writing-research-timeline.png)
+
 calendar, tasks, research, *this video* - everything
 
-notes:
+<div class="notes">
 
 I have finally solved this problem for myself with Obsidian.
 And not because it happened to have all the features I want today, but because it allows me to trivially build all future features I may need tomorrow.
 
 In this video (which is not sponsored by Obsidian), I'm going to show you how to build your custom-made second brain that fits your individual first brain perfectly by using Obsidian's core Triumvirate of features.
+
+</div>
 
 ---
 
@@ -86,10 +89,10 @@ In this video (which is not sponsored by Obsidian), I'm going to show you how to
 # _Knowledge Platform_
 ## Not a Wiki
 
-notes:
+<div class="notes">
 
 Obsidian isn't a personal wiki, it's a general purpose knowledge platform that allows you to build whatever systems you want,
-the default application of which is a personal wiki.
+the *default application of which* is a personal wiki.
 
 You can build anything you want on top of the simple framework I'll teach you today:
 - A todo system filtered by contexts, dates, priorities, and projects
@@ -114,12 +117,13 @@ And we'll start with the curse of FOLDERS.
 2.  ---
 3.  ---
 
-notes:
+<div class="notes">
 
 - The three primary organisational pillars inside obsidian, folders, tags, and links, all function to build hierarchies.
 - They all function as some kind of organisation to naviage our second brain and find information and relationships quickly
 - The primary difference between these three, is how rigid you need your hierarchy to be
 
+</div>
 ---
 
 # 📂
@@ -134,7 +138,7 @@ notes:
 
  ---
 
-notes:
+<div class="notes">
 
  
 
@@ -152,7 +156,7 @@ Folders don't exist in our brains.
 They are a physical limitation of paper.
 
 And there is no paper here.
-
+</div>
 ---
 
 ## Physical Metaphor
@@ -171,7 +175,7 @@ And there is no paper here.
 
 Left: Xerox Star, 1981. Right: Mac OSX, 2023
 
-notes:
+<div class="notes">
 
 The physical metaphor of named folders that encapsulate files, was useful in the early days of computing as a system every office worker already found easy.
 
@@ -179,6 +183,7 @@ But is the easy choice always the right choice?
 
 Folders contain no data for themselves, just a name, they can't represent text or images or anything, they can only act as a container for files that do.
 
+</div>
 ---
 
  ---
@@ -186,7 +191,7 @@ Folders contain no data for themselves, just a name, they can't represent text o
 # ⬇
  ---
 
-notes:
+<div class="notes">
 The smoking gun that shows the compromise of folders is how we use them in web addresses.
 
 What should be displayed when viewing the food folder, here?
@@ -203,6 +208,7 @@ Tags offer a little more flexibility.
 
 5:00
 
+</div>
 ---
 
 # Part 2
@@ -215,12 +221,13 @@ Tags offer a little more flexibility.
 
  ---
 
-notes:
+<div class="notes">
 
 - tags are good for categorisation,
 - more flexible than folders, a note can be tagged by many tags.
 - But it's more than that, in obsidian, there is the concept a of parent and child tags
 
+</div>
 ---
 
  ---
@@ -229,19 +236,20 @@ notes:
  ---
 - A lot of good boys
 
-notes:
+<div class="notes">
 
 In this example, searching for the whole tag only gets one dog, but searching for just animal/dog gets all dogs, no matter what breed or name they have.
 
 In addition to placing tags in the body of your note, they can also go in the properties, which is an extremely exciting feature that deserves a detour to explain.
 
+</div>
 ---
 
 # 🦆
 
 # Duck Typing
 
-notes:
+<div class="notes">
 
 I don't use tags as much as other people do.
 Tags are a last resort for me: I mostly don't care if a note is categorised as a duck, I care if it quacks like one.
@@ -268,7 +276,7 @@ Hello world, Arctica isn't playing nice.
 TABLE WHERE start <= date(today)
 ```
 
-notes:
+<div class="notes">
 
 I don't need to tag this document as a project, I, Tris, know that any note that has a scheduled date and a due date IS a project.
 So instead of redundnatly putting this note in a projects folder, or tagging it as a project, I just trust that any system I build, like this simple dataview query here,
@@ -295,7 +303,7 @@ This is an [[Article]] I'm drafting about the three very clearly related topics 
 The power required to write this is over [power_rating:: 9000]
 ```
 
-notes:
+<div class="notes">
 
 - tags go in the properties
 - but the properties can contain any data
@@ -312,7 +320,7 @@ notes:
 table from #dogs
 ```
 
-notes:
+<div class="notes">
 
 - note
 
@@ -347,7 +355,7 @@ Go check out [[how to bake a cake]], it's [fun: 9000]
 
  
 
-notes:
+<div class="notes">
 
 - I think on the page, or virtual page.
 - TODO: Explain my working memory challenges
@@ -374,7 +382,7 @@ Thinking -->|improves| Writing --> |improves| Thinking
 
 # \[\[LINKS]]]
 
-notes:
+<div class="notes">
 
  
 
@@ -400,7 +408,7 @@ over [power_rating:: 9000],
 and I have [days:: 30] to complete it
 ```
 
-notes:
+<div class="notes">
 
 - contrast
     - `[[wikilinks|name]]`, (don't work in gh markdown)
@@ -426,7 +434,7 @@ about the three very clearly related topics of
  
 ```
 
-notes:
+<div class="notes">
 
 - note
 
@@ -440,7 +448,7 @@ What began with [cause:: [[3 Resources/Research/Readitlater/Coffee#Introduction 
 
 What began with [cause:: [[Coffee#Introduction To Europe]]] led directly to [effect:: [[The French Revolution]]], and then, naturally, to [effect:: [[Wifi]]]
 
-notes:
+<div class="notes">
 
 - note
 
@@ -462,7 +470,7 @@ This is an [[Article]] I'm drafting about the three very clearly related topics 
 Though the power required to write this is over [power_rating:: 9000], 
 ```
 
-notes:
+<div class="notes">
 
  
 
