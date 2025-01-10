@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T12:50:44.131+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T12:53:33.110+00:00"}
 ---
 
 
@@ -45,7 +45,7 @@ And it's hard, sometimes, to tell which you're really working on.
 
 # PKM
 
-> [!QUOTE]
+> [!NOTE]
 > This illness tends to effect even highly motivated and productive people:
 > They know they have to be organised, so they use organisational apps, sites, and services to do so.
 
