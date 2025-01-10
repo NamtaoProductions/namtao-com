@@ -1,115 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-08T14:17:38.000+00:00"}
+{"dg-publish":true,"permalink":"/1-projects/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-10T12:42:39.689+00:00"}
 ---
 
-[[No Boilerplate Home\|test alias]]
 
+> A WIP video fusing advanced obsidian use
 
- ---
-
-Numbered footnotes are compatible with everything
-
-test[^1] and another[^2]
-
----
-
-## Blockquote Syntax?
-
-```markdown
-# Title
-# antag
-
-The power required to write this is over [power_rating:: 9000]
-```
-
----
-
- ---
-
-```mermaid
-classDiagram
-    Videos <|-- Obsidian_Video
-    Projects <|-- Learn_Mandarin
-    Projects <|-- Videos
-    Projects <|-- Family 
-    Family <|-- Mums_Birthday
-    Videos <|-- Vim_Everywhere
-    Home<|-- Projects
-    
-    class Home {
-        A single root node 
-        with no parent
-    }
-    class Projects {
-        All projects link here
-    }
-    class Videos {
-        All videos link here
-    }
-    class Family {
-        All videos link here
-    }
-    
-    namespace planning-projects {
-        class Vim_Everywhere {
-        }
-        
-        class Learn_Mandarin{
-        }
-    }
-    namespace active-projects {
-        class Obsidian_Video {
-        }
-        class Mums_Birthday{
-        }
-    }
-```
-
----
-
-```mermaid
-classDiagram
-    Videos.md <|-- Obsidian_Video
-    Projects <|-- Learn_Mandarin
-    Projects <|-- Videos.md
-    Projects <|-- Mums_Birthday
-    Projects <|-- Mythical_Rust_Video
-    Home<|-- Projects
-    
-    class Home {
-        A single root node 
-        with no parent
-    }
-    class Projects {
-        up: [[Home]]
-    }
-    class Videos.md {
-        up: [[Projects]]
-    }
-    
-    namespace planning-projects {
-        class Mythical_Rust_Video {
-            up: [[Projects]]
-            tags: planning-projects
-        }
-        
-        class Learn_Mandarin{
-            up: [[Projects]]
-            tags: planning-projects
-        }
-    }
-    namespace active-projects {
-        class Obsidian_Video {
-            up: [[Videos.md]]
-            tags: active-projects
-        }
-        class Mums_Birthday{
-            up: [[Projects]]
-            tags: active-projects
-        }
-    }
-```
----
 
  
 
@@ -119,18 +14,9 @@ classDiagram
 
 # ~~Procrastination~~
 
-<div class="info">
 
-This is a bad thing that you should pay attention to.
+<div class="notes"> notes:
 
-Warning blocks should be used sparingly in documentation, to avoid "warning
-fatigue," where people are trained to ignore them because they usually don't
-matter for what they're doing.
-
-</div>
-
-notes:
-<div class="notes">
 Like many of us, I suffer from a sickness.
 
 I don't know what it's called, but left to my natural inclinations, I seem to spend all my time sharpening my metaphorical axes instead of using them.
@@ -215,9 +101,8 @@ All these uses, and more that you could imagine and then build yourself, can liv
 But unlike many other guides you may find, I'm also going to tell you what I wish people had told me when I got started: There are features of obsidian that you SHOULDN'T use.
 
 And we'll start with the curse of FOLDERS.
-1:30  
 
----
+ 
 
 # Public Domain Videos
 
