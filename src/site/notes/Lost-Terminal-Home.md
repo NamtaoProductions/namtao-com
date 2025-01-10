@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lost-terminal-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.538+00:00","updated":"2025-01-01T15:07:30.385+00:00"}
+{"dg-publish":true,"permalink":"/lost-terminal-home/","tags":["index"],"noteIcon":"","created":"2025-01-10T11:32:32.617+00:00","updated":"2025-01-10T11:41:45.744+00:00"}
 ---
 
 
@@ -8,4 +8,22 @@
 
 A hard sci-fi hopepunk podcast following the journey of a little satellite trying to understand what has happened after Earth stops returning his calls.
 
-There's a signal coming from Svalbard! [[1 Projects/Lost Terminal/Season 15.0/Svalbard (Northern Relay)\|tune in]].
+[Watch here](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=1)
+
+New episodes mondays.
+
+# Season Summary
+
+# Errata
+
+> Especially in the early seasons, I didn't have as comprehensive system to keep track of facts and figures in my writing, so there are some mistakes.
+
+- in episode 1.1 I called the station 6 a "fission reactor"
+    - From episode 1.2, I called it what it actually is: A "thermoelectric generator"
+- Up to season 8, I called the ESA station that Seth is talking to, "Mission Control"
+    - after about Season 10, he calls it "Ground Control"
+    - This is not necessarily an error, though I did it unconsciously, as there's no mission anymore.
+- the Valentina Vacuum Research Lab was first named in 11.1
+    - But then in all future episodes of s11 called it Valentia (no 'n'), this was incorrect.
+- in 11.5 Redwing calls Dr Yuán by the given name "Li Na", which is not right. I don't know how this error got into the script.
+    - in 0.3 I corrected this to [[1 Projects/Lost Terminal/Dr Yuán\|Yùmíng]].
