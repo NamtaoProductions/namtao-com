@@ -10,8 +10,7 @@
 
 # ~~Procrastination~~
 
-notes:
-Like many of us, I suffer from a sickness.
+ 
 
 I don't know what it's called, but left to my natural inclinations, I seem to spend all my time sharpening my metaphorical axes instead of using them.
 Not only do I end the day without cutting down any trees, but if this continues, I will have ground my axes down to nothing.
@@ -23,8 +22,7 @@ Not only do I end the day without cutting down any trees, but if this continues,
 >    **BUT ALSO**
 > 3. The actually useless activity you do that appears important when you are consciously or unconsciously procrastinating about a larger problem.
 
-notes:
-
+ 
 It seems related to the problem, that in programming circles we call Yak Shaving.
 
 Which is when you're doing:
@@ -42,8 +40,7 @@ And it's hard, sometimes, to tell which you're really working on.
 
 # PKM
 
-notes:
-
+ 
 This illness tends to effect even highly motivated and productive people:
 They know they have to be organised, so they use organisational apps, sites, and services to do so.
 
@@ -53,8 +50,7 @@ They know they have to be organised, so they use organisational apps, sites, and
 
 (and they're almost all prime colours with a checkbox)
 
-notes:
-But new apps are being published all the time, and the existing ones release new features all the time to keep up with the pace of progress.
+ 
 Not to mention when apps disappear or REMOVE features.
 
 The result is this hedonic treadmill of:
@@ -71,8 +67,7 @@ Or something like that.
 
 calendar, tasks, research, *this video* - everything
 
-notes:
-
+ 
 I have finally solved this problem for myself with Obsidian.
 And not because it happened to have all the features I want today, but because it allows me to trivially build all future features I may need tomorrow.
 
@@ -83,8 +78,7 @@ In this video (which is not sponsored by Obsidian, I asked), I'm going to show y
 ## The Golden Rule
 # Data and Metadata
 
-notes:
-My golden rule that cuts through everything I'm going to talk about today is this:
+ 
 The data you're working on (which could be writing, music composition, studying, flashcards, or even thinking itself), is stored IN THE SAME FILE as the metadata about it (which could be tasks, notes and research, or even whole databases).
 
 Here I'm not just proposing that you use obsidian for task or notes management, I'm ALSO proposing that you don't use google docs, or spreadsheets, or even video or music making software. Not as your primary tool, anyway.
@@ -99,8 +93,7 @@ When you do all of your working and thinking inside a single platform that you d
 # Knowledge Platform
 ## Not a Wiki
 
-notes:
-
+ 
 Obsidian isn't a personal wiki, it's a general purpose knowledge platform that allows you to build whatever systems you want,
 the *default application of which* is a personal wiki.
 
