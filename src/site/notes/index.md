@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-01-13T16:34:31.293+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-01-13T16:37:05.544+00:00"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
@@ -47,8 +47,8 @@
 > I have loved writing and performing music for my whole life.
 > I originally made Lost Terminal to showcase my music, but it **immediately** got out of hand, and I now write new music every week for the podcast!
 >
->  
->  
+> - Listen on [Soundcloud](https://soundcloud.com/namtao)
+> - Buy on [Bandcamp](https://namtao.bandcamp.com/)
 
 ---
 
