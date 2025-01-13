@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-01-07T09:09:09.000+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-01-13T15:32:17.677+00:00"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
@@ -48,7 +48,7 @@
 > [!QUESTION]- Would you like to enter the Garden?
 > An old building stands in front of you, in faded letters above the open door is painted "[[The Phosphene Catalogue/The Phosphene Catalogue Home\|📓The Phosphene Catalogue]]".
 >
-> You hear a friendly AI voice coming from a little [[Lost Terminal/Lost-Terminal-Home\|💻Lost Terminal]]. "Hello world!" he says.
+> You hear a friendly AI voice coming from a little [[Lost Terminal/Lost Terminal Home\|💻Lost Terminal]]. "Hello world!" he says.
 >
 > A taxi stands waiting by the roadside, window half-down. The driver is listening to the radio, but it's not music, it's a woman repeating places, statistics, numbers. You could listen closer to what [[Modem Prometheus Home\|🌕Modem Prometheus]] has to say, if you dare.
 >
