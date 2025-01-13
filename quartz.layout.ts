@@ -29,13 +29,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
     //Component.DesktopOnly(Component.Explorer()),
-  ],
-  right: [
-    Component.Graph({
+    Component.Backlinks(),
+    Component.DesktopOnly(Component.Graph({
       localGraph: {showTags: false },
       global: {showTags: false}
-    }),
-    Component.Backlinks(),
+    })),
+  ],
+  right: [
   ],
 }
 
