@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-01-13T15:32:17.677+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-01-13T16:34:31.293+00:00"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
@@ -11,6 +11,7 @@
 >
 > - Watch on [YouTube](https://www.youtube.com/c/NoBoilerplate)
 > - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@noboilerplate) for updates
+>
 
 ## 🛰️ Lost Terminal
 > [!SUCCESS] Hopepunk Scifi Podcast
@@ -19,6 +20,8 @@
 > - Watch on [YouTube](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=2&t=0s)
 > - Listen at [LostTerminal.com](https://lostterminal.com/)
 > - Follow [@LostTerminal@namtao.com](https://namtao.com/@lostterminal) for updates
+>
+> [[Lost Terminal/Lost Terminal Home\|Read more...]]
 
 ## 🌕 Modem Prometheus
 > [!QUESTION] Contemporary Urban Fantasy Podcast
@@ -26,6 +29,8 @@
 >
 > - Listen at [ModemPrometheus.com](https://www.modemprometheus.com/)
 > - Follow [@ModemPrometheus@namtao.com](https://namtao.com/@modemprometheus) for updates
+>
+> [[Modem Prometheus/Modem Prometheus Home\|Read more...]]
 
 ## 🖼️ The Phosphene Catalogue
 > [!EXAMPLE] 1970s Magical Realism Podcast
@@ -33,6 +38,8 @@
 >
 > - Listen at [PhospheneCatalogue.com](https://phosphenecatalogue.com/)
 > - Follow [@PhospheneCatalogue@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
+>
+> [[The Phosphene Catalogue/The Phosphene Catalogue Home\|Read more...]]
 
 ## 🎹 My Music
 > [!ABSTRACT] Electronic Music
