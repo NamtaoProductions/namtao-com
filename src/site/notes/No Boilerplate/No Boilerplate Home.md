@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/no-boilerplate-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.538+00:00","updated":"2025-01-13T16:20:00.429+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/no-boilerplate-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.538+00:00","updated":"2025-01-13T16:24:58.293+00:00"}
 ---
 
 
@@ -33,7 +33,7 @@ https://doc.rust-lang.org/rust-by-example/
 - Rustlings code kata, learn by fixing tiny failing tests
 https://github.com/rust-lang/rustlings
 
-- My video series on Rust (of course!) playlist here, watch RUST-6 first (my recommended set up) and then the rest in any order:
+- My video series on Rust (of course!) playlist here, watch "How to Learn Rust" first (which contains my recommended set up) and then the rest in any order:
 https://www.youtube.com/watch?v=ifaLk5v3W90&list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSEP&index=6
 
 - My Discord server, especially #programming and #newbie-advice. There's a huge community of friendly folks here, answering questions on Rust all day every day. Do tag me and say hi!
