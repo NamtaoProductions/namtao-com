@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/no-boilerplate-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.538+00:00","updated":"2025-01-13T16:27:38.195+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/no-boilerplate-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.538+00:00","updated":"2025-01-13T16:42:29.251+00:00"}
 ---
 
 
@@ -13,7 +13,7 @@ I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides
 ---
 
 # Videos
-## [[No Boilerplate/NB43 - Building Your Second Brain in Obsidian\|NB43 - Building Your Second Brain in Obsidian]]
+ 43. [[No Boilerplate/NB43 - Building Your Second Brain in Obsidian\|NB43 - Building Your Second Brain in Obsidian]]
 
 ---
 
