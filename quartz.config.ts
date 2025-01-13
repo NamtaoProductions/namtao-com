@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "NAMTAO Productions",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     locale: "en-US",
     baseUrl: "www.namtao.com",
     ignorePatterns: ["templates", ".obsidian", "!(public-attachments)**/!(*.md)", "!(*.md)"],
