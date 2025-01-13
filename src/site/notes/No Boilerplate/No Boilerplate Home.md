@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/no-boilerplate-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.538+00:00","updated":"2025-01-13T16:12:38.765+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/no-boilerplate-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.538+00:00","updated":"2025-01-13T16:20:00.429+00:00"}
 ---
 
 
@@ -9,6 +9,11 @@
 Scripts for my talks on the YouTube channel up to the 42nd are in <https://github.com/0atman/noboilerplate>, then I switched to publishing them here on this site.
 
 I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides plugin](https://github.com/MSzturc/obsidian-advanced-slides): I take each slide, printscreen it, and splice it with my audio using [reaper.fm](http://reaper.fm/).
+
+---
+
+# Videos
+ 
 
 ---
 
