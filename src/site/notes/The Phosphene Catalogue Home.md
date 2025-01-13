@@ -9,8 +9,8 @@
 The Phosphene Catalogue is a 1970s mail-order catalogue, specialising in those items that cannot be sold at other auction houses: Paintings of lost origin, statues that are too grotesque for public display, and books better left unread...
 
 - Read the [[Phosphene Catalogue Back Issues\|Phosphene Catalogue Back Issues]]
-- Continue your journey into the [[1 Projects/The Phosphene Catalogue/Entrance Lobby\|Entrance Lobby]].
-- Meet the [[1 Projects/The Phosphene Catalogue/TPC Character Index\|TPC Character Index]]
+- Continue your journey into the [[The Phosphene Catalogue/Entrance Lobby\|Entrance Lobby]].
+- Meet the [[The Phosphene Catalogue/TPC Character Index\|TPC Character Index]]
 
 # Inspiration
 

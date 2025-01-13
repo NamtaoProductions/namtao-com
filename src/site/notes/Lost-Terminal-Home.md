@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lost-terminal-home/","tags":["index"],"noteIcon":"","created":"2025-01-10T11:32:32.617+00:00","updated":"2025-01-10T11:41:45.744+00:00"}
+{"dg-publish":true,"permalink":"/lost-terminal-home/","tags":["index"],"noteIcon":"","created":"2025-01-10T11:32:32.617+00:00","updated":"2025-01-13T11:39:25.162+00:00"}
 ---
 
 
@@ -26,4 +26,4 @@ New episodes mondays.
 - the Valentina Vacuum Research Lab was first named in 11.1
     - But then in all future episodes of s11 called it Valentia (no 'n'), this was incorrect.
 - in 11.5 Redwing calls Dr Yuán by the given name "Li Na", which is not right. I don't know how this error got into the script.
-    - in 0.3 I corrected this to [[1 Projects/Lost Terminal/Dr Yuán\|Yùmíng]].
+    - in 0.3 I corrected this to [[Lost Terminal/Dr Yuán\|Yùmíng]].
