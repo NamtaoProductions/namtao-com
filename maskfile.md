@@ -8,7 +8,7 @@ Execute this file to get the deps and run the server (yes literally `./maskfile.
 > You may install `mask` from your system packages, alternatively, if you have the rust package manager, `cargo`, mask will be installed from source on first run)
 
 
-## Build
+## build
 > builds all md files into html
 ```sh
 npx quartz build -d src/site/notes/
