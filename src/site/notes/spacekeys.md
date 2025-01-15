@@ -1,13 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/spacekeys/","noteIcon":"","created":"2025-01-15T07:22:07.430+00:00","updated":"2025-01-15T08:47:58.352+00:00"}
+{"dg-publish":true,"permalink":"/spacekeys/","noteIcon":"","created":"2025-01-15T07:22:07.430+00:00","updated":"2025-01-15T08:54:26.024+00:00"}
 ---
 
-This is my custom spacekeys config for obsidian.
-
-From the readme:
-> This is a sample keymap file for the [Spacekeys](http://github.com/jlumpe/obsidian-spacekeys) Obsidian plugin. The keymap itself is defined in a YAML code block below, it is wrapped in a Markdown file to allow editing within Obsidian. To use this file, enter its path in the Spacekeys plugin settings.
-> 
-> You can use the "Spacekeys: Find command ID" command to search for command IDs (either by assigning it a hotkey or invoking it through the command palette). See the plugin's description for more detailed instructions.
+This is my custom spacekeys config for obsidian, based on the sample keymap that comes with the plugin, but with some structural changes to match <https://lazynvim.org>'s defaults.
 
 ```yaml
 items:
