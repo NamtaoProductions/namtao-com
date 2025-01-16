@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-13T16:20:23.420+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-08T16:29:58.943+00:00","updated":"2025-01-16T11:41:43.183+00:00"}
 ---
 
  
@@ -51,7 +51,6 @@ They know they have to be organised, so they use organisational apps, sites, and
 (and they're almost all prime colours with a checkbox)
 
  
-Not to mention when apps disappear or REMOVE features.
 
 The result is this hedonic treadmill of:
 - Leaping to a new app,
@@ -79,12 +78,12 @@ In this video (which is not sponsored by Obsidian, I asked), I'm going to show y
 # Data and Metadata
 
  
-The data you're working on (which could be writing, music composition, studying, flashcards, or even thinking itself), is stored IN THE SAME FILE as the metadata about it (which could be tasks, notes and research, or even whole databases).
+The data you're working on (which could be writing, music composition, studying, flashcards, or even thinking itself), should be stored IN THE SAME FILE as the metadata about it (which could be tags, tasks, notes and research, or even whole databases).
 
-Here I'm not just proposing that you use obsidian for task or notes management, I'm ALSO proposing that you don't use google docs, or spreadsheets, or even video or music making software. Not as your primary tool, anyway.
+Here I'm not just proposing that you use obsidian for task or notes management, I'm ALSO proposing that you don't use google docs, or spreadsheets, or even video or music making software. Not as your primary tool, anyway, not if you can figure it out.
 
-When you do all of your working and thinking inside a single platform that you don't just use, but make and control, you get this marvellous force multiplier:
-- the todo reminders you set up for school work
+When you do all of your working and thinking inside a single platform that you don't just use, but can control and build, you get this marvellous force multiplier, and Obsidian is the best tool I have found for this purpose.
+And trust me, when I was on my own hedonic treadmil, I had tried them all.
 
 ---
 
@@ -94,17 +93,17 @@ When you do all of your working and thinking inside a single platform that you d
 ## Not a Wiki
 
  
-Obsidian isn't a personal wiki, it's a general purpose knowledge platform that allows you to build whatever systems you want,
-the *default application of which* is a personal wiki.
+Despite first impressions, Obsidian ISN'T a personal wiki: It's a general purpose knowledge platform that allows you to build whatever systems you want, the *default application of which* is a personal wiki.
 
-You can build anything you want on top of the simple framework I'll teach you today:
+You can build anything on top of the simple framework I'll teach you today:
 - A todo system filtered by contexts, dates, priorities, and projects
 - A writing environment for fiction or non-fiction, with queryable character timelines, references, or D&D monster stats,
 - You can even build a youtube career on it if you're especially lucky.
 
 All these uses, and any that you could imagine and then build yourself, can live in the same place, not in 10 different apps, with your data safely on your own computer, phone, or tablet.
 
-But unlike many other guides you may find, I'm also going to tell you what I wish people had told me when I got started: There are features of obsidian that you SHOULDN'T use.
+But unlike many of the other good obsidian guides you may find on youtube, I'm also going to tell you what I wish people had told me when I got started:
+> There are features of obsidian that you SHOULDN'T use.
 
 And we'll start with the curse of FOLDERS.
 
