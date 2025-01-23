@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-23T08:46:20.563+00:00","updated":"2025-01-23T17:20:43.090+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-23T08:46:20.563+00:00","updated":"2025-01-23T17:43:15.829+00:00"}
 ---
 
  
-
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -11,14 +10,19 @@
 
 
 
-# Hack the Gibson
+1. Searching
+2. Dataview
+3. Templater
+4. Dataviewjs
+5. Custom Plugins
 
- 
-hack the gibson: hotkeys and searches / dataview / templater / js dataview and custom plugins
 
 
 </div></div>
 
+
+ 
+hack the gibson: hotkeys and searches / dataview / templater / js dataview and custom plugins
 
 ---
 
@@ -30,14 +34,16 @@ hack the gibson: hotkeys and searches / dataview / templater / js dataview and c
 
 
 > [!QUOTE] "Most organisational note-taking decisions can be made up front, once and for all, by deciding on one system."
-> Sönke Ahrens, How To Take Smart Notes
+> &mdash; Sönke Ahrens, How To Take Smart Notes
+
 
 
 </div></div>
 
 
----
+ 
 
+---
 
  
  
