@@ -1,8 +1,51 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-24T08:38:52.157+00:00","updated":"2025-01-24T11:45:10.730+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-24T11:52:02.127+00:00","updated":"2025-01-24T13:02:40.277+00:00"}
 ---
 
  
+
+# Mermaid Test
+
+```mermaid
+classDiagram
+    Videos <|-- Obsidian_Video
+    Projects <|-- Learn_Mandarin
+    Projects <|-- Videos
+    Projects <|-- Family 
+    Family <|-- Mums_Birthday
+    Videos <|-- Vim_Everywhere
+    Home<|-- Projects
+    
+    class Home {
+        A single root node 
+        with no parent
+    }
+    class Projects {
+        All projects link here
+    }
+    class Videos {
+        All videos link here
+    }
+    class Family {
+        All videos link here
+    }
+    
+    namespace areas {
+        class Vim_Everywhere {
+        }
+        
+        class Learn_Mandarin{
+        }
+    }
+    namespace projects {
+        class Obsidian_Video {
+        }
+        class Mums_Birthday{
+        }
+    }
+```
+
+---
 
 > [!QUOTE] "Most organisational note-taking decisions can be made up front, once and for all, by deciding on one system."
 > &mdash; Sönke Ahrens, How To Take Smart Notes
