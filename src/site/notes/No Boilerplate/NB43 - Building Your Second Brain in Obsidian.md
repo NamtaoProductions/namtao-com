@@ -1,20 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-24T11:52:02.127+00:00","updated":"2025-01-24T13:12:42.644+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-24T11:52:02.127+00:00","updated":"2025-01-24T13:24:11.871+00:00"}
 ---
 
  
 
-> [!QUOTE] "Most organisational note-taking decisions can be made up front, once and for all, by deciding on one system."
-> &mdash; Sönke Ahrens, How To Take Smart Notes
-
- 
-
----
-
- 
-
- 
----
 
 # ~~"Research"~~
 
