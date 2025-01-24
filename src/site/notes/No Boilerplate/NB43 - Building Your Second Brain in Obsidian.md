@@ -1,10 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-24T11:52:02.127+00:00","updated":"2025-01-24T13:02:40.277+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-24T11:52:02.127+00:00","updated":"2025-01-24T13:05:46.945+00:00"}
 ---
 
  
 
-# Mermaid Test
+
+```mermaid
+flowchart TD
+    A@{ shape: database, label: "Atomic Notes" }
+    F@{ shape: card, label: "Fleeting Notes" }
+    L@{ shape: card, label: "Literature Notes" }
+    P@{ shape: processes, label: "Projects" }
+    
+    subgraph THE FLAP SYSTEM
+        F -->|Process Into| A
+        L -->|Reference from| A
+        A -->|Compose Into| P
+    end
+    
+    P -->|Publish| X@{ shape: documents, label: "Articles/Posts" }
+    P -->|Publish| Y@{ shape: documents, label: "Video Scripts" }
+    P -->|Publish| Z@{ shape: documents, label: "Books/Papers" }
+
+```
+
+Flowchart Test
+
+---
+
 
 ```mermaid
 classDiagram
@@ -44,6 +67,10 @@ classDiagram
         }
     }
 ```
+
+Class Diagram Test
+
+
 
 ---
 
