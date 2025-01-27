@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lost-terminal/dr-yuan/","noteIcon":"","created":"2025-01-08T16:29:25.199+00:00","updated":"2025-01-13T17:33:04.712+00:00"}
+{"dg-publish":true,"permalink":"/lost-terminal/dr-yuan/","noteIcon":"","created":"2025-01-20T07:10:56.043+00:00","updated":"2025-01-13T18:04:24.000+00:00"}
 ---
 
 
@@ -8,4 +8,7 @@
 ![dr-yuan-profile.png](/img/user/Resources/Meta/attachments/dr-yuan-profile.png)
 - Biologist
 - Dating [[Lost Terminal/Dr Weber\|Dr Weber]]
+
+![dr-yuan-profile.png](/img/user/Resources/Meta/attachments/dr-yuan-profile.png)
+
  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-6/","tags":["TPC","episode","areas/tpc"],"noteIcon":"","created":"2025-01-09T09:42:54.391+00:00","updated":"2025-01-10T12:25:46.103+00:00"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-6/","tags":["TPC","episode","areas/tpc"],"noteIcon":"","created":"2025-01-20T07:11:18.418+00:00","updated":"2025-01-10T12:25:46.000+00:00"}
 ---
 
 

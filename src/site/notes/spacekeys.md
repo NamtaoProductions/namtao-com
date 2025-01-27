@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spacekeys/","noteIcon":"","created":"2025-01-15T07:22:07.430+00:00","updated":"2025-01-15T08:54:26.024+00:00"}
+{"dg-publish":true,"permalink":"/spacekeys/","noteIcon":"","created":"2025-01-20T07:13:23.747+00:00","updated":"2025-01-27T08:40:18.932+00:00"}
 ---
 
 This is my custom spacekeys config for obsidian, based on the sample keymap that comes with the plugin, but with some structural changes to match <https://lazynvim.org>'s defaults.
@@ -14,6 +14,7 @@ items:
   P: app:go-back
   N: app:go-forward
   e: file-explorer:open
+  r: spacekeys:load-keymap
   
   c:
     description: Code 
@@ -30,26 +31,14 @@ items:
       j: editor:focus-bottom
       n: workspace:next-tab
       N: workspace:new-tab
-
-  u:
-    description: UI 
-    items:
-      p: editor:toggle-source
-      r: markdown:toggle-preview
-      s: editor:toggle-spellcheck
-      T: window:toggle-always-on-top
+      u: workspace:undo-close-pane
+      v: workspace:split-vertical
       p: workspace:previous-tab
       P: workspace:toggle-pin
       s: workspace:split-horizontal
       S: workspace:toggle-stacked-tabs
-      t: tag-pane:open
-      u: workspace:undo-close-pane
-      v: workspace:split-vertical
-      L: app:toggle-left-sidebar
-      R: app:toggle-right-sidebar
       w: workspace:open-in-new-window
       W: workspace:move-to-new-window
-
       x:
         description: Close
         items:
@@ -70,6 +59,18 @@ items:
        # workspace:goto-last-tab
 
        # workspace:show-trash
+
+  u:
+    description: UI 
+    items:
+      p: editor:toggle-source
+      r: markdown:toggle-preview
+      s: editor:toggle-spellcheck
+      T: window:toggle-always-on-top
+      t: tag-pane:open
+      L: app:toggle-left-sidebar
+      R: app:toggle-right-sidebar
+
 
   f:
     description: File
@@ -105,7 +106,7 @@ items:
           e: markdown:edit-metadata-property
           c: markdown:clear-metadata-properties
 
-  x:
+  t:
     description: Text
     items:
       b: editor:toggle-bold
@@ -117,27 +118,26 @@ items:
       p: editor:insert-codeblock
       q: editor:toggle-blockquote
       s: editor:toggle-strikethrough
-      l: editor:toggle-bullet-list
+      L: editor:toggle-bullet-list
+      l: editor:cycle-list-checklist
       H: editor:toggle-highlight
       M: editor:toggle-inline-math
 
       # editor:set-heading
-      # editor:set-heading-0
-      # editor:set-heading-1
-      # editor:set-heading-2
-      # editor:set-heading-3
-      # editor:set-heading-4
-      # editor:set-heading-5
-      # editor:set-heading-6
+      0: editor:set-heading-0
+      1: editor:set-heading-1
+      2: editor:set-heading-2
+      3: editor:set-heading-3
+      4: editor:set-heading-4
+      5: editor:set-heading-5
+      6: editor:set-heading-6
       # editor:rename-heading
 
       # editor:swap-line-down
       # editor:swap-line-up
 
-      # editor:toggle-bullet-list
       # editor:toggle-checklist-status
       # editor:toggle-numbered-list
-      # editor:cycle-list-checklist
 
   i:
     description: Insert
@@ -159,7 +159,7 @@ items:
           d: insert-current-date
           T: insert-current-time
 
-  t:
+  T:
     description: Table
     items:
       h: editor:table-col-left
@@ -196,15 +196,16 @@ items:
   q:
     description: Sessions
     items:
-      l: workspaces:save-and-load
-      L: workspaces:load
-      o: workspaces:open-modal
+      l: workspaces:load
+      L: workspaces:save-and-load
+      S: workspaces:open-modal
       s: workspaces:save
 
   s:
     description: Search
     items:
       s: darlal-switcher-plus:switcher-plus:open-symbols-active
+      f: advanced-random-note:query:3809fec3-64fd-4f34-b706-3e1f6ddd7d0c
 
 
 # editor:toggle-fold-properties

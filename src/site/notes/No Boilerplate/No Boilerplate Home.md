@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/no-boilerplate-home/","tags":["index"],"noteIcon":"","created":"2025-01-01T13:49:18.538+00:00","updated":"2025-01-13T16:45:31.632+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/no-boilerplate-home/","tags":["index"],"noteIcon":"","created":"2025-01-20T07:10:48.523+00:00","updated":"2025-01-27T08:51:05.166+00:00"}
 ---
 
 
@@ -15,7 +15,7 @@ I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides
 
 # Videos
  42. All previous video scripts are [on github](https://github.com/0atman/noboilerplate)
- 43. [[No Boilerplate/NB43 - Building Your Second Brain in Obsidian\|NB43 - Building Your Second Brain in Obsidian]]
+ 43. [[No Boilerplate/second brain corrupted\|second brain corrupted]]
 
 ---
 

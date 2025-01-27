@@ -1,9 +1,83 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-24T11:52:02.127+00:00","updated":"2025-01-24T13:24:11.871+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-building-your-second-brain-in-obsidian/","tags":["project/nb"],"noteIcon":"","created":"2025-01-27T08:49:31.847+00:00","updated":"2025-01-27T09:21:09.686+00:00"}
+---
+
+
+<style>
+:root {--r-code-font: "FiraCode Nerd Font";}
+.reveal .hljs {min-height: 50%;}
+</style>
+
+**Next Action**
+```tasks
+not done
+
+path includes {{query.file.path}}
+heading does not include Notes
+heading does not include Writing Tasks
+heading does not include YT Video
+heading does not include Masto Post
+
+hide edit button
+
+Limit 1
+```
+
+## Tasks Inbox
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    - absolute links, or no folders
+- Folders/Tags/Links should be benchmarked.
+    - Using projects for my whole vault of 3k files is crazy slow, whereas tags and folders are indexed. links are not indexed
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+thoughts from Potti:
+> Oh, i nearly forgot regarding you Obsidian Video:  
+> If its not published yet, might some inspiration from someone that uses it, but not closely to its full potential:  
+> 1. Using Tags instead of folders: good methods, where to start, which plugins help, which are too much?  
+> 2. Aliases and how to apply them - often i find there is a problem when writing text and creating nodes, to have a nice readable text and some advice for fluent working.  
+> 3. Keep it simple, which plugins to avoid that can be replaced by some small CSS.  
+> 4. Maybe a dive into LaTeX, if interesting.  
+> 5. How to make Headings more distinguishable. In reading mode its possible with CSS pseudo elements, but editing modes ist kinda resticted. Bars under the heading and curved bars create a non relaxing appearance, too many different colours also. If colors are too close to eachother it looks good, but then hard to distinguish :D
+
+---
+
+> [!QUOTE] "Most organisational note-taking decisions can be made up front, once and for all, by deciding on one system."
+> &mdash; Sönke Ahrens, How To Take Smart Notes
+
+ 
+
 ---
 
  
 
+ 
+---
 
 # ~~"Research"~~
 

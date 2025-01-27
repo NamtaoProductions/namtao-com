@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-01-13T16:39:44.747+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-20T07:10:03.203+00:00","updated":"2025-01-13T16:39:44.000+00:00"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)

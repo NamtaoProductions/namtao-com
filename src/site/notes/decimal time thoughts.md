@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/decimal-time-thoughts/","tags":["zettle/fleeting"],"noteIcon":"","created":"2025-01-02T10:03:19.774+00:00","updated":"2025-01-02T19:11:54.468+00:00"}
+{"dg-publish":true,"permalink":"/decimal-time-thoughts/","tags":["atomic"],"noteIcon":"","created":"2025-01-20T07:13:39.256+00:00","updated":"2025-01-27T09:09:05.743+00:00"}
 ---
 
 
@@ -22,7 +22,7 @@ pomo = beat + tenbeat
     - rest for a beat
     - about 20 pomodoros in an 8h workday
 
-# 6 Day Week / 30 Day month
+# 6 Day Week / 30 Day Month
 
 > Six day week. Thirty day month. 5 to 6 day "thirteenth month" at the end of the year which is an extended holiday and reset period. Gives us a week that's not a prime number's worth of days (easily divisible for tasks that need to be done every second or third day, which is a LOT of tasks in life; you can do them the same days every week). Weeks fit perfectly into the month (which is also never a prime number) so every month starts and ends on the same day for the full year. 12 full months instead of 13 full months are superior for reasons of, yes, also not being a prime number, allowing the year to be cut into halves, thirds and quarters which is something we love doing for various organisational purposes (school terms, taxes, et cetera). Includes a natural rest/transition period that can easily absorb a leap year's extra day without fucking with anything.
 
