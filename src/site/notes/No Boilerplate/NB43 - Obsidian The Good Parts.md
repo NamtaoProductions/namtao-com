@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:34:10.580+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:34:49.749+00:00"}
 ---
 
 
@@ -504,9 +504,8 @@ This is fully supported by the obsidian search and backlinks system, all plugins
 ---
 
 ![my obsidian graph view 29-012025.png|600](/img/user/Resources/Meta/attachments/my%20obsidian%20graph%20view%2029-012025.png)
-Very pretty, but even *I* don't know what's going on
 
-_(and it's MY brain)_
+Very pretty, but even *I* don't know what's going on _(and it's MY brain)_
 
  
 This is why Named Links are enormously powerful because not all relationships, and therefore links, are equal, and if you just use regular links, the meaning is obfuscated.
