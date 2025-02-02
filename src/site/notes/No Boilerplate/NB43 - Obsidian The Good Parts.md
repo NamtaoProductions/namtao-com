@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:31:21.973+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:33:05.899+00:00"}
 ---
 
 
@@ -466,8 +466,8 @@ HOWEVER, at time of recording, it doesn't do this for aliases or heading links. 
 
 ---
 
->  ---
-## [ [`Named`]():: \[\[[`Links`]()]] ]
+## A Secret Obsidian Feature
+## `[Named:: [[Links]]]`
 
  
 There's a feature I use every day that I don't think most people know about.
