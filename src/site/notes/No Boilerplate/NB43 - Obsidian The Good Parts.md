@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:36:43.775+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:37:17.697+00:00"}
 ---
 
 
@@ -481,7 +481,6 @@ Use named links, and suddenly the relationships are apparent, and you can build 
 
 ```mermaid
 flowchart TD;
-classDef default fill:#191919,stroke:#9370DB
 
 Home ---|up| Videos  ---|up| NB
 Home ---|up| Podcasts ---|up| S16
