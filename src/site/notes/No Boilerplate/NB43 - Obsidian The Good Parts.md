@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:33:05.899+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:34:10.580+00:00"}
 ---
 
 
@@ -474,28 +474,20 @@ There's a feature I use every day that I don't think most people know about.
 
 ---
 
-<grid  drag="50 50" drop="left" pad="20px">
 ```yaml
-___
-
 up:
- 
+- [["LT Season 17.0"]]
 prev:
- 
-___
+- [["LT17.4"]]
 
 ## Act 1
  ---
 Hello world, I have made
 ```
 
-</grid>
-
-<grid  drag="50 50" drop="right" pad="20px">
 ![juggl lt demo.png](/img/user/Resources/Meta/attachments/juggl%20lt%20demo.png)
 
- ---
-</grid>
+The Juggl plugin
 
  
 Obsidian's inline properties can have links as their values.
@@ -507,7 +499,7 @@ Relationships could be:
 - previous-next
 - and so on, whatever ontology want.
 
-This is fully supported by the obsidian search and backlinks system, all plugins, too, but now you can filter by the TYPE of link. 
+This is fully supported by the obsidian search and backlinks system, all plugins, too, but now you can filter by the TYPE of link.
 
 ---
 
