@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:37:17.697+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:39:03.642+00:00"}
 ---
 
 
@@ -587,10 +587,6 @@ let patrons: [&str; 480];
  ---
 
  
-# OUTRO
-
-Thank you.
-
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
 
 If you're interested in transhumanism and hopepunk, please check out my weekly sci-fi audiofiction podcast, Lost Terminal.
