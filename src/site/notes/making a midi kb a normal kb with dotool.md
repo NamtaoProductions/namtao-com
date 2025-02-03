@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/making-a-midi-kb-a-normal-kb-with-dotool/","tags":["midi","music","automation","linux","keyboard"],"noteIcon":"","created":"2025-01-07T17:27:10.973+00:00","updated":"2025-01-01T10:13:28.000+00:00"}
+{"dg-publish":true,"permalink":"/making-a-midi-kb-a-normal-kb-with-dotool/","tags":["midi","music","automation","linux","keyboard"],"noteIcon":"","created":"2025-01-01T13:49:18.542+00:00","updated":"2025-01-01T10:13:28.000+00:00"}
 ---
 
 ## Find out the Names of Connected Midi Devices
