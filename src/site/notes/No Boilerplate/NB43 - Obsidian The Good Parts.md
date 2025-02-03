@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-03T11:12:15.405+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-03T11:56:49.274+00:00"}
 ---
 
 
@@ -278,7 +278,7 @@ In this example, searching for the whole "dog-corgi-ein" tag only gets notes tag
 
 &mdash; All my projects
 
->  ---
+> ## `#project/noboilerplate`
 
 &mdash; All my videos
 
