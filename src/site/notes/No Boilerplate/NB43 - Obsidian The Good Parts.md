@@ -1,5 +1,5 @@
  
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-03T11:59:15.626+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-03T12:04:20.769+00:00"}
  
 
 
@@ -184,7 +184,7 @@ And we'll start with the curse of FOLDERS.
 
 ![batman-breaking-rifle-weapon-of-the-enemy.png|400](/img/user/Resources/Meta/attachments/batman-breaking-rifle-weapon-of-the-enemy.png)
 
-  
+## Friends Don't Let Friends Use Folders
 
  
 I consider folders the weapon of the enemy in obsidian because they do not play well with most of the other "Good Parts" of the system.
@@ -209,7 +209,7 @@ That ain't nothing.
 
  
 
-  
+## Folders in Their Natural Habitat
 
 ![1950s office monochrome photo.jpg|700](/img/user/Resources/Meta/attachments/1950s%20office%20monochrome%20photo.jpg)
 
@@ -393,7 +393,7 @@ While inline properties exist, I prefer to keep everything organised in the fron
 - ✅ \[\[`wikilinks#To A Heading`]]
 
 &nbsp;
-  
+## The Bad Parts
 - ⛔ \[\[`absolute/wikiliks`]]
 - ⛔ \[`markdown`](`links`)
 - ⛔ \[`absolute`](`markdown/links`)
@@ -483,7 +483,7 @@ end
 
  
 
-  
+## Blending This All together
 
 ```mermaid
 flowchart TD
@@ -566,9 +566,9 @@ let sponsors = [
 let patrons: [&str; 480];
 ```
 
-  
+## [Patreon.com/NoBoilerplate](http://www.patreon.com/noboilerplate)
 
-  
+## [ko-fi.com/noboilerplate](https://ko-fi.com/noboilerplate)
 
  
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
