@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-02-03T11:06:28.705+00:00"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index"],"noteIcon":"","created":"2025-01-07T10:23:31.533+00:00","updated":"2025-02-03T11:07:14.170+00:00"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
@@ -51,15 +51,3 @@
 >
 > - Listen on [Soundcloud](https://soundcloud.com/namtao)
 > - Buy on [Bandcamp](https://namtao.bandcamp.com/)
-
----
-
-> [!QUESTION]- Would you like to enter the Garden?
-> An old building stands in front of you, in faded letters above the open door is painted "[[The Phosphene Catalogue/The Phosphene Catalogue Home\|📓The Phosphene Catalogue]]".
->
-> You hear a friendly AI voice coming from a little [[Lost Terminal/Lost Terminal Home\|💻Lost Terminal]]. "Hello world!" he says.
->
-> A taxi stands waiting by the roadside, window half-down. The driver is listening to the radio, but it's not music, it's a woman repeating places, statistics, numbers. You could listen closer to what [[Modem Prometheus/Modem Prometheus Home\|🌕Modem Prometheus]] has to say, if you dare.
->
-> Across the street, in a glass and steel building, there's a public lecture being held. The poster on the door promises fast, technical discussions, and strictly [[No Boilerplate/Index\|🗂No Boilerplate]].
->
