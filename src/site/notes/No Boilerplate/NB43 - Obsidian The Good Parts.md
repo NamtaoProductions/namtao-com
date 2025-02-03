@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-02T21:40:17.985+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-03T11:12:15.405+00:00"}
 ---
 
 
@@ -248,24 +248,24 @@ And if you take my advice, you won't voluntarily make a single one, relying inst
 
 # Part 1
 
-> # [#Tags]()
+# [#Tags]()
 
 ---
 
 ## Think You Know Tags?
 
->  ---
+> [#you/may/be/surprised]()
 
  
 As you know, tags are good for categorisation, they are more flexible than folders, as a note can have many tags. But in Obsidian, it's more than that, there is the concept of parent and child tags
 
 ---
 
->  ---
+> `#dog/corgi/ein`
 
 &mdash; Just one good doggo
 
->  ---
+> `#dog`
 
 &mdash; A lot of good doggos
 
