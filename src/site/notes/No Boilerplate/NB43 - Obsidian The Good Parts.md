@@ -1,6 +1,6 @@
----
+ 
 {"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-03T11:59:15.626+00:00"}
----
+ 
 
 
 <svg alt="Obsidian" height="200" viewBox="0 0 20 25"  xmlns="http://www.w3.org/2000/svg"><path fill="#A88BFA" d="m6.91927 14.5955c.64053-.1907 1.67255-.4839 2.85923-.5565-.71191-1.7968-.88376-3.3691-.74554-4.76905.15962-1.61678.72977-2.9662 1.28554-4.11442.1186-.24501.2326-.47313.3419-.69198.1549-.30984.3004-.60109.4365-.8953.2266-.48978.3948-.92231.4798-1.32416.0836-.39515.0841-.74806-.0148-1.08657-.099-.338982-.3093-.703864-.7093-1.1038132-.5222-.1353116-1.1017-.0165173-1.53613.3742922l-5.15591 4.638241c-.28758.25871-.47636.60929-.53406.99179l-.44455 2.94723c.69903.6179 2.42435 2.41414 3.47374 4.90644.09364.2224.1819.4505.26358.6838z"></path><path fill="#A88BFA" d="m2.97347 10.3512c-.02431.1037-.05852.205-.10221.3024l-2.724986 6.0735c-.279882.6238-.15095061 1.3552.325357 1.8457l4.288349 4.4163c2.1899-3.2306 1.87062-6.2699.87032-8.6457-.75846-1.8013-1.90801-3.2112-2.65683-3.9922z"></path><path fill="#A88BFA" d="m5.7507 23.5094c.07515.012.15135.0192.2281.0215.81383.0244 2.18251.0952 3.29249.2997.90551.1669 2.70051.6687 4.17761 1.1005 1.1271.3294 2.2886-.5707 2.4522-1.7336.1192-.8481.343-1.8075.7553-2.6869l-.0095.0033c-.6982-1.9471-1.5865-3.2044-2.5178-4.0073-.9284-.8004-1.928-1.1738-2.8932-1.3095-1.60474-.2257-3.07497.1961-4.00103.4682.55465 2.3107.38396 5.0295-1.48417 7.8441z"></path><path fill="#A88BFA" d="m17.3708 19.3102c.9267-1.3985 1.5868-2.4862 1.9352-3.0758.1742-.295.1427-.6648-.0638-.9383-.5377-.7126-1.5666-2.1607-2.1272-3.5015-.5764-1.3785-.6624-3.51876-.6673-4.56119-.0019-.39626-.1275-.78328-.3726-1.09465l-3.3311-4.23183c-.0117.19075-.0392.37998-.0788.56747-.1109.52394-.32 1.04552-.5585 1.56101-.1398.30214-.3014.62583-.4646.95284-.1086.21764-.218.4368-.3222.652-.5385 1.11265-1.0397 2.32011-1.1797 3.73901-.1299 1.31514.0478 2.84484.8484 4.67094.1333.0113.2675.0262.4023.0452 1.1488.1615 2.3546.6115 3.4647 1.5685.9541.8226 1.8163 2.0012 2.5152 3.6463z"></path></svg>
@@ -14,7 +14,7 @@ I have been using Obsidian for 5 years, deepening my thinking in conversation wi
 
 Even without using the over 2000 powerful community-made plugins, Obsidian has excellent built-in features for a great many uses, if you know how to start building your data.
 
----
+ 
 
 <grid  drag="50 50" drop="left" pad="20px">
 
@@ -40,7 +40,7 @@ Canvas, despite being a core plugin made by the Obsidian team, is not part of th
 
 This video is about the good parts of Obsidian, those that if you know about, you can use to make your second brain as complex as your first.
 
----
+ 
 
 # ~~"Research"~~
 
@@ -54,7 +54,7 @@ I don't know what it's called, but left to my natural inclinations, I seem to sp
 
 Not only do I end the day without cutting down any trees, but if this continues, I will have ground my axes down to nothing.
 
----
+ 
 
 > [!QUOTE] Yak Shaving
 > 1. _Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem._
@@ -70,7 +70,7 @@ Which is when you're doing:
 Preparing your tools is not the job, doing the job is the job.
 And it's difficult, sometimes, to tell which you're really working on.
 
----
+ 
 
 # Tasks
 
@@ -82,7 +82,7 @@ And it's difficult, sometimes, to tell which you're really working on.
 This illness tends to effect even highly motivated and productive people:
 They know they have to be organised, so they use organisational apps, sites, and services to attempt this.
 
----
+ 
 
 ![todo-apps-android-police-2023.png](/img/user/Resources/Meta/attachments/todo-apps-android-police-2023.png)
 
@@ -100,7 +100,7 @@ The result, all too often, is this hedonic treadmill of:
 Hoping each time that your next leap will be the leap home.
 Or something like that.
 
----
+ 
 
 ![obsidian-screenshot-nb43-slides-writing-research-timeline.png](/img/user/Resources/Meta/attachments/obsidian-screenshot-nb43-slides-writing-research-timeline.png)
 
@@ -110,7 +110,7 @@ calendar, tasks, research, *this video* - everything
 I have finally solved this problem for myself with Obsidian.
 And not because it happened to have all the features I want today, but because it allows me to trivially build all future features I may need tomorrow.
 
----
+ 
 
 > # DON'T USE
 ## The Bad Parts
@@ -120,7 +120,7 @@ But unlike many of the other good obsidian guides you can find on youtube, I'm a
 
 **There are features of obsidian that you SHOULDN'T use.**
 
----
+ 
 
 ![Thumbnail - hacking your brain with obsidian.png](/img/user/Resources/Meta/attachments/Thumbnail%20-%20hacking%20your%20brain%20with%20obsidian.png)
 
@@ -133,7 +133,7 @@ I already made that video, and you may watch that here.
 
 In this video (which is not sponsored by Obsidian, I asked), I'm going to recommend how to best build your custom-made second brain that fits your individual first brain perfectly by using Obsidian's core Triumvirate of features.
 
----
+ 
 
 > # Data and Metadata
 
@@ -144,7 +144,7 @@ The golden rule that cuts through everything I will talk about today is this:
 
 The data you're working on (which could be writing, music composition, studying, flashcards, or even thinking itself), should be stored IN THE SAME FILE as the metadata about it (which could be tags, tasks, notes and research, or even whole databases).
 
----
+ 
 
 ## Obsidian Hierarchies
 
@@ -156,7 +156,7 @@ The data you're working on (which could be writing, music composition, studying,
 The three common organisational tools inside obsidian you will hear about, folders, tags, and links, function to build hierarchies.
 They all act as some kind of organisation to navigate our second brain and find information and relationships quickly.
 
----
+ 
 
 ```mermaid
 flowchart LR
@@ -172,7 +172,7 @@ I'll briefly show you how Obsidian manages each, but the TLDR is that the more c
 
 And we'll start with the curse of FOLDERS.
 
----
+ 
 
 # 📂
 
@@ -180,18 +180,18 @@ And we'll start with the curse of FOLDERS.
 
 > # [`/FOLDERS/`]()
 
----
+ 
 
 ![batman-breaking-rifle-weapon-of-the-enemy.png|400](/img/user/Resources/Meta/attachments/batman-breaking-rifle-weapon-of-the-enemy.png)
 
- ---
+  
 
  
 I consider folders the weapon of the enemy in obsidian because they do not play well with most of the other "Good Parts" of the system.
 It is a trap nearly every new obsidian user falls in to.
 And I was no exception.
 
----
+ 
 
 ![my obsidian graph view 29-012025.png](/img/user/Resources/Meta/attachments/my%20obsidian%20graph%20view%2029-012025.png)
 
@@ -207,9 +207,9 @@ Folders are not completely terrible.
 They work at the OS level, you can see them on a USB drive, SD card, or uploaded to a third-party service without having obsidian installed.
 That ain't nothing.
 
----
+ 
 
- ---
+  
 
 ![1950s office monochrome photo.jpg|700](/img/user/Resources/Meta/attachments/1950s%20office%20monochrome%20photo.jpg)
 
@@ -221,7 +221,7 @@ They are a physical limitation of paper.
 
 And there is no paper here.
 
----
+ 
 
 <grid  drag="50 50" drop="left" pad="20px">
 
@@ -244,13 +244,13 @@ Folders are not part of my Good Parts.
 
 And if you take my advice, you won't voluntarily make a single one, relying instead on tags and links, and, as I'll explain, Obsidian properties
 
----
+ 
 
 # Part 1
 
 # [#Tags]()
 
----
+ 
 
 ## Think You Know Tags?
 
@@ -259,7 +259,7 @@ And if you take my advice, you won't voluntarily make a single one, relying inst
  
 As you know, tags are good for categorisation, they are more flexible than folders, as a note can have many tags. But in Obsidian, it's more than that, there is the concept of parent and child tags
 
----
+ 
 
 > `#dog/corgi/ein`
 
@@ -272,7 +272,7 @@ As you know, tags are good for categorisation, they are more flexible than folde
  
 In this example, searching for the whole "dog-corgi-ein" tag only gets notes tagged with this one dog, but searching for the `#dog` tag gets notes for all dogs, no matter what breed or name they have.
 
----
+ 
 
 > ## `#project`
 
@@ -293,7 +293,7 @@ This doesn't solve the problem that there is no such thing as a tag note, but it
 
 In addition to placing tags in the body of your note, they can also go in the note properties, which is an extremely exciting feature that is the foundation of all my systems, and that I'll explain in just a moment.
 
----
+ 
 
 > # PARA Tags
 
@@ -308,7 +308,7 @@ Don't use tags for metadata, just for simple grouping like this.
 
 Properties & Links are the real secret sauce of The Good Parts.
 
----
+ 
 
 ![patreon.png|200](/img/user/Resources/Meta/attachments/patreon.png)
 
@@ -328,12 +328,12 @@ I'm also offering a limited number of mentoring slots. If you'd like 1:1 tuition
 
 
 
----
+ 
 
 # Part 2
 > # [Properties]()
 
----
+ 
 
 ```yaml
 tags:
@@ -358,7 +358,7 @@ Like many of us, I suffer from a sickness.
 - Because it's not just a pretty table of metadata at the front of your notes
 - when using properties you can treat your whole second brain like a simple database, which is hugely powerful and core to my principle of building everything inside obsidian in plain text
 
----
+ 
 
 ```yaml
 Inline properties exist such as:
@@ -373,7 +373,7 @@ I'm not sold on inline metadata and tags.
  
 While inline properties exist, I prefer to keep everything organised in the frontmatter of my notes.
 
----
+ 
 
 # 🔗
 
@@ -385,7 +385,7 @@ While inline properties exist, I prefer to keep everything organised in the fron
 - Links are the most flexible, powerful, and therefore complex, part of the system.
 - But you must be cautious.
 
----
+ 
 
 ## The Good Parts
 - ✅ \[\[`wikilinks`]]
@@ -393,7 +393,7 @@ While inline properties exist, I prefer to keep everything organised in the fron
 - ✅ \[\[`wikilinks#To A Heading`]]
 
 &nbsp;
- ---
+  
 - ⛔ \[\[`absolute/wikiliks`]]
 - ⛔ \[`markdown`](`links`)
 - ⛔ \[`absolute`](`markdown/links`)
@@ -411,7 +411,7 @@ Obsidian keeps track of all links in your vault, and if you ever rename a note, 
 
 HOWEVER, at time of recording, it doesn't do this for aliases or heading links. Both these features are so useful, they quite make up for this, but do be aware of this surprising edge case.
 
----
+ 
 
 ## A Secret Obsidian Feature
 ## `[Named:: [[Links]]]`
@@ -419,7 +419,7 @@ HOWEVER, at time of recording, it doesn't do this for aliases or heading links. 
  
 There's a feature I use every day that I don't think most people know about.
 
----
+ 
 
 ```yaml
 up:
@@ -428,7 +428,7 @@ prev:
 - [["LT17.4"]]
 
 ## Act 1
- ---
+  
 Hello world, I have made
 ```
 
@@ -448,7 +448,7 @@ Relationships could be:
 
 This is fully supported by the obsidian search and backlinks system, all plugins, too, but now you can filter by the TYPE of link.
 
----
+ 
 
 ![my obsidian graph view 29-012025.png|600](/img/user/Resources/Meta/attachments/my%20obsidian%20graph%20view%2029-012025.png)
 
@@ -461,29 +461,29 @@ The reason the graph view is a pretty toy is that you can't see what kind of lin
 What is this, the dark ages?
 Use named links, and suddenly the relationships are apparent, and you can build a navigable ontology of your brain
 
----
+ 
 
 ```mermaid
 flowchart TD;
 
-Home ---|up| Videos  ---|up| NB
-Home ---|up| Podcasts ---|up| S16
+Home  |up| Videos   |up| NB
+Home  |up| Podcasts  |up| S16
 
 subgraph S16[Lost Terminal Season 18]
 direction LR
-    LT18.1[LT18.1\n #project] ---|next| LT18.2
+    LT18.1[LT18.1\n #project]  |next| LT18.2
 end
 
 subgraph NB[No Boilerplate]
     direction LR
-    Obsidian_Video[Obsidian: The Good Parts\n #project] ---|prev| Vim_Everywhere[Vim Everywhere!]
+    Obsidian_Video[Obsidian: The Good Parts\n #project]  |prev| Vim_Everywhere[Vim Everywhere!]
 end
 
 ```
 
----
+ 
 
- ---
+  
 
 ```mermaid
 flowchart TD
@@ -499,7 +499,7 @@ Whatever system you build will be advisory, of course it should be as comprehens
 But using The Good Parts allows structure to emerge organically, from the bottom up.
 It doesn't matter where the notes physically are, we are gardeners, not architects, when building our second brain in Obsidian.
 
----
+ 
 
 ## Obsidian as a Holistic Thought System
 
@@ -510,7 +510,7 @@ flowchart LR
 
  
 
----
+ 
 
 ## Obsidian is a
 
@@ -530,7 +530,7 @@ All these uses, and any others that you could imagine, you can build yourself, l
 
 If you build your second brain with this powerful triumvirate, you will be working in alignment with how Obsidian works, not fighting against it, building a flexible foundation that can scale to thousands of notes.
 
----
+ 
 
 # Obsidian
 ## [The Good Parts]()
@@ -552,7 +552,7 @@ When you do all of your working and thinking inside a single platform that you d
 
 I'm excited for you: Start building your second brain using The Good Parts today.
 
----
+ 
 
 # Thank You
 
@@ -566,9 +566,9 @@ let sponsors = [
 let patrons: [&str; 480];
 ```
 
- ---
+  
 
- ---
+  
 
  
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
