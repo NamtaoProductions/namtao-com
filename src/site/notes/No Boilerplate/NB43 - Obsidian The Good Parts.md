@@ -1,5 +1,5 @@
  
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-03T12:04:20.769+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33:32.634+00:00","updated":"2025-02-03T12:30:16.755+00:00"}
  
 
 
@@ -471,12 +471,12 @@ Home  |up| Podcasts  |up| S16
 
 subgraph S16[Lost Terminal Season 18]
 direction LR
-    LT18.1[LT18.1\n #project]  |next| LT18.2
+    LT18.1[LT18.1 #project]  |next| LT18.2
 end
 
 subgraph NB[No Boilerplate]
     direction LR
-    Obsidian_Video[Obsidian: The Good Parts\n #project]  |prev| Vim_Everywhere[Vim Everywhere!]
+    Obsidian_Video[Obsidian: The Good Parts #project]  |prev| Vim_Everywhere[Vim Everywhere!]
 end
 
 ```
