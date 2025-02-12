@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","updated":"2025-02-03T12:30:16.755+00:00"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","updated":"2025-02-12T11:50:30.345+00:00"}
 ---
 
 
@@ -16,21 +16,15 @@ Even without using the over 2000 powerful community-made plugins, Obsidian has e
 
 ---
 
-<grid  drag="50 50" drop="left" pad="20px">
-
 ![obsidian-canvas-cgpgrey-rockpaperscissors-cortex.png](/img/user/Resources/Meta/attachments/obsidian-canvas-cgpgrey-rockpaperscissors-cortex.png)
 - ❌ Canvas Plugin
 - `canvas.json`
 - machine-readable
-</grid>
-
-<grid  drag="50 50" drop="right" pad="20px">
 
 ![video schedule kanban 2025-01-30.png](/img/user/Resources/Meta/attachments/video%20schedule%20kanban%202025-01-30.png)
 - ✅ Kanban Plugin
 - `kanban.md`
 - human-readable
-</grid>
 
  
 There is no one right way to build your Obsidian second brain, but there are WRONG ways, and these pitfalls are important to know about.
