@@ -1,9 +1,11 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Hi folks, I'm Tris 👋
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+**I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts.**
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+# 📔 Check out [namtao.com](https://www.namtao.com) for all my Projects
+
+> [!NOTE]
+>
+> ### Site build instructions
+>
+> I build locally with `make build`, refer to the [Makefile](./Makefile)
