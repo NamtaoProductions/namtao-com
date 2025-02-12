@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-3/","tags":["Episodes"],"noteIcon":"","updated":"2025-01-06T07:40:19.000+00:00"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-3/","tags":["Episodes"],"noteIcon":"","updated":"2025-02-12T11:46:56.333+00:00"}
 ---
 
 
@@ -280,7 +280,5 @@ Say hi on Mastodon @phosphenecatalogue@SOMEWHERE, and check our website, <https:
 
 Thank you so much for listening,
 See you next time.
-
-# Private
 
  

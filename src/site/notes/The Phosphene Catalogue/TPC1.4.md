@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-4/","tags":["Episodes"],"noteIcon":"","updated":"2025-01-06T07:42:02.000+00:00"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-4/","tags":["Episodes"],"noteIcon":"","updated":"2025-02-12T11:45:19.301+00:00"}
 ---
 
 
@@ -295,5 +295,4 @@ patreon.com/phosphenecatalogue
 Thank you so much for listening,
 See you next time.
 
-# Private
  

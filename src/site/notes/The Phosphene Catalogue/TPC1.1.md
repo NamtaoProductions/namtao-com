@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","updated":"2025-01-08T20:41:40.207+00:00"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","updated":"2025-02-12T11:46:43.049+00:00"}
 ---
 
 # Episode 1.1
@@ -207,21 +207,5 @@ patreon.com/phosphenecatalogue
 
 Thank you so much for listening,
 See you next time.
-
-# Private
-
-Patron tiers:
-1.  (2/mo)
-    - Making the podcast possible
-    - Behind-the-scenes content
-    - Private `#patrons-of-the-arts` discord channel
-2. Journeyman of the Arts (5/mo)
-    - Digital downloads
-    - Early access
-    - Exclusive content
-3. Master of the Arts (10/mo)
-    - Anything from our store, shipped to you as a welcome gift
-4. Art Producer (50/mo)
-    - Shoutout in the credits in every episode
 
  
