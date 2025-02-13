@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modem-prometheus/modem-prometheus-home/","tags":["index"],"noteIcon":"","updated":"2025-01-01T10:10:57.000+00:00"}
+{"dg-publish":true,"permalink":"/modem-prometheus/modem-prometheus-home/","tags":["index"],"noteIcon":"","updated":"2025-01-01T10:10"}
 ---
 
 

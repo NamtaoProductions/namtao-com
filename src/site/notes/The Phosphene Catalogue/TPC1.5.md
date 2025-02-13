@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-5/","tags":["Episodes"],"noteIcon":"","updated":"2025-02-12T11:47:32.483+00:00"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-5/","tags":["Episodes"],"noteIcon":"","updated":"2025-02-12T11:47"}
 ---
 
 # Episode 1.5

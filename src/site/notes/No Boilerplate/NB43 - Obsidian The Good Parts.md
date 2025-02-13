@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","updated":"2025-02-12T11:50"}
+{"dg-publish":true,"permalink":"/no-boilerplate/nb-43-obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","updated":"2025-02-12T11:58"}
 ---
 
 
@@ -260,7 +260,7 @@ Don't use tags for metadata, just for simple grouping like this.
 
 Properties & Links are the real secret sauce of The Good Parts.
 
-![patreon.png|200](/img/user/Resources/Meta/attachments/patreon.png)
+![patreon.png|200](/img/user/No%20Boilerplate/patreon.png)
 
 ## [Patreon.com/NoBoilerplate](http://www.patreon.com/noboilerplate)
 
