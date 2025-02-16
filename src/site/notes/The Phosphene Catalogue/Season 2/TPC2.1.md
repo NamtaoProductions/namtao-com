@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","updated":"2025-01-13T10:58"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-1/","tags":["project/tpc"],"noteIcon":""}
 ---
 
 
@@ -257,7 +257,6 @@ There is blood in the water.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
 
 
 

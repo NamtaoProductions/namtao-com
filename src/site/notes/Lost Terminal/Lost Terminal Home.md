@@ -12,18 +12,19 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 ## Characters
 
-| Note                                                    | archetype           |
-| ------------------------------------------------------- | ------------------- |
-| [[Samik Jensen\|Samik Jensen]]                       | writer              |
-| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]       | maker               |
-| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]] | radio ham           |
-| [[Lost Terminal/Nia Andersen\|Nia Andersen]]         | Radio Ham           |
-| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]       | explorer            |
-| [[Lost Terminal/LUNA\|LUNA]]                         | journalist          |
-| [[Lost Terminal/Kamil Forester\|Kamil Forester]]     | technician          |
-| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]         | generalist engineer |
-| [[Lost Terminal/Alexander\|Alexander]]               | family              |
-| [[Aero\|Aero]]                                       | harbourmaster       |
+| Note                                                          | archetype           |
+| ------------------------------------------------------------- | ------------------- |
+| [[Samik Jensen\|Samik Jensen]]                             | writer              |
+| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
+| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
+| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
+| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
+| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
+| [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
+| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
+| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
+| [[Lost Terminal/Alexander\|Alexander]]                     | family              |
+| [[Aero\|Aero]]                                             | harbourmaster       |
 
 { .block-language-dataview}
 

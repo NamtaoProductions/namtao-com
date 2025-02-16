@@ -64,12 +64,11 @@ items:
     description: UI 
     items:
       p: editor:toggle-source
-      r: markdown:toggle-preview
       s: editor:toggle-spellcheck
       T: window:toggle-always-on-top
       t: tag-pane:open
-      L: app:toggle-left-sidebar
-      R: app:toggle-right-sidebar
+      l: app:toggle-left-sidebar
+      r: app:toggle-right-sidebar
 
 
   f:
