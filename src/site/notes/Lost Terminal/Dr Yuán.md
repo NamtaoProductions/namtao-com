@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/lost-terminal/dr-yuan/","noteIcon":"","updated":"2025-01-13T18:04"}
+{"dg-publish":true,"permalink":"/lost-terminal/dr-yuan/","noteIcon":"","updated":"2025-02-28T07:28"}
 ---
 
-> <span id="aliases[0]"/>Yuming<span type="end"/> is a <span id="age"/>30<span type="end"/> year old <span id="species"/>human<span type="end"/> <span id="archetype"/>microbiologist<span type="end"/>. <span id="pronouns[0]"/>she<span type="end"/> speaks with a <span id="voice"/>high, excited<span type="end"/> voice and has <span id="hair"/>black, long, asymmetric with undercut<span type="end"/> hair and <span id="eyes"/>brown<span type="end"/> eyes. <span id="pronouns[0]"/>she<span type="end"/> lives in <span id="home[0]"/>[[Lost Terminal/Station 6\|Station 6]]<span type="end"/>.
-> The voice of <span id="aliases[0]"/>Yuming<span type="end"/> is <span id="actor"/>Tris Oaten<span type="end"/>
+> <span query="get(aliases[0])"></span>Yuming<span type="end"></span> is a <span query="get(age)"></span>30<span type="end"></span> year old <span query="get(species)"></span>human<span type="end"></span> <span query="get(archetype)"></span>microbiologist<span type="end"></span>. <span query="get(pronouns[0])"></span>she<span type="end"></span> speaks with a <span query="get(voice)"></span>high, excited<span type="end"></span> voice and has <span query="get(hair)"></span>black, long, asymmetric with undercut<span type="end"></span> hair and <span query="get(eyes)"></span>brown<span type="end"></span> eyes. <span query="get(pronouns[0])"></span>she<span type="end"></span> lives in <span query="get(home[0])"></span>[[Lost Terminal/Station 6\|Station 6]]<span type="end"></span>.
+> The voice of <span query="get(aliases[0])"></span>Yuming<span type="end"></span> is <span query="get(actor)"></span>Tris Oaten<span type="end"></span>
 
  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index","gardenEntry"],"noteIcon":"","updated":"2025-02-12T12:02"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index","gardenEntry"],"noteIcon":"","updated":"2025-02-17T14:22"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
@@ -12,7 +12,7 @@
 > - Watch on [YouTube](https://www.youtube.com/c/NoBoilerplate)
 > - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@noboilerplate) for updates
 >
-> [[No Boilerplate/index\|Read more...]]
+> [[no-boilerplate/index\|Read more...]]
 >
 
 ## 🛰️ Lost Terminal
