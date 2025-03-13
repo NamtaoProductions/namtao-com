@@ -83,8 +83,6 @@ With Apologies
 
 <!-- column: 1 -->
 
-![image:width:100%](/img/user/Resources/Meta/attachments/c-cpp-same-picture.jpg)
-
 <!-- reset_layout -->
 
 <!--section: 2.2.2.1-->
@@ -345,12 +343,13 @@ Rust Macros are Witchcraft
 ===
 
 <!--section: 2.9.1-->
-```rust
+
+```js
 let n = await!(some_future_computation);
 ```
 
 Expands to roughly:
-```rust
+```js
 let mut future = IntoFuture::into_future($expression);
 let mut pin = unsafe { Pin::new_unchecked(&mut future) };
 let n = loop {
