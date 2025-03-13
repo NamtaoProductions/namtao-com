@@ -325,7 +325,7 @@ Rust Macros are Witchcraft
 <!--section: 2.9.1-->
 
 ```rust
-let n = await!(some_future_computation);
+let n = await!(some_future_computation); //fixed
 ```
 
 Expands to roughly:
