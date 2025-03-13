@@ -155,12 +155,12 @@ Grace Pointer's CV (or Perhaps "C++V")
 <!--section: 2.4.1.1-->
 
  
-- Lets imagine what her career could have looked like right up until today:
-  - minicomputer application development in the late 70s
-  - desktop application development in the early 80s
-  - by the late 80s, she started using this new thing called C++
-  - then Windows and mac desktop software in the early 90s
-  - and cgi web applications in the early web of the late 90s
+Lets imagine what her career could have looked like right up until today:
+ - minicomputer application development in the late 70s
+ - desktop application development in the early 80s
+ - by the late 80s, she started using this new thing called C++
+ - then Windows and mac desktop software in the early 90s
+ - and cgi web applications in the early web of the late 90s
 
 
 <!--section: 2.4.2-->
@@ -183,9 +183,8 @@ CGI RFC3875
 
 <!--section: 2.4.2.1-->
 
-- the CGI spec was written assuming c, even in 1.1, last revised in 2004
-- okcupid.com is *still* written in c
-- C is vital to all webapps even to this day: if you look inside every python, ruby, and javascript app, the power behind the throne is the huge modules written in C
+The CGI spec was written assuming c, even in 1.1, last revised in 2004 - okcupid.com is *still* written in c!
+C is vital to all webapps even to this day: if you look inside every python, ruby, and javascript app, the power behind the throne is the huge modules written in C
 
 
 <!--section: 2.4.3-->
@@ -199,15 +198,13 @@ CGI RFC3875
   - And even got on the objective-C train with iphone app development
   - during the AI explosion, she was writing GPU AI code, using Nvidia's CUDA platform, you guessed it, written in C
   - HER SKILLS ARE STILL RELEVANT NOW SHE'S RETIRED
-    - She can still do everything TODAY
-    - how wild is that! Compare this to every other field
-    - Not just teaching her skills, but the code she writes is relevant still, and will be, very likely, for her whole life
-    - She remains a core contributor to a dozen open source projects that run on millions of machines around the world
-  - A whole career in a single language, compare that to the 12 new javascript preprocessors that came out yesterday!
+    - She can still do everything TODAY - how wild is that! Compare this to every other field. Not just teaching her skills, but the code she writes is relevant still, and will be, very likely, for her whole life. She remains a core contributor to a dozen open source projects that run on millions of machines around the world.
+
+A whole career in a single language, compare that to the 12 new javascript preprocessors that came out yesterday!
   
 Grace's career sounds much more relaxing, doesn't it?
 (null pointers notwithstanding, of course)
-This is my pitch to you for your future, if you learn Rust TODAY:
+This is my pitch to you for your future, if you learn Rust TODAY.
 
 
 <!--section: 2.5-->
@@ -230,11 +227,8 @@ This is my pitch to you for your future, if you learn Rust TODAY:
 <!--section: 2.5.1.1-->
 
  
-- Let's take a step back: Why did C come to dominate our industry? in short, Low-level portability. Why is it STILL so relevant? low-level portability.
-  - write once, compile everywhere
-  - before C it was understood that if you wanted portability you had to sacrifice low-level power and speed.
-  - and vice versa:
-      - if you wanted to write operating systems and games that needed to run FAST, you had to write low-level assembly for your specific architecture, and then rewrite it almost entirely for each new machine.
+Let's take a step back: Why did C come to dominate our industry? in short, Low-level portability. Why is it STILL so relevant? low-level portability; write once, compile everywhere. Before C it was understood that if you wanted portability you had to sacrifice low-level power and speed, and vice versa:
+If you wanted to write operating systems and games that needed to run FAST, you had to write low-level assembly for your specific architecture, and then rewrite it almost entirely for each new machine.
 
 
 
@@ -277,7 +271,7 @@ Language Comparison
 
  
 
-- This reminds me of where we are today, where as generalist software developers, we write javascript for browser development, backend code in python, ruby or nodejs, and bare metal code still requires C, or perhaps Zig, if you're lucky. And if you want to do ios or windows application development, apple or microsoft have some very reasonably priced toolkits to show you.
+This reminds me of where we are today, where as generalist software developers, we write javascript for browser development, backend code in python, ruby or nodejs, and bare metal code still requires C, or perhaps Zig, if you're lucky. And if you want to do ios or windows application development, apple or microsoft have some very reasonably priced toolkits to show you.
 
 There is only one language today that allows you to follow Grace Pointer's example, and it's no longer C, and it's not js.
 As web development has moved to high-level languages, leaving c behind, Rust is the only language that can do it all.
@@ -310,22 +304,8 @@ Rust Editions
 <!--section: 2.8.1-->
 <!-- new_lines: 5 -->
 
-```typst +render
-#set text(
-  font: "FiraCode Nerd Font",
-  size: 40pt,
-)
-#set page(fill: none)
-#set quote(block: true)
-
-#quote(attribution: [Grayden Hoare])[
-"Rust is 
-
-over-engineered 
-
-for survival"
-]
-```
+> [!QUOTE] Graydon Hoare
+> "Rust is over-engineered for survival"
 
 <!--section: 2.8.1.1-->
 
@@ -344,12 +324,13 @@ Rust Macros are Witchcraft
 
 <!--section: 2.9.1-->
 
-```js
+```rust
 let n = await!(some_future_computation);
 ```
 
 Expands to roughly:
-```js
+
+```rust
 let mut future = IntoFuture::into_future($expression);
 let mut pin = unsafe { Pin::new_unchecked(&mut future) };
 let n = loop {
@@ -396,7 +377,7 @@ Part 2: All the things you can do with Rust
 
 <!--section: 2.10.1.1-->
 
-Here is speedrun of all the things you can build if you learn rust, a single language, in 2025.
+Here is speedrun of all the things you can build if you learn rust, a single language, in 2025:
 
 
 <!--section: 2.11-->
@@ -664,7 +645,6 @@ pub struct SpaceFarer {
 
 <!--section: 2.15.1.1-->
 
- 
 Don't want to write your game engine from scractch? Me either!
 
 Godot has native support for Rust, and if you'd like the engine to be written top-to-bottom in Rust, the Bevy project might be just what you need!
@@ -969,6 +949,7 @@ Thank You!
 To all my patrons, you make this possible.
 
 <!-- new_lines: 1 -->
+
 ```rust
 let producers: [&str; 0] = [];
 let sponsors = [
@@ -1003,5 +984,5 @@ Thank you so much for watching, talk to you on Discord.
 
 
 <!--section: 3-->
----
+
  
