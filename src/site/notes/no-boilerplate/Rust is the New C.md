@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T12:17"}
+{"dg-publish":true,"permalink":"/no-boilerplate/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T12:34"}
 ---
 
 
@@ -79,7 +79,6 @@ With Apologies
 > _I will refer to both C and C++ interchangeably as "C" in this video._
 > &nbsp;
 > My apologies.
-> &nbsp;
 
 <!-- column: 1 -->
 
@@ -148,9 +147,7 @@ Grace Pointer's CV (or Perhaps "C++V")
 
 <!-- new_lines: 2 -->
 
-> &nbsp;
 > A whole career in a _single_ language!
-> &nbsp;
 
 <!--section: 2.4.1.1-->
 
@@ -175,7 +172,6 @@ CGI RFC3875
 > - *Meta-Variables*
 > &nbsp;
 >     Meta-variables are passed to the script in identically named environment variables. These are accessed by the `C library routine getenv()` or variable environ.
-> &nbsp;
 
 <!-- new_lines: 2 -->
 
@@ -265,7 +261,6 @@ Language Comparison
 
 > [!NOTE] Note
  > (This is all very approximate, please don't take this too seriously)
- > &nbsp;
 
 <!--section: 2.6.1.1-->
 
@@ -343,7 +338,6 @@ let n = loop {
 
 > [!NOTE] Rust RFC-2394
 > "`await!` is a compiler built-in to leave space for deciding its exact syntax later."
-> &nbsp;
 
 <!--section: 2.9.1.1-->
 
@@ -472,7 +466,6 @@ Tauri supports:
 
 > [!NOTE]
 > All using with 90% less disk space than Electron, a _hello world_ is 600KB
-> &nbsp;
 
 <!--section: 2.13.1.1-->
 
@@ -639,7 +632,6 @@ pub struct SpaceFarer {
 > https://godot-rust.github.io/
 > &nbsp;
 > https://bevyengine.org/
-> &nbsp;
 
 <!-- reset_layout -->
 
@@ -671,7 +663,6 @@ pub unsafe fn add(a: &[f32], b: &[f32], c: *mut f32) {
 
 > [!NOTE] See more
 > https://rust-gpu.github.io/
-> &nbsp;
 
 <!--section: 2.16.1.1-->
 
@@ -752,7 +743,6 @@ dnf install steam
 
 > [!important]  https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/
 > "The hardware is happy because the system is 16K, the game is happy because the virtual machine is 4K, and you’re happy because you can play Fallout 4."
-> &nbsp;
 
 <!--section: 2.18.1.1-->
 
@@ -891,10 +881,6 @@ Things people who have never compiled Rust say:
 <!-- column: 1 -->
 
 <!-- new_lines: 11 -->
-
-![image:width:70%](/img/user/Resources/Meta/attachments/rust-logo.png)
-
-&nbsp;Just you watch me
 
 <!-- reset_layout -->
 
