@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T11:38"}
+{"dg-publish":true,"permalink":"/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T12:17"}
 ---
 
 
-<!--section: 1-->
 # Rust is the New C
 
-<!--section: 2.1.1-->
 ![image:width:70%](/img/user/Resources/Meta/attachments/rust-logo.png)
 
 <!--section: 2.1.1.1-->
@@ -118,35 +116,8 @@ But there's only one language that can do all of this today, and it ain't C.
 
 
 <!--section: 2.3-->
-Public Domain Videos
-===
-
-<!--section: 2.3.1-->
-<!-- column_layout: [2,5,2] -->
-<!-- column: 0 -->
-<!-- column: 1 -->
-
-![image:width:100%](/img/user/Resources/Meta/attachments/cc-zero-2k.png)
-
-> [!NOTE]
-> For all links, read my scripts here:
-> - `www.namtao.com`
-> - `github.com/0atman/noboilerplate`
-> &nbsp;
-
-<!-- column: 2 -->
-<!-- new_lines: 18 -->
-
-![](/img/user/Resources/Meta/attachments/white-logo.png)
-
-<!-- reset_layout -->
 
 <!--section: 2.3.1.1-->
-
-My video scripts are dedicated to the public domain.
-
-Everything you see here: script, links, and images are part of a Markdown document available freely on github, and on my website.
-
 
 <!--section: 2.4-->
 Grace Pointer's CV (or Perhaps "C++V")
@@ -247,22 +218,10 @@ This is my pitch to you for your future, if you learn Rust TODAY:
 <!--section: 2.5.1-->
 <!-- new_lines: 3 -->
 
-```typst +render
-#set text(
-  font: "FiraCode Nerd Font",
-  size: 40pt,
-)
-#set page(fill: none)
-#set quote(block: true)
-
-#quote(attribution: [C Developers])[
-    "Lisp developers know 
-    
-    the *value* of everything 
-    
-    and the *cost* of nothing"
-]
-```
+> [!QUOTE] C Developers
+> "Lisp developers know
+> the *value* of everything
+> and the *cost* of nothing"
 
 <!-- new_lines: 2 -->
 
@@ -334,21 +293,9 @@ Popularity Matters
 <!--section: 2.7.1-->
 <!-- new_lines: 5 -->
 
-```typst +render
-#set text(
-  font: "FiraCode Nerd Font",
-  size: 40pt,
-)
-#set page(fill: none)
-#set quote(block: true)
-
-#quote(attribution: [Raffi Molero, video comment])[
-"If you almost *never add* anything, *you get C*.
-
-If you almost *never remove* anything, *you get C++*."
-
-]
-```
+> [!QUOTE] Raffi Molero, video comment
+> "If you almost *never add* anything, *you get C*.
+> If you almost *never remove* anything, *you get C++*."
 
 <!--section: 2.7.1.1-->
 
@@ -505,39 +452,6 @@ The one used here on line 4 is called `view!`, you can tell a macro is being cal
 
 
 <!--section: 2.12-->
-💝 http://www.patreon.com/noboilerplate
-===
-
-<!--section: 2.12.1-->
-<!-- column_layout: [2,5,2] -->
-<!-- column: 0 -->
-
-<!-- column: 1 -->
-
-<!-- new_lines: 1 -->
-![image:width:50%](/img/user/Resources/Meta/attachments/patreon.png)
-
-<!-- new_lines: 2 -->
-
-- Mentoring
-- Early Videos
-- Discord Perks
-- Producer Credits
-- My infinite gratitude
-
-<!-- reset_layout -->
-
-<!--section: 2.12.1.1-->
-
- 
-It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure.
-
-On my patreon, I offer a limited number of mentoring slots.
-If you'd like 1:1 tuition on personal organisation, Rust, creative production, web tech, or anything that I talk about in my videos, do sign up and let's chat!
-
-If you'd like to see and give feedback on my videos up to a week early, as well as get private discord access, and even your name in the credits, it would be very kind of you to support me here on my Patreon.
-
-
 
 <!--section: 2.13-->
 Tauri Replacing Electron for Mobile
