@@ -10,11 +10,11 @@
 ![image:width:70%](/img/user/Resources/Meta/attachments/rust-logo.png)
 
 <!--section: 2.1.1.1-->
-|
+
 Hi friends, my name is Tris and this is No Boilerplate, where I make fast, technical videos.
 
 Here's something I think about often:
--->
+
 
 <!--section: 2.2-->
 The 1970s: What a time for computing
@@ -67,7 +67,7 @@ Against this backdrop, the C programming language was written, first for the PDP
 
 I often daydream about the lives of people who picked up C just at this perfect time, right at the start.
 
--->
+
 
 <!--section: 2.2.2-->
 With Apologies
@@ -90,10 +90,10 @@ With Apologies
 <!-- reset_layout -->
 
 <!--section: 2.2.2.1-->
-|
+
 After they learned this relatively small language, they could then have spent DECADES writing JUST C, one language (one ish languages) for all programs, on all devices!
 
--->
+
 
 <!--section: 2.2.3-->
 C Will Never Die
@@ -101,7 +101,7 @@ C Will Never Die
 ![image:width:100%](/img/user/Resources/Meta/attachments/redmonk-top-10-c-cpp.png)
 
 <!--section: 2.2.3.1-->
-|
+
 
 C is doggedly refusing to leave Redmonk's top 10 languages, by github projects and stackoverflow tags.
 
@@ -115,7 +115,7 @@ everything was, and to a large extent, still is, written in C:
 
 But there's only one language that can do all of this today, and it ain't C.
 
--->
+
 
 <!--section: 2.3-->
 Public Domain Videos
@@ -146,7 +146,7 @@ Public Domain Videos
 My video scripts are dedicated to the public domain.
 
 Everything you see here: script, links, and images are part of a Markdown document available freely on github, and on my website.
--->
+
 
 <!--section: 2.4-->
 Grace Pointer's CV (or Perhaps "C++V")
@@ -192,7 +192,7 @@ Grace Pointer's CV (or Perhaps "C++V")
   - by the late 80s, she started using this new thing called C++
   - then Windows and mac desktop software in the early 90s
   - and cgi web applications in the early web of the late 90s
--->
+
 
 <!--section: 2.4.2-->
 CGI RFC3875
@@ -213,11 +213,11 @@ CGI RFC3875
 &mdash; https://www.rfc-editor.org/rfc/rfc3875#section-7.2
 
 <!--section: 2.4.2.1-->
-|
+
 - the CGI spec was written assuming c, even in 1.1, last revised in 2004
 - okcupid.com is *still* written in c
 - C is vital to all webapps even to this day: if you look inside every python, ruby, and javascript app, the power behind the throne is the huge modules written in C
--->
+
 
 <!--section: 2.4.3-->
 <!-- end_slide -->
@@ -239,7 +239,7 @@ CGI RFC3875
 Grace's career sounds much more relaxing, doesn't it?
 (null pointers notwithstanding, of course)
 This is my pitch to you for your future, if you learn Rust TODAY:
--->
+
 
 <!--section: 2.5-->
 <!-- end_slide -->
@@ -279,7 +279,7 @@ This is my pitch to you for your future, if you learn Rust TODAY:
   - and vice versa:
       - if you wanted to write operating systems and games that needed to run FAST, you had to write low-level assembly for your specific architecture, and then rewrite it almost entirely for each new machine.
 
--->
+
 
 <!--section: 2.6-->
 Language Comparison
@@ -325,7 +325,7 @@ Language Comparison
 There is only one language today that allows you to follow Grace Pointer's example, and it's no longer C, and it's not js.
 As web development has moved to high-level languages, leaving c behind, Rust is the only language that can do it all.
 Yes, some of these applications are **possible** in other languages as well as C, but no-one would argue that would be FUN.
--->
+
 
 <!--section: 2.7-->
 Popularity Matters
@@ -351,12 +351,12 @@ If you almost *never remove* anything, *you get C++*."
 ```
 
 <!--section: 2.7.1.1-->
-|
+
 
 C takes backwards compatibility extremely seriously, with a pace of development that only a mother could love.
 
 High-level languages tend to have more of a fcuk it, ship it attitude. When new features are added you are expected to keep up with the pace of development if you want them. (React developers know what I'm talking about)
--->
+
 
 <!--section: 2.8-->
 Rust Editions
@@ -383,7 +383,7 @@ for survival"
 ```
 
 <!--section: 2.8.1.1-->
-|
+
 
 Rust has learned from C and Cpp, eschewing a middle road comprimise, instead taking a quantom superpositon of BOTH SIMULTANEIOUSLY
 It is both uncomprimisingly backwards and uncomprimisingly forwards compatible.
@@ -391,7 +391,7 @@ This is guarenteed by the Rust Editions system, ensuring that libraries expectin
 
 forwards compatibility is also augmented at a less formal level with the macro system.
 
--->
+
 
 <!--section: 2.9-->
 Rust Macros are Witchcraft
@@ -419,7 +419,7 @@ let n = loop {
 > &nbsp;
 
 <!--section: 2.9.1.1-->
-|
+
 
 Like in Lisps, Rust macros make the whole language available at compile time to rewrite the syntax before passing the generated code to the compiler.
 
@@ -429,7 +429,7 @@ A concrete example of this forwards compatibility was with the `await!` macro, i
 
 The latter won out, but no core language changes were needed to test it in real code - macros allow the new syntax to be a library.
 
--->
+
 
 <!--section: 2.10-->
 Part 2: All the things you can do with Rust
@@ -449,9 +449,9 @@ Part 2: All the things you can do with Rust
 <!-- reset_layout -->
 
 <!--section: 2.10.1.1-->
-|
+
 Here is speedrun of all the things you can build if you learn rust, a single language, in 2025.
--->
+
 
 <!--section: 2.11-->
 🌐 LEPTOS.dev
@@ -486,7 +486,7 @@ pub fn button() -> impl IntoView {
 <!-- reset_layout -->
 
 <!--section: 2.11.1.1-->
-|
+
 Until you, my lovely audience, decided I should be a YouTuber, I was a web developer.
 It's my favourite way to publish programs that users interact with.
 The browser is an operating system unto itself, chromebooks certainly think so, and you can use it to make far more then pretty web pages.
@@ -502,7 +502,7 @@ Javascript developers are half right in thinking they have a job and language fo
 EXCEPT to do what Leptos is doing here, embedd html/RSX-like syntax, you need external build tools, so enjoy (re)learning that ecosystem for each new framework.
 In Leptos, as in every Rust project, build tools are a macro away.
 The one used here on line 4 is called `view!`, you can tell a macro is being called because the compiler requires them to be named with a bang at the end of their name.
--->
+
 
 <!--section: 2.12-->
 💝 http://www.patreon.com/noboilerplate
@@ -537,7 +537,7 @@ If you'd like 1:1 tuition on personal organisation, Rust, creative production, w
 
 If you'd like to see and give feedback on my videos up to a week early, as well as get private discord access, and even your name in the credits, it would be very kind of you to support me here on my Patreon.
 
--->
+
 
 <!--section: 2.13-->
 Tauri Replacing Electron for Mobile
@@ -586,7 +586,7 @@ Tauri supports:
 But what if you want your webapp to run offline on the user's device?
 
 No need to reach for Electron, Tauri is a rust-powered replacement supporting every store out there.
--->
+
 
 <!--section: 2.13.2-->
 Poem + HTMX
@@ -630,7 +630,7 @@ async fn index(&self, name: MyQuery) -> PlainText<String> {
 Write your native device code in Rust, and your application code in Rust, maybe even Poem and HTMX, here.
 A simple, type-checked backend plus a simple frontend, wonderful!
 
--->
+
 
 <!--section: 2.14-->
 Windows crate
@@ -675,7 +675,7 @@ All windows apis are available in the `windows` crate, from messageboxes to audi
 
 (Tauri actually uses this crate for some of its own native functionality)
 
--->
+
 
 <!--section: 2.14.2-->
 DirectX12 Example
@@ -710,9 +710,9 @@ fn create_vertex_buffer(
 <!-- reset_layout -->
 
 <!--section: 2.14.2.1-->
-|
+
 EVEN DIRECT3D is available, write your next native windows game using it!
--->
+
 
 <!--section: 2.15-->
 Game Dev with Bevy/Godot
@@ -750,12 +750,12 @@ pub struct SpaceFarer {
 <!-- reset_layout -->
 
 <!--section: 2.15.1.1-->
-|
+
  
 Don't want to write your game engine from scractch? Me either!
 
 Godot has native support for Rust, and if you'd like the engine to be written top-to-bottom in Rust, the Bevy project might be just what you need!
--->
+
 
 <!--section: 2.16-->
 ML/AI Computing
@@ -781,7 +781,7 @@ pub unsafe fn add(a: &[f32], b: &[f32], c: *mut f32) {
 > &nbsp;
 
 <!--section: 2.16.1.1-->
-|
+
 
 Running massively parallel workloads on comodity GPU hardware has been made much more accessbile by nVidia's CUDA framework.
 FOR BETTER AND WORSE
@@ -792,7 +792,7 @@ The `cuda_std` crate compiles rust directly into native gpu code.
 
 This is something that previously was only supported using C, C++ and (Am I reading this right?) FORTRAN. OK we HAVE to see some of that  
 
--->
+
 
 <!--section: 2.17-->
 From nVidia's CUDA Fortran examples
@@ -829,13 +829,13 @@ I know, I'm shocked too.
 [Further reading for the extremely curious](https://docs.nvidia.com/hpc-sdk/)
 
 <!--section: 2.17.1.1-->
-|
+
 
 OK, cool! wow fortran's alive and well in high performance computing, eh?
 
 Moving on!
 
--->
+
 
 <!--section: 2.18-->
 Asahi Linux
@@ -862,7 +862,7 @@ dnf install steam
 > &nbsp;
 
 <!--section: 2.18.1.1-->
-|
+
 What the asahi linux team have done to get linux working on apple silicon is nothing short of mirculous
 An early breakthrough for the team was after they reverse-engineered the propriatory apple silicon GPU, they then wrote a driver for it using Rust.
 They did this to sidestep the manual memory management, and inevitable bugs that driver code is plagued with if you write it in C.
@@ -872,7 +872,7 @@ The first version of this driver was written by Asahi Lina in 5 weeks, a success
 I don't regularly write entire drivers from scratch, but that does sound very fast!
 
 By the way, if you'd like try asahi linux, you can dual boot any m1 or m2 machine with this single command
--->
+
 
 <!--section: 2.19-->
 Uutils Coreutils
@@ -924,7 +924,7 @@ Uutils, as you can see, is nearly there.
 
 original image: https://raw.githubusercontent.com/uutils/coreutils-tracking/main/gnu-results.png
 
--->
+
 
 <!--section: 2.20-->
 Bare-metal Rust
@@ -966,10 +966,10 @@ or
 (though this is for ESP32, other brands are available.)
 
 <!--section: 2.20.1.1-->
-|
+
 While an undesirable effect in physical engineering, I am extremely excited that I can write bare-metal rust, by which I mean rust running directly on real-time chips, for robotics or low-power sensor use.
 Or maybe, even satalites!
--->
+
 
 <!--section: 2.21-->
 Things people who have never compiled Rust say:
@@ -1006,7 +1006,7 @@ Things people who have never compiled Rust say:
 <!-- reset_layout -->
 
 <!--section: 2.21.1.1-->
-|
+
 Over the course of my short Rust career so far, I have read every counterarguement by people who have never compiled a line of rust.
 They tell me I can't write low-level performant code, or high-level fast prototypes, or browser-based apps, or games, or whatever their pet domain is.
 
@@ -1014,7 +1014,7 @@ If you hear these opinions, don't get stressed and argue with them, tell them wh
 
 Just you watch me.
 
--->
+
 
 <!--section: 2.22-->
 I Can Finally Chill
@@ -1036,7 +1036,7 @@ gantt
 (This graph is not as funny to me as I thought it was going to be, seeing that red line)
 
 <!--section: 2.22.1.1-->
-|
+
 
 - c's low-level portability was important for a time when high-level languages only meant portability
 - that's not the case any more, we expect far more of our high level languages: ergonomics, rapid prototyping, excellent tooling and deployment, and web-first interfaces
@@ -1046,7 +1046,7 @@ I'm so relieved that just like Grace Pointer, I have found a single language I c
 Perhaps for the rest of my life.
 
 I can finally chill.
--->
+
 
 <!--section: 2.23-->
 Thank You!
@@ -1087,7 +1087,7 @@ Transcripts and compile-checked markdown sourcecode are available on namtao.com 
 
 Thank you so much for watching, talk to you on Discord.
 
--->
+
 
 <!--section: 3-->
 ---
