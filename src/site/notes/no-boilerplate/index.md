@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/index/","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/no-boilerplate/index/","tags":["index"],"noteIcon":"","updated":"2025-03-13T11:36"}
 ---
 
 
@@ -15,7 +15,8 @@ I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides
 
 # Videos
 43. All previous video scripts are [on github](https://github.com/0atman/noboilerplate)
-44. [[no-boilerplate/NB43 - Obsidian The Good Parts\|NB43 - Obsidian The Good Parts]]
+44. [[no-boilerplate/Obsidian The Good Parts\|Obsidian The Good Parts]]
+45. [[Rust-is-the-new-C\|Rust-is-the-new-C]]
 
 ---
 
