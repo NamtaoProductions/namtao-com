@@ -55,7 +55,7 @@ The first IBM PC
 <!-- reset_layout -->
 
 <!--section: 2.2.1.1-->
-<!-- presenterm:speaker_note: |
+
  
 THE 70s MUST HAVE BEEN A WILD TIME TO BE ALIVE, right?
 
@@ -142,7 +142,7 @@ Public Domain Videos
 <!-- reset_layout -->
 
 <!--section: 2.3.1.1-->
-<!-- presenterm:speaker_note: |
+
 My video scripts are dedicated to the public domain.
 
 Everything you see here: script, links, and images are part of a Markdown document available freely on github, and on my website.
@@ -184,7 +184,7 @@ Grace Pointer's CV (or Perhaps "C++V")
 > &nbsp;
 
 <!--section: 2.4.1.1-->
-<!-- presenterm:speaker_note: |
+
  
 - Lets imagine what her career could have looked like right up until today:
   - minicomputer application development in the late 70s
@@ -224,7 +224,7 @@ CGI RFC3875
 - repeat grace slide
 
 <!--section: 2.4.3.1-->
-<!-- presenterm:speaker_note: |
+
  
   - Grace then tracked the explosion of game development in the 2000s
   - And even got on the objective-C train with iphone app development
@@ -271,7 +271,7 @@ This is my pitch to you for your future, if you learn Rust TODAY:
 *this is, naturally, applied to all other languages
 
 <!--section: 2.5.1.1-->
-<!-- presenterm:speaker_note: |
+
  
 - Let's take a step back: Why did C come to dominate our industry? in short, Low-level portability. Why is it STILL so relevant? low-level portability.
   - write once, compile everywhere
@@ -317,7 +317,7 @@ Language Comparison
  > &nbsp;
 
 <!--section: 2.6.1.1-->
-<!-- presenterm:speaker_note: |
+
  
 
 - This reminds me of where we are today, where as generalist software developers, we write javascript for browser development, backend code in python, ruby or nodejs, and bare metal code still requires C, or perhaps Zig, if you're lucky. And if you want to do ios or windows application development, apple or microsoft have some very reasonably priced toolkits to show you.
@@ -528,7 +528,7 @@ The one used here on line 4 is called `view!`, you can tell a macro is being cal
 <!-- reset_layout -->
 
 <!--section: 2.12.1.1-->
-<!-- presenterm:speaker_note: |
+
  
 It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure.
 
@@ -581,7 +581,7 @@ Tauri supports:
 > &nbsp;
 
 <!--section: 2.13.1.1-->
-<!-- presenterm:speaker_note: |
+
 
 But what if you want your webapp to run offline on the user's device?
 
@@ -625,7 +625,7 @@ async fn index(&self, name: MyQuery) -> PlainText<String> {
 <!-- reset_layout -->
 
 <!--section: 2.13.2.1-->
-<!-- presenterm:speaker_note: |
+
 
 Write your native device code in Rust, and your application code in Rust, maybe even Poem and HTMX, here.
 A simple, type-checked backend plus a simple frontend, wonderful!
@@ -667,7 +667,7 @@ fn main() {
 <!-- reset_layout -->
 
 <!--section: 2.14.1.1-->
-<!-- presenterm:speaker_note: |
+
 
 Not native enough?
 
@@ -915,7 +915,7 @@ All my friends are invited:
 <!-- reset_layout -->
 
 <!--section: 2.19.1.1-->
-<!-- presenterm:speaker_note: |
+
 
 uutils is an attempt at rewriting the core unix CLI utilities in Rust. It is available for Linux, Windows, Mac and other platforms.
 
@@ -1072,7 +1072,7 @@ I'd be very grateful for your support on:
 - [Gumroad](https://namtao.gumroad.com)
 
 <!--section: 2.23.1.1-->
-<!-- presenterm:speaker_note: |
+
  
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
 
