@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T11:36"}
+{"dg-publish":true,"permalink":"/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T11:38"}
 ---
 
 
@@ -1023,23 +1023,7 @@ I Can Finally Chill
 <!--section: 2.22.1-->
 <!-- new_lines: 2 -->
 
-```mermaid +render +width:100%
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'fontFamily': 'monospace',
-      'primaryColor': '#BB2528',
-      'primaryTextColor': '#fff',
-      'primaryBorderColor': '#7C0000',
-      'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#fff'
-    }
-  }
-}%%
-
-
+```mermaid
 gantt
     dateFormat YYYY-MM-DD
     axisFormat %Y
