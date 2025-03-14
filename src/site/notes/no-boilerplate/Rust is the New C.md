@@ -68,8 +68,6 @@ I often daydream about the lives of people who picked up C just at this perfect 
 
 
 <!--section: 2.2.2-->
-With Apologies
-===
 
 <!-- column_layout: [1,1] -->
 
