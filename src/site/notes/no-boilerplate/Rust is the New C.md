@@ -24,7 +24,7 @@ The 1970s: What a time for computing
 <!-- column_layout: [2,3,2] -->
 <!-- column: 0 -->
 
-# 1970
+## 1970
 ![image:width:100%](/img/user/Resources/Meta/attachments/PDP-11-70.jpg)
 
 A PDP-11 minicomputer
@@ -33,7 +33,7 @@ A PDP-11 minicomputer
 
 <!-- column: 1 -->
 
-# 1975
+## 1975
 ![](/img/user/Resources/Meta/attachments/altair-8800.png)
 
 <!-- new_lines: 1 -->
@@ -42,7 +42,7 @@ The first personal computer
 `Alien`
 
 <!-- column: 2 -->
-# 1981
+## 1981
 
 ![](/img/user/Resources/Meta/attachments/first-ibm-pc.png)
 
