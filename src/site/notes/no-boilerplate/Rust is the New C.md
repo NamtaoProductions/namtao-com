@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T12:34"}
+{"dg-publish":true,"permalink":"/no-boilerplate/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T13:58"}
 ---
 
 
@@ -435,7 +435,7 @@ Tauri Replacing Electron for Mobile
 <!-- column_layout: [3,2] -->
 <!-- column: 0 -->
 
-```sh
+```bash
 # Android
 tauri android build -- --aab
 
