@@ -1,19 +1,14 @@
 ---
+title: "/{{ page.fileSlug }}/"
 permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
+<html lang="en">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+    <title>{{ page.fileSlug }} | {{ meta.siteName }}</title>
     {%include "components/pageheader.njk"%}
-    {% for imp in dynamics.common.head %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.notes.head %}
-      {% include imp %}
-    {% endfor %}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}} {{ page.fileSlug | slugify }}">
     {%include "components/notegrowthhistory.njk"%}
     
     {% if settings.dgShowFileTree !== true %}
@@ -67,7 +62,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | taggify | link | safe}}
+      {{ content | hideDataview | link | taggify | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}

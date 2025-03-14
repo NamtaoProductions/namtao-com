@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
+<html lang="en">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} | {{ meta.siteName }}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
@@ -10,7 +10,7 @@
       {% include imp %}
     {% endfor %}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}} {{ page.fileSlug | slugify }}">
     {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
@@ -23,7 +23,7 @@
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
       {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle  }}</h1>
+        <h1>{{ noteTitle }}</h1>
       {% endif %}
 
       <div class="header-meta">
@@ -52,7 +52,7 @@
       {% for imp in dynamics.index.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | taggify | link | safe}}
+      {{ content | hideDataview | link | taggify | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
