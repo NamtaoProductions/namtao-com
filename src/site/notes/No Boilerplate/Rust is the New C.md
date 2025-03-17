@@ -3,9 +3,6 @@
 ---
 
 <iframe title="Rust makes you feel like a GENIUS" width="560" height="315" src="https://makertube.net/videos/embed/cdba371f-83b8-4c2f-9715-8ac488f391a8" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-# Rust is the New C
-
-![image:width:70%](/img/user/Resources/Meta/attachments/rust-logo.png)
 
 <!--section: 2.1.1.1-->
 
