@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/rust-is-the-new-c/","tags":["project"],"noteIcon":"","updated":"2025-03-13T13:58"}
+{"dg-publish":true,"permalink":"/no-boilerplate/rust-is-the-new-c/","tags":["project"],"noteIcon":"","created":"2025-02-21T11:46","updated":"2025-03-14T07:33"}
 ---
 
-
+<iframe title="Rust makes you feel like a GENIUS" width="560" height="315" src="https://makertube.net/videos/embed/cdba371f-83b8-4c2f-9715-8ac488f391a8" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 # Rust is the New C
 
 ![image:width:70%](/img/user/Resources/Meta/attachments/rust-logo.png)
