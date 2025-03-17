@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/no-boilerplate/rust-is-the-new-c/","tags":["project"],"noteIcon":"","created":"2025-02-21T11:46","updated":"2025-03-14T07:33"}
 ---
 
-<iframe title="Rust makes you feel like a GENIUS" width="560" height="315" src="https://makertube.net/videos/embed/cdba371f-83b8-4c2f-9715-8ac488f391a8" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
+<iframe title="Rust is the New C" width="560" height="315" src="https://makertube.net/videos/embed/ac1f333b-23eb-47e7-8aa4-7373cf79e57e" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 <!--section: 2.1.1.1-->
 
