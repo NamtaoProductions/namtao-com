@@ -16,7 +16,7 @@ I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides
 # Videos
 43. All previous video scripts are [on github](https://github.com/0atman/noboilerplate)
 44. [[No Boilerplate/Obsidian The Good Parts\|Obsidian The Good Parts]]
-45. [[No Boilerplate/Rust is the New C\|Rust is the New C]]
+45. [[public/Rust is the New C\|Rust is the New C]]
 
 ---
 
