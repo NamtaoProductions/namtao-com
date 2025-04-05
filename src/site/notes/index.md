@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2025-02-03T15:16","updated":"2025-03-13T13:42"}
+{"dg-publish":true,"permalink":"/index/","title":"Home","tags":["index","gardenEntry"],"noteIcon":"","created":"2025-02-03T15:16","updated":"2025-03-14T07:38"}
 ---
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
@@ -32,7 +32,7 @@
 > - Listen at [ModemPrometheus.com](https://www.modemprometheus.com/)
 > - Follow [@ModemPrometheus@namtao.com](https://namtao.com/@modemprometheus) for updates
 >
-> [[Modem Prometheus/Modem Prometheus Home\|Read more...]]
+> [[Modem Prometheus Home\|Read more...]]
 
 ## 🖼️ The Phosphene Catalogue
 > [!EXAMPLE] 1970s Magical Realism Podcast

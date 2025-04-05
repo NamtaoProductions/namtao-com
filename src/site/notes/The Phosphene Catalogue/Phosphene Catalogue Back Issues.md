@@ -15,10 +15,10 @@
 7. [[The Phosphene Catalogue/TPC1.7\|TPC1.7]]
 
 # Season 2
-1. [[The Phosphene Catalogue/Season 2/TPC2.1\|TPC2.1]]
-2. [[The Phosphene Catalogue/Season 2/TPC2.2\|TPC2.2]]
-3. [[The Phosphene Catalogue/Season 2/TPC2.3\|TPC2.3]]
-4. [[The Phosphene Catalogue/Season 2/TPC2.4\|TPC2.4]]
-5. [[The Phosphene Catalogue/Season 2/TPC2.5\|TPC2.5]]
+1. [[TPC2.1\|TPC2.1]]
+2. [[TPC2.2\|TPC2.2]]
+3. [[TPC2.3\|TPC2.3]]
+4. [[TPC2.4\|TPC2.4]]
+5. [[TPC2.5\|TPC2.5]]
 6. [[The Phosphene Catalogue/Season 2/TPC2.6\|TPC2.6]]
 7. unpublished
