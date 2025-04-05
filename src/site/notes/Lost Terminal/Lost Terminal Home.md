@@ -10,26 +10,6 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 > New episodes Mondays. **[Watch here](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=1)**
 
-## Characters
-
-| Note                                                          | archetype           |
-| ------------------------------------------------------------- | ------------------- |
-| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
-| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
-| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
-| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
-| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
-| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
-| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
-| [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
-| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
-| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
-| [[Lost Terminal/Alexander\|Alexander]]                     | family              |
-| [[Freja from Horns\|Freja from Horns]]                     | \-                  |
-| [[Aero\|Aero]]                                             | harbourmaster       |
-
-{ .block-language-dataview}
-
 # Season Summary
 
 > [!DANGER]
@@ -58,6 +38,26 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 { .block-language-dataview}
 
+## Characters
+
+| Note                                                          | archetype           |
+| ------------------------------------------------------------- | ------------------- |
+| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
+| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
+| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
+| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
+| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
+| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
+| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
+| [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
+| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
+| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
+| [[Lost Terminal/Alexander\|Alexander]]                     | family              |
+| [[Freja from Horns\|Freja from Horns]]                     | \-                  |
+| [[Aero\|Aero]]                                             | harbourmaster       |
+
+{ .block-language-dataview}
+
 # Errata
 
 > Especially in the early seasons, I didn't have as comprehensive system to keep track of facts and figures in my writing, so there are some mistakes.
@@ -77,38 +77,30 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 Every episode has headline credits within the episode, and extended credits in the descriptions, both on youtube and in the shownotes of the podcast.
 However, Lost Terminal would not be what it is today without these people, who I would like to thank here too:
 
-Voices
-Credits voiced by Lucy Stringer
-Antarctica voiced by Wolfie Thorns
-Ivan voiced by Alex Bayly
-Ana voiced by Oriel Winslow
-MINI voiced by Kate Ashford
-Yeshi voiced by Robin Howell
-PETER voiced by Karl Williams
-Alexander voiced by Dan Yilmaz
-50Meg voiced by Carin Calder-La Croix
-Alec voiced by Neil Murton
-NANA voiced by Lisa Ashton-Riemers
-Dr Redwing voiced by Gina Sneesby
-Producers
-Ada Phillips
-Kit
-Wil Taylor
-Kit
-deeryeen
-Andrew Krieg
-Toby
-Jade Felicity Bilkey
-Character Concepts
-Sometimes friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look here for how your character ideas can be included in Lost Terminal.
+## Voices
+- Credits voiced by Lucy Stringer
+- Antarctica voiced by Wolfie Thorns
+- Ivan voiced by Alex Bayly
+- Ana voiced by Oriel Winslow
+- MINI voiced by Kate Ashford
+- Yeshi voiced by Robin Howell
+- PETER voiced by Karl Williams
+- Alexander voiced by Dan Yilmaz
+- 50Meg voiced by Carin Calder-La Croix
+- Alec voiced by Neil Murton
+- NANA voiced by Lisa Ashton-Riemers
+- Dr Redwing voiced by Gina Sneesby
+## Character Concepts
+Sometimes friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look [here](https://www.patreon.com/posts/52133497) for how your character ideas can be included in Lost Terminal.
 
-EMMA and Dr Redwing created by Robert Bettelheim
-IVAN created by Karl Williams
-Yeshi created by Petra Bačkovská
-TASSI created by CM-47
-NANA created by Sal Boye
-ONI created by Jack Locke
-Additional Material
-Podcast artwork by Carl Huber (carlh.com)
+- EMMA and Dr Redwing created by Robert Bettelheim
+- IVAN created by Karl Williams
+- Yeshi created by Petra Bačkovská
+- TASSI created by CM-47
+- NANA created by Sal Boye
+- ONI created by Jack Locke
+
+## Additional Material
+- Podcast artwork by Carl Huber <http://carlh.com> (up to season 13, artwork after then made by Tristram Oaten)
 
  
