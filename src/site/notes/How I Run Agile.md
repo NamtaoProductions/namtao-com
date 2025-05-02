@@ -1,9 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/how-i-run-agile/","noteIcon":"","created":"2025-04-30T10:04","updated":"2025-04-30T10:04"}
+{"dg-publish":true,"permalink":"/how-i-run-agile/","noteIcon":"","created":"2025-04-30T10:04","updated":"2025-05-01T07:40"}
 ---
 
 
-Here's are my thoughts on running an agile software development team after 2 decades doing it:
+**When you're planning to build a bridge, you test your design with physics simulation software. With software, you test with people. This is called [Agile Software Development](https://agilemanifesto.org/).**
+
+Here are my thoughts on running an agile software development team after 2 decades doing it, but the TLDR is:
+
+1. [Read the manifesto](https://agilemanifesto.org/)
+2. Do what is valuable.
+3. Don't do what is not.
+
 ## General Guidelines
 > We are uncovering better ways of developing software by doing it and helping others do it.
 
@@ -53,9 +60,9 @@ Here's are my thoughts on running an agile software development team after 2 dec
 - At the end of the sprint, the team demos what they have built to the customer
     - no customer available? Make a customer proxy: someone, perhaps a ux-minded person who talks to the customer regularly
 - feedback from the customer demo is captured into cards in the backlog
-- The team then prioritises the backlog, asking the customer which features they would like them to build FIRST
+- The customer then prioritises the backlog, the team asks the customer which features they would like them to build FIRST
 - Demonstrating working software (not designs, not mockups) to the actual customer is the heart of agile.
-- Throw everything else on in this process away if you must, but demo working software regularly and you will build the right thing
+- Throw everything else in this process away if you must, but demo working software regularly and you will build the right thing
 
 ## Retrospective Feedback
 > Responding to change over following a plan
@@ -64,14 +71,21 @@ Here's are my thoughts on running an agile software development team after 2 dec
 - This is the last back-stop of feedback, the last firebreak, if something is going wrong, it must be discovered and discussed here, ready to do better next iteration
 - Format
     - https://trello.com/b/LT4PU1Hv/a-good-sprint-retro-template
-    - Set a 5-minute time, then the whole team adds cards in 3 categories
-        - Good things
-        - Bad things
-        - Thanks/appreciation
-    - Then, the team has another 5 minutes to read and vote on cards they think are important
+    - Set a 5-minute timer, then the whole team adds cards in 3 categories
+        - 👍 Good things
+        - 👎 Bad things
+        - 🙏 Thanks/appreciation
+    - Then the team has another 5 minutes to read and vote on cards they think are important
         - the correct voting method is 'vote for as many cards as you want, one vote per person per card', which is trello's default.
+            - If doing it IRL, you can use 'dot voting', where each person has a thick marker pen and puts a single dot on each card they care about.
         - this is self-limiting, as voting for every card is the same as if you voted for none
     - Someone clicks 'order columns by votes', and we take the rest of the meeting to discuss the issues, in strict order of votes (whatever column they are in)
     - 'good' and 'thanks' cards tend to be quite fast, the 'bad' cards naturally take longer
     - All actions must be captured with a person assigned to them.
     - Discussion without a plan of action is just complaining (which is occasionally valid, but try to keep things actionable).
+
+1. [Read the manifesto](https://agilemanifesto.org/)
+2. Do what is valuable.
+3. Don't do what is not.
+
+My video on this topic is here: https://www.youtube.com/watch?v=9K20e7jlQPA
