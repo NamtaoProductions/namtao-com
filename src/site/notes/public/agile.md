@@ -3,7 +3,7 @@
 ---
 
 
-**When you're building a bridge, you test your designs with physics simulation software. With software, you test with people. This is called [Agile Software Development](https://agilemanifesto.org/).**
+**When building bridges, you test your designs with physical modelling. With software, you test with people. This is called [Agile Software Development](https://agilemanifesto.org/).**
 
 Here are my thoughts on running an agile software development team after 2 decades doing it, but the TLDR is:
 
