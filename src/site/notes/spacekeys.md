@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/spacekeys/","noteIcon":"","created":"2025-01-20T07:13","updated":"2025-01-27T08:40"}
+{"dg-publish":true,"permalink":"/spacekeys/","noteIcon":"","created":"2025-01-20T07:13","updated":"2025-04-11T07:43"}
 ---
 
 This is my custom spacekeys config for obsidian, based on the sample keymap that comes with the plugin, but with some structural changes to match <https://lazynvim.org>'s defaults.
+## Lazyvim Reference
+![lazyvim which key screenshot.png|200](/img/user/Resources/Meta/attachments/lazyvim%20which%20key%20screenshot.png)
+Here s some bad spellah.
 
 ```yaml
 items:
@@ -15,11 +18,18 @@ items:
   N: app:go-forward
   e: file-explorer:open
   r: spacekeys:load-keymap
-  
+
+  z:
+    description: "Folds and spelling"
+    items:
+      1: obsidian-languagetool-plugin:ltaccept-suggestion-1
+      2: obsidian-languagetool-plugin:ltaccept-suggestion-2
+      3: obsidian-languagetool-plugin:ltaccept-suggestion-3
+ 
   c:
     description: Code 
     items:
-      s: outline:open
+      s: obsidian-quiet-outline:quiet-outline
 
   w:
     description: Window
