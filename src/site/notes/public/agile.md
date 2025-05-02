@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/agile/","noteIcon":"","created":"2025-04-30T10:04","updated":"2025-05-01T07:40"}
+{"dg-publish":true,"permalink":"/public/agile/","noteIcon":"","created":"2025-04-30T10:04","updated":"2025-05-02T11:21"}
 ---
 
 
