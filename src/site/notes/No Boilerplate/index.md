@@ -17,7 +17,7 @@ I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides
 43. All previous video scripts are [on github](https://github.com/0atman/noboilerplate)
 44. [[Obsidian The Good Parts\|Obsidian The Good Parts]]
 45. [[Rust is the New C\|Rust is the New C]]
-46. [[writing-at-the-speed-of-thought\|writing-at-the-speed-of-thought]]
+46. [[Writing at the speed of thought\|Writing at the speed of thought]]
 
 ---
 
