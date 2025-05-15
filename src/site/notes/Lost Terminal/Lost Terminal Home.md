@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/Lost Terminal/Lost Terminal Home/","tags":["index"],"noteIcon":"","created":"2025-01-20T07:10","updated":"2025-04-05T14:00"}
-
+---
+{"dg-publish":true,"permalink":"/lost-terminal/lost-terminal-home/","tags":["index"],"noteIcon":"","created":"2025-01-20T07:10","updated":"2025-05-15T14:20"}
+---
 
 
 > [!QUOTE]
@@ -10,7 +10,7 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 > New episodes Mondays. **[Watch here](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=1)**
 
-
+---
 # Credits
 
 Every episode has headline credits within the episode, and extended credits in the descriptions, both on youtube and in the shownotes of the podcast.

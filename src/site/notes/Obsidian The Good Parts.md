@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/Obsidian The Good Parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33","updated":"2025-03-18T07:16"}
-
+---
+{"dg-publish":true,"permalink":"/obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":"","created":"2025-01-29T21:33","updated":"2025-03-18T07:16"}
+---
 
 
 <iframe title="Obsidian.md: The Good Parts [Part 2]" width="560" height="315" src="https://makertube.net/videos/embed/9e2eadcf-9cb7-4806-8f8e-dbe0759c1a2f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>

@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/No Boilerplate/index/","tags":["index"],"noteIcon":"","created":"2025-01-27T10:32","updated":"2025-05-15T12:38"}
-
+---
+{"dg-publish":true,"permalink":"/no-boilerplate/index/","tags":["index"],"noteIcon":"","created":"2025-01-27T10:32","updated":"2025-05-15T14:20"}
+---
 
 
 > [!QUOTE]
@@ -11,7 +11,7 @@ up to the 42nd are in <https://github.com/0atman/noboilerplate>, then I switched
 
 I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides plugin](https://github.com/MSzturc/obsidian-advanced-slides): I take each slide, printscreen it, and splice it with my audio using [reaper.fm](http://reaper.fm/).
 
-
+---
 
 # Videos
 43. All previous video scripts are [on github](https://github.com/0atman/noboilerplate)
@@ -19,7 +19,7 @@ I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides
 45. [[Rust is the New C\|Rust is the New C]]
 46. [[writing-at-the-speed-of-thought\|writing-at-the-speed-of-thought]]
 
-
+---
 
 # Recommended Rust Reading
 

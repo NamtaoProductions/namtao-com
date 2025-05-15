@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/The Phosphene Catalogue/TPC1.1/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T08:53","updated":"2025-03-17T20:02"}
-
+---
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-1/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T08:53","updated":"2025-03-17T20:02"}
+---
 
 # Episode 1.1
 
@@ -72,7 +72,7 @@ As usual in these high-value items, we make our in-house master jeweller availab
 
 
 
-
+---
 
 Cunning woman was easy for me to find in our warehouse, despite The Catalogue's underground warren of tunnels and interconnected cellars.
 
@@ -89,7 +89,7 @@ Heavy metal key in hand, and rounding a moss-covered foundation stone, I saw her
 
 Reader, she _sings_!
 
-
+---
 
 # Intermission
 
@@ -105,7 +105,7 @@ No matter how you support us, even if it's just spreading the word to your frien
 
 OK, let me turn over this cassette.
 
-
+---
 
 ## Side B: Forest Spirit
 
@@ -139,7 +139,7 @@ It reads: "To see the sights beyond the veil, you must close your eyes."
 
 I have heard that expression before.
 
-
+---
 
 > My housemate [[The Phosphene Catalogue/Josephine Croft\|Josephine Croft]] said it, one quiet evening a month or so ago, while a few of my fellow [[The Phosphene Catalogue/Rossetti House\|Rossetti House]] denizens and I were weathering an unusually strong autumn storm.
 > The wind and the rain had cancelled most of our plans, and we had lit the fire and closed the curtains, trying to shut out the unkind weather outside.
@@ -165,7 +165,7 @@ I have heard that expression before.
 >
 > I must ask her where she read that.
 
-
+---
 
 This is not "Forest Spirit". Now that I come to think of it, I have seen the original hanging in the South Wing of the [[The Phosphene Catalogue/Rijksmuseum\|Rijksmuseum]] in Amsterdam.
 This isn't even a copy, it is mistitled.

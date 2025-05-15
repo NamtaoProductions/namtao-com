@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/Modem Prometheus Home/","tags":["index","project"],"noteIcon":"","created":"2025-01-20T07:10","updated":"2025-05-15T12:38"}
-
+---
+{"dg-publish":true,"permalink":"/modem-prometheus-home/","tags":["index","project"],"noteIcon":"","created":"2025-01-20T07:10","updated":"2025-05-15T14:20"}
+---
 
 > [!QUOTE]
 > # _The transmitter mast is calling. Come home._

@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/decimal time thoughts/","tags":["atomic"],"noteIcon":"","created":"2025-01-20T07:13","updated":"2025-05-06T07:46"}
-
+---
+{"dg-publish":true,"permalink":"/decimal-time-thoughts/","tags":["atomic"],"noteIcon":"","created":"2025-01-20T07:13","updated":"2025-05-06T07:46"}
+---
 
 
 # Divide the waking day into 100

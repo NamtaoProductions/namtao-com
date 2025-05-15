@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/public/agile/","noteIcon":"","created":"2025-04-30T10:04","updated":"2025-05-02T11:21"}
-
+---
 
 
 **When building bridges, you test your designs with physical modelling. With software, you test with people. This is called [Agile Software Development](https://agilemanifesto.org/).**

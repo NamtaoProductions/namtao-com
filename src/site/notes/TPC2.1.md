@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/TPC2.1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-09T09:42","updated":"2025-03-17T20:02"}
-
+---
+{"dg-publish":true,"permalink":"/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-09T09:42","updated":"2025-03-17T20:02"}
+---
 
 
 

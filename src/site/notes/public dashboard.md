@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/public dashboard/","noteIcon":"","created":"2025-03-20T09:38","updated":"2025-03-20T09:42"}
-
+---
+{"dg-publish":true,"permalink":"/public-dashboard/","noteIcon":"","created":"2025-03-20T09:38","updated":"2025-03-20T09:42"}
+---
 
 | Project                         | Progress                                                       | Next Action |
 | ------------------------------- | -------------------------------------------------------------- | ----------- |

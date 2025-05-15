@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/The Phosphene Catalogue/The Phosphene Catalogue Home/","tags":["index"],"noteIcon":"","created":"2025-01-20T07:13","updated":"2025-04-11T07:28"}
-
+---
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/the-phosphene-catalogue-home/","tags":["index"],"noteIcon":"","created":"2025-01-20T07:13","updated":"2025-04-11T07:28"}
+---
 
 
 > [!QUOTE]

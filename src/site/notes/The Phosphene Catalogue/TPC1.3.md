@@ -1,6 +1,6 @@
-
-{"dg-publish":true,"permalink":"/The Phosphene Catalogue/TPC1.3/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T08:53","updated":"2025-03-17T20:00"}
-
+---
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-3/","tags":["Episodes"],"noteIcon":"","created":"2025-01-06T08:53","updated":"2025-03-17T20:00"}
+---
 
 
 # Episode 1.3
@@ -47,7 +47,7 @@ A grand environment, rich with art, history, but also status, could be re-built 
 
 Experimentation with new raw materials in contemporary tapestry is common, inspired by the resurgence of interest after the War, and the upheaval of global fabric supply chains.
 
-
+---
 
 The scene is certainly of a feast or dinner, though much less grand than that of a castle or court.
 
@@ -68,7 +68,7 @@ The warm colours coupled with the subject matter do remind one that it might be 
 
 But there is more than that.
 
-
+---
 
 The composition is very bottom-heavy, as though only the lower third of the fabric were designed to be viewed:
 The long table stretches from edge to edge, surrounded by the napping guests.
@@ -91,7 +91,7 @@ The design is plain, but for this mark, again, of a ship with black sails.
 Is this a club, or a secret organisation?
 Then why are they all sleeping?
 
-
+---
 
 
 
@@ -109,7 +109,7 @@ It was made to be thrown across a bed.
 
 > Tape Click
 
-
+---
 
 # Intermission
 
@@ -119,7 +119,7 @@ Tris to read:
 - podcast news
 - new merch
 
-
+---
 
 ## Side B: Modern Art
 
@@ -156,7 +156,7 @@ Depending on the treatment, the final piece can resemble a watercolour, an oil p
 
 On closer inspection, I believe what I am looking at is quite, quite different.
 
-
+---
 
 I stood in front of the painting in our Whitechapel showroom, as interested buyers are welcome to do by prior appointment.
 We must insist on appointments, we do not allow walk-ins from the general public.
@@ -180,7 +180,7 @@ The artist must hone their mechanical craft, certainly, the tools and understand
 
 But the master understands the human component, both in their art, and in the eye of the beholder, the first to imitate, the second to manipulate.
 
-
+---
 
 
 
@@ -204,7 +204,7 @@ The whole painting twists around the centre point, reminding me of video footage
 
 Lean close, reader, as you view this subversive corporate art for yourself in our showroom, do you see the delicate dancing sigils hiding between the circles?
 
-
+---
 
 > Morwenna, can you keep a secret?
 > Don't laugh: When I first realised there was tiny writing in the circles, I squinted at it really closely, but I got lost in this new minute detail and became dizzy and stumbled to the floor!
@@ -218,7 +218,7 @@ Whatever the language is, the effect of the circles and sigils seem to exert a c
 
 [[The Phosphene Catalogue/Warrick Blackwood\|Warrick]] would not be drawn in to the conversation I wished to have, complaining about corporate art, deriding it as cheap tricks only good for making some quick money.
 
-
+---
 
 Viewing it from a reasonable distance, the swirling circles and sigils once again invisible to the naked eye, I found myself in a peaceful, but alert state.
 I was visited by the thought that there _really was_ quite a lot of intake paperwork for the new arrivals that I should finish before the end of the day.
@@ -233,7 +233,7 @@ Upon realising what had happened, I returned to [[The Phosphene Catalogue/Lobby 
 
 It is where I stand now.
 
-
+---
 
 A moment ago, I unhooked the painting, and set it down on the thick dark red carpet of [[The Phosphene Catalogue/The Woolf Room\|The Woolf Room]]'s windowless gallery.
 I was less gentle than I might have been, but the frame is modern, and the carpet soft.
@@ -267,7 +267,7 @@ A mark of a ship with black sails.
 
 > Tape Click
 
-
+---
 
 # CREDITS
 
