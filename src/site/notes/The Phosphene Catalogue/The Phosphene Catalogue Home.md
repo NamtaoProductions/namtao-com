@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"tpc","permalink":"/tpc/","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"tpc","permalink":"/tpc/","title":"Phosphene Catalogue","tags":["index"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"LT","permalink":"/lt/","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"LT","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":""}
 ---
 
 

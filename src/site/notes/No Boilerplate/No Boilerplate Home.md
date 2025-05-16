@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","tags":["index"],"noteIcon":""}
 ---
 
 
