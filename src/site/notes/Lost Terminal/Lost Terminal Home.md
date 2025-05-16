@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lost-terminal/lost-terminal-home/","tags":["index"],"noteIcon":"","created":"2025-01-20T07:10","updated":"2025-05-15T14:20"}
+{"dg-publish":true,"permalink":"/lost-terminal/lost-terminal-home/","tags":["index"]}
 ---
 
 
@@ -80,19 +80,19 @@ Sometimes friends and patrons suggest ideas to me, and sometimes I include them!
 
 | Note                                                          | archetype           |
 | ------------------------------------------------------------- | ------------------- |
-| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
-| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
-| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
-| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
-| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
-| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
-| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
-| [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
-| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
-| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
-| [[Lost Terminal/Alexander\|Alexander]]                     | family              |
-| [[Freja from Horns\|Freja from Horns]]                     | \-                  |
 | [[Aero\|Aero]]                                             | harbourmaster       |
+| [[Lost Terminal/Alexander\|Alexander]]                     | family              |
+| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
+| [[Freja from Horns\|Freja from Horns]]                     | \-                  |
+| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
+| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
+| [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
+| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
+| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
+| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
+| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
+| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
+| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
 
 { .block-language-dataview}
 
