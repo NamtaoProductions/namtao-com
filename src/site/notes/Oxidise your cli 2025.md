@@ -7,8 +7,7 @@
 Oxidise Your CLI 2
 ===
 
-There is a footnote here [^1]
-There is a footnote2 here [^2]
+There is a [^1] footnote here [^2]
 
 <!-- end_slide -->
 
