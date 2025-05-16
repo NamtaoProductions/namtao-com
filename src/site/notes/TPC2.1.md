@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tpc-2-1/","tags":["project/tpc"],"noteIcon":"","created":"2025-01-09T09:42","updated":"2025-03-17T20:02"}
+{"dg-publish":true,"permalink":"/tpc-2-1/","tags":["project/tpc"]}
 ---
 
 
@@ -257,6 +257,7 @@ There is blood in the water.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/no-boilerplate/index/","tags":["index"],"noteIcon":"","created":"2025-01-27T10:32","updated":"2025-05-15T14:20"}
+{"dg-publish":true,"permalink":"/no-boilerplate/index/","tags":["index"]}
 ---
 
 

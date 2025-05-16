@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/phosphene-catalogue-back-issues/","noteIcon":"","created":"2025-01-09T09:42","updated":"2025-03-17T20:01"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/phosphene-catalogue-back-issues/"}
 ---
 
 > [!INFO] How to read the scripts

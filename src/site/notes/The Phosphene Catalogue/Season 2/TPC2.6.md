@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-6/","tags":["TPC","episode","areas/tpc"],"noteIcon":"","created":"2025-01-09T09:42","updated":"2025-03-17T20:02"}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-6/","tags":["TPC","episode","areas/tpc"]}
 ---
 
 
@@ -256,6 +256,7 @@ She showed me her clipboard of notes on this new operation of the calculator, th
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 

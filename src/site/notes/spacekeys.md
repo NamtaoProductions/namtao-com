@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spacekeys/","noteIcon":"","created":"2025-01-20T07:13","updated":"2025-05-12T11:09"}
+{"dg-publish":true,"permalink":"/spacekeys/"}
 ---
 
 This is my custom spacekeys config for obsidian, based on the sample keymap that comes with the plugin, but with some structural changes to match <https://lazynvim.org>'s defaults.

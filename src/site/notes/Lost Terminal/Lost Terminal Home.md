@@ -13,8 +13,8 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 ---
 # Credits
 
-Every episode has headline credits within the episode, and extended credits in the descriptions, both on youtube and in the shownotes of the podcast.
-However, Lost Terminal would not be what it is today without these people, who I would like to thank here too:
+Every episode has headline credits within the episode, and extended credits in the descriptions, both in the shownotes of the podcast and on YouTube.
+However, Lost Terminal would not be what it is today without these people, who I would like to thank here, too:
 
 ## Voices
 - Credits voiced by Lucy Stringer
@@ -37,14 +37,17 @@ However, Lost Terminal would not be what it is today without these people, who I
 - Samik Jensen voiced by Nils Brobakk
 - Pṛthvī Mātā voiced by Carin Calder-La Croix
 ## Character Concepts
-Sometimes friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look [here](https://www.patreon.com/posts/52133497) for how your character ideas can be included in Lost Terminal.
+Occasionally friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look [here](https://www.patreon.com/posts/52133497) for how your character ideas can be included in Lost Terminal.
 
-- EMMA and Dr Redwing created by Robert Bettelheim
+- Dr Redwing and EMMA created by Robert Bettelheim
 - IVAN created by Karl Williams
 - Yeshi created by Petra Bačkovská
 - TASSI created by CM-47
 - NANA created by Sal Boye
 - ONI created by Jack Locke
+- C0 created by 
+- Mirror
+- Pṛthvī Mātā
 
 ## Additional Material
 - Podcast artwork by Carl Huber <http://carlh.com> (up to season 13, artwork after then made by Tristram Oaten)
