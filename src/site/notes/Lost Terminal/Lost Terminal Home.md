@@ -44,13 +44,15 @@ Occasionally friends and patrons suggest ideas to me, and sometimes I include th
 - Yeshi created by Petra Bačkovská
 - TASSI created by CM-47
 - NANA created by Sal Boye
+- C0 created by Thalber
 - ONI created by Jack Locke
-- C0 created by 
-- Mirror
-- Pṛthvī Mātā
+- Mirror created by Moe Ur
+- Raffi and Daphne created by The Empty Suit
+- Tohoku University AI Terrarium concept created by Stanislav, named by Dan
+- Pṛthvī Mātā created by Alexander Czar
 
 ## Additional Material
-- Podcast artwork by Carl Huber <http://carlh.com> (up to season 13, artwork after then made by Tristram Oaten)
+- Podcast artwork by Carl Huber <http://carlh.com> (up to season 13, artwork after then made by me, Tris Oaten)
 # Season Summary
 
 > [!DANGER] Spoilers ahead!
