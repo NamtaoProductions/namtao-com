@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lost-terminal/season-14-0/lt-season-14-0/","tags":["project/lt"]}
+{"dg-publish":true,"permalink":"/lost-terminal/season-14-0/lt-season-14-0/","hide":true,"tags":["project/lt"],"noteIcon":""}
 ---
 
 

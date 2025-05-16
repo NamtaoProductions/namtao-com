@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/the-woolf-room/","tags":["tpc-location"]}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/the-woolf-room/","tags":["tpc-location"],"noteIcon":""}
 ---
 
 

@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/lt-season-18-0/","tags":["project"]}
+{"dg-publish":true,"permalink":"/lt-season-18-0/","hide":true,"tags":["project"],"noteIcon":""}
 ---
 
 
 > [!NOTE] Summary
 > <span query="get(summary)"></span><span class="lv-live-text">The MH2 Crew visit the Inland Sea of Greenland, a new saltwater lake revealed by the melted Arctic. During their exploration of the villages, Seth seeks memory advice from his friends and tries to build better systems, Yeshi makes friends with a local fishing crew, and Nia struggles with what it means to be a Repeater Keeper.</span><span type="end"></span>
-
 
 ## Episode List
 | Note                                              |
@@ -34,6 +33,5 @@
 | [[Lost Terminal/Season 19.0/LT19.9\|LT19.9]]   |
 
 { .block-language-dataview}
-
 
  

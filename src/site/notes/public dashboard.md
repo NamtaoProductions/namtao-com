@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-dashboard/"}
+{"dg-publish":true,"permalink":"/public-dashboard/","noteIcon":""}
 ---
 
 | Project                                             | Progress                                                       | Next Action |

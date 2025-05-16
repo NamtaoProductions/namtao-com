@@ -13,7 +13,7 @@
 > - Watch on [YouTube](https://www.youtube.com/c/NoBoilerplate)
 > - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@noboilerplate) for updates
 >
-> [[No Boilerplate/index\|Read more...]]
+> [[No Boilerplate/No Boilerplate Home\|Read more...]]
 >
 
 ## 🛰️ Lost Terminal

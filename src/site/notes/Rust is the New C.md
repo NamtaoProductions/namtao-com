@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust-is-the-new-c/","tags":["project"]}
+{"dg-publish":true,"permalink":"/rust-is-the-new-c/","tags":["project"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing-at-the-speed-of-thought/","tags":["project/nb"]}
+{"dg-publish":true,"permalink":"/writing-at-the-speed-of-thought/","hide":true,"tags":["project/nb"],"noteIcon":""}
 ---
 
 
@@ -16,7 +16,7 @@ Hi friends, my name is Tris and this is No Boilerplate, focussing on fast, techn
 
 When people ask me what I do for a living, I usually say 'writer'.
 I spend basically all my time either:
-- writing these videos,s
+- writing these videos,
 - writing code,
 - writing my fiction podcasts, or
 - writing music.

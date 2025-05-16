@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/entrance-lobby/","tags":["tpc-location"]}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/entrance-lobby/","tags":["tpc-location"],"noteIcon":""}
 ---
 
