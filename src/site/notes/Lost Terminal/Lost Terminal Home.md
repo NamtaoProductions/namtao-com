@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"LT","permalink":"/lt/","tags":["index"],"noteIcon":""}
 ---
 
-dg-path: "Advanced/Features.md"
 
 > [!QUOTE]
 > _"How do you learn to be human if there's no-one around to teach you?"_
