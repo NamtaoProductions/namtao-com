@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tpc-2-1/","tags":["project/tpc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/tpc-2-1/","hide":true,"tags":["project/tpc"],"noteIcon":""}
 ---
 
 

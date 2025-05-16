@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-the-good-parts/","tags":["project/nb"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/obsidian-the-good-parts/","hide":true,"tags":["project/nb"],"noteIcon":""}
 ---
 
 
