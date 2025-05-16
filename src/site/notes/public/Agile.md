@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/agile/"}
+{"dg-publish":true,"permalink":"/public/agile/","title":"Running an Agile Team"}
 ---
 
 
