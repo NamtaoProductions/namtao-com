@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/decimal-time-thoughts/","tags":["atomic"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"public/decimal-time","permalink":"/public/decimal-time/","hide":true,"tags":["atomic"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/the-phosphene-catalogue-home/","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"tpc","permalink":"/tpc/","tags":["index"],"noteIcon":""}
 ---
 
 

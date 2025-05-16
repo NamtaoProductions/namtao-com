@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-4/","tags":["Episodes"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-4/","hide":true,"tags":["Episodes"],"noteIcon":""}
 ---
 
 

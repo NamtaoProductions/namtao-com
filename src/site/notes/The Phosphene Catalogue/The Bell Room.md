@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/the-bell-room/","tags":["tpc-location"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/the-bell-room/","hide":true,"tags":["tpc-location"],"noteIcon":""}
 ---
 

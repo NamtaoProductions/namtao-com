@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-6/","tags":["TPC","episode","areas/tpc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-6/","hide":true,"tags":["TPC","episode","areas/tpc"],"noteIcon":""}
 ---
 
 
@@ -274,7 +274,6 @@ See you next time.
 
 
 </div></div>
-
 
 
  
