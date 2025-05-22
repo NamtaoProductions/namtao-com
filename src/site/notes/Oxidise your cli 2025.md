@@ -60,29 +60,8 @@ Everything you see here: script, links, and images are part of a Markdown docume
 
 
 
-![image:width:100%](/img/user/Resources/Meta/attachments/lets-get-rusty-logo.png)
-
-
- ---
-
-
-
-
- 
-
-I'm delighted to say that this video is sponsored by friend of the channel, Lets Get Rusty.
-In addition to being a Fellow Rust YouTuber, Bogdan runs Rust training both corporate and personal, with a new cohort starting next month.
-Visit letsgetrusty.com/start-with-tris, link in the pinned comment, to find out more about the training, and thanks so much to Let's Get Rusty for sponsoring this video!
-
-
-
-
-
-
 # OUT WITH THE OLD
 # `IN WITH THE NEW`
-
-
 
 
 
@@ -396,33 +375,6 @@ DUA
  
 - Another graphical disk usage analyser, but this one is INTERACTIVE
 - It's just as fast as du-dust
-
-
-
-
-
-![](/img/user/Resources/Meta/attachments/namtao-logo-1000.png)
-## `patreon.com/noboilerplate`
-
-Subscribe for:
-- Post-video Q&A Livestream
-- Early videos
-- Private discord channel access
-- 1:1 Mentoring
-
-
-
-
-
- ---
- 
- 
- 
-
-It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure.
-I'm trying something new this video: I'm going to stream a Q&A session on my discord this sunday the 25th of May at 8pm London time. Everyone who supports me on patreon, at any level, is invited!
-Also, if you'd like to see and give feedback on my videos up to a week early, as well as get private discord access, and even your name in the credits, it would be very kind of you to check my Patreon.
-I'm also offering a limited number of mentoring slots. If you'd like 1:1 tuition on personal organisation, Rust, creative production, web tech, or anything that I talk about in my videos, do sign up and let's chat!
 
 
 
