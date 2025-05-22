@@ -6,9 +6,6 @@
 <iframe title="Rust is the New C" width="560" height="315" src="https://makertube.net/videos/embed/ac1f333b-23eb-47e7-8aa4-7373cf79e57e" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 
-Hi friends, my name is Tris and this is No Boilerplate, where I make fast, technical videos.
-
-Footnotes ideally would be superscript[^1]
 
 Here's something I think about often:
 
@@ -70,7 +67,6 @@ I often daydream about the lives of people who picked up C just at this perfect 
 
 
 
-
 > [!NOTE]
 > _I will refer to both C and C++ interchangeably as "C" in this video._
 > &nbsp;
@@ -83,7 +79,6 @@ I often daydream about the lives of people who picked up C just at this perfect 
 
 
 After they learned this relatively small language, they could then have spent DECADES writing JUST C, one language (one ish languages) for all programs, on all devices!
-
 
 
 
@@ -105,7 +100,6 @@ everything was, and to a large extent, still is, written in C:
 - and even web and phone apps
 
 But there's only one language that can do all of this today, and it ain't C.
-
 
 
 
@@ -156,7 +150,6 @@ Lets imagine what her career could have looked like right up until today:
  - and cgi web applications in the early web of the late 90s
 
 
-
 CGI RFC3875
 ===
 
@@ -177,7 +170,6 @@ CGI RFC3875
 
 The CGI spec was written assuming c, even in 1.1, last revised in 2004 - okcupid.com is *still* written in c!
 C is vital to all webapps even to this day: if you look inside every python, ruby, and javascript app, the power behind the throne is the huge modules written in C
-
 
 
 
@@ -204,7 +196,6 @@ This is my pitch to you for your future, if you learn Rust TODAY.
 
 
 
-
 > [!QUOTE] C Developers
 > "Lisp developers know
 > the *value* of everything
@@ -221,7 +212,6 @@ This is my pitch to you for your future, if you learn Rust TODAY.
  
 Let's take a step back: Why did C come to dominate our industry? in short, Low-level portability. Why is it STILL so relevant? low-level portability; write once, compile everywhere. Before C it was understood that if you wanted portability you had to sacrifice low-level power and speed, and vice versa:
 If you wanted to write operating systems and games that needed to run FAST, you had to write low-level assembly for your specific architecture, and then rewrite it almost entirely for each new machine.
-
 
 
 
@@ -269,7 +259,6 @@ As web development has moved to high-level languages, leaving c behind, Rust is 
 Yes, some of these applications are **possible** in other languages as well as C, but no-one would argue that would be FUN.
 
 
-
 Popularity Matters
 ===
 
@@ -286,7 +275,6 @@ Popularity Matters
 C takes backwards compatibility extremely seriously, with a pace of development that only a mother could love.
 
 High-level languages tend to have more of a fcuk it, ship it attitude. When new features are added you are expected to keep up with the pace of development if you want them. (React developers know what I'm talking about)
-
 
 
 Rust Editions
@@ -306,7 +294,6 @@ It is both uncomprimisingly backwards and uncomprimisingly forwards compatible.
 This is guarenteed by the Rust Editions system, ensuring that libraries expecting different versions of Rust can still be compiled together in a single project.
 
 forwards compatibility is also augmented at a less formal level with the macro system.
-
 
 
 
@@ -348,7 +335,6 @@ The latter won out, but no core language changes were needed to test it in real 
 
 
 
-
 Part 2: All the things you can do with Rust
 ===
 
@@ -368,7 +354,6 @@ Part 2: All the things you can do with Rust
 
 
 Here is speedrun of all the things you can build if you learn rust, a single language, in 2025:
-
 
 
 🌐 LEPTOS.dev
@@ -423,7 +408,6 @@ The one used here on line 4 is called `view!`, you can tell a macro is being cal
 
 
 
-
 Tauri Replacing Electron for Mobile
 ===
 
@@ -471,7 +455,6 @@ But what if you want your webapp to run offline on the user's device?
 No need to reach for Electron, Tauri is a rust-powered replacement supporting every store out there.
 
 
-
 Poem + HTMX
 ===
 
@@ -512,7 +495,6 @@ async fn index(&self, name: MyQuery) -> PlainText<String> {
 
 Write your native device code in Rust, and your application code in Rust, maybe even Poem and HTMX, here.
 A simple, type-checked backend plus a simple frontend, wonderful!
-
 
 
 
@@ -560,7 +542,6 @@ All windows apis are available in the `windows` crate, from messageboxes to audi
 
 
 
-
 DirectX12 Example
 ===
 
@@ -595,7 +576,6 @@ fn create_vertex_buffer(
 
 
 EVEN DIRECT3D is available, write your next native windows game using it!
-
 
 
 Game Dev with Bevy/Godot
@@ -638,7 +618,6 @@ Don't want to write your game engine from scractch? Me either!
 Godot has native support for Rust, and if you'd like the engine to be written top-to-bottom in Rust, the Bevy project might be just what you need!
 
 
-
 ML/AI Computing
 ===
 
@@ -671,7 +650,6 @@ And while bindings exist that allow other languages such as python to offload co
 The `cuda_std` crate compiles rust directly into native gpu code.
 
 This is something that previously was only supported using C, C++ and (Am I reading this right?) FORTRAN. OK we HAVE to see some of that  
-
 
 
 
@@ -717,7 +695,6 @@ Moving on!
 
 
 
-
 Asahi Linux
 ===
 
@@ -751,7 +728,6 @@ The first version of this driver was written by Asahi Lina in 5 weeks, a success
 I don't regularly write entire drivers from scratch, but that does sound very fast!
 
 By the way, if you'd like try asahi linux, you can dual boot any m1 or m2 machine with this single command
-
 
 
 Uutils Coreutils
@@ -805,7 +781,6 @@ original image: https://raw.githubusercontent.com/uutils/coreutils-tracking/main
 
 
 
-
 Bare-metal Rust
 ===
 
@@ -850,7 +825,6 @@ While an undesirable effect in physical engineering, I am extremely excited that
 Or maybe, even satalites!
 
 
-
 Things people who have never compiled Rust say:
 ===
 
@@ -891,7 +865,6 @@ Just you watch me.
 
 
 
-
 I Can Finally Chill
 ===
 
@@ -921,7 +894,6 @@ I'm so relieved that just like Grace Pointer, I have found a single language I c
 Perhaps for the rest of my life.
 
 I can finally chill.
-
 
 
 Thank You!
@@ -962,7 +934,6 @@ go to modemprometheus.com to subscribe
 Transcripts and compile-checked markdown sourcecode are available on namtao.com and github, links in the description, and corrections are in the pinned ERRATA comment.
 
 Thank you so much for watching, talk to you on Discord.
-
 
 
 
