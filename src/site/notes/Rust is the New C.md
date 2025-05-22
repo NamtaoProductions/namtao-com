@@ -66,7 +66,6 @@ I often daydream about the lives of people who picked up C just at this perfect 
 
 
 
-
 > [!NOTE]
 > _I will refer to both C and C++ interchangeably as "C" in this video._
 > &nbsp;
@@ -81,11 +80,9 @@ I often daydream about the lives of people who picked up C just at this perfect 
 After they learned this relatively small language, they could then have spent DECADES writing JUST C, one language (one ish languages) for all programs, on all devices!
 
 
-
 C Will Never Die
 ===
 ![image:width:100%](/img/user/Resources/Meta/attachments/redmonk-top-10-c-cpp.png)
-
 
 
 
@@ -100,7 +97,6 @@ everything was, and to a large extent, still is, written in C:
 - and even web and phone apps
 
 But there's only one language that can do all of this today, and it ain't C.
-
 
 
 
@@ -173,7 +169,6 @@ C is vital to all webapps even to this day: if you look inside every python, rub
 
 
 
-- repeat grace slide
 
 
 
@@ -212,7 +207,6 @@ This is my pitch to you for your future, if you learn Rust TODAY.
  
 Let's take a step back: Why did C come to dominate our industry? in short, Low-level portability. Why is it STILL so relevant? low-level portability; write once, compile everywhere. Before C it was understood that if you wanted portability you had to sacrifice low-level power and speed, and vice versa:
 If you wanted to write operating systems and games that needed to run FAST, you had to write low-level assembly for your specific architecture, and then rewrite it almost entirely for each new machine.
-
 
 
 Language Comparison
@@ -271,7 +265,6 @@ Popularity Matters
 
 
 
-
 C takes backwards compatibility extremely seriously, with a pace of development that only a mother could love.
 
 High-level languages tend to have more of a fcuk it, ship it attitude. When new features are added you are expected to keep up with the pace of development if you want them. (React developers know what I'm talking about)
@@ -288,13 +281,11 @@ Rust Editions
 
 
 
-
 Rust has learned from C and Cpp, eschewing a middle road comprimise, instead taking a quantom superpositon of BOTH SIMULTANEIOUSLY
 It is both uncomprimisingly backwards and uncomprimisingly forwards compatible.
 This is guarenteed by the Rust Editions system, ensuring that libraries expecting different versions of Rust can still be compiled together in a single project.
 
 forwards compatibility is also augmented at a less formal level with the macro system.
-
 
 
 Rust Macros are Witchcraft
@@ -303,7 +294,7 @@ Rust Macros are Witchcraft
 
 
 ```rust
-let n = await!(some_future_computation); //fixed
+let n = await!(some_future_computation);
 ```
 
 Expands to roughly:
@@ -324,7 +315,6 @@ let n = loop {
 
 
 
-
 Like in Lisps, Rust macros make the whole language available at compile time to rewrite the syntax before passing the generated code to the compiler.
 
 This is a wildly powerful trick that deserves separate discussion, see my Witchcraft video for that.
@@ -332,7 +322,6 @@ This is a wildly powerful trick that deserves separate discussion, see my Witchc
 A concrete example of this forwards compatibility was with the `await!` macro, introduced to rust for testing while the community was figuring out if they wanted an await keyword, like Javascript, or to .await on a future.
 
 The latter won out, but no core language changes were needed to test it in real code - macros allow the new syntax to be a library.
-
 
 
 Part 2: All the things you can do with Rust
@@ -449,7 +438,6 @@ Tauri supports:
 
 
 
-
 But what if you want your webapp to run offline on the user's device?
 
 No need to reach for Electron, Tauri is a rust-powered replacement supporting every store out there.
@@ -492,10 +480,8 @@ async fn index(&self, name: MyQuery) -> PlainText<String> {
 
 
 
-
 Write your native device code in Rust, and your application code in Rust, maybe even Poem and HTMX, here.
 A simple, type-checked backend plus a simple frontend, wonderful!
-
 
 
 Windows crate
@@ -533,13 +519,11 @@ fn main() {
 
 
 
-
 Not native enough?
 
 All windows apis are available in the `windows` crate, from messageboxes to audio, file system, and networking,
 
 (Tauri actually uses this crate for some of its own native functionality)
-
 
 
 DirectX12 Example
@@ -641,7 +625,6 @@ pub unsafe fn add(a: &[f32], b: &[f32], c: *mut f32) {
 
 
 
-
 Running massively parallel workloads on comodity GPU hardware has been made much more accessbile by nVidia's CUDA framework.
 FOR BETTER AND WORSE
 
@@ -650,7 +633,6 @@ And while bindings exist that allow other languages such as python to offload co
 The `cuda_std` crate compiles rust directly into native gpu code.
 
 This is something that previously was only supported using C, C++ and (Am I reading this right?) FORTRAN. OK we HAVE to see some of that  
-
 
 
 From nVidia's CUDA Fortran examples
@@ -688,11 +670,9 @@ I know, I'm shocked too.
 
 
 
-
 OK, cool! wow fortran's alive and well in high performance computing, eh?
 
 Moving on!
-
 
 
 Asahi Linux
@@ -771,14 +751,12 @@ All my friends are invited:
 
 
 
-
 uutils is an attempt at rewriting the core unix CLI utilities in Rust. It is available for Linux, Windows, Mac and other platforms.
 
 Yes, it's currently 7x larger than the extremely cut-down busybox (13MB on my machine), but busybox doesn't attempt to pass all the gnu coretils tests.
 Uutils, as you can see, is nearly there.
 
 original image: https://raw.githubusercontent.com/uutils/coreutils-tracking/main/gnu-results.png
-
 
 
 Bare-metal Rust
@@ -864,7 +842,6 @@ If you hear these opinions, don't get stressed and argue with them, tell them wh
 Just you watch me.
 
 
-
 I Can Finally Chill
 ===
 
@@ -882,7 +859,6 @@ gantt
 
 
 (This graph is not as funny to me as I thought it was going to be, seeing that red line)
-
 
 
 
@@ -937,6 +913,4 @@ Thank you so much for watching, talk to you on Discord.
 
 
 
-
-[^1]: test
  
