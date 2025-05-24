@@ -77,27 +77,39 @@ Occasionally friends and patrons suggest ideas to me, and sometimes I include th
 | [[Lost Terminal/Season 16.0/LT Season 16.0\|LT Season 16.0]] | Yeshi Asks Seth what the weather will be in Longyearbyen when they make port in X days. Over 10 seconds he talks at light speed to his whole network to figure out the answer to the question, and discovers many stories about his AI friends.                                                                                         |
 | [[LT Season 17.0\|LT Season 17.0]]                           | The MH2 makes port at [[Lost Terminal/Thule\|Thule]]. Lyosha and maddie go on adventures, 50Meg checks in, Seth and LUNA play a game, and an AI from Japan says hello.                                                                                                                                                                                       |
 | [[LT Season 18.0\|LT Season 18.0]]                           | The MH2 Crew visit the Inland Sea of Greenland, a new saltwater lake revealed by the melted Arctic. During their exploration of the villages, Seth seeks memory advice from his friends and tries to build better systems, Yeshi makes friends with a local fishing crew, and Nia struggles with what it means to be a Repeater Keeper. |
-| [[LT19.0\|LT19.0]]                                           | The MH2 Crew visit the Inland Sea of Greenland, a new saltwater lake revealed by the melted Arctic. During their exploration of the villages, Seth seeks memory advice from his friends and tries to build better systems, Yeshi makes friends with a local fishing crew, and Nia struggles with what it means to be a Repeater Keeper. |
+| [[LT19.0\|LT19.0]]                                           | TODO                                                                                                                                                                                                                                                                                                                                    |
 
 { .block-language-dataview}
 
 ## Characters
 
-| Note                                                          | archetype           |
-| ------------------------------------------------------------- | ------------------- |
-| [[Aero\|Aero]]                                             | harbourmaster       |
-| [[Lost Terminal/Alexander\|Alexander]]                     | family              |
-| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
-| [[Freja from Horns\|Freja from Horns]]                     | \-                  |
-| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
-| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
-| [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
-| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
-| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
-| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
-| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
-| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
-| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
+| Note                                                          | archetype             |
+| ------------------------------------------------------------- | --------------------- |
+| [[Aero\|Aero]]                                             | harbourmaster         |
+| [[Lost Terminal/Alexander\|Alexander]]                     | family                |
+| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer   |
+| [[Bay Langley\|Bay Langley]]                               | \-                    |
+| [[Carma Krotish\|Carma Krotish]]                           | \-                    |
+| [[Dalton Valenta\|Dalton Valenta]]                         | \-                    |
+| [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | \-                    |
+| [[Freja from Horns\|Freja from Horns]]                     | \-                    |
+| [[Geraldo Ko\|Geraldo Ko]]                                 | \-                    |
+| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham             |
+| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician            |
+| [[Kaycee Stronski\|Kaycee Stronski]]                       | \-                    |
+| [[Kimmo Shyu\|Kimmo Shyu]]                                 | artist/accountant/etc |
+| [[Lenny Joll\|Lenny Joll]]                                 | \-                    |
+| [[Lost Terminal/LUNA\|LUNA]]                               | journalist            |
+| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer              |
+| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                    |
+| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain   |
+| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham             |
+| [[Quent Hainline\|Quent Hainline]]                         | \-                    |
+| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer                |
+| [[Siegfried Lin\|Siegfried Lin]]                           | \-                    |
+| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | \-                    |
+| [[Tedrick Zottola\|Tedrick Zottola]]                       | \-                    |
+| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                 |
 
 { .block-language-dataview}
 

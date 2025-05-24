@@ -128,7 +128,7 @@ They all act as some kind of organisation to navigate our second brain and find 
 ```mermaid
 flowchart LR
 
-Folders --> Tags --> Links
+Folders  Tags  Links
 ```
 Move your thinking to the right
 
@@ -291,7 +291,7 @@ up:
 
 Like many of us, I suffer from a sickness.
 ```
-<!-- element style="font-size: 25px;" -->
+
 
  
 - tags can go in the properties, as we've seen
@@ -413,10 +413,10 @@ end
 ```mermaid
 flowchart TD
 
-Home --> Videos --> Vim_Everywhere[Vim Everywhere!]
-Home --> Learn_Mandarin[Learn Mandarin]
-Home --> Family --> Mums_Birthday[Mum's Birthday\n #project]
-Videos --> Obsidian_Video[Obsidian Video\n #project]
+Home  Videos  Vim_Everywhere[Vim Everywhere!]
+Home  Learn_Mandarin[Learn Mandarin]
+Home  Family  Mums_Birthday[Mum's Birthday\n #project]
+Videos  Obsidian_Video[Obsidian Video\n #project]
 ```
 
  
@@ -428,7 +428,7 @@ It doesn't matter where the notes physically are, we are gardeners, not architec
 
 ```mermaid
 flowchart LR
-    Ideas --> Obsidian -->|Develop| Obsidian --> Output
+    Ideas  Obsidian |Develop| Obsidian  Output
 ```
 
  
