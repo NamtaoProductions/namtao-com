@@ -52,3 +52,5 @@
 >
 > - Listen on [Soundcloud](https://soundcloud.com/namtao)
 > - Buy on [Bandcamp](https://namtao.bandcamp.com/)
+
+[test:: [[making a midi kb a normal kb with dotool\|making a midi kb a normal kb with dotool]]]
