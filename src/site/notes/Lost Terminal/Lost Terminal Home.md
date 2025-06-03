@@ -83,33 +83,33 @@ Occasionally friends and patrons suggest ideas to me, and sometimes I include th
 
 ## Characters
 
-| Note                                                          | archetype             |
-| ------------------------------------------------------------- | --------------------- |
-| [[Aero\|Aero]]                                             | harbourmaster         |
-| [[Lost Terminal/Alexander\|Alexander]]                     | family                |
-| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer   |
-| [[Bay Langley\|Bay Langley]]                               | \-                    |
-| [[Carma Krotish\|Carma Krotish]]                           | \-                    |
-| [[Dalton Valenta\|Dalton Valenta]]                         | \-                    |
-| [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | \-                    |
-| [[Freja from Horns\|Freja from Horns]]                     | \-                    |
-| [[Geraldo Ko\|Geraldo Ko]]                                 | \-                    |
-| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham             |
-| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician            |
-| [[Kaycee Stronski\|Kaycee Stronski]]                       | \-                    |
-| [[Kimmo Shyu\|Kimmo Shyu]]                                 | artist/accountant/etc |
-| [[Lenny Joll\|Lenny Joll]]                                 | \-                    |
-| [[Lost Terminal/LUNA\|LUNA]]                               | journalist            |
-| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer              |
-| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                    |
-| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain   |
-| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham             |
-| [[Quent Hainline\|Quent Hainline]]                         | \-                    |
-| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer                |
-| [[Siegfried Lin\|Siegfried Lin]]                           | \-                    |
-| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | \-                    |
-| [[Tedrick Zottola\|Tedrick Zottola]]                       | \-                    |
-| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                 |
+| Note                                                          | archetype           |
+| ------------------------------------------------------------- | ------------------- |
+| [[Aero\|Aero]]                                             | harbourmaster       |
+| [[Lost Terminal/Alexander\|Alexander]]                     | family              |
+| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
+| [[Bay Langley\|Bay Langley]]                               | \-                  |
+| [[Carma Krotish\|Carma Krotish]]                           | \-                  |
+| [[Dalton Valenta\|Dalton Valenta]]                         | \-                  |
+| [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | \-                  |
+| [[Freja from Horns\|Freja from Horns]]                     | \-                  |
+| [[Geraldo Ko\|Geraldo Ko]]                                 | \-                  |
+| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
+| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
+| [[Kaycee Stronski\|Kaycee Stronski]]                       | \-                  |
+| [[Kimmo Shyu\|Kimmo Shyu]]                                 | harbourmaster       |
+| [[Lenny Joll\|Lenny Joll]]                                 | \-                  |
+| [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
+| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
+| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
+| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
+| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
+| [[Quent Hainline\|Quent Hainline]]                         | \-                  |
+| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
+| [[Siegfried Lin\|Siegfried Lin]]                           | \-                  |
+| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | \-                  |
+| [[Tedrick Zottola\|Tedrick Zottola]]                       | \-                  |
+| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
 
 { .block-language-dataview}
 
