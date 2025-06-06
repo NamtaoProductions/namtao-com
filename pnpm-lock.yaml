@@ -83,7 +83,7 @@ importers:
         version: 6.1.13
       sass:
         specifier: ^1.49.9
-        version: 1.89.0
+        version: 1.89.1
 
 packages:
 
@@ -1804,8 +1804,8 @@ packages:
   same-time@2.3.6:
     resolution: {integrity: sha512-dlIuVqhVICrPUBd1raO5h9CYJgSCgrka6MT/os62Tdf4AqMHT0LzPhl92aBg7Np86H2zxMEyXy/3eGKlarioNA==}
 
-  sass@1.89.0:
-    resolution: {integrity: sha512-ld+kQU8YTdGNjOLfRWBzewJpU5cwEv/h5yyqlSeJcj6Yh8U4TDA9UA5FPicqDz/xgRPWRSYIQNiFks21TbA9KQ==}
+  sass@1.89.1:
+    resolution: {integrity: sha512-eMLLkl+qz7tx/0cJ9wI+w09GQ2zodTkcE/aVfywwdlRcI3EO19xGnbmJwg/JMIm+5MxVJ6outddLZ4Von4E++Q==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -4051,7 +4051,7 @@ snapshots:
     dependencies:
       deffy: 2.0.0
 
-  sass@1.89.0:
+  sass@1.89.1:
     dependencies:
       chokidar: 4.0.3
       immutable: 5.1.2
