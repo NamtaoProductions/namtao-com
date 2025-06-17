@@ -95,19 +95,18 @@ Occasionally friends and patrons suggest ideas to me, and sometimes I include th
 | [[Freja from Horns\|Freja from Horns]]                     | \-                  |
 | [[Geraldo Ko\|Geraldo Ko]]                                 | \-                  |
 | [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
+| [[Jenny Noll\|Jenny Noll]]                                 | \-                  |
 | [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
 | [[Kaycee Stronski\|Kaycee Stronski]]                       | \-                  |
 | [[Kimmo Shyu\|Kimmo Shyu]]                                 | harbourmaster       |
-| [[Lenny Joll\|Lenny Joll]]                                 | \-                  |
 | [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
 | [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
 | [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
 | [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
 | [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
-| [[Quent Hainline\|Quent Hainline]]                         | \-                  |
 | [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
 | [[Siegfried Lin\|Siegfried Lin]]                           | \-                  |
-| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | \-                  |
+| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | engineer            |
 | [[Tedrick Zottola\|Tedrick Zottola]]                       | \-                  |
 | [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
 

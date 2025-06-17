@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/public-dashboard/","hide":true,"noteIcon":""}
 ---
 
-| Project                                             | Progress                                                     | Next Action                         |
-| --------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------- |
-| [[Sigma Perfect Podcast\|Sigma Perfect Podcast]] | <progress value='9.090909090909092' max='100'></progress> 9% | Edit ep 1  [scheduled:: 2025-05-29] |
-| [[Lost Terminal/Season 19.0/LT19.2\|LT19.2]]     | <progress value='28.125' max='100'></progress> 28%           | Write act 4 #chamber                |
-| [[Lost Terminal/Season 19.0/LT19.3\|LT19.3]]     | <progress value='0' max='100'></progress> 0%                 | fix template                        |
+| Project                                             | Progress                                                       | Next Action                         |
+| --------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------- |
+| [[Sigma Perfect Podcast\|Sigma Perfect Podcast]] | <progress value='8.333333333333332' max='100'></progress> 8%   | Edit ep 1  [scheduled:: 2025-05-29] |
+| [[Lost Terminal/Season 19.0/LT19.4\|LT19.4]]     | <progress value='12.903225806451612' max='100'></progress> 13% | Edit based on previous ep feedback  |
+| [[Lost Terminal/Season 19.0/LT19.5\|LT19.5]]     | <progress value='0' max='100'></progress> 0%                   | Write act 1 #chamber                |
 
 { .block-language-dataview}
