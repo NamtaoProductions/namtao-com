@@ -15,4 +15,4 @@ https://github.com/NamtaoProductions/namtao-com/issues
 
 I attempt to check all video comments in the first week after publishing, but error reports after this initial period should be posted to the above address.
 
-Thank you very much for helping me improve my accuracy, this journalistic integrity is so important to me.
+**Thank you very much for helping me improve my accuracy, this journalistic integrity is so important to me!**
