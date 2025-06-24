@@ -16,7 +16,7 @@ For example:
 1. Go to `url of video` _(not video title, that may change)_
 2. Skip to timecode `4:20`
 3. In the second codeblock
-4. there is a type `form` -> `from`
+4. there is a typo `form` -> `from`
 
 **Screenshots**
 If applicable, add screenshots to help me find the error.
