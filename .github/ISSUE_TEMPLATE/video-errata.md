@@ -1,7 +1,7 @@
 ---
 name: Video Errata
 about: Report an error in a video
-title: "[VIDEO ERRATA]"
+title: "[VIDEO ERRATA] short summary here"
 labels: ''
 assignees: ''
 

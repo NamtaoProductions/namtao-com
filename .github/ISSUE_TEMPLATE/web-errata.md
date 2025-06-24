@@ -1,7 +1,7 @@
 ---
 name: Web Errata
 about: Report an error on namtao.com
-title: "[WEB ERRATA]"
+title: "[WEB ERRATA] short summary here"
 labels: ''
 assignees: ''
 
