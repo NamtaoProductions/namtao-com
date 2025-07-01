@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"LT","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":""}
 ---
 
 
@@ -8,7 +8,7 @@
 
 A hard sci-fi hopepunk podcast following the journey of a little satellite trying to understand what has happened after Earth stops returning his calls.
 
-> New episodes Mondays. **[Watch here](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=1)**
+> New episodes Mondays. **[Watch here](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=1)**, or [subscribe](https://www.spreaker.com/show/lost-terminal) in your favourite podcast app.
 
 ---
 # Credits
@@ -90,7 +90,6 @@ Occasionally friends and patrons suggest ideas to me, and sometimes I include th
 | [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
 | [[Bay Langley\|Bay Langley]]                               | \-                  |
 | [[Carma Krotish\|Carma Krotish]]                           | \-                  |
-| [[Dalton Valenta\|Dalton Valenta]]                         | \-                  |
 | [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | \-                  |
 | [[Freja from Horns\|Freja from Horns]]                     | \-                  |
 | [[Geraldo Ko\|Geraldo Ko]]                                 | \-                  |
@@ -104,10 +103,12 @@ Occasionally friends and patrons suggest ideas to me, and sometimes I include th
 | [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
 | [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
 | [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
+| [[Quent Heinlein\|Quent Heinlein]]                         | \-                  |
 | [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
 | [[Siegfried Lin\|Siegfried Lin]]                           | \-                  |
 | [[Stillman Fowlkes\|Stillman Fowlkes]]                     | engineer            |
 | [[Tedrick Zottola\|Tedrick Zottola]]                       | \-                  |
+| [[Valenta Dalton\|Valenta Dalton]]                         | \-                  |
 | [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
 
 { .block-language-dataview}
