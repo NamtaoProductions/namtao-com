@@ -3,37 +3,6 @@
 ---
 
 
-
-![image:width:50%](/img/user/Resources/Meta/attachments/namtao-logo-bw-low-contrast-nb-grey-bg.png)
-
-Spotted an error? `www.namtao.com/errata`
-
----
-
-
-
-Hi friends, my name is Tris and this is No Boilerplate, focusing on fast, technical videos.
-
----
-
-
-# THE JOY OF RUST
-
-
-- 🔨 Best-in-class tooling
-- 🪖 No nulls
-- ⏩ C-speed
-- 🎹 High-level ergonomics
-- 🚀 Low-level power
-- 📥 Algebraic type system
-
-
-
-> (ie. my Shopping list, c. 2016)
-
----
-
-
 Rust is the senior developer's dream language. Certainly, it is mine.
 
 For the first time in my 15-year career, I feel that I have found a language that lets me confidently write not just high-level application code, but low-level driver code, and everything in-between, too.
