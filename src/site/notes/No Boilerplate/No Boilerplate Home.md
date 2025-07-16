@@ -19,6 +19,7 @@ I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides
 45. [[Rust is the New C\|Rust is the New C]]
 46. [[Writing at the speed of thought\|Writing at the speed of thought]]
 47. [[Oxidise your cli 2025\|Oxidise your cli 2025]]
+48. [[Async isn't real and can't hurt you\|Async isn't real and can't hurt you]]
 
 ---
 
