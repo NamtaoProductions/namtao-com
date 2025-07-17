@@ -733,4 +733,13 @@ Thank you so much for watching and listening, talk to you on Discord.
 
 
 
+Footnotes
+===
+
+[^1]: https://www.youtube.com/watch?v=1zOd52_tUWg
+[^2]: https://docs.rs/tokio
+[^3]: https://www.youtube.com/watch?v=CTTiaOo4cbY
+[^4]: https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/
+[^5]: https://doc.rust-lang.org/book/ch16-01-threads.html
+
  
