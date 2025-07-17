@@ -9,7 +9,7 @@
 Scripts for my talks on the YouTube channel.
 up to the 42nd are in <https://github.com/0atman/noboilerplate>, then I switched to publishing them here on this site.
 
-I build these using [obsidian.md](https://obsidian.md/) and the [advanced-slides plugin](https://github.com/MSzturc/obsidian-advanced-slides): I take each slide, printscreen it, and splice it with my audio using [reaper.fm](http://reaper.fm/).
+I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https://github.com/mfontanini/presenterm/): I take each slide, printscreen it, and splice it with my audio using [reaper.fm](http://reaper.fm/).
 
 ---
 
