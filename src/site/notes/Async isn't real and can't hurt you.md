@@ -18,7 +18,7 @@ I have explained the joy of rust at length on this channel, I shan't repeat myse
 
 HOWEVER, some of what I have mentioned breaks down when interacting with async rust.
 
----
+
 
 # 👻
 # ASYNC RUST
@@ -29,14 +29,14 @@ HOWEVER, some of what I have mentioned breaks down when interacting with async r
 > [!IMPORTANT] Steve Klabnik
 > Just to be clear, async Rust is basically a miracle [^1]
 
----
+
 
 
 Async code seems alien, some people even say it's not rust, it's a different language, hidden inside it, but the problem is simpler than that.
 
 My core issue with async in Rust, isn't that it's bad, or broken or unusable - it's actually nothing short of miraculous - the problem is that it threatens what I consider rust's golden contract with its users:
 
----
+
 
 
 # `RUST'S CONTRACT:`
@@ -49,14 +49,14 @@ My core issue with async in Rust, isn't that it's bad, or broken or unusable - i
 
  ---
 
----
+
 
 
 If you use references, the compiler will make your life easy.
 
 You get Rust's superpowers for free if you use Rust's ownership model with its two kinds of references, shared and exclusive.
 
----
+
 
 
 
@@ -71,7 +71,7 @@ You get Rust's superpowers for free if you use Rust's ownership model with its t
 ## &hellip;
 ## `4. DRAW THE REST OF THE OWL`
 
----
+
 
 
 In my _How to Learn Rust_ video, I recommended that students:
@@ -88,7 +88,7 @@ Though the compiler is getting more and more helpful with each iteration, async 
 
 Because it kindof forces you to learn everything.
 
----
+
 
 
 
@@ -120,19 +120,19 @@ I dedicate my video scripts to the public domain.
 
 Everything you see here: script, links, and images are part of a Markdown document available freely on github and my website, namtao.com.
 
----
+
 
 
 # `PART 1:`
 ## WE WERE PROMISED
 ## FEARLESS CONCURRENCY
 
----
+
 
 
 I'm going to discuss Concurrency and Parallelism today, and despite the assumptions of the `tokio` crate, these are very different techniques, and we should tighten up our definitions before we continue.
 
----
+
 
 # CONCURRENCY
 
@@ -149,7 +149,7 @@ sequenceDiagram
 
 One thing at a time, most important thing first, start now.
 
----
+
 
 
  
@@ -162,7 +162,7 @@ A single CPU with a single thread multitasks with concurrency too, but because t
 A single human only has access to concurrency.
 Modern computers, of course, can also access Parallelism.
 
----
+
 # PARALLELISM
 
 ```mermaid
@@ -179,7 +179,7 @@ sequenceDiagram
 
 Everything, everywhere, all at once.
 
----
+
 
 
 Parallelism is simple to explain if rather complicated to get right.
@@ -192,7 +192,7 @@ Not a problem for laissez-faire 'fuck-it-ship-it' languages, but a REAL problem 
 The compiler doesn't just want to know WHAT our data is, with its rich types, but WHEN our data is, by augmenting those types with lifetime annotations.
 This is a critical pain point that we will come back to later.
 
----
+
 ## SHOW US THE CODE
 
 ```rust +validate:rust-script-pedantic
@@ -211,7 +211,7 @@ NOTES:
 - What a day!
 - What a lovely day!
 
----
+
 
 
 OK, finally, some code.
@@ -222,7 +222,7 @@ To do that, you might reasonably reach for Async, like in other languages.
 Let's see what async looks like in Rust.
 And now that `async-std` is deprecated, what that usually looks like is the tokio crate:
 
----
+
 
 ## ASYNC WITH TOKIO
 
@@ -247,7 +247,7 @@ async fn async_expensive_fn(url: &String) {
 > `url` must outlive `'static`&nbsp;
 > &nbsp;
 
----
+
 
 
  
@@ -257,7 +257,7 @@ Easy!
 
 But oh, huh, this doesn't compile.
 
----
+
 
 ## TOKIO::TASK::SPAWN_BLOCKING
 
@@ -286,7 +286,7 @@ pub fn spawn_blocking<F, R>(f: F) -> JoinHandle<R>
         R: Send + 'static,
 ````
 
----
+
 
 
 Looking at the implementation, it seems that the `spawn_blocking()` function requires references to have the `static` lifetime, an annotation that ask the compiler to prove they will be valid for the entire execution of the program.
@@ -294,7 +294,7 @@ This is not the case for our `url` shared reference, the current lifetime is tie
 OK, fair enough.
 The full cargo error is very clear on how to solve this:
 
----
+
 
 ## TOKIO, FIXED
 
@@ -319,7 +319,7 @@ async fn async_expensive_fn(url: &'static String) {
   dbg!("What a nice url: {}", url);
 }
 ````
----
+
 
 
 We simply obey the compiler, and dutifully add the static lifetime to the reference.
@@ -330,7 +330,7 @@ USUALLY when the compiler is happy I am happy, but today I am not.
 Not at all.
 In fact, I'm kind of FURIOUS.
 
----
+
 
 
 
@@ -339,7 +339,7 @@ In fact, I'm kind of FURIOUS.
 
 It's not a story `tokio` would tell you...
 
----
+
 
 
 OF COURSE, you can get fearless concurrency if you only send around static, read-only data, that's actually super unimpressive.
@@ -347,7 +347,7 @@ Forcing all our references to be valid for the lifetime of the program, effectiv
 I thought this was RUST!? No compromises, I want to have my cake and eat it too.
 Don't worry, this story has a happy ending.
 
----
+
 
 
 
@@ -355,14 +355,14 @@ Don't worry, this story has a happy ending.
 
 `letsgetrusty.com/start-with-tris`
 
----
+
 
 
 I'm delighted to say that this video is sponsored by friend of the channel, Let's Get Rusty.  
 In addition to being a Fellow Rust YouTuber, Bogdan runs Rust training both corporate and personal, with a new cohort starting next month.  
 Visit letsgetrusty.com/start-with-tris, link in the pinned comment, to find out more about the training, and thanks so much to Let's Get Rusty for sponsoring this video!
 
----
+
 
 
 # `PART 2:`
@@ -370,7 +370,7 @@ Visit letsgetrusty.com/start-with-tris, link in the pinned comment, to find out 
 # FEARLESS
 # PARALLELISM
 
----
+
 
 
 The crux of the problem is that parallel async tasks, which tokio assumes we'll be using by default, can run for an unknowable amount of time as far as the rust compiler knows.
@@ -381,7 +381,7 @@ This is fine for something like a server handling requests, but do I really need
 
 No, and the good news is that this isn't some intrinsic property of Rust, for instance it's not like this using native os threads:
 
----
+
 
 ## `STD::THREAD::SPAWN`
 
@@ -402,14 +402,14 @@ fn expensive_fn_noscope360(url: &String) {
 >  `url` escapes the function body, must outlive `'static` &nbsp;
 > &nbsp;
 
----
+
 
 
 There we are - oh no!
 The hydra just won't stay dead!
 Stay strong, Hercules, I have just the weapon:
 
----
+
 ## `STD::THREAD::SCOPE`
 
 
@@ -426,7 +426,7 @@ fn expensive_fn_scope(url: &String) {
 
 ## ✨ MAGIC ✨
 
----
+
 
 
 Marvellous!
@@ -439,7 +439,7 @@ The `url` shared reference can be passed into a thread, and then, at some point 
 
 My generalised advice to get fearless parallelism is to tightly scope it.
 
----
+
 
 ## Thread Ownership
 
@@ -450,7 +450,7 @@ sequenceDiagram
     THREAD ->> FUNCTION: thread.join()
     FUNCTION ->> OWNED URL: returns, releasing borrow
 ```
----
+
 
 
 Here's how it works:
@@ -461,7 +461,7 @@ Here's how it works:
 
 It doesn't look like this using async with tokio:
 
----
+
 
 ## Tokio Ownership
 
@@ -473,7 +473,7 @@ sequenceDiagram
     FUNCTION > OWNED URL: returns future 
 ```
 
----
+
 
 
 We start off similarly, borrowing `url`, however, tokio requires all references to be static, so the static lifetime propagates up the call stack to wherever `url` was first borrowed, even if that was in synchronous code.
@@ -481,14 +481,14 @@ Then we spawn a task on the executor using `spawn_blocking`, and the work begins
 
 While both threads and tokio tasks are quite similar, the former feels like coding in Rust, whereas the latter feels like something else entirely.
 
----
+
 
 
 
 ## "I'LL USE ASYNC!"
  ---
 
----
+
 
 
 Some people, when confronted with a programming problem, think "I know, I'll use async!", which of course means they now have two problems
@@ -505,17 +505,17 @@ This building up of your program's state in your own mind is not what we're here
 
 BUT THE RUST COMMUNITY HAS YOUR BACK.
 
----
+
 
 
 # PART 3:
 # `SOLUTIONS`
 
----
+
 
 Here are some examples of writing Async code in Rust, in ascending order of how much I like them:
 
----
+
 
 # 4. `ARC`
 
@@ -541,14 +541,14 @@ Learn more:
 
 > CTTM, "Rust's Alien Data Types 👽 Box, Rc, Arc"[^3]
 
----
+
 
 
 I'm not interested in runtime borrow checking with arc, I'm interested in rust's zero cost native compile time borrow checking.
 
 However, some problems simply require using arc and friends. Check out the linked CTTM video on alien data types for more details there.
 
----
+
 
 # 3. `tokio-scoped`
 
@@ -575,7 +575,7 @@ async fn main() {
 
 Not bad!
 
----
+
 
 
 This allows behaviour similar to the thread scope example - because all futures are guaranteed to have finished by the time the scope ends, references can be dropped after use.
@@ -583,7 +583,7 @@ However, this is not without drawbacks compared to a pure threaded example, a ru
 By definition, the more logic you push to runtime, the less the compiler can prove at compile time.
 Lets keep going.
 
----
+
 # 2. `SMOL`
 
 ````rust +validate:rust-script
@@ -606,7 +606,7 @@ fn main() -> io::Result<()> {
 }
 ````
 
----
+
 
 
 The `smol` crate is brilliant because it doesn't commit the original sin of conflating concurrency with parallelism. BOTH are available in smol, and you opt-in to what you want.
@@ -615,7 +615,7 @@ As the name suggests, it's also tiny! The entire executor is around [1000 lines 
 
 You can even use tokio-based libraries with smol, by using the [`async-compat`](https://docs.rs/async-compat/latest/async_compat/) crate which adapts tokio futures and I/O types.
 
----
+
 
 # 1. `RAYON`
 
@@ -636,7 +636,7 @@ fn sum_of_squares(input: &[i32]) -> i32 {
 
 > _Rayon: data parallelism in Rust_[^4]
 
----
+
 
 
 If you just want to speed up an inner loop, in an otherwise synchronous program, don't infect it with async everywhere! Just use Rayon.
@@ -645,7 +645,7 @@ It magically converts any iterator into a parallel iterator (reminding me very m
 
 Its data race free work-stealing parallelism has made it a rock star in the Rust world for a decade, read this article if you'd like to know how it works.
 
----
+
 
 # 0. `Threads & Channels`
 
@@ -669,7 +669,7 @@ fn main() {
 
 Learn more in Chapter 16 of The Rust Book[^5]
 
----
+
 
 
 But don't forget about the runtime that the operating system ALREADY gives us for free.
@@ -677,7 +677,7 @@ Modern Linux can manage tens of thousands of threads, which means you might not 
 Using native threads might also make your debugging easier:
 Instead of tokio-specific instrumentation such as the excellent `tracing` crate, you can use any tools from the unix standard thread management ecosystem!
 
----
+
 
 
 # ASYNC ISN'T REAL
@@ -694,7 +694,7 @@ In short:
 
 > Bonus: For advanced use, try the `futures` crate!
 
----
+
 
 
 In Rust, you don't HAVE to use async, and if you do, you have more options than tokio.
@@ -702,7 +702,7 @@ The core of my advice is that if you scope the async part of your code tighter t
 
 You can keep writing Rust, with the compiler as your trusted guide because async isn't real, and cannot hurt you.
 
----
+
 
 
 # PODCAST ANNOUNCEMENT
@@ -720,7 +720,7 @@ let sponsors = [
 let patrons: [&str; 899];
 ```
 
----
+
 
 
 The rumours are true, after producing fiction podcasts for 5 years, I'm finally releasing my first talking-heads style podcast. On it, my friend Robin and I decapsulate many of the topics I talk about, here on my channel.
@@ -731,6 +731,6 @@ Listen at decapsulate.com or wherever you get your podcasts. If you don't have a
 
 Thank you so much for watching and listening, talk to you on Discord.
 
----
+
 
  
