@@ -41,33 +41,34 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 ## Characters
 
-| Note                                                          | archetype           |
-| ------------------------------------------------------------- | ------------------- |
-| [[Aero\|Aero]]                                             | harbourmaster       |
-| [[Lost Terminal/Alexander\|Alexander]]                     | family              |
-| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer |
-| [[Bay Langley\|Bay Langley]]                               | \-                  |
-| [[Carma Sah\|Carma Sah]]                                   | \-                  |
-| [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | \-                  |
-| [[Freja from Horns\|Freja from Horns]]                     | \-                  |
-| [[Geraldo Ko\|Geraldo Ko]]                                 | \-                  |
-| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham           |
-| [[Jenny Noll\|Jenny Noll]]                                 | \-                  |
-| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | technician          |
-| [[Kat Stronski\|Kat Stronski]]                             | student             |
-| [[Kaycee Stronski\|Kaycee Stronski]]                       | engineer            |
-| [[Kimmo Shyu\|Kimmo Shyu]]                                 | harbourmaster       |
-| [[Lost Terminal/LUNA\|LUNA]]                               | journalist          |
-| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer            |
-| [[Mathilde from Horns\|Mathilde from Horns]]               | \-                  |
-| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain |
-| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | Radio Ham           |
-| [[Quent Heinlein\|Quent Heinlein]]                         | \-                  |
-| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer              |
-| [[Siegfried Lin\|Siegfried Lin]]                           | \-                  |
-| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | engineer            |
-| [[Valentia Dalton\|Valentia Dalton]]                       | \-                  |
-| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker               |
+| Note                                                          | archetype                    | dg-publish |
+| ------------------------------------------------------------- | ---------------------------- | ---------- |
+| [[Aero\|Aero]]                                             | harbourmaster                | true       |
+| [[Lost Terminal/Alexander\|Alexander]]                     | solitary inventor            | true       |
+| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer          | true       |
+| [[Bay Langley\|Bay Langley]]                               | \-                           | false      |
+| [[Carma Sah\|Carma Sah]]                                   | School Principle             | true       |
+| [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | Excitable student            | true       |
+| [[Freja from Horns\|Freja from Horns]]                     | fisher                       | true       |
+| [[Geraldo Ko\|Geraldo Ko]]                                 | \-                           | \-         |
+| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham                    | true       |
+| [[Jenny Noll\|Jenny Noll]]                                 | retired bard                 | true       |
+| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | subnautical technician       | true       |
+| [[Kat Stronski\|Kat Stronski]]                             | student                      | true       |
+| [[Kaycee Stronski\|Kaycee Stronski]]                       | engineer, worried mother     | true       |
+| [[Kimmo Shyu\|Kimmo Shyu]]                                 | harbourmaster                | true       |
+| [[Lost Terminal/LUNA\|LUNA]]                               | journalist                   | true       |
+| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer                     | true       |
+| [[Lost Terminal/Maddie\|Maddie]]                           | satalite maintenance scutter | true       |
+| [[Mathilde from Horns\|Mathilde from Horns]]               | fisher                       | true       |
+| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain          | true       |
+| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | repeaterkeeper               | true       |
+| [[Quent Heinlein\|Quent Heinlein]]                         | teacher of oceanography      | true       |
+| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer                       | true       |
+| [[Siegfried Lin\|Siegfried Lin]]                           | \-                           | \-         |
+| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | engineer                     | true       |
+| [[Valentia Dalton\|Valentia Dalton]]                       | student                      | true       |
+| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                        | true       |
 
 { .block-language-dataview}
 
