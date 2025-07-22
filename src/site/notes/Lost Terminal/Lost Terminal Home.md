@@ -15,8 +15,6 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 > [!DANGER] Spoilers ahead!
 
-![[Project Base.base#LT Seasons Details]]
-
 | Note                                                            | summary                                                                                                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[LT Season 01.0\|LT Season 01.0]]                           | On Station 6, an ESA satellite, Seth the AI finds his generator is at long last winding down. Drastic measures must be made to find a new life for himself. With his trusted friend Antarctica and less-understood friend Peter back on earth, he enacts a wild escape plan.                                                            |
