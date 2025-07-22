@@ -34,7 +34,7 @@ Though I started listening to TMA rather late, it had been on my to-listen list 
 
 ## Phosphenes
 
-> [!QUOTE] Title
+> [!QUOTE] 
 > A phosphene is the phenomenon of seeing light without light entering the eye. The word phosphene comes from the Greek words phos (light) and phainein (to show). Phosphenes that are induced by movement or sound may be associated with optic neuritis. Phosphenes can be induced by mechanical, electrical, or magnetic stimulation of the retina or visual cortex, or by random firing of cells in the visual system. Phosphenes have also been reported by meditators (called nimitta), people who endure long periods without visual stimulation (the prisoner's cinema), or those who ingest psychedelic drugs.
 > - [Wikipeida, Phosphene](https://en.wikipedia.org/wiki/Phosphene)
 
