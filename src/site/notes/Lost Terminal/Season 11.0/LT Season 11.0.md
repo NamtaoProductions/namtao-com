@@ -3,6 +3,6 @@
 ---
 
 
-![Screenshot_20230109_082506.png](/img/user/Screenshot_20230109_082506.png)
+![LT11 logo.png](/img/user/LT11%20logo.png)
 
  

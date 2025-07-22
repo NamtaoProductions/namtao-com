@@ -11,48 +11,6 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 > New episodes Mondays. **[Watch here](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=1)**, or [subscribe](https://www.spreaker.com/show/lost-terminal) in your favourite podcast app.
 
 ---
-# Credits
-
-Every episode has headline credits within the episode, and extended credits in the descriptions, both in the shownotes of the podcast and on YouTube.
-However, Lost Terminal would not be what it is today without these people, who I would like to thank here, too:
-
-## Voices
-- Credits voiced by Lucy Stringer
-- Antarctica voiced by Wolfie Thorns
-- Ivan voiced by Alex Bayly
-- Ana voiced by Oriel Winslow
-- MINI voiced by Kate Ashford
-- Yeshi voiced by Robin Howell
-- PETER voiced by Karl Williams
-- Alexander voiced by Dan Yilmaz
-- 50Meg voiced by Carin Calder-La Croix
-- Alec voiced by Neil Murton
-- NANA voiced by Lisa Ashton-Riemers
-- Dr Redwing voiced by Gina Sneesby
-- C0 voiced by Dan Yilmaz
-- Iris voiced by Lucy Stringer
-- Mirror voiced by Jack Loughlin
-- Jakub Glas voiced by Alex Bayly
-- EMMA voiced by Gina Sneesby
-- Samik Jensen voiced by Nils Brobakk
-- Pṛthvī Mātā voiced by Carin Calder-La Croix
-## Character Concepts
-Occasionally friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look [here](https://www.patreon.com/posts/52133497) for how your character ideas can be included in Lost Terminal.
-
-- Dr Redwing and EMMA created by Robert Bettelheim
-- IVAN created by Karl Williams
-- Yeshi created by Petra Bačkovská
-- TASSI created by CM-47
-- NANA created by Sal Boye
-- C0 created by Thalber
-- ONI created by Jack Locke
-- Mirror created by Moe Ur
-- Raffi and Daphne created by The Empty Suit
-- Tohoku University AI Terrarium concept created by Stanislav, named by Dan
-- Pṛthvī Mātā created by Alexander Czar
-
-## Additional Material
-- Podcast artwork by Carl Huber <http://carlh.com> (up to season 13, artwork after then made by me, Tris Oaten)
 # Season Summary
 
 > [!DANGER] Spoilers ahead!
@@ -126,5 +84,48 @@ Occasionally friends and patrons suggest ideas to me, and sometimes I include th
     - But then in all future episodes of s11 called it Valentia (no 'n'), this was incorrect.
 - in 11.5 Redwing calls Dr Yuán by the given name "Li Na", which is not right. I don't know how this error got into the script.
     - in 0.3 I corrected this to [[Lost Terminal/Dr Yuán\|Yùmíng]].
+
+# Credits
+
+Every episode has headline credits within the episode, and extended credits in the descriptions, both in the shownotes of the podcast and on YouTube.
+However, Lost Terminal would not be what it is today without these people, who I would like to thank here, too:
+
+## Voices
+- Credits voiced by Lucy Stringer
+- Antarctica voiced by Wolfie Thorns
+- Ivan voiced by Alex Bayly
+- Ana voiced by Oriel Winslow
+- MINI voiced by Kate Ashford
+- Yeshi voiced by Robin Howell
+- PETER voiced by Karl Williams
+- Alexander voiced by Dan Yilmaz
+- 50Meg voiced by Carin Calder-La Croix
+- Alec voiced by Neil Murton
+- NANA voiced by Lisa Ashton-Riemers
+- Dr Redwing voiced by Gina Sneesby
+- C0 voiced by Dan Yilmaz
+- Iris voiced by Lucy Stringer
+- Mirror voiced by Jack Loughlin
+- Jakub Glas voiced by Alex Bayly
+- EMMA voiced by Gina Sneesby
+- Samik Jensen voiced by Nils Brobakk
+- Pṛthvī Mātā voiced by Carin Calder-La Croix
+## Character Concepts
+Occasionally friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look [here](https://www.patreon.com/posts/52133497) for how your character ideas can be included in Lost Terminal.
+
+- Dr Redwing and EMMA created by Robert Bettelheim
+- IVAN created by Karl Williams
+- Yeshi created by Petra Bačkovská
+- TASSI created by CM-47
+- NANA created by Sal Boye
+- C0 created by Thalber
+- ONI created by Jack Locke
+- Mirror created by Moe Ur
+- Raffi and Daphne created by The Empty Suit
+- Tohoku University AI Terrarium concept created by Stanislav, named by Dan
+- Pṛthvī Mātā created by Alexander Czar
+
+## Additional Material
+- Podcast artwork by Carl Huber <http://carlh.com> (up to season 13, artwork after then made by me, Tris Oaten)
 
  
