@@ -3,7 +3,7 @@
 ---
 
 
-<iframe title="Rust is the New C" width="560" height="315" src="https://makertube.net/videos/embed/ac1f333b-23eb-47e7-8aa4-7373cf79e57e" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Rust is the New C" width="100%" height="100%" src="https://makertube.net/videos/embed/nfKBnifRfEpbEvMxFhReHq" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 
 

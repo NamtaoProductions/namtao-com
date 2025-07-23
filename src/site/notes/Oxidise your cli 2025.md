@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/oxidise-your-cli-2025/","hide":true,"tags":["project"],"noteIcon":""}
 ---
 
-    
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Oxidise Your Command Line (2025 Edition)" width="100%" height="100%" src="https://makertube.net/videos/embed/hiKSq6g3sjkMsrTZ6fUS32" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
+
 
 OXIDISE YOUR COMMAND LINE
 ===
@@ -18,7 +19,6 @@ OXIDISE YOUR COMMAND LINE
 
  
 
-<div style="position: relative; padding-top: 56.25%;"><iframe title="Oxidise Your Command Line (2025 Edition)" width="100%" height="100%" src="https://makertube.net/videos/embed/hiKSq6g3sjkMsrTZ6fUS32" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 It's been a little over 2 years since my last [Oxidise your Command Line](https://youtu.be/dFkGNe4oaKk) video, and it's about time for an update.
 Today I have `30` rust-powered command line tools to show you that have replaced and extended my old standards, in addition to a few non-standard ones that I didn't know I needed.

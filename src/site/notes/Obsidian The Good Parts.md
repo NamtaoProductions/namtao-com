@@ -3,7 +3,7 @@
 ---
 
 
-<iframe title="Obsidian.md: The Good Parts [Part 2]" width="560" height="315" src="https://makertube.net/videos/embed/9e2eadcf-9cb7-4806-8f8e-dbe0759c1a2f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Obsidian.md: The Good Parts [Part 2]" width="100%" height="100%" src="https://makertube.net/videos/embed/kwV7u6pVXxEv5ihcgjDoBz" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 I have been using Obsidian for 5 years, deepening my thinking in conversation with my second brain.
 
