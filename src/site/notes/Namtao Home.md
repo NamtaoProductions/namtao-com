@@ -52,7 +52,7 @@
 > [!NOTE] Unpacking Life
 > Discussing tech, tools, and tips on how to survive inside a creative brain. Hosted by Tris & Robin.
 >
-> - Listen at [Decapsulate.com](https://decpasulate.com/)
+> - Listen at [Decapsulate.com](https://decapsulate.com/)
 > - Follow [@decapsulate@namtao.com](https://namtao.com/@decapsulate) for updates
 >
 > [[Decapsulate Home\|Read more...]]
