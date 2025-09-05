@@ -13,6 +13,7 @@
 >
 > - Watch on [YouTube](https://www.youtube.com/c/NoBoilerplate)
 > - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@noboilerplate) for updates
+> - Start on any video
 >
 > [[No Boilerplate/No Boilerplate Home\|Read more...]]
 
@@ -24,6 +25,7 @@
 > - Watch on [YouTube](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=2&t=0s)
 > - Listen at [LostTerminal.com](https://lostterminal.com/)
 > - Follow [@LostTerminal@namtao.com](https://namtao.com/@lostterminal) for updates
+> - Start at the beginning
 >
 > [[Lost Terminal/Lost Terminal Home\|Read more...]]
 
@@ -44,6 +46,7 @@
 >
 > - Listen at [PhospheneCatalogue.com](https://phosphenecatalogue.com/)
 > - Follow [@PhospheneCatalogue@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
+> - Start on any season
 >
 > [[The Phosphene Catalogue/The Phosphene Catalogue Home\|Read more...]]
 
@@ -54,6 +57,7 @@
 >
 > - Listen at [Decapsulate.com](https://decapsulate.com/)
 > - Follow [@decapsulate@namtao.com](https://namtao.com/@decapsulate) for updates
+> - Start on any episode
 >
 > [[Decapsulate Home\|Read more...]]
 
