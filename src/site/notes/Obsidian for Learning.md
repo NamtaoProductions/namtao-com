@@ -3,31 +3,7 @@
 ---
 
 
-
-
-
-
-
-
-
-![image:width:20%](/img/user/obsidian.png)
-
-
-# `OBSIDIAN`
-
-# FOR LEARNING
-
-
-
-
-Hi friends my name is Tris and this is No Boilerplate, where I focus on fast, technical videos.
-
-
-
-
-
- ---
- ---
+# IF ONLY I KNEW THEN WHAT I KNOW NOW
 
 
 
@@ -72,9 +48,7 @@ Let's crack on.
 
 
 
-# `PART 0`
-
-# ADVANCED OBSIDIAN USAGE
+# PART 0: ADVANCED OBSIDIAN USAGE
 
 
 - `[[Links]]` Are the `key`
@@ -124,12 +98,10 @@ If you have 20 minutes rather than 20 seconds, watch my 2 previous videos on Obs
 
 
 
-Markdown text
 
 
 
 
-Obsidian view
 
 
 
@@ -143,7 +115,7 @@ This is very handy while you're building notes on a wide subject area that you k
 
 
 
- ---
+## LINKING HAPPENS ORGANICALLY
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/desire-lines-park.png)
 
@@ -160,28 +132,6 @@ This idea of mental desire lines is the subject of the beautiful song, _"Let The
 
 
 
-
-```typst +render +width:100%
-#set page(width: 800pt)
-#set par(justify: true)
-#set text(
-  font: "New Computer Modern",
-  size: 30pt,
-  style: "italic",
-  fill: white
-)
-#text()[
-The mind can be thought of as a field.
-
-The most frequently-travelled routes leave paths along the grass and likewise in our mental make-up.
-
-These routes are a map of our emotional destinations.
-
-They indicate that the territory they lead us to is a familiar destination.
-
-The deeper and clearer the path, the more frequently it's taken and the easier it is to go.
-]
-```
 
 
 
@@ -272,14 +222,14 @@ Definitely install the `quickswitcher ++` plugin (that's what I'm using here), t
 
 
 ```js
- ---
+## Pretty LaTeX Notation
 $ 1+2+3+\cdots+10=\sum_{n=1}^{10}n $
 ```
 
 
 
 ```js
- ---
+## Markdown Tables
 
 | F0  | F1  | F2  | F3  | F4  | F5  |
 | --- | --- | --- | --- | --- | --- |
@@ -317,18 +267,18 @@ Obsidian is built around the command palette, `c-p`, and every single command ca
 ## PLUGINS FOR CONSOLE COWBOYS
 
 
- ---
-- Navigate through notes by parent, sibling, child ontology links
- ---
-- Build your own commands
- ---
-- Enables native clipboard
- ---
-- Click anything on screen without using your mouse
- ---
- ---
- ---
- ---
+- `Breadcrumbs`
+    - Navigate through notes by parent, sibling, child ontology links
+- `Commander`
+    - Build your own commands
+- `Vimrc Plugins`
+    - Enables native clipboard
+- `Vimium`
+    - Click anything on screen without using your mouse
+- `Built-in Vim Mode (See My video for why)`[^4]
+- `Spacekeys`
+- `Vim Yank Highlight`
+- `Improved Vim Cursor`
 
 
 
@@ -343,19 +293,8 @@ Obsidian is perfect for me not because the developers happened to make it that w
 If you're ready, let me show you MY system:
 
 
-## PATREON
 
 
-![image:width:30%](/img/user/Resources/Meta/attachments/patreon.png)
-
-
- ---
-
-To get:
-- 📁 My downloadable template vault
-- 📼 Early, longer, and more detailed videos
-- 👨‍🏫 1:1 Mentoring over video chat
-- ❤️ My infinite gratitude for allowing me to continue making these videos
 
 
 
@@ -429,9 +368,7 @@ Today we will focus on the inputs to this system.
 
 
 
-# PART 1:
-
-# `CAPTURE`
+# PART 1: `CAPTURE`
 
 
 
@@ -806,6 +743,7 @@ SEE YOU IN PART 2!
 
 
 
+
 # THANK YOU
 
 To all my patrons, you make this possible!
@@ -834,12 +772,27 @@ I'd be very grateful for your support on:
 
 
 
-If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon.
-If you're interested in transhuman and hopepunk stories, please check out my weekly sci-fi audiofiction podcast, Lost Terminal.
-Season 3 of the Phosphene Catalogue is coming soon, if you like mysteries and art, check it out!
-And Modem Prometheus is finally back from Hiatus, the first episodes of both these shows arrive on Halloween.
-Transcripts and compile-checked markdown sourcecode are available on namtao.com and github, links in the description, and corrections are in the pinned ERRATA comment.
-Thank you so much for watching, talk to you on Discord.
+# Footnotes
+
+[^1]: https://youtu.be/XUZ9VATeF_4
+
+[^2]: https://www.youtube.com/@MikeSchmitz
+
+[^3]: https://www.youtube.com/watch?v=P0cKq2-PMxA buy the track here: https://johncallaghan.bandcamp.com/track/let-the-path-grow-over
+
+[^4]: https://youtu.be/sqm4-B07LsE
+
+[^5]: https://github.com/Vinzent03/obsidian-shortcuts-for-starred-files
+
+[^6]: https://github.com/jsmorabito/obsidian-workspaces-plus
+
+[^7]: https://www.youtube.com/watch?v=Yocja_N5s1I
+
+[^8]: https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13
+
+[^9]: https://www.youtube.com/watch?v=CH84CsBViOs
+
+[^10]: https://gist.github.com/0atman/29daa5676a39388006e6c2e73e60f479
 
 
 
