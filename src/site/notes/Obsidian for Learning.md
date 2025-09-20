@@ -3,8 +3,6 @@
 ---
 
 
-# IF ONLY I KNEW THEN WHAT I KNOW NOW
-
 
 
 
