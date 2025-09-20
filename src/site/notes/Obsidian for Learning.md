@@ -420,7 +420,7 @@ Fortunately, passing John Green's Test is simple, if not easy, and it all starts
 
 
 
- ---
+## NOTE-TAKING
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/field-notes-remembering-it-now.png)
 
@@ -432,7 +432,7 @@ There are three types of notes I will teach you today, though you may discover m
 
 
 
- ---
+## LECTURE NOTES
 ![image:width:100%](/img/user/Resources/Meta/attachments/lecture-notes-on-optics-photo-wikimedia-commons.png)
 
 
@@ -445,7 +445,7 @@ It's a good start, but all too often, this is where learning finishes. We'll get
 
 
 
- ---
+## LITERATURE NOTES
 ![image:width:100%](/img/user/Resources/Meta/attachments/motivation-highlighted-photo.png)
 
 
@@ -459,7 +459,7 @@ It won't, but this process is a vital start.
 
 
 
- ---
+## FLEETING NOTES
 
 
 
@@ -485,9 +485,9 @@ As Alan Watts says, Don't drag the raft with you after you have crossed the rive
 
 
 
- ---
+## THE RADIO
 
- ---
+## `OF YOUR MIND`
 
 
 
@@ -503,7 +503,7 @@ If you have been doing your job right and consuming high-quality media, such as:
 
 
 
- ---
+## TYPES OF IDEAS:
 
 
 
@@ -536,7 +536,7 @@ This is so vital, I've given it a name:
 
 
 
- ---
+## `THE TEMPORAL CONTRACT`
 
 
 ```mermaid
@@ -572,7 +572,7 @@ Each day you prime your unconscious with these thoughts, and eventually, you mig
 
 
 
- ---
+## HIGHLIGHTS CAPTURING
 
 
 
@@ -594,7 +594,7 @@ Most of the features we'll be using are built-in, but we'll be using the followi
 
 
 
- ---
+## READWISE INTEGRATION
 
 
 
@@ -678,7 +678,7 @@ If you ever alter the format of the readwise export template, and want to update
 
 
 
- ---
+## QUICKADD
 
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/quickadd-screenshot-writers-block.png)
