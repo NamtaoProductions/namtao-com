@@ -154,7 +154,7 @@ I consider folders the weapon of the enemy in obsidian because they do not play 
 It is a trap nearly every new obsidian user falls in to.
 And I was no exception.
 
-![my obsidian graph view 29-012025.png](/img/user/Resources/Meta/attachments/my%20obsidian%20graph%20view%2029-012025.png)
+![my-obsidian-graph-view-29-012025.png](/img/user/Resources/Meta/attachments/my-obsidian-graph-view-29-012025.png)
 
  
 Folders feel like a legacy feature that works very differently than all others:
@@ -379,7 +379,7 @@ Relationships could be:
 
 This is fully supported by the obsidian search and backlinks system, all plugins, too, but now you can filter by the TYPE of link.
 
-![my obsidian graph view 29-012025.png|600](/img/user/Resources/Meta/attachments/my%20obsidian%20graph%20view%2029-012025.png)
+![my-obsidian-graph-view-29-012025.png|600](/img/user/Resources/Meta/attachments/my-obsidian-graph-view-29-012025.png)
 
 Very pretty, but even *I* don't know what's going on _(and it's MY brain)_
 

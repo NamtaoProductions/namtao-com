@@ -37,6 +37,7 @@ An impressively large and detailed painting, the subject is a shallow river flow
 The river runs the full breadth of the work, entering through the left side of the frame, bending upwards slightly, and then passing out of sight in the top right.
 
 I have a unique insight into the creation of this lot, Reader, as Miss Croft and I lived in the same house during its painting, as we do again since my return to London.
+
 > For reasons that are slowly becoming more and more clear to me.
 
 This large work was painted last year in the artist's studio.
@@ -78,6 +79,7 @@ But I DO recognise these stars.
 
  ---
 
+
 > I know them because I still visit The Garden in my dreams, Morwenna.
 > That beautiful world of inspiration, magic, giant twisted trees and honey rain.
 > I had thought that the only way to visit was to take the dream drug, Somnium - the elixir that [[The Phosphene Catalogue/Nelson Cartwright\|Nelson bloody Cartwright]] gave us. But since returning to [[The Phosphene Catalogue/Rossetti House\|Rossetti House]], I have strayed into the garden every night in my dreams.
@@ -92,6 +94,7 @@ But I DO recognise these stars.
 >
 > Since I returned to Rossetti House, Jo and I often chat over late-night cocoa in the cosy lounge, re-affirming our friendship. She told me something recently that somewhat explains Nelson's insistent attitude that I heard both on the tape of Edie sleeping, and in-person, when I was under the influence of Somnium.
 > Nelson has aphantasia: He coordinated the dream sessions because he can't dream for himself.
+
 
 
 > He's the perfect pusher, a dealer who is totally immune to the drug they are peddling. The Voyagers, whoever they are, chose well, it seems.

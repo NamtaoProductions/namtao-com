@@ -36,39 +36,44 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[LT Season 17.0\|LT Season 17.0]]                           | The MH2 makes port at [[Lost Terminal/Thule\|Thule]]. Lyosha and maddie go on adventures, 50Meg checks in, Seth and LUNA play a game, and an AI from Japan says hello.                                                                                                                                                                                       |
 | [[LT Season 18.0\|LT Season 18.0]]                           | The MH2 Crew visit the Inland Sea of Greenland, a new saltwater lake revealed by the melted Arctic. During their exploration of the villages, Seth seeks memory advice from his friends and tries to build better systems, Yeshi makes friends with a local fishing crew, and Nia struggles with what it means to be a Repeater Keeper. |
 | [[LT19.0\|LT19.0]]                                           | TODO                                                                                                                                                                                                                                                                                                                                    |
+| [[LT20.0\|LT20.0]]                                           | TODO                                                                                                                                                                                                                                                                                                                                    |
 
 { .block-language-dataview}
 
 ## Characters
 
-| Note                                                          | archetype                    |
-| ------------------------------------------------------------- | ---------------------------- |
-| [[Aero\|Aero]]                                             | harbourmaster                |
-| [[Lost Terminal/Alexander\|Alexander]]                     | solitary inventor            |
-| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer          |
-| [[Bay Langley\|Bay Langley]]                               | \-                           |
-| [[Carma Sah\|Carma Sah]]                                   | School Principle             |
-| [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | Excitable student            |
-| [[Freja from Horns\|Freja from Horns]]                     | fisher                       |
-| [[Geraldo Ko\|Geraldo Ko]]                                 | \-                           |
-| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham                    |
-| [[Jenny Noll\|Jenny Noll]]                                 | retired bard                 |
-| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | subnautical technician       |
-| [[Kat Stronski\|Kat Stronski]]                             | student                      |
-| [[Kaycee Stronski\|Kaycee Stronski]]                       | engineer, worried mother     |
-| [[Kimmo Shyu\|Kimmo Shyu]]                                 | harbourmaster                |
-| [[Lost Terminal/LUNA\|LUNA]]                               | journalist                   |
-| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer                     |
-| [[Lost Terminal/Maddie\|Maddie]]                           | satalite maintenance scutter |
-| [[Mathilde from Horns\|Mathilde from Horns]]               | fisher                       |
-| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain          |
-| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | repeaterkeeper               |
-| [[Quent Heinlein\|Quent Heinlein]]                         | teacher of oceanography      |
-| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer                       |
-| [[Siegfried Lin\|Siegfried Lin]]                           | \-                           |
-| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | engineer                     |
-| [[Valentia Dalton\|Valentia Dalton]]                       | student                      |
-| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                        |
+| Note                                                          | archetype                                   |
+| ------------------------------------------------------------- | ------------------------------------------- |
+| [[Aero\|Aero]]                                             | harbourmaster                               |
+| [[Lost Terminal/Alexander\|Alexander]]                     | solitary inventor                           |
+| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer                         |
+| [[Bay Langley\|Bay Langley]]                               | \-                                          |
+| [[Carma Sah\|Carma Sah]]                                   | School Principle                            |
+| [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | Excitable student                           |
+| [[Freja from Horns\|Freja from Horns]]                     | fisher                                      |
+| [[Geraldo Ko\|Geraldo Ko]]                                 | Chemistry teacher                           |
+| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham                                   |
+| [[Jenny Noll\|Jenny Noll]]                                 | retired bard                                |
+| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | subnautical technician                      |
+| [[Kat Stronski\|Kat Stronski]]                             | student                                     |
+| [[Kaycee Stronski\|Kaycee Stronski]]                       | engineer, worried mother                    |
+| [[Kimmo Shyu\|Kimmo Shyu]]                                 | harbourmaster                               |
+| [[Leila Tazi\|Leila Tazi]]                                 | worried mother                              |
+| [[Lost Terminal/Linda Noor\|Linda Noor]]                   | biologist and gardener                      |
+| [[Lost Terminal/LUNA\|LUNA]]                               | journalist                                  |
+| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer                                    |
+| [[Lost Terminal/Maddie\|Maddie]]                           | satalite maintenance scutter                |
+| [[Mathilde from Horns\|Mathilde from Horns]]               | fisher                                      |
+| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain                         |
+| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | repeaterkeeper                              |
+| [[Quent Heinlein\|Quent Heinlein]]                         | teacher of oceanography                     |
+| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer                                      |
+| [[Lost Terminal/Seth\|Seth]]                               | author stand-in, autistic, excitable, naive |
+| [[Siegfried Lin\|Siegfried Lin]]                           | \-                                          |
+| [[Sofia Tazi\|Sofia Tazi]]                                 | adventurous and loyal                       |
+| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | engineer                                    |
+| [[Valentia Dalton\|Valentia Dalton]]                       | student                                     |
+| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                                       |
 
 { .block-language-dataview}
 

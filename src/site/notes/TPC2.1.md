@@ -172,6 +172,7 @@ As soon as I stepped into the small basement that served as gallery, I heard the
 The canvas is 3' wide, 4.5' tall, and has yet to be mounted. After successful bidding, we can offer our framing services, should the buyer require it. Telephone our the office and ask for our framer, [[The Phosphene Catalogue/Season 2/Mina Olivia Copland\|Mina Olivia Copland]].
 
 We have appraised and sold a number of [[The Phosphene Catalogue/Sarah Porter\|Miss Porter's]] works, including the first painting that brought her to international recognition, "[[The Phosphene Catalogue/Lot no. 8091\|Lot no. 8091]]". Readers may view that powerful piece at [[The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Dean Aldwick]]'s estate in Surrey, who won it at our auction for a considerable sum earlier this year.
+
 > (1.8M pounds, Morwenna, can you IMAGINE?!)
 
 I understand [[The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Aldwick]] welcomes fellow connoisseurs, but make sure to bring appropriate footwear, the floor around the painting is treacherous.
@@ -274,7 +275,6 @@ See you next time.
 
 
 </div></div>
-
 
 
  

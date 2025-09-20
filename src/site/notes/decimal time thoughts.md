@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"public/decimal-time","permalink":"/public/decimal-time/","hide":true,"tags":["atomic"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"public/decimal-time","permalink":"/public/decimal-time/","hide":true,"noteIcon":""}
 ---
 
 
-# Divide the waking day into 100
+# Divide the Waking Day into 100
 ```math
 cents = 16 * 60 minutes / 100
 ```
@@ -17,7 +17,6 @@ hunbeat = beat * 100
 pomo = beat + tenbeat
 1000/3 minutes / pomo 
 ```
-
 
 ## Observations
 - beats are ~2min
