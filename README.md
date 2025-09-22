@@ -1,5 +1,9 @@
-# Code for www.namtao.com
+# Digital Obsidian Garden
+This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
+See the README in the plugin repo for information on how to set it up.
 
-Head to <https://www.namtao.com> to see the site.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
 
-Poke around here if you're interested, the site is built using the amazing [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden), which selectively commits individual markdown files to this repo using the github API. This allows me to keep most of my 5000+ notes private, while convieniently publishing those I want. The notes themselves are in [src/site/notes](https://github.com/NamtaoProductions/namtao-com/tree/main/src/site/notes)
+---
+## Docs
+Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
