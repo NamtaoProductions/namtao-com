@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/","noteIcon":""}
+{"dg-publish":true,"permalink":"/projects/","hide":true,"noteIcon":""}
 ---
 
 ## In-Flight Projects
