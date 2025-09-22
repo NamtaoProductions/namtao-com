@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/async-isn-t-real-and-can-t-hurt-you/","tags":["project/nb"],"noteIcon":""}
 ---
 
-<div style="position: relative; padding-top: 56.25%;"><iframe title="youtube video #AiSl4vf40WU" width="100%" height="100%" src="https://makertube.net/videos/embed/aEurG8nfHXMucMhDYFMLLG" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
+
+<div style="position: relative; padding-top: 56.25%;"><iframe title="youtube video #AiSl4vf40WU" width="100%" height="100%" src="https://makertube.net/videos/embed/shtFBbX9VUbtXZQeVCWvM6" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 Rust is the senior developer's dream language. Certainly, it is mine.
 
