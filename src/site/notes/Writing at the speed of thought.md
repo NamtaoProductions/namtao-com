@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/writing-at-the-speed-of-thought/","hide":true,"tags":["project/nb"],"noteIcon":""}
 ---
 
+
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Writing at the Speed of Thought" width="100%" height="100%" src="https://makertube.net/videos/embed/j2fYXUApagNjndQZHuex18" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 

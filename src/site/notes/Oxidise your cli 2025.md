@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/oxidise-your-cli-2025/","hide":true,"tags":["project"],"noteIcon":""}
 ---
 
+
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Oxidise Your Command Line (2025 Edition)" width="100%" height="100%" src="https://makertube.net/videos/embed/hiKSq6g3sjkMsrTZ6fUS32" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 

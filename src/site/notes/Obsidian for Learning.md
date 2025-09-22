@@ -3,6 +3,7 @@
 ---
 
 
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Hacking Your Learning With Obsidian.md" width="100%" height="100%" src="https://makertube.net/videos/embed/nFGS4iZ6C5YeG3GMMWkJvQ" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 
 
