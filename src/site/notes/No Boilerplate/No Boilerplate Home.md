@@ -21,6 +21,7 @@ I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https:/
 47. [[Oxidise your cli 2025\|Oxidise your cli 2025]]
 48. [[Async isn't real and can't hurt you\|Async isn't real and can't hurt you]]
 49. [[Obsidian for Learning\|Obsidian for Learning]]
+50. [[Misusing Macros for Fn and profit\|Misusing Macros for Fn and profit]]
 
 ---
 
