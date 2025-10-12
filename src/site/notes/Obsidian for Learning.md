@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-learning/","tags":["project/nb"],"noteIcon":""}
 ---
 
-
+test
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Hacking Your Learning With Obsidian.md" width="100%" height="100%" src="https://makertube.net/videos/embed/nFGS4iZ6C5YeG3GMMWkJvQ" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 
@@ -270,7 +270,7 @@ Obsidian is built around the command palette, `c-p`, and every single command ca
     - Navigate through notes by parent, sibling, child ontology links
 - `Commander`
     - Build your own commands
-- `Vimrc Plugins`
+- `Vimrc Support`
     - Enables native clipboard
 - `Vimium`
     - Click anything on screen without using your mouse
