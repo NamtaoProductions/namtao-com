@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"permalink":"/oxidise-your-cli-2025/","hide":true,"tags":["project"],"noteIcon":""}
----
+
 
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Oxidise Your Command Line (2025 Edition)" width="100%" height="100%" src="https://makertube.net/videos/embed/hiKSq6g3sjkMsrTZ6fUS32" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
@@ -759,7 +759,7 @@ WIKI-TUI
 
 ![](/img/user/Resources/Meta/attachments/wiki-tui-screenshot-rust-demo.png)
 
----
+
 
 
 - Another way to avoid the web browser
@@ -796,7 +796,7 @@ echo ""
 just clean
 ```
 
----
+
 
 
 - Just is a sane, modern Make replacement for running and chaining commands in your project
@@ -833,7 +833,7 @@ mask clean
 echo ""
 ```
 
----
+
 
 
 - Mask is another command runner, like just and make, but the config file is a standard markdown file, as you see here.
@@ -853,7 +853,7 @@ mprocs "cargo watch clippy" "cargo test"
 
 ![](/img/user/Resources/Meta/attachments/mprocs-screenshot-clippy-test-demo.png)
 
----
+
 
 
 - Mprocs provides a simple way to run a bunch of long-running commands, and monitor their output
@@ -906,7 +906,7 @@ Looks like:
 
 
 
----
+
 
 
  
@@ -937,7 +937,7 @@ Honourable Mentions
 - expanso
     - A system-wide text expander/templater
 
----
+
 
 
 I couldn't fit everything I wanted in the video today, here are some that didn't quite make the cut, but are still cool.
@@ -983,9 +983,9 @@ Thank you so much for watching, talk to you on Discord.
 
 
 
----
 
 
----
+
+
 
  

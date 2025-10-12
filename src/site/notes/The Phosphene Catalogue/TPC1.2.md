@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-2/","hide":true,"tags":["Episodes"],"noteIcon":""}
----
+
 
 # Episode 1.2
 
@@ -68,7 +68,7 @@ But after years of getting to know them, and the interesting people who live wit
 
 I have spent three seasons living in this strange, and wonderful, and terrible, house.
 
----
+
 
 
 The work before me in this collection is startlingly different.
@@ -89,7 +89,7 @@ You must put your back and soul into the work.
 
 I fear that may be literally what happened in this case.
 
----
+
 
  
 [[The Phosphene Catalogue/Edith MacKinley\|Edith MacKinley]] died sometime last Month at the home of someone I'd often seen at our _Friday Openings_, [[The Phosphene Catalogue/Nelson Cartwright\|Nelson Cartwright]].
@@ -131,7 +131,7 @@ There will be no more parties for me, at [[The Phosphene Catalogue/Rossetti Hous
 
 > Tape Click
 
----
+
 
 # Intermission
 
@@ -141,7 +141,7 @@ Tris to read:
 - podcast news
 - new merch
 
----
+
 
 > Tape Click
 
@@ -155,14 +155,14 @@ The first, shows an institutional building, a school, or office block or even a 
 Impossible to tell without knowledge of her life, the grid of dark windows showing no light within, each made by heavy scratches of charcoal.
 I believe this was [[The Phosphene Catalogue/Edith MacKinley\|Miss MacKinley]]'s boarding school, St Mary's School for Girls, as I recall. A time in her life she did not have fond memories of, a fact that this first piece makes abundantly clear.
 
----
+
 
 Second is a building I recognise. This is [[The Phosphene Catalogue/Rossetti House\|Rossetti House]] and Studios, on Flood Street, off the Kings Road. This is the building I visited for the first time for tea, many years ago.
 
 It seems more peaceful than the image of the school, being presented here on a quiet moonlit night, with long shadows thrown into the road, and diagonal shafts of light erased perfectly through the charcoal to the light paper underneath.
 The wide 4-story terraced mansion block, in typical Chelsea style, has light in every window, and the front door is open, just a crack, inviting the viewer inside.
 
----
+
 
 Continuing, the next piece is of one of the [[The Phosphene Catalogue/Rossetti House\|Rossetti House]] Studios, with floor-to-ceiling windows, linking seamlessly to skylights that let in so much sun you could be outside! All 7 studios built in this courtyard behind the building are like this, with north-facing windows to let in diffuse natural light onto your work.
 This particular studio appears to be empty, with whitewashed walls and a single figure sitting cross-legged in the centre, black hair matted over their face, gripping a black stump of charcoal in her left hand.
@@ -176,7 +176,7 @@ Is this an artist happy at their work?
 
 Or someone who can't control their demons.
 
----
+
 
 The next is an outdoor scene, in a park. It is light, airy, and the strokes of the charcoal are delicate, with none of the pressure and fury of the previous, or following, in the set.
 
@@ -186,7 +186,7 @@ The composition shows the young couple eating ice cream, fingers interleaved bet
 
 A date, perhaps their first.
 
----
+
 
 The next scene I recognise as [[The Phosphene Catalogue/Edith MacKinley\|miss MacKinley]]'s bedroom in [[The Phosphene Catalogue/Rossetti House\|Rossetti House]],
 though it is clear that two people now call this room home.
@@ -213,7 +213,7 @@ It was a small ceremony, no family were invited, and of course, it has no bearin
 
 Though we didn't care!
 
----
+
 
 At first, I took this 6th in the series to be a practice, or draft, or duplicate of the 3rd.
 It is the same composition: Edie's studio, with enormous windows letting in light, but this time, it is moonlight.
@@ -231,7 +231,7 @@ Delicate, thin, and sharp, so small you might miss it, and perhaps that is the a
 
 A silver syringe lies almost hidden under her right knee.
 
----
+
 
 It is difficult for me to describe the next two in the series, I imagine these, more than any others, are what prompted [[The Phosphene Catalogue/Heather Baldwin\|Heather]] to get rid of the whole set.
 
@@ -245,7 +245,7 @@ On the bedside table, a black strip of fabric holds together a bundle of vials w
 > Why did she have it? She fled to her family's house in Sussex, after moving out of [[The Phosphene Catalogue/Rossetti House\|Rossetti House]], months ago!
 > I don't trust her.
 
----
+
 
 The next is a party scene, superficially similar in composition to [[The Phosphene Catalogue/Edith MacKinley\|Edith]]'s work I saw when I first visited [[The Phosphene Catalogue/Rossetti House\|Rossetti House]], but the subjects of this painting are twisted into grotesque caricatures of humans.
 
@@ -255,7 +255,7 @@ The reader may judge for themselves what they think is happening there.
 
 Edie's life fell into drinks, drugs, and one-night stands after [[The Phosphene Catalogue/Heather Baldwin\|Heather]] left earlier this year, it was quite painful to see.
 
----
+
 
 
 The last two in this series are either an appendix by a well-meaning ex-lover who wished for closure, a forgery, or a cruel joke.
@@ -276,7 +276,7 @@ She could be sleeping, but for the lack of contrast in her lips, and the unnatur
 
 I do not know who drew this, but they had access to the exact same cracked, partially fired charcoal that [[The Phosphene Catalogue/Edith MacKinley\|Edie]] used, and an imitation of her style that makes me furious on her behalf.
 
----
+
 
 The setting of the last scene I do not recognise. It's not [[The Phosphene Catalogue/Rossetti House\|Rossetti House]], I know those rooms perfectly well, and this is not one of them.
 

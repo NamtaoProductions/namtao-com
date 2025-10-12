@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":""}
----
+
 
 
 > [!QUOTE]
@@ -10,7 +10,7 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 > New episodes Mondays. **[Watch here](https://www.youtube.com/watch?v=p3bDE9kszMc&list=PL95NP4bDITAln7fq-cCqzOFE15UvVthuL&index=1)**, or [subscribe](https://www.spreaker.com/show/lost-terminal) in your favourite podcast app.
 
----
+
 # Season Summary
 
 > [!DANGER] Spoilers ahead!

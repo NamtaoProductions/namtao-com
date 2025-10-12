@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","tags":["index"],"noteIcon":""}
----
+
 
 
 > [!QUOTE]
@@ -9,9 +9,9 @@
 Scripts for my talks on the YouTube channel.
 up to the 42nd are in <https://github.com/0atman/noboilerplate>, then I switched to publishing them here on this site (the repo is https://github.com/NamtaoProductions/namtao-com).
 
-I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https://github.com/mfontanini/presenterm/): I take each slide, printscreen it, and splice it with my audio using [reaper.fm](http://reaper.fm/).
+I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https://github.com/mfontanini/presenterm/): I take each slide, screenshot it at 4k, then splice it with my audio using [reaper.fm](http://reaper.fm/).
 
----
+
 
 # Videos
 43. All previous video scripts are [on github](https://github.com/0atman/noboilerplate)
@@ -23,7 +23,7 @@ I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https:/
 49. [[Obsidian for Learning\|Obsidian for Learning]]
 50. [[Misusing Macros for Fn and profit\|Misusing Macros for Fn and profit]]
 
----
+
 
 # Recommended Rust Reading
 

@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"permalink":"/lt-season-17-0/","hide":true,"tags":["project/lt"],"noteIcon":""}
----
+
 
 ![17-logo-square.png](/img/user/Resources/Meta/attachments/17-logo-square.png)
 

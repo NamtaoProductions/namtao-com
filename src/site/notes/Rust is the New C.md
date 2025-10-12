@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"permalink":"/rust-is-the-new-c/","hide":true,"tags":["project"],"noteIcon":""}
----
+
 
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Rust is the New C" width="100%" height="100%" src="https://makertube.net/videos/embed/nfKBnifRfEpbEvMxFhReHq" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
@@ -113,7 +113,7 @@ Grace Pointer's CV (or Perhaps "C++V")
 
 
 | `DATE` | `POSITION`                  | `COMPANY`   |
-| ------ | ------ | -- |
+|  |  | -- |
 | _1978_ | **Mainframe Development**   | IBM         |
 | _1983_ | **Word 1.0**                | Microsoft   |
 | _1989_ | **Excel 1.0**               | Microsoft   |
@@ -219,7 +219,7 @@ Language Comparison
 
 
 |          | C   | JS  | Py  | Zig | Go  | Rust |
-| ---- | --- | --- | --- | --- | ---| - |
+| - |  |  |  |  | | - |
 | Frontend | `1` | ✅   |     | `1` | `2` | ✅    |
 | Backend  | ✅   | ✅   | ✅   | `1` | ✅   | ✅    |
 | Games    | ✅   | ✅   |     | ✅   | ✅   | ✅    |

@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"dg-path":"public/decimal-time","permalink":"/public/decimal-time/","hide":true,"noteIcon":""}
----
+
 
 
 # Divide the Waking Day into 100

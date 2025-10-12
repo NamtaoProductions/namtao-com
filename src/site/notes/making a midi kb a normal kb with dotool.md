@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"dg-path":"public/dotool-midi","permalink":"/public/dotool-midi/","hide":true,"tags":["midi","music","automation","linux","keyboard"],"noteIcon":""}
----
+
 
 ## Find out the Names of Connected Midi Devices
 

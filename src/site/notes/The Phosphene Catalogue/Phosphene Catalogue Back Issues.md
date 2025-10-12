@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"permalink":"/the-phosphene-catalogue/phosphene-catalogue-back-issues/","hide":true,"noteIcon":""}
----
+
 
 > [!INFO] How to read the scripts
 >  Normal text, like this, is read by the narrator (typically [[The Phosphene Catalogue/Jude Francis-Sharp\|Jude Francis-Sharp]]).

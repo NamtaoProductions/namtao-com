@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-4/","hide":true,"tags":["Episodes"],"noteIcon":""}
----
+
 
 
 # Episode 1.4
@@ -42,7 +42,7 @@ It has been a good decade since I last saw reel-to-reel tape used in an office e
 I recall from my previous work as a secretary, the enormous reel-to-reel machines were very ungainly on a desk. It was a relief to switch to compact battery-powered cassette recorders for admin use, which is what I am speaking into now.
 There are no desks and unreliable power points in The Catalogue's sub-basements, and sometimes little enough light to see with, so using this little microphone attached by its coiled cable is wonderful.
 
----
+
 
 There is almost no information in the file attached to this tape.
 The folder contains a single sheet of ruled paper, not our usual headed form with the date, the name of the client, and the colleague who took possession of it - no supporting documentation at all.
@@ -58,7 +58,7 @@ As I look out of my darkened window with the moon silhouetting the Tower of Lond
 
 This is a 2-hour recording of someone sleeping.
 
----
+
 
 I thought the reel empty initially, but a tiny sound in my left ear, in the heavy set of headphones, attracted my attention.
 
@@ -111,7 +111,7 @@ With a click of a pen lid, and a creak of a chair, the man said, very calmly,
 
 The frustrated screams from the sleeping woman continued until the tape ran out.
 
----
+
 
 After switching the tape off, the woman's screams still in my mind, I felt like I had missed something important, the nagging feeling that I knew the sleeper did not leave me.
 
@@ -141,7 +141,7 @@ What was the experiment?
 
 And who is the man with the honey-coloured voice?
 
----
+
 
 # Intermission
 
@@ -168,7 +168,7 @@ OK, let me turn over this cassette.
 </div></div>
 
 
----
+
 
 ## Side B: A Motion Picture
 
@@ -188,7 +188,7 @@ It took some amount of persuasion for me to accept the frame, the client begging
 
 Reader, I am very glad that I did.
 
----
+
 
 After taking dinner in town, I returned to the offices of The Catalogue to examine the photograph again.
 
@@ -199,7 +199,7 @@ The darker areas, were a deep, blood-red.
 Almost black, but not quite.
 Ambrotypes must be mounted on a non-reflective background, dark parts of this image are transparent, showing the dark red velvet behind, highlights reflect the light of the room, or in this case, the moon.
 
----
+
 
 The photograph is of a large manor house, the kind occupied by a wealthy Victorian family and servants.
 In the foreground, on the immaculately-kept grass lawn, two children are playing.
@@ -251,7 +251,7 @@ Perhaps not:
 After the full moon revelation, I realised that more time would be needed to properly appraise this item.
 A few days passed, and on the waning gibbous moon, the scene changed one last time.
 
----
+
 
 
 

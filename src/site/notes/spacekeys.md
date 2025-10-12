@@ -1,11 +1,10 @@
----
+
 {"dg-publish":true,"permalink":"/spacekeys/","hide":true,"noteIcon":""}
----
+
 
 This is my custom spacekeys config for obsidian, based on the sample keymap that comes with the plugin, but with some structural changes to match <https://lazynvim.org>'s defaults.
 ## Lazyvim Reference
 ![lazyvim which key screenshot.png|200](/img/user/Resources/Meta/attachments/lazyvim%20which%20key%20screenshot.png)
-Here s some bad spellah.
 
 ```yaml
 items:
@@ -91,6 +90,7 @@ items:
       m: file-explorer:move-file
       o: open-with-default-app:open
       O: open-with-default-app:show
+      f: lemons-search:open-search
       r: editor:open-search-replace
       R: workspace:edit-file-title
       s: editor:save-file
@@ -221,6 +221,12 @@ items:
     items:
       s: darlal-switcher-plus:switcher-plus:open-symbols-active
       f: advanced-random-note:query:3809fec3-64fd-4f34-b706-3e1f6ddd7d0c
+
+
+  o:
+    description: Obsidian
+    items:
+      t: insert-template
 
 
 # editor:toggle-fold-properties

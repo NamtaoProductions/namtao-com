@@ -1,6 +1,6 @@
----
+
 {"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-6/","hide":true,"tags":["Episodes"],"noteIcon":""}
----
+
 
 
 # Episode 1.6
@@ -39,7 +39,7 @@ As you will see, the colours range from pitch black to almost black.
 
 Step closer, despite the large canvas. Lean in.
 
----
+
 
 After my eyes became used to the lighting, features began to emerge out of the darkness.
 A curled root, an earthworm, and even a mole, pink nose entirely covered in mud, but eyes glinting sharply, once you knew where to find them.
@@ -54,7 +54,7 @@ The first impression of a blank void gives way to a second impression of activit
 There is a world hidden from us, just below our feet.
 One we are dimly aware of the results of, the trees and very oxygen we breathe, but completely ignorant of the dark processes that create them.
 
----
+
 
 In February of this year, I had begun to become accustomed to the strange habits of my fellows at [[The Phosphene Catalogue/Rossetti House\|Rossetti House]].
 From the mundane but chaotic schedules of my fellow artists, to the weekly _Opening_ parties, and even to events which I could not properly explain.
@@ -124,7 +124,7 @@ And then I woke up, back in my bed, with the grey morning light behind the curta
 
 > Tape Click
 
----
+
 
 # Intermission
 
@@ -151,7 +151,7 @@ OK, let me turn over this cassette.
 </div></div>
 
 
----
+
 
 ## Side B: Watercolour Ophelia
 
@@ -180,7 +180,7 @@ Sometimes you give half of each other to make a whole, when you could be giving 
 > [[The Phosphene Catalogue/Sylvia\|Sylvia]] is gone.
 > The art I painted for her remains.
 
----
+
 
 
 
@@ -198,7 +198,7 @@ Stopping herself from being bourne downstream, out of frame, away from the viewe
 
 She doesn't want to leave.
 
----
+
 
 This scene I first sketched on Harbour Sand, as I recall.
 
@@ -236,7 +236,7 @@ The care and love I poured into this work has produced something I am extremely 
 
 > Tape click
 
----
+
 
 > But very quickly another very fast tape click
 
@@ -305,6 +305,6 @@ https://phosphenecatalogue.com
 Thank you so much for listening,
 See you next time.
 
----
+
 
  

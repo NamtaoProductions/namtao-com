@@ -1,6 +1,5 @@
----
+
 {"dg-publish":true,"permalink":"/misusing-macros-for-fn-and-profit/","tags":["project/nb"],"noteIcon":""}
----
 
 
 
@@ -9,7 +8,8 @@
 
 
 
- ---
+
+ 
 
 Today I'm going to talk about Rust’s compile-time, outside the focus of type correctness and safety, which gets all the press. This is a topic that is under-served, I believe, because it’s such an alien idea (except for lisp programmers!). AND YET IT’S SO COOL!
 I believe there’s a whole world folks might be missing.
@@ -28,7 +28,7 @@ And now that I exclusively write Rust, every day I find that the language seems 
 
 It's no secret how this happened: It is thanks to the skill, experience, and foresight of the genius maintainers and community, many of whom are here today.
 
----
+
 ## RETROFITTING ALWAYS SUCKS
 
 
@@ -61,7 +61,7 @@ Metaprogramming is nearly always left out or nerfed in programming languages bec
 - C and C++ have evolved multiple LAYERS of preprocessors
 - And even Zig's otherwise very good comptime is severely limited because they're scared of arbitrary code execution.
 
----
+
 
 
 
@@ -71,7 +71,7 @@ Metaprogramming is nearly always left out or nerfed in programming languages bec
 I am not scared of executing code at compile time, and neither should you - in fact, I'm quite excited by it.
 And I discovered it almost by accident.
 
----
+
 
 # <span class="highlight">PART 1:</span>
 
@@ -110,7 +110,7 @@ unwrap_used   = "deny"
 
 If you've set up clippy to neg your code by erroring on pedantic lints, which I do because I love pain, this simple rust function will not compile.
 
----
+
 # CLIPPY SAVES YOUR BACON 🐷
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/vim-comptime-error.png)
@@ -124,7 +124,7 @@ Rust-analyzer is certainly incredible, however LSP is inherently line based, and
 This is OFTEN what you want, but not always, and it doesn't quite have the same teaching power as the raw output of `cargo clippy`.
 Compare this inline error with:
 
----
+
 # CLIPPY SAVES YOUR BACON 🐷
 ![image:width:100%](/img/user/Resources/Meta/attachments/bacon-comptime.png)
 
@@ -138,7 +138,7 @@ The compiler's output isn't just beautiful, it nearly always comes with hints to
 If you run `bacon clippy` in a terminal while you work on your project, you will find, as I did, that it teaches you Rust.
 As happened with my const journey.
 
----
+
 # DETECTIVE CLIPPY
 
 ```js
@@ -169,7 +169,7 @@ Const functions are functions that are safe to execute in a const context, at co
 They differ from rust macros by being much more limited in their side effects.
 For example:
 
----
+
 # CONSTANT FUNCTIONS
 
 
@@ -216,7 +216,7 @@ If you think about it, const functions aren't weird for disallowing floating poi
 Just like with Pure functions in functional languages, these limits make them exciting:
 `const` functions have access to a limited subset of Rust, you could read about it in the Rust Reference, but let's experiment because that's more fun:
 
----
+
 # WHAT WORKS IN CONST FNS?
 
 ```rust +validate:rust-script
@@ -240,7 +240,7 @@ _(TIP: try `https://lib.rs/crates/konst` for const std functions)_
 
 Presenterm runs all my rust code blocks through the compiler, it ran it just now, and it compiles, so it's obvious that a lot works here:
 
----
+
 
 ![image:width:90%](/img/user/Resources/Meta/attachments/presenterm-temp.png)
 
@@ -253,7 +253,7 @@ SIDENOTE: I'd like to take a moment to publicly shout-out Matias Fontanini for m
 I was literally editing my presentation last night from my hotel room to take advantage of more new features he just added!
 Tip your open source software developers, folks.
 
----
+
 # WHAT WORKS IN CONST FNS?
 
 ```rust +validate:rust-script
@@ -300,8 +300,8 @@ Because, while const functions are cool, there are some problems we as engineers
 For them, you will need access to the whole language, not just the sanitised subset available in a const context.
 And just like with the escape hatch of unsafe, macros are the escape hatch of const.
 
----
- ---
+
+ 
 # MACROS
 
 _(my favourite breakfast cereal)_
@@ -317,8 +317,8 @@ Macros execute arbitrary code at compile time, and then can insert the results o
 
 
 
----
- ---
+
+ 
 
 
 # THE WHOLE LANGUAGE
@@ -382,7 +382,7 @@ in all these other languages, the source files are effectively dead text until t
 
 
 
----
+
 # RUNTIME VS COMPILETIME
 
 
@@ -423,8 +423,8 @@ Everyone clear?
 You can rewrite syntax and have your function call at runtime,
 or you can run the code during compilation RIGHT NOW.
 
----
- ---
+
+ 
 
 
 # WHAT CAN WE DO?
@@ -433,7 +433,7 @@ Having a macro system that can rewrite syntax at compile-time is already incredi
 And in Rust, this basic feature is even more powerful than you can find in other languages, which limits you to only valid language syntax.
 This allows you to build DSLs with ALMOST no restrictions, such as:
 
----
+
 # MACRO_LISP
 
 ```rust {5-8} +validate:rust-script
@@ -460,7 +460,7 @@ One of my favourites, the macro_lisp crate!
 It's not a lisp when it gets to runtime - this syntax with all our ancestors' parens is rewriten at compile time into a valid, equivilant, rust function.
 And this is not some kind of toy or hack -
 
----
+
 # MACROS HAVE GOOD* ERRORS
 
 ```rust
@@ -485,7 +485,7 @@ lisp!(defun factorial ((n i32)) i32
 The errors are really good!
 This crate effectively teaches the rust compiler to speak lisp using the macro system.
 
----
+
 # THIS EVEN WORKS IN-EDITOR
 
 
@@ -508,7 +508,7 @@ This crate effectively teaches the rust compiler to speak lisp using the macro s
 
 Thanks to the incredible work of the rust-analyzer team, Macro errors even work in-editor, at NEARLY ALWAYS the right line number!
 
----
+
 
 # WHAT CAN WE DO? ANYTHING
 
@@ -534,18 +534,18 @@ You can do anything in a macro, there is no compiler police like there is with t
 
 Want to execute code that has NOTHING to do with the eventual syntax you will insert into the source code? DO IT.
 
----
 
 
 
- ---
+
+ 
 
 
 ## WHY HAVE I NEVER REALISED THIS BEFORE?
 
 This secret compile-time world is inaccessible to most other languages for technical reasons, but it's also innaccessible to most Rust developers for a non-technical reasons.
 
----
+
 ## WE FORGET ABOUT MACROS
 
 ![image:width:60%](/img/user/Resources/Meta/attachments/model-checking-screenshot-macros.jpg)
@@ -558,7 +558,7 @@ It happens to the best of us!
 (thank you to Horacio for letting me use his demo code as an example)
 This is completely understandable.
 
----
+
 
 
 
@@ -568,7 +568,7 @@ This is completely understandable.
 
 It perhaps is a problem of hermeneutics, unknown unknowns, or what we in the programming community call The Blub Paradox
 
----
+
 # THE BLUB PARADOX
 
 > [!IMPORTANT] And if Lisp is so great, why doesn't everyone use it? ...the reason everyone doesn't use it is that programming languages are not merely technologies, but habits of mind as well, and nothing changes slower.
@@ -578,7 +578,7 @@ This Paradox is where people who have learned a lower-level language can't imagi
 Paul Graham said that programming languages are not technologies, but habits of mind.
 LISP might be the best language for your project technically, but try changing a Python team's minds about writing it all in Python.
 
----
+
 
 
 
@@ -597,7 +597,7 @@ Tell the Python developer about that, and they'll be non-plussed, they've never 
 
 And of course, as we all know, 'real programmers' use butterflies!
 
----
+
 # _"What Made Lisp Different"_ &mdash; Paul Graham
 
 - Conditionals.
@@ -615,7 +615,7 @@ This was one of the key breakthroughs with Lisp, 70 years ago, and yet most impl
 
 There is not need for this fear, we've had 70 years to solve the problems and build good rules.
 
----
+
 
 
 ## NEVER DO IN A <span class="highlight">MACRO</span> WHAT YOU CAN DO IN A <span class="highlight">FUNCTION</span>
@@ -636,7 +636,7 @@ Look, every other top 20 language doesn't allow us this power because they're af
 Powerful tools have powerful features, and you can cut yourself with them.
 BUT THAT DOESN'T MEAN YOU SHOULD BE AFRAID OF THEM
 
----
+
 # STORY TIME
 
 ![image:width:50%](/img/user/Resources/Meta/attachments/slms-clean-room.png)
@@ -651,7 +651,7 @@ Some of the machines, like the lazer cutter, were delicate, and had instructions
 
 But there was one machine that had no instructions on how to use-
 
----
+
 # THE LATHE
 
 ![image:width:40%](/img/user/Resources/Meta/attachments/lathe-2.png)
@@ -663,7 +663,7 @@ Instead of diagrams and descriptions of safe use, the Lathe had a sign hung over
 The takeaway wasn't to not use the machine.
 BUT BE FUCKING CAREFUL.
 
----
+
 # CAN YOU DO CRIMES? YES
 
 ```rust
@@ -687,7 +687,7 @@ Neither I nor the compiler nor god can stop you from spawning threads during com
 I'LL REMIND YOU THAT THE WHOLE LANGUAGE IS AVAILABLE!
 but this is GOOD.
 
----
+
 
 
 
@@ -725,7 +725,7 @@ This is just another example of the Rust community truely understanding what fea
 
 And before you speak, I can already hear you ask:
 
----
+
 # PART 5:
 
 
@@ -737,8 +737,8 @@ And before you speak, I can already hear you ask:
 Aren't there securiy considerations with arbitary compile-time code execution?
 And to that I say:
 
----
- ---
+
+ 
 
 
 
@@ -750,11 +750,11 @@ And to that I say:
 5. I said no questions
 6. FINE:
 
----
+
 # sECuRIty cONsiDerATiOnS
 
 > [!IMPORTANT] The Rust team and ecosystem will need to work to release fixes and security enhancements to prevent arbitrary code execution vulnerabilities like this one in the future.
-> Eric Leijonmarck, eleijonmarck.dev/blog/2023-03-18---arbitrary-code-execution-rust/
+> Eric Leijonmarck, eleijonmarck.dev/blog/2023-03-18arbitrary-code-execution-rust/
 
 You may have, as I did, read this post, on HN 2 years ago, where Eric built a proof-of-concept macro that deleted a user's SSH key if they compiled, not ran, the project.
 In his blog post he said that "The Rust team and ecosystem will need to work to release fixes and security enhancements to prevent arbitrary code execution vulnerabilities like this one in the future."
@@ -771,9 +771,9 @@ THIS PROBLEM IS ALREADY FIXED in vscode, the editor for babies who are afraid of
 
 But there's a much more important reason why I don't care about imagined macro secrutity problems raised by people who have never used a language with them, and it's this:
 
----
 
- ---
+
+ 
 
 # _THEY GET TO PROGRAM THE COMPUTER_
 
@@ -782,7 +782,7 @@ I feel we lose track of this point in the discussion around macros.
 But what if my program executes bad code.
 I don't know, what if it executes good code?
 
----
+
 
 
 
@@ -798,15 +798,15 @@ $ cargo build # code executing here
 Every build system needs to run arbitrary code, rust just made it first-class
     I know which I prefer
 
----
 
- ---
+
+ 
 # THE ABSOLUTE STATE
 # OF THE ART
 
 To finish up I've got a speedrun of cool crates, starting with the popular sqlx:
 
----
+
 
 # SQLX
 
@@ -832,7 +832,7 @@ let todos = sqlx::query_as!(
     | |_________^
 ```
 
----
+
 
 # CONST-RANDOM
 
@@ -850,7 +850,7 @@ fn main() {
 }
 ````
 
----
+
 
 # ZERO DEPS RANDOM
 
@@ -866,7 +866,7 @@ fn main() {
 }
 ````
 
----
+
 
 # COMPTIME
 
@@ -894,7 +894,7 @@ fn costly_calculation2() -> i32 {
 }
 ````
 
----
+
 
 # CONSTIME
 
@@ -922,7 +922,7 @@ const RESPONSE: &str = comptime! {
 };
 ````
 
----
+
 
 # CONSTIME & LAZY_STATIC
 
@@ -950,7 +950,7 @@ lazy_static! { static ref _FIRST_RUN: u64 =
 > [!NOTE] NOTE:
 > Since 1.70.0, replicate lazy_static's functionality with std::sync::OnceLock.
 
----
+
 # Compile-time-run
 
 > https://lib.rs/crates/compile-time-run
@@ -966,7 +966,7 @@ use compile_time_run::run_command_str;
 const VALUE_STR: &'static str = run_command_str!("uname", "-a");
 ```
 
----
+
 
 # ASIDE:
 
@@ -976,7 +976,7 @@ const VALUE_STR: &'static str = run_command_str!("uname", "-a");
 
 It is time for a small intervention.
 
----
+
 
 # `inline_python`
 
@@ -996,7 +996,7 @@ fn main() {
 }
 ```
 
----
+
 
 # `edition`
 
@@ -1019,7 +1019,7 @@ rust_2021! {
 }
 ```
 
----
+
 
 # `whichever-compiles`
 
@@ -1044,12 +1044,12 @@ fn main() {
 
 At least she has some shame about this one...
 
----
+
 
 
 I'm have presented this evidence because she can't keep getting away from this.
 
----
+
 
 
 
