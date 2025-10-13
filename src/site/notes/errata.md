@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"dg-path":"errata","permalink":"/errata/","hide":true,"noteIcon":""}
-
+---
 
 
 I make mistakes all the time.

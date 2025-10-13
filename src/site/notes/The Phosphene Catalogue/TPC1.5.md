@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-5/","hide":true,"tags":["Episodes"],"noteIcon":""}
-
+---
 
 # Episode 1.5
 
@@ -29,7 +29,7 @@ And more careful with the company I keep.
 
 > Tape click
 
-
+---
 
 ## Side A: The Book
 
@@ -43,7 +43,7 @@ Though most of the work we feature in The Catalogue can be broadly described as 
 [[The Phosphene Catalogue/Elizabeth the Judge\|Elizabeth the Judge]] was not a nun at a convent working in a scriptorium, she was the head of a monastery where her gender and identity were secret until her later, explosive years.
 I have little enough space to write about the book itself, so I will allow the reader the pleasure of discovering her life history, the rules she broke, and the bridges she burned both figuratively and literally for themselves.
 
-
+---
 
 The codex is large, as examples from this age often were.
 These are not pocketbooks, nor books designed for travel at all.
@@ -58,7 +58,7 @@ This, of course, caused much outcry during her career. Indeed, our research indi
 When next we hear of her, she has manoeuvred herself into the position of abbot of the Black Friars of Carlisle.
 It was during her time here, we believe the Codex was written, by her, personally.
 
-
+---
 
 The subject matter of the book is, at first, difficult to discern.
 It talks of types of people, their languages, races, colours, wealth, intelligence, and something she calls "Animus".
@@ -72,7 +72,7 @@ After technically grouping people into thousands of categories, she then assigns
 - The delicate hands of the high-born grasps a paint brush or pen so perfectly,
 - And the dark soul of the criminal aught to be, in her words, "repurposed unto God".
 
-
+---
 
 I do not like the way I feel when reading this book.
 The judgement of people into these categories is the antithesis of the way I, as an artist, think of the world: In infinite shades of colour.
@@ -87,7 +87,7 @@ By the end, I was overjoyed to know, for certain, that this categorisation could
 Order could be achieved, finally!
 
 
-
+---
 
 In the morning, after sleeping late, right at my desk, I felt that I had come out of this fugue state, and no longer felt so sure.
 
@@ -98,7 +98,7 @@ But, a valuable one.
 
 > Tape Click
 
-
+---
 
 # Intermission
 
@@ -115,7 +115,7 @@ No matter how you support us, even if it's just spreading the word to your frien
 
 OK, let me turn over this cassette.
 
-
+---
 
 ## Side B: Iron Coin
 
@@ -147,7 +147,7 @@ But more than that: The deciding factor seems to be INTENT.
 If thrown idly and caught, either side may appear face-up.
 But if thrown with the INTENT that you wish to know which side it will be, or you attempt to predict, either quietly to yourself or said out to the room, the hourglass inevitably shows up.
 
-
+---
 
 The coin is beautifully designed. [[The Phosphene Catalogue/David Isaac\|Mr. Issac]] is an accomplished painter, but its clear that the artist is working outside his normal favoured medium.
 The composition is pleasing, the relative sizes of the hourglass and skull good, as are the complementary designs around them.
@@ -192,7 +192,7 @@ I suppose, by necessity, he carried it everywhere since making it in his studio,
 
 I did not realise he had built or bought the metal-working tools to do this, but I am often wrapped up in my own work for days or weeks and don't speak much to anyone!
 
-
+---
 
 Last weekend, I was in the large square kitchen at [[The Phosphene Catalogue/Rossetti House\|Rossetti House]], preparing a midnight supper for myself.
 I had forgotten to eat during the daylight hours again, because I was working on my latest painting, a portrait of my friend Edie, but from years ago, as I wanted to remember her happy, before it all went wrong.
@@ -213,7 +213,7 @@ His voice broke as he repeated the words.
 
 I couldn't bear to listen any further, I slipped out of the kitchen, and took my little supper to my room.
 
-
+---
 
 I wonder why [[The Phosphene Catalogue/David Isaac\|David]] made this coin?
 I should ask him.
@@ -229,7 +229,7 @@ This coin: What would it mean if, one day, the owner flipped it and it showed th
 > [!DANGER] Foley
 > The sound of a coin flip in the background
 
-
+---
 
 
 

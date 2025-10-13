@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/obsidian-the-good-parts/","hide":true,"tags":["project/nb"],"noteIcon":""}
-
+---
 
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Obsidian.md: The Good Parts [Part 2]" width="100%" height="100%" src="https://makertube.net/videos/embed/kwV7u6pVXxEv5ihcgjDoBz" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
@@ -359,7 +359,7 @@ prev:
 - [["LT17.4"]]
 
 ## Act 1
- 
+ ---
 Hello world, I have made
 ```
 

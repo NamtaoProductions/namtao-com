@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/running-an-agile-team/","hide":true,"noteIcon":""}
-
+---
 
 
 > [!NOTE]

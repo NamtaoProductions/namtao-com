@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/the-phosphene-catalogue/season-2/tpc-2-6/","hide":true,"tags":["TPC","episode","areas/tpc"],"noteIcon":""}
-
+---
 
 
 # Episode 2.6
@@ -77,7 +77,7 @@ Like anyone who has ever sat back on the ground at midnight and watched the heav
 I concur, Reader, you will not find such a sky anywhere in the waking world.
 But I DO recognise these stars.
 
- 
+ ---
 
 
 > I know them because I still visit The Garden in my dreams, Morwenna.
@@ -101,7 +101,7 @@ But I DO recognise these stars.
 > Jo also told me that though Nelson talked about other groups he was 'guiding' into their dreams, he soon focussed entirely on Rossetti House, and wanted to conduct as many sessions as possible there.
 > He was OBSESSED with the house, she said.
 
- 
+ ---
 
 > You left Nelson Cartwright's dream tape on my desk for me to find, Morwenna.
 > I thought you did that to help me solve Edie's murder, or give me some kind of closure.
@@ -179,7 +179,7 @@ Golden Oracle isn't practically useful, some would say no art should be; the buy
 I thought it nothing more than an artistic novelty, a smart melding of ancient techniques and modern thought.
 But that, Reader, was before it spoke to me.
 
- 
+ ---
 
 "Golden Oracle" is very delicate, and must be transported flat on the wooden board it was woven on. (I suppose there are many boring, sensible reasons why electronics are built on rigid circuit boards, rather than delicate flowing fabrics, like this.)
 After initial appraisal in my office, I had no problem storing it safely in our Vaults. Since my last misadventure, when I discovered [[Lot No. 412\|Lot No. 412]], the lost Raphael, I have found my navigation of the vaults easier, somehow.
@@ -210,7 +210,7 @@ After she fetched some tools, I watched her for an hour, shivering slightly in t
 She showed me her clipboard of notes on this new operation of the calculator, the output beads of the machine now always seem to read between 0 and 78, higher numbers never being used.
 "I guess, leave the battery connected?" [[The Phosphene Catalogue/Season 2/Stephanie Bates\|Miss Bates]] said with a shrug, after putting her electrical testing equipment back in her bag, "at least it'll stop the noise!"
 
- 
+ ---
 
 > Morwenna, neither [[The Phosphene Catalogue/Season 2/Stephanie Bates\|Steph]] nor I knew how to interpret these strange numbers "Golden Oracle" was showing us, but a chance encounter with  a mutual acquaintance afforded an insight.
 > As soon as I had set up [[The Phosphene Catalogue/The Bell Room\|The Bell Room]] with the installation of "Golden Oracle", [[The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Aldwick]] knocked on the door and let himself in.

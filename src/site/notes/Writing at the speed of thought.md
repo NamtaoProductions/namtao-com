@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/writing-at-the-speed-of-thought/","hide":true,"tags":["project/nb"],"noteIcon":""}
-
+---
 
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Writing at the Speed of Thought" width="100%" height="100%" src="https://makertube.net/videos/embed/j2fYXUApagNjndQZHuex18" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
@@ -211,7 +211,7 @@ Mostly when we are 'writing', we're not using the keyboard, we're clicking aroun
 
 
 
- 
+ ---
 ![image:width:80%](/img/user/Resources/Meta/attachments/typewriter-from-shining.png)
 
 
@@ -340,7 +340,7 @@ Well, it turns out, there actually is.
 ![image:width:20%](/img/user/Resources/Meta/attachments/patreon.png)
 
 
- 
+ ---
 `patreon.com/noboilerplate`
 
 - Early videos
@@ -480,7 +480,7 @@ So you've moved around the document, now let's edit at the speed of thought:
 
 
 
- 
+ ---
 
 1. Delete that word
 2. Wait, delete these three words
@@ -489,7 +489,7 @@ So you've moved around the document, now let's edit at the speed of thought:
 
 
 
- 
+ ---
 
 1. `dw`     - `d`elete `w`ord
 2. `d3w`    - `d`elete `3` `w`ords
@@ -760,7 +760,7 @@ Thank you so much for watching, talk to you on Discord.
 
 
 
- 
+ ---
 
 - https://github.com/pit-ray/win-vind
 - https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list?tab=readme-ov-file

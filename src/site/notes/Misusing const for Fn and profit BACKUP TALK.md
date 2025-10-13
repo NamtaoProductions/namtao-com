@@ -1,5 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/misusing-const-for-fn-and-profit-backup-talk/","tags":["project/nb"],"noteIcon":""}
+---
 
 
 
@@ -8,8 +9,7 @@
 
 
 
-
- 
+ ---
 
 
 `Tris Oaten (he/him)`
@@ -34,9 +34,9 @@
     Please excuse the name change - I found as I wrote the talk that though there was a lot i wanted to say about const functions, there was even more I wanted to talk about macros!
 
 
+---
 
-
- 
+ ---
 
 ![image:width:50%](/img/user/Resources/Meta/attachments/sdr-podcast-logo.png)
 
@@ -49,6 +49,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 
 
 
+---
 
 
 
@@ -57,9 +58,8 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 
 
 
-
- 
- 
+ ---
+ ---
 
 
 `Tris Oaten (he/him)`
@@ -87,7 +87,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
     Before we start, some housekeeping:
 
 
-
+---
 
 ## HOUSEKEEPING I
 
@@ -110,7 +110,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
     I can tell you have burning questions already, fine let's be quick:
 
 
-
+---
 ## HOUSEKEEPING II: Q&A
 
 
@@ -164,7 +164,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 
 
 
-
+---
 # PLAN
 
 
@@ -184,12 +184,12 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 
 
 
+---
 
 
 
 
-
- 
+ ---
 
 
 
@@ -199,7 +199,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 
 
 
-
+---
 # <span class="highlight">PART 0:</span>
 
 
@@ -216,7 +216,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
     It's no secret how this happened: It is thanks to the skill, experience, and foresight of the genius maintainers and community, many of whom are here today.
 
 
-
+---
 ## RETROFITTING ALWAYS SUCKS
 
 
@@ -253,7 +253,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 
 
 
-
+---
 
 
 
@@ -267,7 +267,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 
 
 
-
+---
 
 # JOKE THE FIRST
 
@@ -296,7 +296,7 @@ There are only 2 hard problems in distributed computing:
 
 
 
-
+---
 # <span class="highlight">PART 1:</span>
 
 
@@ -320,8 +320,8 @@ What is wrong here?
     Can anyone see what is wrong?
 
 
-
- 
+---
+ ---
 
 
 ## THERE IS NO
@@ -334,7 +334,7 @@ What is wrong here?
 
 
 
-
+---
 # MY CONST JOURNEY
 
 ```rust +validate:rust-script
@@ -358,7 +358,7 @@ unwrap_used   = "deny"
   If you've set up clippy to neg your code by erroring on pedantic lints, which I do because I love pain, this simple rust function will not compile.
 
 
-
+---
 # CLIPPY SAVES YOUR BACON 🐷
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/vim-comptime-error.png)
@@ -376,7 +376,7 @@ unwrap_used   = "deny"
 
 
 
-
+---
 # CLIPPY SAVES YOUR BACON 🐷
 ![image:width:100%](/img/user/Resources/Meta/attachments/bacon-comptime.png)
 
@@ -394,7 +394,7 @@ unwrap_used   = "deny"
 
 
 
-
+---
 # DETECTIVE CLIPPY
 
 ```js
@@ -429,7 +429,7 @@ const fn addone(x: i32) -> i32 { x + 1 }
 
 
 
-
+---
 # CONSTANT FUNCTIONS
 
 
@@ -479,7 +479,7 @@ error: cannot call non-const fn
     `const` functions have access to a limited subset of Rust, you could read about it in the Rust Reference, but let's experiment because that's more fun:
 
 
-
+---
 # WHAT WORKS IN CONST FNS?
 
 ```rust +validate:rust-script
@@ -505,7 +505,7 @@ _(TIP: try `https://lib.rs/crates/konst` for const std functions)_
     Presenterm runs all my rust code blocks through the compiler, it ran it just now, and it compiles, so it's obvious that a lot works here:
 
 
-
+---
 
 ![image:width:90%](/img/user/Resources/Meta/attachments/presenterm-temp.png)
 
@@ -521,7 +521,7 @@ _(TIP: try `https://lib.rs/crates/konst` for const std functions)_
     Tip your open source software developers, folks.
 
 
-
+---
 # WHAT WORKS IN CONST FNS?
 
 ```rust +validate:rust-script
@@ -572,8 +572,8 @@ _(TIP: try `https://lib.rs/crates/konst` for const std functions)_
 
 
 
-
- 
+---
+ ---
 # MACROS
 
 _(my favourite breakfast cereal)_
@@ -593,8 +593,8 @@ const compiletime: &str = env!("PATH");
 
 
 
-
- 
+---
+ ---
 
 
 # THE WHOLE LANGUAGE
@@ -612,8 +612,8 @@ const compiletime: &str = env!("PATH");
 
 
 
-
- 
+---
+ ---
 
 
 
@@ -629,7 +629,7 @@ const compiletime: &str = env!("PATH");
     Come find me afterwards!
 
 
-
+---
 # MACROS ARE AMAZING
 
 
@@ -689,7 +689,7 @@ _THIS SIMPLE FEATURE IS SO RARE!_
  20. ❌Dart
 
 
-
+---
 # RUNTIME VS COMPILETIME
 
 
@@ -734,8 +734,8 @@ comptime!();
 
 
 
-
- 
+---
+ ---
 
 
 # WHAT CAN WE DO?
@@ -749,7 +749,7 @@ comptime!();
 
 
 
-
+---
 # MACRO_LISP
 
 
@@ -808,7 +808,7 @@ who is she?
 
 
 
-
+---
 # MACROS HAVE GOOD* ERRORS
 
 ```rust
@@ -837,7 +837,7 @@ lisp!(defun factorial ((n i32)) i32
 
 
 
-
+---
 # THIS EVEN WORKS IN-EDITOR
 
 
@@ -864,7 +864,7 @@ lisp!(defun factorial ((n i32)) i32
 
 
 
-
+---
 
 # WHAT CAN WE DO? ANYTHING
 
@@ -894,7 +894,7 @@ Sure you can use macros to just rewrite syntax...
 
 
 
-
+---
 
 # JOKE THE SECOND
 
@@ -918,11 +918,11 @@ There are only 2 hard problems in computer science:
 
 
 
+---
 
 
 
-
- 
+ ---
 
 
 ## WHY HAVE I NEVER
@@ -934,7 +934,7 @@ There are only 2 hard problems in computer science:
     This secret compile-time world is inaccessible to most other languages for technical reasons, but it's also innaccessible to most Rust developers for a non-technical reasons.
 
 
-
+---
 ## WE FORGET ABOUT MACROS
 
 ![image:width:60%](/img/user/Resources/Meta/attachments/model-checking-screenshot-macros.jpg)
@@ -950,7 +950,7 @@ It happens to the best of us!
 
 
 
-
+---
 
 
 
@@ -964,7 +964,7 @@ It happens to the best of us!
 
 
 
-
+---
 # THE BLUB PARADOX
 
 > [!IMPORTANT] And if Lisp is so great, why doesn't everyone use it? ...the reason everyone doesn't use it is that programming languages are not merely technologies, but habits of mind as well, and nothing changes slower.
@@ -977,7 +977,7 @@ It happens to the best of us!
     LISP might be the best language for your project technically, but try changing a Python team's minds about writing it all in Python.
 
 
-
+---
 
 
 
@@ -999,9 +999,9 @@ It happens to the best of us!
 
 
 
-
+---
 # _"What Made Lisp Different"_
- 
+ ---
 
 - Conditionals.
 - A function type.
@@ -1022,7 +1022,7 @@ It happens to the best of us!
 
 
 
-
+---
 
 
 ## NEVER DO IN A <span class="highlight">MACRO</span>
@@ -1037,7 +1037,7 @@ It happens to the best of us!
 
 
 
-
+---
 
 # JOKE THE THIRD
 
@@ -1059,7 +1059,7 @@ We only have 2 problems in all of software engineering:
 
 
 
-
+---
 # <span class="highlight">PART 4:</span>
 
 
@@ -1076,7 +1076,7 @@ We only have 2 problems in all of software engineering:
 
 
 
-
+---
 # STORY TIME
 
 ![image:width:50%](/img/user/Resources/Meta/attachments/slms-clean-room.png)
@@ -1095,7 +1095,7 @@ We only have 2 problems in all of software engineering:
 
 
 
-
+---
 # THE LATHE
 
 ![image:width:40%](/img/user/Resources/Meta/attachments/lathe-2.png)
@@ -1116,7 +1116,7 @@ We only have 2 problems in all of software engineering:
 
 > [!IMPORTANT] THIS MACHINE WANTS TO KILL YOU&nbsp;
 
-
+---
 # CAN YOU DO CRIMES? YES
 
  
@@ -1147,7 +1147,7 @@ pub fn threader(_: TokenStream) -> TokenStream {
 
 
 
-
+---
 
 
 
@@ -1188,7 +1188,7 @@ pub fn threader(_: TokenStream) -> TokenStream {
     And before you speak, I can already hear you ask:
 
 
-
+---
 # PART 5:
 
 
@@ -1203,7 +1203,7 @@ pub fn threader(_: TokenStream) -> TokenStream {
     And to that I say:
 
 
-
+---
 # RATIONAL REBUTTAL:
 
 
@@ -1227,11 +1227,11 @@ pub fn threader(_: TokenStream) -> TokenStream {
 
 
 
-
+---
 # sECuRIty cONsiDerATiOnS
 
 > [!IMPORTANT] The Rust team and ecosystem will need to work to release fixes and security enhancements to prevent arbitrary code execution vulnerabilities like this one in the future.
-> Eric Leijonmarck, eleijonmarck.dev/blog/2023-03-18arbitrary-code-execution-rust/
+> Eric Leijonmarck, eleijonmarck.dev/blog/2023-03-18---arbitrary-code-execution-rust/
 
 
 
@@ -1256,9 +1256,9 @@ pub fn threader(_: TokenStream) -> TokenStream {
 
 
 
+---
 
-
- 
+ ---
 
 # _THEY GET TO_
 # _PROGRAM THE COMPUTER_
@@ -1274,7 +1274,7 @@ pub fn threader(_: TokenStream) -> TokenStream {
 
 
 
-
+---
 
 
 
@@ -1293,9 +1293,9 @@ $ cargo build # code executing here
     I know which I prefer
 
 
+---
 
-
- 
+ ---
 # THE ABSOLUTE STATE
 # OF THE ART
 
@@ -1306,7 +1306,7 @@ $ cargo build # code executing here
 
 
 
-
+---
 
 # SQLX
 
@@ -1332,7 +1332,7 @@ let todos = sqlx::query_as!(
     | |_________^
 ```
 
-
+---
 
 # CONST-RANDOM
 
@@ -1350,7 +1350,7 @@ fn main() {
 }
 ````
 
-
+---
 
 # ZERO DEPS RANDOM
 
@@ -1366,7 +1366,7 @@ fn main() {
 }
 ````
 
-
+---
 
 # COMPTIME
 
@@ -1394,7 +1394,7 @@ fn costly_calculation2() -> i32 {
 }
 ````
 
-
+---
 
 # CONSTIME
 
@@ -1422,7 +1422,7 @@ const RESPONSE: &str = comptime! {
 };
 ````
 
-
+---
 
 # CONSTIME & LAZY_STATIC
 
@@ -1450,7 +1450,7 @@ lazy_static! { static ref _FIRST_RUN: u64 =
 > [!NOTE] NOTE:
 > Since 1.70.0, replicate lazy_static's functionality with std::sync::OnceLock.
 
-
+---
 # Compile-time-run
 
 > https://lib.rs/crates/compile-time-run
@@ -1471,13 +1471,13 @@ const VALUE_STR: &'static str = run_command_str!("uname", "-a");
 
 
 
-
+---
 
 # CRABTIME
 
 > https://lib.rs/crates/crabtime
 
- 
+ ---
 # IF I HAD ONE
 
 
@@ -1486,7 +1486,7 @@ const VALUE_STR: &'static str = run_command_str!("uname", "-a");
 
 
 
-
+---
 # ASIDE:
 
 
@@ -1500,7 +1500,7 @@ const VALUE_STR: &'static str = run_command_str!("uname", "-a");
 
 
 
-
+---
 
 # `inline_python`
 
@@ -1520,7 +1520,7 @@ fn main() {
 }
 ```
 
-
+---
 
 # `edition`
 
@@ -1543,7 +1543,7 @@ rust_2021! {
 }
 ```
 
-
+---
 
 # `whichever-compiles`
 
@@ -1572,7 +1572,7 @@ fn main() {
 
 
 
-
+---
 
 
 # SHE CAN'T KEEP
@@ -1585,7 +1585,7 @@ fn main() {
 
 
 
-
+---
 
 
 
@@ -1598,7 +1598,7 @@ https://lib.rs/crates/konst
 https://lib.rs/crates/const_panic
 https://lib.rs/crates/lazy_static
 
-
+---
 
 ## CRATE HONOURABLE MENTIONS
 ## WITH COOL NAMES
@@ -1617,7 +1617,7 @@ Constant/Eval Tier List
 
 
 
-
+---
 
 # THANK YOU
 
@@ -1651,6 +1651,6 @@ Constant/Eval Tier List
 
 
 
-
+---
 
  

@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/obsidian-for-learning/","tags":["project/nb"],"noteIcon":""}
-
+---
 
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Hacking Your Learning With Obsidian.md" width="100%" height="100%" src="https://makertube.net/videos/embed/nFGS4iZ6C5YeG3GMMWkJvQ" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
@@ -231,7 +231,7 @@ $ 1+2+3+\cdots+10=\sum_{n=1}^{10}n $
 ## Markdown Tables
 
 | F0  | F1  | F2  | F3  | F4  | F5  |
-|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | 0   | 1   | 1   | 2   | 3   | 5   |
 First 5 Fibonacci Numbers
 ```
@@ -688,10 +688,10 @@ If you ever alter the format of the readwise export template, and want to update
 
 
 ```yaml
-
+---
 tags:
   - fleeting
-
+---
 
 # References
 
@@ -797,6 +797,6 @@ I'd be very grateful for your support on:
 
 
 
-
+---
 
  

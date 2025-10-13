@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"permalink":"/the-phosphene-catalogue/tpc-1-7/","hide":true,"tags":["Episodes"],"noteIcon":""}
-
+---
 
 # Episode 1.7
 
@@ -42,7 +42,7 @@ The ocean will take the ships when she feels like it.
 The wooden frame of The Shipwreck is wet to the touch.
 And smells slightly... of seawater.
 
-
+---
 
 
 
@@ -57,7 +57,7 @@ And smells slightly... of seawater.
 > I'm sure my mind is getting away from me.
 > You'd tell me if you lived here, wouldn't you?
 
-
+---
 
 After our dinner, [[The Phosphene Catalogue/Josephine Croft\|Josephine Croft]] and [[The Phosphene Catalogue/David Isaac\|David Isaac]] invited me to what they called [[The Phosphene Catalogue/Nelson Cartwright\|Nelson Cartwright]]'s dream session.
 
@@ -105,7 +105,7 @@ Slowly, then all at once.
 
 The last thing I remember was Nelson placing blankets gently over us, and switching on the tape recorder.
 
-
+---
 
 I regained consciousness with difficulty, like I was swimming up from the bottom of a deep well of warm water.
 
@@ -143,7 +143,7 @@ And I jumped.
 
 
 
-
+---
 
 # Intermission
 
@@ -154,7 +154,7 @@ Right.
 
 Let's finish listening to the last cassette in the box, shall we?
 
-
+---
 ## Side B: Endings
 
 The sunlight hurt my eyes, giving me an immediate, but short-lived headache.
@@ -201,7 +201,7 @@ Nelson's voice interrupted again, but Edie silenced the sound with a gesture.
 
 And she did, while [[The Phosphene Catalogue/David Isaac\|David Isaac]] and [[The Phosphene Catalogue/Josephine Croft\|Josephine Croft]] did things they never would be allowed to do with each other outside the dream.
 
-
+---
 
 The sun slowly moved across the sky as [[The Phosphene Catalogue/Edith MacKinley\|Edith MacKinley]] and I talked for hours, we spoke of all the things two friends catching up might, of people, and food, and places.
 
@@ -222,7 +222,7 @@ I felt a rush of inspiration, or motivation, just being there.
 
 "That will stay with you," Edie said, "Or it should. It never worked out like that for me."
 
-
+---
 
 
 
@@ -292,7 +292,7 @@ I let the pull of the world drag me down through the water, reclaimed my chair b
 
 
 
-
+---
 
 I'm leaving, Morwenna.
 
@@ -368,7 +368,7 @@ Tell us what you’d like to hear more of in reviews on iTunes, Spotify, or wher
 
 Thank you all so much, stay tuned for updates, and listen out for the postman, The Catalogue will return!
 
- 
+ ---
 
 [^1]: "I fell asleep like you fall in love" with apologies to John Green, who wrote it better in _The Fault In Our Stars_.
 

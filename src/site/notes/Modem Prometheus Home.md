@@ -1,6 +1,6 @@
-
+---
 {"dg-publish":true,"dg-path":"mp","permalink":"/mp/","tags":["index","project"],"noteIcon":""}
-
+---
 
 > [!QUOTE]
 > # _The transmitter mast is calling. Come home._
