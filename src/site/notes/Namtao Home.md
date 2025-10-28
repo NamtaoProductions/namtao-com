@@ -15,7 +15,7 @@
 > - Follow [@NoBoilerplate@namtao.com](https://namtao.com/@noboilerplate) for updates
 > - Start on any video
 >
-> [[No Boilerplate/No Boilerplate Home\|Read more...]]
+> [[Projects/No Boilerplate/No Boilerplate Home\|Read more...]]
 
 ## 🛰️ Lost Terminal
 
@@ -48,7 +48,7 @@
 > - Follow [@PhospheneCatalogue@namtao.com](https://namtao.com/@PhospheneCatalogue) for updates
 > - Start on any season
 >
-> [[The Phosphene Catalogue/The Phosphene Catalogue Home\|Read more...]]
+> [[Projects/The Phosphene Catalogue/The Phosphene Catalogue Home\|Read more...]]
 
 ## 🎙 Decapsulate
 

@@ -90,7 +90,7 @@ items:
       m: file-explorer:move-file
       o: open-with-default-app:open
       O: open-with-default-app:show
-      f: lemons-search:open-search
+      f: darlal-switcher-plus:switcher-plus:open
       r: editor:open-search-replace
       R: workspace:edit-file-title
       s: editor:save-file

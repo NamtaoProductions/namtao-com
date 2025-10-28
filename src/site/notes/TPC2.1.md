@@ -13,10 +13,10 @@ _We see light where others see only darkness._
 
 My name is Jude Francis-Sharp, and it is an honour, reader, to return to the position of Curator of the Collection.
 
-Long-time subscribers may know me already from my previous work at The Catalogue, or perhaps my latest exhibition in my small Whitechapel gallery in [[The Phosphene Catalogue/Season 2/Mulberry Street Gallery\|Mulberry St]].
+Long-time subscribers may know me already from my previous work at The Catalogue, or perhaps my latest exhibition in my small Whitechapel gallery in [[Projects/The Phosphene Catalogue/Season 2/Mulberry Street Gallery\|Mulberry St]].
 I studied in Paris at the [[Académie De La Grande Chaumière\|Académie De La Grande Chaumière]], lower campus. Where, in addition to my own weekly subscription to The Catalogue, I often whiled away the time between my studies browsing the archive of previous issues, dating back as far as the turn of the century.
 
-I must thank and congratulate my colleague, and the Catalogue's resident historian, [[The Phosphene Catalogue/Warrick Blackwood\|Warrick Blackwood]] for his work during my absence. I read each issue of The Catalogue with great interest and amusement during my recent time away "studying" in Edinburgh.
+I must thank and congratulate my colleague, and the Catalogue's resident historian, [[Projects/The Phosphene Catalogue/Warrick Blackwood\|Warrick Blackwood]] for his work during my absence. I read each issue of The Catalogue with great interest and amusement during my recent time away "studying" in Edinburgh.
 
 My hope for future issues is to apply my newly acquired perspective from the Edinburgh College of Art, the better to serve you and all clients of The Catalogue.
 
@@ -28,16 +28,16 @@ There is a great deal I must show you.
 
 
 
-[[The Phosphene Catalogue/Season 2/Lot No. 21848\|Lot No. 21848]]. "huijia" (回家), [[The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]], Painted during the Last Century of the Ming Dynasty. An 8' Vertically Rolled Ink Wash Painting, 2' Wide in Black Ink
+[[Projects/The Phosphene Catalogue/Season 2/Lot No. 21848\|Lot No. 21848]]. "huijia" (回家), [[Projects/The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]], Painted during the Last Century of the Ming Dynasty. An 8' Vertically Rolled Ink Wash Painting, 2' Wide in Black Ink
 
-This beautiful example of minimal Far Eastern painting is available for viewing in [[The Phosphene Catalogue/The Pentire Room\|The Pentire Room]]. Please call our office and ask, *politely*, for Morwenna.
+This beautiful example of minimal Far Eastern painting is available for viewing in [[Projects/The Phosphene Catalogue/The Pentire Room\|The Pentire Room]]. Please call our office and ask, *politely*, for Morwenna.
 
 Huijia, Warrick informs me, translates approximately to "Homecoming", the feeling of relaxation and anticipation of rest upon re-entering your house after slightly longer than you would like away from it.
 
-[[The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]] has expertly captured the sensation of homecoming in this piece, which I feel clearly, as I stand now in front of it.
+[[Projects/The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]] has expertly captured the sensation of homecoming in this piece, which I feel clearly, as I stand now in front of it.
 
 The painting is of an abstract mountainous landscape, with a 3-line Chinese poem written at the top-right, with a large red seal as the artist's mark.
-My colleague [[The Phosphene Catalogue/Katherine Wilson-Baines\|Katherine Wilson-Baines]], attempting to retain the syllabic symmetry of the original, has translated the poem into a haiku, which reads:
+My colleague [[Projects/The Phosphene Catalogue/Katherine Wilson-Baines\|Katherine Wilson-Baines]], attempting to retain the syllabic symmetry of the original, has translated the poem into a haiku, which reads:
 
 > [!QUOTE]
 > Sights you are seeking
@@ -55,7 +55,7 @@ Which I think is sublime, don't you?
 > This is how I felt, upon returning to Flood street, off the King's Road in Chelsea, standing in front of Rossetti House, after many months out of town.
 > My first week back in London had been spent here at The Catalogue, the backlog of paperwork a sharp reminder that not everyone is as suited to the position as me!
 >
-> Upon entering Rossetti House, I was surprised to find [[The Phosphene Catalogue/Josephine Croft\|Jo Croft]] at home without her partner [[The Phosphene Catalogue/David Isaac\|David Isaac]], the two had previously been inseparable. But as she helped me carry my luggage up the familiar 4 flights of wide, dark-wooden stairs, she explained he was working a late shift as a bartender at the Savoy.
+> Upon entering Rossetti House, I was surprised to find [[Projects/The Phosphene Catalogue/Josephine Croft\|Jo Croft]] at home without her partner [[Projects/The Phosphene Catalogue/David Isaac\|David Isaac]], the two had previously been inseparable. But as she helped me carry my luggage up the familiar 4 flights of wide, dark-wooden stairs, she explained he was working a late shift as a bartender at the Savoy.
 >
 > My attic room was almost exactly as I left it. I don't think Warrick spent more than a few nights here, I doubt the "vibrant atmosphere" of the weekly "Opening" parties suited him.
 >
@@ -82,7 +82,7 @@ Which I think is sublime, don't you?
 
  ---
 
-Hanging in [[The Phosphene Catalogue/The Pentire Room\|The Pentire Room]], "Huijia" is daunting.
+Hanging in [[Projects/The Phosphene Catalogue/The Pentire Room\|The Pentire Room]], "Huijia" is daunting.
 Occupying most of the vertical space on the wall, I believe it is best appreciated from afar (I think this of my own work, but that's for other reasons). Fight this instinct, reader, should you make an appointment to view this painting. The devil is in the details.
 
 As with most examples of Ink Wash painting, most of the fabric is left raw and unpainted.
@@ -111,7 +111,7 @@ The lower 2' of the painting is a lake.
 There are no ripples visible here, nor shoreline, nor flotsam, nothing to give the impression of water.
 
 But the person is a boatman.
-With a single brushstroke, [[The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]] shows us a person wearing a wide hat, bent over and holding a pole, pushing the thick black line of a boat across the lake.
+With a single brushstroke, [[Projects/The Phosphene Catalogue/Season 2/Li Zhen\|Li Zhen]] shows us a person wearing a wide hat, bent over and holding a pole, pushing the thick black line of a boat across the lake.
 
 I see a bundle of something at the figure's feet - provisions, perhaps, for their long journey? Not much is left, if so.
 
@@ -162,25 +162,25 @@ OK, let me turn over this cassette.
 
 ## Side B: Sirens
 
-[[The Phosphene Catalogue/Season 2/Lot No. 23011\|Lot No. 23011]]. [[The Phosphene Catalogue/Season 2/Lot No. 23011\|"Sirens"]], [[The Phosphene Catalogue/Sarah Porter\|Sarah Porter]] 1972, Oil on Canvas, no Frame
+[[Projects/The Phosphene Catalogue/Season 2/Lot No. 23011\|Lot No. 23011]]. [[Projects/The Phosphene Catalogue/Season 2/Lot No. 23011\|"Sirens"]], [[Projects/The Phosphene Catalogue/Sarah Porter\|Sarah Porter]] 1972, Oil on Canvas, no Frame
 
-I first had the pleasure of viewing [[The Phosphene Catalogue/Season 2/Lot No. 23011\|"Sirens"]] at the [[Brighton Guise Show\|Brighton Guise Show]]. (I forget which of the Lanes' basement galleries I found it in, my memory is filled with the crashing waves that this painting visited upon me)
+I first had the pleasure of viewing [[Projects/The Phosphene Catalogue/Season 2/Lot No. 23011\|"Sirens"]] at the [[Brighton Guise Show\|Brighton Guise Show]]. (I forget which of the Lanes' basement galleries I found it in, my memory is filled with the crashing waves that this painting visited upon me)
 Indeed, when I first stood in front of it, I was overcome by the sound of the turbulent sea washing over me.
 I am not being metaphorical in my description, Reader:
 As soon as I stepped into the small basement that served as gallery, I heard the fury of waves crash into that rock from across the room and smelled the salt spray of the ocean, and something else, darker, and bitter.
 
-The canvas is 3' wide, 4.5' tall, and has yet to be mounted. After successful bidding, we can offer our framing services, should the buyer require it. Telephone our the office and ask for our framer, [[The Phosphene Catalogue/Season 2/Mina Olivia Copland\|Mina Olivia Copland]].
+The canvas is 3' wide, 4.5' tall, and has yet to be mounted. After successful bidding, we can offer our framing services, should the buyer require it. Telephone our the office and ask for our framer, [[Projects/The Phosphene Catalogue/Season 2/Mina Olivia Copland\|Mina Olivia Copland]].
 
-We have appraised and sold a number of [[The Phosphene Catalogue/Sarah Porter\|Miss Porter's]] works, including the first painting that brought her to international recognition, "[[The Phosphene Catalogue/Lot no. 8091\|Lot no. 8091]]". Readers may view that powerful piece at [[The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Dean Aldwick]]'s estate in Surrey, who won it at our auction for a considerable sum earlier this year.
+We have appraised and sold a number of [[Projects/The Phosphene Catalogue/Sarah Porter\|Miss Porter's]] works, including the first painting that brought her to international recognition, "[[Projects/The Phosphene Catalogue/Lot no. 8091\|Lot no. 8091]]". Readers may view that powerful piece at [[Projects/The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Dean Aldwick]]'s estate in Surrey, who won it at our auction for a considerable sum earlier this year.
 
 > (1.8M pounds, Morwenna, can you IMAGINE?!)
 
-I understand [[The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Aldwick]] welcomes fellow connoisseurs, but make sure to bring appropriate footwear, the floor around the painting is treacherous.
+I understand [[Projects/The Phosphene Catalogue/Season 2/Lord Dean Aldwick\|Lord Aldwick]] welcomes fellow connoisseurs, but make sure to bring appropriate footwear, the floor around the painting is treacherous.
 
  ---
 
-No longer a newcomer to the scene, [[The Phosphene Catalogue/Sarah Porter\|Miss Porter]]'s artwork may well be familiar to many of our readers.
-After stealing the show at The [[The Phosphene Catalogue/Season 2/Brighton Fringe Below\|Brighton Fringe Below]], and a notable appearance at the [[The Phosphene Catalogue/Season 2/Edinburgh Midnight Hall\|Edinburgh Midnight Hall]], she has now set up in London, at my [[The Phosphene Catalogue/Season 2/Mulberry Street Gallery\|gallery on Mulberry Street]].
+No longer a newcomer to the scene, [[Projects/The Phosphene Catalogue/Sarah Porter\|Miss Porter]]'s artwork may well be familiar to many of our readers.
+After stealing the show at The [[Projects/The Phosphene Catalogue/Season 2/Brighton Fringe Below\|Brighton Fringe Below]], and a notable appearance at the [[Projects/The Phosphene Catalogue/Season 2/Edinburgh Midnight Hall\|Edinburgh Midnight Hall]], she has now set up in London, at my [[Projects/The Phosphene Catalogue/Season 2/Mulberry Street Gallery\|gallery on Mulberry Street]].
 Indeed, we are sharing the gallery space, and it has been most satisfying to work together.
 
 > Oh, Morwenna: I'll be finishing a little early today, I need to pick up an order from my shirtmaker on Germyn street. (They have my measurements from before my impromptu sabbatical in Edinburgh, so I telephoned my order earlier this week)
@@ -188,9 +188,9 @@ Indeed, we are sharing the gallery space, and it has been most satisfying to wor
 >
 > I really enjoyed our late-night chats around the hearth in your basement room.
 > It was so kind of you to offer the room to me. I did need a safe house, after the trouble I got myself into in Edinburgh.
-> I must have looked such a MESS when I arrived - [[The Phosphene Catalogue/Warrick Blackwood\|Warrick Blackwood]], [[The Phosphene Catalogue/Katherine Wilson-Baines\|Katherine Wilson-Baines]], and [[The Phosphene Catalogue/Season 2/Mina Olivia Copland\|Mina Olivia Copland]] saw the bruises, I think. I wasn't in any state to hide them as you guided me through the building down to this room.
+> I must have looked such a MESS when I arrived - [[Projects/The Phosphene Catalogue/Warrick Blackwood\|Warrick Blackwood]], [[Projects/The Phosphene Catalogue/Katherine Wilson-Baines\|Katherine Wilson-Baines]], and [[Projects/The Phosphene Catalogue/Season 2/Mina Olivia Copland\|Mina Olivia Copland]] saw the bruises, I think. I wasn't in any state to hide them as you guided me through the building down to this room.
 >
-> It was almost exactly as I had imagined: Roaring fire, cosy bed, and I'm furious you kept [[The Phosphene Catalogue/Season 2/Nimue\|Nimue]] secret all this time. She slept at the foot of the bed, and I couldn't persuade her to leave the room during the week I was there.
+> It was almost exactly as I had imagined: Roaring fire, cosy bed, and I'm furious you kept [[Projects/The Phosphene Catalogue/Season 2/Nimue\|Nimue]] secret all this time. She slept at the foot of the bed, and I couldn't persuade her to leave the room during the week I was there.
 > (Though I occasionally lost her, or perhaps, she lost herself, in the way black cats often can)
 >
 > Thank you, again.
@@ -198,7 +198,7 @@ Indeed, we are sharing the gallery space, and it has been most satisfying to wor
  ---
 
 The composition of "Sirens" is of a solitary, jagged, rock, jutting out of the ocean in the bottom-right of the painting, on which are three slender sirens; beautiful mermaids wearing only seaweed and shells braided through their hair.
-As with nearly all of [[The Phosphene Catalogue/Sarah Porter\|Miss Porter]]'s work, the subject here is the sea. Wide and imposing, the crests of the ocean swell made translucent by a solitary shaft of sunlight piercing the dark clouds.
+As with nearly all of [[Projects/The Phosphene Catalogue/Sarah Porter\|Miss Porter]]'s work, the subject here is the sea. Wide and imposing, the crests of the ocean swell made translucent by a solitary shaft of sunlight piercing the dark clouds.
 
 The sirens are beautiful, yes, with red lips and bright eyes, but as depicted, would not tempt a sailor to risk drowning, I feel.
 Though I don't doubt the Artist's ability to draw a pleasing feminine form, she breaks with tradition here.

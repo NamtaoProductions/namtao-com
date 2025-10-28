@@ -126,7 +126,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 
 
 0. Thanks! Not a question
-1. [Iosevka](github.com/be6invis/Iosevka)
+1. [Iosevka](github.com/be5invis/Iosevka)
 2. [Presenterm](github.com/mfontanini/presenterm)
 3. [Kitty](github.com/kovidgoyal/kitty)
 4. Seen? [No](youtube.com/@NoBoilerplate)
@@ -172,7 +172,6 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
 2. Macros
 3. What can we do?
 4. What should we NOT do?
-5. The absolute STATE of the art
 
 
 
@@ -180,8 +179,7 @@ https://sdr-podcast.com/episodes/compile-time-crimes/
         - Introducing the const world: a cosy subset of rust where computation can be done without executing any runtime code.
         - Then acknowledging that unreasonable forces may ask you to produce more side effects than just heating up your laptop. Silence these criticisms with macros.
         - Working out what we can and can't do with our newfound superpowers
-        - Finally, a look at the abosolute STATE of the art.
-
+ 
 
 
 ---
@@ -364,8 +362,6 @@ unwrap_used   = "deny"
 ![image:width:100%](/img/user/Resources/Meta/attachments/vim-comptime-error.png)
 
 
-`rust-analyzer` is incredible...
-
 
 
     A quick aside on how much I love the combination of bacon and clippy.
@@ -380,9 +376,6 @@ unwrap_used   = "deny"
 # CLIPPY SAVES YOUR BACON 🐷
 ![image:width:100%](/img/user/Resources/Meta/attachments/bacon-comptime.png)
 
-
-
-...and `bacon clippy` is a perfect pairing
 
 
 
@@ -542,7 +535,6 @@ const fn demo(x: i32, y: i32, f: f64) -> &'static str {
 
 
 _(TIP: try `https://lib.rs/crates/konst` for const std functions)_
- 
 
 
 
@@ -1025,9 +1017,9 @@ It happens to the best of us!
 ---
 
 
-## NEVER DO IN A <span class="highlight">MACRO</span>
-## WHAT YOU CAN DO
-## IN A <span class="highlight">FUNCTION</span>
+# NEVER DO IN A <span class="highlight">MACRO</span>
+# WHAT YOU CAN DO
+# IN A <span class="highlight">FUNCTION</span>
 
 
 
@@ -1119,14 +1111,11 @@ We only have 2 problems in all of software engineering:
 ---
 # CAN YOU DO CRIMES? YES
 
- 
 
 ```rust
 #[proc_macro]
 pub fn threader(_: TokenStream) -> TokenStream {
-    std::thread::scope(|s| {
-        s.spawn(|| println!("Where is your god now?"));
-    });
+    std::thread::spawn(|| println!("Where is your god now?"));
     "()".parse().unwrap()
 }
 ```
@@ -1230,6 +1219,7 @@ pub fn threader(_: TokenStream) -> TokenStream {
 ---
 # sECuRIty cONsiDerATiOnS
 
+
 > [!IMPORTANT] The Rust team and ecosystem will need to work to release fixes and security enhancements to prevent arbitrary code execution vulnerabilities like this one in the future.
 > Eric Leijonmarck, eleijonmarck.dev/blog/2023-03-18---arbitrary-code-execution-rust/
 
@@ -1258,7 +1248,7 @@ pub fn threader(_: TokenStream) -> TokenStream {
 
 ---
 
- ---
+## THE THING WITH COMPUTER PROGRAMS:
 
 # _THEY GET TO_
 # _PROGRAM THE COMPUTER_
@@ -1278,6 +1268,9 @@ pub fn threader(_: TokenStream) -> TokenStream {
 
 
 
+
+
+
 ```shell
 $ ./configure # code executing here
 $ make        # code executing here
@@ -1291,329 +1284,6 @@ $ cargo build # code executing here
 
     Every build system needs to run arbitrary code, rust just made it first-class
     I know which I prefer
-
-
----
-
- ---
-# THE ABSOLUTE STATE
-# OF THE ART
-
-
-
-    OK, how are we doing for time?
-    To finish up I've got a speedrun of cool crates, starting with the popular sqlx:
-
-
-
----
-
-# SQLX
-
-> https://lib.rs/crates/sqlx
-
-```rust {3}
-let todos = sqlx::query_as!(
-	Todo,
-	"SELECT TYPO FROM todos"
-)
-```
-
-```sql {2}
- 1  error: error returned from database:
-           (code: 1) no such column: TYPO
-    src/main.rs:44:21
-    |
- 44 |           let todos = sqlx::query_as!(
-    |  _____________________^
- 45 | |             Todo,
- 46 | |             "SELECT TYPO FROM todos"
- 47 | |         )
-    | |_________^
-```
-
----
-
-# CONST-RANDOM
-
-> https://lib.rs/crates/const-random
-
-````rust +validate:rust-script
-# //! ```cargo
-# //! [dependencies]
-//! const-random = "*"
-# //! ```
-use const_random::const_random  ;
-const MY_RANDOM_NUMBER: u32 = const_random!(u32);
-fn main() {
-    dbg!(MY_RANDOM_NUMBER);
-}
-````
-
----
-
-# ZERO DEPS RANDOM
-
-> Don't do this
-
-````rust +auto_exec:rust-script
-// Look Mum, no rand!
-fn randint() -> usize {
-    randint as usize
-}
-fn main() {
-    dbg!(randint());
-}
-````
-
----
-
-# COMPTIME
-
-> https://lib.rs/crates/comptime
-
-````rust +validate:rust-script
-# //! ```cargo
-# //! [dependencies]
-//! comptime = "*"
-# //! ```
-# #![feature(const_trait_impl)]
-# #![feature(const_cmp)]
-#![feature(proc_macro_hygiene)]
-# fn main() {}
-
-#[comptime::comptime_fn]
-fn costly_calculation() -> i32 {
-    2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 // Any calculations
-}
-
-
-#[comptime::comptime_fn]
-fn costly_calculation2() -> i32 {
-    362880 // Will be turned into
-}
-````
-
----
-
-# CONSTIME
-
-> https://lib.rs/crates/constime
-
-> Zig's comptime for Rust, with zero dependencies.
-
-````rust +validate:rust-script
-# //! ```cargo
-# //! [dependencies]
-//! constime = "*"
-//! ureq = "*"
-# //! ```
-# fn main() {}
-use constime::comptime;
-
-const COMPILED_ON: i32 = comptime! {
-    std::time::SystemTime::now()
-      .duration_since(std::time::UNIX_EPOCH).unwrap().as_secs()
-};
-const RESPONSE: &str = comptime! {
-    ureq::get("https://httpbin.dev/get")
-      .call().unwrap()
-      .body_mut().read_to_string().unwrap()
-};
-````
-
----
-
-# CONSTIME & LAZY_STATIC
-
-````rust {6-9, 11-15} +validate:rust-script-pedantic
-# //! ```cargo
-# //! [dependencies]
-//! lazy_static = "*"
-//! constime = "*"
-# //! ```
-# fn main() {}
-use lazy_static::lazy_static;
-use constime::comptime;
-
-const _COMPILED_ON: u64 = comptime! {
-    std::time::SystemTime::now()
-      .duration_since(std::time::UNIX_EPOCH).unwrap().as_secs()
-};
-
-lazy_static! { static ref _FIRST_RUN: u64 =
-    std::time::SystemTime::now()
-        .duration_since(std::time::UNIX_EPOCH).unwrap().as_secs();
-}
-````
-
-> [!NOTE] NOTE:
-> Since 1.70.0, replicate lazy_static's functionality with std::sync::OnceLock.
-
----
-# Compile-time-run
-
-> https://lib.rs/crates/compile-time-run
-
-Running System Commands
-
-```rust +validate:rust-script
-# //! ```cargo
-# //! [dependencies]
-//! compile-time-run = "0.2.12"
-# fn main() {}
-use compile_time_run::run_command_str;
-const VALUE_STR: &'static str = run_command_str!("uname", "-a");
-```
-
-
-    Run system commands with compile-time-run
-
-
-
----
-
-# CRABTIME
-
-> https://lib.rs/crates/crabtime
-
- ---
-# IF I HAD ONE
-
-
-
-    Sadly crabtime is broken at the moment.
-
-
-
----
-# ASIDE:
-
-
-
-# MARA'S <span class="highlight">CRIMES<span>
-
-
-
-    It is time for a small intervention.
-    Mara, where are you?
-
-
-
----
-
-# `inline_python`
-
-> https://lib.rs/crates/inline_python
-
-```rust
-use inline_python::python;
-
-fn main() {
-    let who = "God?";
-    let n = 5;
-    python! {
-        for i in range('n):
-            print(i, "Who will stop me? ", 'who)
-        print("Goodbye")
-    }
-}
-```
-
----
-
-# `edition`
-
-> https://lib.rs/crates/edition
-
-```rust
-use edition::*;
-
-rust_2015! {
-    // `async` isn't a keyword yet.
-    fn async() {}
-}
-rust_2018! {
-    // `async` is a keyword now.
-    async fn abc() {}
-}
-rust_2021! {
-    // Arrays now implement IntoIter.
-    let _: i32 = [1, 2, 3].into_iter().next().unwrap();
-}
-```
-
----
-
-# `whichever-compiles`
-
-> https://lib.rs/crates/whichever-compiles
-
-```rust
-use whichever_compiles::whichever_compiles;
-
-fn main() {
-    whichever_compiles! {
-        try { thisfunctiondoesntexist(); }
-        try { invalid syntax 1 2 3 }
-        try { println!("missing arg: {}"); }
-        try { println!("hello world"); } // This one works
-        try { 1 + 2 }
-    }
-}
-```
-
-
-"Please do not use this" - Mara Bos
-
-
-
-    At least she has some shame about this one...
-
-
-
----
-
-
-# SHE CAN'T KEEP
-# GETTING AWAY
-# WITH THIS
-
-
-
-    I'm have presented this evidence because she can't keep getting away from this.
-
-
-
----
-
-
-
-# Honourable Mentions
-
-https://lib.rs/crates/anydir
-https://lib.rs/crates/docify
-https://lib.rs/crates/static_assertions
-https://lib.rs/crates/konst
-https://lib.rs/crates/const_panic
-https://lib.rs/crates/lazy_static
-
----
-
-## CRATE HONOURABLE MENTIONS
-## WITH COOL NAMES
-Constant/Eval Tier List
-
-- `constantine` - Constant evaluation magic
-- `evalanche` - Evaluation library
-- `constant` -
-
-
-    And lastly, some crates I found during my research that have cool names
-
-    - Nikolai Vazquez's `Constantine`
-    - Roman's `Evalanche`
-    - Sayan Nandan's `Constant` (ok this is just a good name)
 
 
 
