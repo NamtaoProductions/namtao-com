@@ -295,7 +295,7 @@ But not everything, and some of what works is qualified.
 
 (By the way, if you're curious, the `konst` crate has const equivalents of many functions and methods that are in the process of being made const compatible in the standard library - more on that later)
 
-I don't have time to talk about Rust's granular purity system today, those who are interested may watch my video on this topic.
+I don't have time to talk about Rust's granular purity system today, those who are interested may watch [my video on this topic](https://www.youtube.com/watch?v=voRBS0r4EyI).
 Because, while const functions are cool, there are some problems we as engineers are trying to solve, for which compile-time side effects are a feature, not a bug.
 For them, you will need access to the whole language, not just the sanitised subset available in a const context.
 And just like with the escape hatch of unsafe, macros are the escape hatch of const.
