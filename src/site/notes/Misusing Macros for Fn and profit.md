@@ -586,6 +586,8 @@ LISP might be the best language for your project technically, but try changing a
 
 ## 🦋
 
+(My bad edit of https://xkcd.com/435/)
+
 Programmers are, on the whole, a practical guild.
 We are interested in solving problems with the magic lightning that we've persuaded a rock to think with.
 You CAN solve all problems with a simple turing machine and a few for loops and if statements.
