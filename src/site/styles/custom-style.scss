@@ -3124,20 +3124,20 @@ body.theme-dark {
     display: none;
   }
 
-  // Sidebar (backlinks) on bottom
-  // .sidebar {
-  //   // Overrides:
-  //   //position: relative;
-  //   top: auto;
-  //   transform: none;
-  //   right: auto;
-  //   height: auto;
-  //   min-width: none;
-  //   display: block;
-  //   max-width: none;
-  //
-  //   //margin-bottom: 20px;
-  // }
+//  Sidebar (backlinks) on bottom
+  .sidebar {
+    // Overrides:
+    //position: relative;
+    top: auto;
+    transform: none;
+    right: auto;
+    height: auto;
+    min-width: none;
+    display: block;
+    max-width: none;
+
+    //margin-bottom: 20px;
+  }
 
 // .sidebar {
 // 	position: fixed;
