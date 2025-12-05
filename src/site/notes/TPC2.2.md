@@ -208,7 +208,7 @@ That's the terrible beauty of art, people see what they want, or fear, to see.
 The artist, [[Projects/The Phosphene Catalogue/Henri Beauchamp\|Henri Beauchamp]], was arrested in 1919, convicted of Arson in Royal Dockyards (effectively treason) and died in prison shortly after.
 
 A few questions in the right places, and to the right people have yielded further information about the artist:
-He was a founding member of the Circle of ==Traversal==. A Druidic society that is active to this day, with connections in both London and Paris, if one knows where to look.
+He was a founding member of the Circle of Traversal. A Druidic society that is active to this day, with connections in both London and Paris, if one knows where to look.
 
 Readers may not know the name of The Circle, but have certainly been affected by their work:
 The group are known for their support of environmental actions both financial and, occasionally, in direct action.
