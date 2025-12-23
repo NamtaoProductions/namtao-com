@@ -3,6 +3,9 @@
 ---
 
 
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Misusing Macros for fn and Profit (Live @EuroRust '25!)" width="100%" height="100%" src="https://makertube.net/videos/embed/iCQbmo1mTzVmh5ki5Su4pT" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
+
+
 
 
 
