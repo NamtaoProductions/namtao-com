@@ -5,18 +5,13 @@
 
 
 
-# Script
+
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Hack your Brain with Powerlifting" width="100%" height="100%" src="https://makertube.net/videos/embed/i1ic9eu7MJrW4NgpUv1kLX?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 
 
 
 
-```typst
-#set page(fill: none)
-#image("../Resources/Meta/attachments/powerlifting.svg")
-```
-
-Image credit: Aasgaard Company
 
 
 
@@ -43,39 +38,6 @@ Everything I just described requires you to interact with the world, either thro
 And just this simple, gentle action, if repeated for years, can injure us, and then we can't type or write or sit as comfortably as we used to, and all our brain hacks will be for nothing.
 
 SO: To hack your brain effectively, you must ALSO hack your body.
-
-
-
-
-
-![image:width:40%](/img/user/Resources/Meta/attachments/cc-zero-2k.png)
-
-
-## PUBLIC DOMAIN VIDEOS
-
-
-
-> [!NOTE] &nbsp;Notes
-> - For all links, read my scripts at www.namtao.com
-> - All footnotes<sup>1</sup> are in the video description.
-
-
-
-
-
-
-![image:width:100%](/img/user/Resources/Meta/attachments/white-logo.png)
-
-
-
-
-
-
-I dedicate my video scripts to the public domain.
-
-Everything you see here: script, links, and images are part of a Markdown document available freely on github and my website, namtao.com.
-
-
 
 
 # PART 0
@@ -735,7 +697,6 @@ THANK YOU To all my patrons, you make this possible!
 ```rust
 let producers: [&str; 0] = [];
 let sponsors = [
-	q"Jaycee", "PotatoScream"
 ];
 let patrons: [&str; 1037];
 ```
