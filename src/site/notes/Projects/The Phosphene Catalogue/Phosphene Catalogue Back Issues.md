@@ -21,4 +21,13 @@
 4. [[TPC2.4\|TPC2.4]]
 5. [[TPC2.5\|TPC2.5]]
 6. [[Projects/The Phosphene Catalogue/Season 2/TPC2.6\|TPC2.6]]
-7. unpublished
+7. [[TPC2.7\|TPC2.7]]
+
+# Season 3
+1. [[TPC3.1\|TPC3.1]]
+2. [[TPC3.2\|TPC3.2]]
+3. [[TPC3.3\|TPC3.3]]
+4. [[TPC3.4\|TPC3.4]]
+5. [[TPC3.5\|TPC3.5]]
+6. [[TPC3.6\|TPC3.6]]
+7. [[TPC3.7\|TPC3.7]]
