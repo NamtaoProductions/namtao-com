@@ -119,6 +119,8 @@ However, Lost Terminal would not be what it is today without these people, who I
 - EMMA voiced by Gina Sneesby
 - Samik Jensen voiced by Nils Brobakk
 - Pṛthvī Mātā voiced by Carin Calder-La Croix
+- [[Kimmo Shyu\|Kimmo Shyu]] voiced by Amos Wenger
+- [[Quent Heinlein\|Quent Heinlein]] voiced by Robin Winslow
 ## Character Concepts
 Occasionally friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look [here](https://www.patreon.com/posts/52133497) for how your character ideas can be included in Lost Terminal.
 
