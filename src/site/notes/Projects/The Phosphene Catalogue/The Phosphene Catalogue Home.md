@@ -9,7 +9,6 @@
 The Phosphene Catalogue is a 1970s mail-order catalogue, specialising in those items that cannot be sold at other auction houses: Paintings of lost origin, statues that are too grotesque for public display, and books better left unread...
 
 - Read the [[Projects/The Phosphene Catalogue/Phosphene Catalogue Back Issues\|Phosphene Catalogue Back Issues]]
-- Continue your journey into the [[Projects/The Phosphene Catalogue/Entrance Lobby\|Entrance Lobby]].
 - Meet the [[Projects/The Phosphene Catalogue/TPC Character Index\|TPC Character Index]]
 
 # Inspiration
@@ -34,7 +33,7 @@ Though I started listening to TMA rather late, it had been on my to-listen list 
 
 ## Phosphenes
 
-> [!QUOTE] 
+> [!QUOTE]
 > A phosphene is the phenomenon of seeing light without light entering the eye. The word phosphene comes from the Greek words phos (light) and phainein (to show). Phosphenes that are induced by movement or sound may be associated with optic neuritis. Phosphenes can be induced by mechanical, electrical, or magnetic stimulation of the retina or visual cortex, or by random firing of cells in the visual system. Phosphenes have also been reported by meditators (called nimitta), people who endure long periods without visual stimulation (the prisoner's cinema), or those who ingest psychedelic drugs.
 > - [Wikipeida, Phosphene](https://en.wikipedia.org/wiki/Phosphene)
 
