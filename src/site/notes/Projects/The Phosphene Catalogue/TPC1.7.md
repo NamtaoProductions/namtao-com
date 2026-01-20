@@ -64,7 +64,7 @@ After our dinner, [[Projects/The Phosphene Catalogue/Josephine Croft\|Josephine 
 We sat in the [[Projects/The Phosphene Catalogue/Rossetti House\|Rossetti House]] lounge, in single armchairs around the fire.
 It was midnight, or close enough, and beside Nelson's chair he had pulled over the green-felted card table, on which he placed a large reel-to-reel tape recorder.
 
-It would be safe, Nelson said. And to honour their new guest - me - we would not be going very far into the [[Projects/The Phosphene Catalogue/Garden\|Garden]] tonight.
+It would be safe, Nelson said. And to honour their new guest - me - we would not be going very far into [[Projects/The Phosphene Catalogue/The Garden\|The Garden]] tonight.
 That's what he calls this dream state, this shared hallucination.
 
 > I was terrified, Morwenna, but I had to experience it for myself.
@@ -76,7 +76,7 @@ He closed the curtains and locked the doors while he explained, in his melodious
 
 We would all take the dream drug, which he called [[Projects/The Phosphene Catalogue/Somnium\|Somnium]], in turn, and once he was sure we were comfortable, doses vary between people, he would move to the next person.
 
-"I will stay awake and guard your mortal shells while you explore the [[Projects/The Phosphene Catalogue/Garden\|Garden]] and report back what you see." he said.
+"I will stay awake and guard your mortal shells while you explore [[Projects/The Phosphene Catalogue/The Garden\|The Garden]] and report back what you see." he said.
 I didnt like this idea, but couldn't see a way back from this course I had laid for myself.
 
 [[Projects/The Phosphene Catalogue/Josephine Croft\|Josephine Croft]] was first, asking rapid-fire questions even as he tied a piece of rubber tubing around her arm and injected the silver-flecked drug.
@@ -250,7 +250,7 @@ The pain rose and rose, I fought it, holding on to the dream, it was terrible fo
 
 I was delighted, at first. More time to have ideas, to do what I want to do, to feel the gentle focus and certainty of the muses that had stopped visiting me back in my studio.
 
-But in the dark, something I'd never experienced in The [[Projects/The Phosphene Catalogue/Garden\|Garden]] before, I felt afraid.
+But in the dark, something I'd never experienced in [[Projects/The Phosphene Catalogue/The Garden\|The Garden]] before, I felt afraid.
 It isn't quite as beautiful here at night, Jude.
 It's..."
 
@@ -323,7 +323,7 @@ The house again echoes with the sounds of _Opening_ parties every Friday, perhap
 I hear them from my bedroom, as I try to sleep, with what Edie told me running through my head:
 
 There are [[Projects/The Phosphene Catalogue/The Guise\|Guise]] societies hidden in every city, town, and village in the world.
-Many know how to access to the [[Projects/The Phosphene Catalogue/Garden\|Garden]], but also other places. And it's not just dreams they weave control of...
+Many know how to access to [[Projects/The Phosphene Catalogue/The Garden\|The Garden]], but also other places. And it's not just dreams they weave control of...
 
 "The garden was made." [[Projects/The Phosphene Catalogue/Edith MacKinley\|Edie]] told me. She did not know by whom.
 

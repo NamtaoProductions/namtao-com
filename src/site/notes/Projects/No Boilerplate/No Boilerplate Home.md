@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","hide":true,"tags":["index"],"noteIcon":""}
 ---
 
 
@@ -22,6 +22,7 @@ I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https:/
 48. [[Async isn't real and can't hurt you\|Async isn't real and can't hurt you]]
 49. [[Obsidian for Learning\|Obsidian for Learning]]
 50. [[Misusing Macros for Fn and profit\|Misusing Macros for Fn and profit]]
+51. [[Hack Your Brain With Powerlifting\|Hack Your Brain With Powerlifting]]
 
 ---
 

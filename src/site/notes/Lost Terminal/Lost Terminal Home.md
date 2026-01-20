@@ -37,6 +37,7 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[LT Season 18.0\|LT Season 18.0]]                           | The MH2 Crew visit the Inland Sea of Greenland, a new saltwater lake revealed by the melted Arctic. During their exploration of the villages, Seth seeks memory advice from his friends and tries to build better systems, Yeshi makes friends with a local fishing crew, and Nia struggles with what it means to be a Repeater Keeper. |
 | [[LT19.0\|LT19.0]]                                           | TODO                                                                                                                                                                                                                                                                                                                                    |
 | [[LT20.0\|LT20.0]]                                           | TODO                                                                                                                                                                                                                                                                                                                                    |
+| [[LT21.0\|LT21.0]]                                           | TODO                                                                                                                                                                                                                                                                                                                                    |
 
 { .block-language-dataview}
 
@@ -49,10 +50,12 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer                         |
 | [[Bay Langley\|Bay Langley]]                               | \-                                          |
 | [[Carma Sah\|Carma Sah]]                                   | School Principle                            |
+| [[Dr Boldt\|Dr Boldt]]                                     | Cruel psychologist                          |
 | [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | Excitable student                           |
 | [[Freja from Horns\|Freja from Horns]]                     | fisher                                      |
 | [[Geraldo Ko\|Geraldo Ko]]                                 | Chemistry teacher                           |
 | [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham                                   |
+| [[James Li\|James Li]]                                     | caring ai scientist                         |
 | [[Jenny Noll\|Jenny Noll]]                                 | retired bard                                |
 | [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | subnautical technician                      |
 | [[Kat Stronski\|Kat Stronski]]                             | student                                     |

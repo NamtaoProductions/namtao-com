@@ -18,17 +18,20 @@ items:
   e: file-explorer:open
   r: spacekeys:load-keymap
 
-  z:
-    description: "Folds and spelling"
-    items:
-      1: obsidian-languagetool-plugin:ltaccept-suggestion-1
-      2: obsidian-languagetool-plugin:ltaccept-suggestion-2
-      3: obsidian-languagetool-plugin:ltaccept-suggestion-3
- 
   c:
-    description: Code 
+    description: Code and Spelling
     items:
       s: obsidian-quiet-outline:quiet-outline
+      
+      a:
+        description: Spelling actions
+        items:
+          1: languagetool:accept-1
+          2: languagetool:accept-2
+          3: languagetool:accept-3
+          n: languagetool:next
+          s: languagetool:synonyms
+      
 
   w:
     description: Window
@@ -220,14 +223,15 @@ items:
     description: Search
     items:
       s: darlal-switcher-plus:switcher-plus:open-symbols-active
-      f: advanced-random-note:query:3809fec3-64fd-4f34-b706-3e1f6ddd7d0c
 
 
   o:
     description: Obsidian
     items:
       t: insert-template
-
+      b: darlal-switcher-plus:switcher-plus:open-related-items-active
+      d: daily-notes
+      l: darlal-switcher-plus:switcher-plus:open-related-items-active
 
 # editor:toggle-fold-properties
 # editor:toggle-fold
@@ -240,6 +244,4 @@ items:
 # editor:open-link-in-new-leaf
 # editor:open-link-in-new-split
 # editor:open-link-in-new-window
-
-
 ```
