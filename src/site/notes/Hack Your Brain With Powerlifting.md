@@ -24,8 +24,6 @@ _Our bodies are not even CLOSE to adapting to **AGRICULTURE**, let alone desks a
 
 
 
-## IF WRITING IS THINKING
- ---
 Hi friends my name is Tris and this is No Boilerplate, where I focus on fast, technical videos.
 
 I talk a lot about hacking your brain on this channel:
@@ -251,7 +249,7 @@ It's because I'm impatient short on time.
 At the start of the training, where most of the benefits I'm interested in happen, powerlifting represents the absolute least amount of time I need to be away from my computer, in order to continue using it indefinitely.
 
 
- ---
+## EFFORT VS TIME
 
 ```mermaid
 quadrantChart
@@ -318,7 +316,7 @@ It's also, critically for me, much more FUN.
 
 ![image:width:70%](/img/user/Resources/Meta/attachments/powerlifting.png)
 
- ---
+## &nbsp;&nbsp;SQUAT &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;PRESS &nbsp;&nbsp; &nbsp; &nbsp;DEADLIFT
 
 
 
@@ -392,7 +390,7 @@ Training, you must be scientific.
 # PATREON
 
 ![image:width:30%](/img/user/Resources/Meta/attachments/patreon.png)
- ---
+## patreon.com/noboilerplate
 
 - 📼 Early, longer, and more detailed videos
 - 👨‍🏫 1:1 Mentoring over video chat
@@ -458,7 +456,7 @@ _Squat: 300lb_
 _(did not qualify)_
 
 
- ---
+## _Powerlifting != Bodybuilding_
 
 
 
