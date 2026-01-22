@@ -26,6 +26,7 @@ items:
       a:
         description: Spelling actions
         items:
+          enter: languagetool:accept-1
           1: languagetool:accept-1
           2: languagetool:accept-2
           3: languagetool:accept-3
