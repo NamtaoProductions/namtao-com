@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/rust/","noteIcon":""}
 ---
 
-a script that runs clippy with strict rules and other options preset black style
 
 ```toml
 [dependencies]
