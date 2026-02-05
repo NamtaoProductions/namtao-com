@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/rust/","noteIcon":""}
 ---
 
-
+## My Standard Library
 ```toml
 [dependencies]
 # COMMAND LINE PARSING
@@ -20,6 +20,14 @@ rayon = "1.11.0"
 # SERIALISATION / DESERIALISATION
 serde = { version = "*", features = ["derive"] }
 ```
+
+## Strict Lints
+
+> These lints do two things:
+> 1. Teach you rust
+> 2. Stop panics at runtime
+> Run them with `bacon clippy`.
+> If you're wondering how to prototype code quickly using `.unwrap()` and friends - put them in unit tests, clippy ignores those!
 
 ```toml
 # UM, ACTUALLY
@@ -42,9 +50,14 @@ exit = "deny"
 as_conversions = "deny"
 ```
 
+Also here's an 80% of the above as a one-liner:
 ```sh
 cargo clippy -- -D clippy::pedantic -D clippy::nursery
 ```
+
+## Rust Devenv
+
+> Here's a reasonable [devenv.nix](https://devenv.sh)
 
 ```python
 { pkgs, lib, config, ... }:
