@@ -25,8 +25,10 @@ I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https:/
 51. [[Hack Your Brain With Powerlifting\|Hack Your Brain With Powerlifting]]
 
 ---
+# Rust
+I've collected my thoughts here: [[Rust\|Rust]]
 
-# Recommended Rust Reading
+## Recommended Rust Reading
 
 Here are some great resources that I used to teach myself:
 
