@@ -11,3 +11,27 @@ body {
     //   color: black;
     //  }
 }
+
+:root {
+  //--font-family: "Rubik", sans-serif;
+  --font-family: 'Iosevka Nerd Font', 'Hack', 'FiraCode', 'Meslo', 'Noto', 'JetBrains Mono', 'Source Code Pro', 'Liberation Mono', 'Terminus', 'Victor Mono', 'Monoid', serif;
+  --line-height: 1.5;
+  --font-weight: 400;
+  --font-size: 16px;
+  --border-radius: 0.25rem;
+  --border-width: 1px;
+  --outline-width: 3px;
+  --spacing: 1rem;
+  --typography-spacing-vertical: 1.5rem;
+  --block-spacing-vertical: calc(var(--spacing) * 2);
+  --block-spacing-horizontal: var(--spacing);
+  --form-element-spacing-vertical: 0.75rem;
+  --form-element-spacing-horizontal: 1rem;
+  --nav-element-spacing-vertical: 1rem;
+  --nav-element-spacing-horizontal: 0.5rem;
+  --nav-link-spacing-vertical: 0.5rem;
+  --nav-link-spacing-horizontal: 0.5rem;
+  --form-label-font-weight: var(--font-weight);
+  --transition: 0.2s ease-in-out;
+  --modal-overlay-backdrop-filter: blur(0.25rem);
+}
