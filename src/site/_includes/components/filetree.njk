@@ -1,3 +1,4 @@
+// vim: ft=html
 {% macro menuItem(fileOrFolderName, fileOrFolder, step, currentPath) %}
     {%if fileOrFolder.isNote or fileOrFolder.isFolder%}
         <div x-show="isOpen" style="display:none" class="{{'filelist' if step>0}}">
