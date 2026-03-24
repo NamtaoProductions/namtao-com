@@ -8,7 +8,7 @@ This is my custom spacekeys config for obsidian, based on the sample keymap that
 
 ```yaml
 items:
-  SPC: command-palette:open
+  SPC: darlal-switcher-plus:switcher-plus:open
   TAB: editor:focus
   /: global-search:open
   ",": editor:context-menu

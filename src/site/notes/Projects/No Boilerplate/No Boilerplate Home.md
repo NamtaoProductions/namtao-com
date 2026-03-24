@@ -23,6 +23,7 @@ I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https:/
 49. [[Obsidian for Learning\|Obsidian for Learning]]
 50. [[Misusing Macros for Fn and profit\|Misusing Macros for Fn and profit]]
 51. [[Hack Your Brain With Powerlifting\|Hack Your Brain With Powerlifting]]
+52. [[Obsidian For Learning Part II Process\|Obsidian For Learning Part II Process]]
 
 ---
 # Rust

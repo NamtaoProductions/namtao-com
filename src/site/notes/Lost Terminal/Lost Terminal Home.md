@@ -45,12 +45,14 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 | Note                                                          | archetype                                   |
 | ------------------------------------------------------------- | ------------------------------------------- |
+| [[Lost Terminal/50 Meg\|50 Meg]]                           | VHF Witch                                   |
 | [[Aero\|Aero]]                                             | harbourmaster                               |
 | [[Lost Terminal/Alexander\|Alexander]]                     | solitary inventor                           |
 | [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer                         |
 | [[Bay Langley\|Bay Langley]]                               | \-                                          |
 | [[Carma Sah\|Carma Sah]]                                   | School Principle                            |
 | [[Dr Boldt\|Dr Boldt]]                                     | Cruel psychologist                          |
+| [[Lost Terminal/Dr Redwing\|Dr Redwing]]                   | Programmer                                  |
 | [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | Excitable student                           |
 | [[Freja from Horns\|Freja from Horns]]                     | fisher                                      |
 | [[Geraldo Ko\|Geraldo Ko]]                                 | Chemistry teacher                           |
