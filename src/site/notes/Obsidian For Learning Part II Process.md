@@ -166,7 +166,7 @@ I will highlight a few key features, and we'll deep-dive later on.
 
 
 | OBSIDIAN FEATURE  | PURPOSE   |
-| -- |  |
+| -- | -  |
 | `up: [[Uplinks]]` | Structure |
 | `#tags`           | Type      |
 | `filenames.md`    | Identity  |
