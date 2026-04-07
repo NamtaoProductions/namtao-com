@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":""}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -39,7 +39,6 @@ nursery = { level = "deny", priority = -1 }
 unwrap_used = "deny"
 expect_used = "deny"
 indexing_slicing = "deny"
-allow-indexing-slicing-in-tests = "allow" # tests are allowed to panic
 arithmetic_side_effects = "deny"
 unreachable = "deny"
 unimplemented = "deny"
