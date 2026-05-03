@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/decapsulate-home/","noteIcon":""}
+{"dg-publish":true,"dg-path":"dc","permalink":"/dc/","noteIcon":"","dg-note-properties":{}}
 ---
 
 
