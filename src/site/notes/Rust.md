@@ -60,7 +60,7 @@ cargo clippy -- -D clippy::pedantic -D clippy::nursery
 
 > Here's a reasonable [devenv.nix](https://devenv.sh)
 
-```js
+```rust
 { pkgs, lib, config, ... }:
 
 {
