@@ -91,3 +91,40 @@ cargo clippy -- -D clippy::pedantic -D clippy::nursery
 }
 
 ```
+
+Then add oxalica's rust-overlay with:
+
+```sh
+devenv inputs add rust-overlay github:oxalica/rust-overlay --follows nixpkgs` 
+```
+
+## Rust Function Signatures
+
+> Are complex, but they can be understood through thorougher thought though.
+
+From [`nom::combinator`](https://docs.rs/nom/latest/src/nom/combinator/mod.rs.html#801-808)
+
+```rust
+pub fn cut<I, E: ParseError<I>, F>(parser: F) 
+-> impl Parser<I, Output = <F as Parser<I>>::Output, Error = E>
+where
+  F: Parser<I, Error = E>,
+{
+  Cut { parser }
+}
+```
+ ---
+```rust
+fn walk_pet<W: Walk>(pet: &mut W) {
+    pet.walk();
+}
+```
+is equivilant to
+```rust
+fn walk_pet<W>(pet: &mut W)
+where W: Walk {
+    pet.walk();
+}
+```
+
+Good stuff here: https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md#scope
