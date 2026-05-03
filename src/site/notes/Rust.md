@@ -95,7 +95,7 @@ cargo clippy -- -D clippy::pedantic -D clippy::nursery
 Then add oxalica's rust-overlay with:
 
 ```sh
-devenv inputs add rust-overlay github:oxalica/rust-overlay --follows nixpkgs` 
+devenv inputs add rust-overlay github:oxalica/rust-overlay --follows nixpkgs
 ```
 
 ## Rust Function Signatures
