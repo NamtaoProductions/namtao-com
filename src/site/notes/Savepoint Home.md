@@ -2,9 +2,11 @@
 {"dg-publish":true,"dg-path":"savepoint","permalink":"/savepoint/","title":"Savepoint Project","noteIcon":"","dg-note-properties":{"up":["[[Namtao Home]]"],"title":"Savepoint Project"}}
 ---
 
-## Can't beat the boss? Load a previous save!
+## Can't Beat the Boss? Load a Previous save
 
-<img src="logo.jpg" alt="Savepoint logo" height="150px" align="right">
+![savepoint-white.png\|200](/img/user/Resources/Meta/attachments/savepoint-white.png)
+
+<img src="savepoint-white.png" alt="Savepoint logo" height="150px" align="right">
 
 _A command watcher that commits when you fix errors_
 
