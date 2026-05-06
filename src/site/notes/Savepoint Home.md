@@ -2,12 +2,9 @@
 {"dg-publish":true,"dg-path":"savepoint","permalink":"/savepoint/","title":"Savepoint Project","noteIcon":"","dg-note-properties":{"up":["[[Namtao Home]]"],"title":"Savepoint Project"}}
 ---
 
-## Can't Beat the Boss? Load a Previous save
+## Can't Beat the Boss? Load a Previous Save
 
 ![savepoint-white.png\|200](/img/user/Resources/Meta/attachments/savepoint-white.png)
-
-<img src="savepoint-white.png" alt="Savepoint logo" height="150px" align="right">
-
 _A command watcher that commits when you fix errors_
 
 Feel free to poke around the [code](https://github.com/NamtaoProductions/savepoint/tree/main/), I would love [feature suggestions](https://github.com/NamtaoProductions/savepoint/issues/new/choose)!
@@ -31,6 +28,7 @@ Options:
 
 # DEMO
 
+`savepoint` runs the test, and it fails:
 ```shell
 🏁 SAVEPOINT: Running command...
    Compiling savepoint v0.1.4 (/home/oatman/projects/savepoint)
@@ -44,6 +42,8 @@ error: could not compile `savepoint` (bin "savepoint") due to 1 previous error
 🏁 SAVEPOINT: Error!
 🏁 SAVEPOINT: Monitoring..
 ```
+
+When tests pass, savepoint makes a commit:
 
 ```shell
 🏁 SAVEPOINT: Running command...
