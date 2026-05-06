@@ -4,7 +4,7 @@
 
 
 ![savepoint-white.png\|200](/img/user/Resources/Meta/attachments/savepoint-white.png)
-## Can't Beat the Boss? Load a Previous Save!
+## Can't Beat the Boss? Load a Previous Save
 
 _A command watcher that commits when you fix errors_
 
