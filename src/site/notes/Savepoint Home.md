@@ -2,9 +2,10 @@
 {"dg-publish":true,"dg-path":"savepoint","permalink":"/savepoint/","title":"Savepoint Project","noteIcon":"","dg-note-properties":{"up":["[[Namtao Home]]"],"title":"Savepoint Project"}}
 ---
 
-## Can't Beat the Boss? Load a Previous Save
 
 ![savepoint-white.png\|200](/img/user/Resources/Meta/attachments/savepoint-white.png)
+## Can't Beat the Boss? Load a Previous Save!
+
 _A command watcher that commits when you fix errors_
 
 Feel free to poke around the [code](https://github.com/NamtaoProductions/savepoint/tree/main/), I would love [feature suggestions](https://github.com/NamtaoProductions/savepoint/issues/new/choose)!
