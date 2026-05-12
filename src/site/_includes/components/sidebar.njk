@@ -8,7 +8,7 @@
                         {%include "components/graphScript.njk"%}
                   {%endif%}
 
-                  {%if settings.dgShowToc === true%}
+                  {%if false %}
                         {%set tocHtml= (content and (content | hideDataview | link | toc)) %}
                         {%if tocHtml %}
                               <div class="toc">

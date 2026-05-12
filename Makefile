@@ -1,5 +1,5 @@
 serve:
-	nix-shell -p pnpm --run "pnpm run start"
+	nix-shell -p npm --run "npm run dev"
 
 install:
-	nix-shell -p pnpm --run "pnpm i"
+	nix-shell -p npm --run "npm i"
