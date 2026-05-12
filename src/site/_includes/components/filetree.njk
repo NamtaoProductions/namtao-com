@@ -1,4 +1,3 @@
-// vim: ft=html
 {% macro menuItem(fileOrFolderName, fileOrFolder, step, currentPath) %}
     {%if fileOrFolder.isNote or fileOrFolder.isFolder%}
         <div x-show="isOpen" style="display:none" class="{{'filelist' if step>0}}">
@@ -22,8 +21,8 @@
         {%endif%}
     {% endmacro %}
     
-    <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;"
-            x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;"
+    <div x-init="isDesktop = (window.innerWidth>=1000) ? true: false;"
+            x-on:resize.window="isDesktop = (window.innerWidth>=1000) ? true : false;"
             x-data="{isDesktop: true, showFilesMobile: false}">
 
         <div x-show.important="!isDesktop" style="display: none;">
@@ -49,16 +48,14 @@
          {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}
         {% endfor %}
-
-        {%set tocHtml= (content and (content | hideDataview | link | toc)) %}
-        {%if tocHtml %}
-              <div class="toc">
-                    <div class="toc-container">
-                          {{ tocHtml | safe }}
-                    </div>
-              </div>
+        {% if settings.dgEnableSearch === true%}
+            {% include "components/searchButton.njk" %}
         {%endif%}
-
+         <div class="folder" x-data="{isOpen: true}">
+               {%- for fileOrFolderName, fileOrFolder in filetree -%}
+                  {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
+               {%- endfor -%}
+         </div>
       </nav>
       </div>
     </div>
