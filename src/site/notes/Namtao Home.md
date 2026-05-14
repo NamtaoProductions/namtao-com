@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/namtao-home/","title":"Home","metatags":{"og:title":"Namtao Productions","og:image":"https://www.namtao.com/apple-touch-icon.png","description":"Namtao Productions produces No Boilerplate, Lost Terminal, Modem Prometheus, and The Phosphene Catalogue"},"tags":["index","gardenEntry"],"noteIcon":"","updated":"2026-05-14T07:18:17.656+01:00","dg-note-properties":{"title":"Home","tags":["index","gardenEntry"],"created":"2025-03-14T11:21","updated":"2025-05-31T07:53","vf_icon":"🖥️","up":[null,"[[Home]]"]}}
+{"dg-publish":true,"permalink":"/namtao-home/","title":"Home","metatags":{"og:title":"Namtao Productions","og:image":"https://www.namtao.com/apple-touch-icon.png","description":"Namtao Productions produces No Boilerplate, Lost Terminal, Modem Prometheus, and The Phosphene Catalogue"},"tags":["index","gardenEntry"],"noteIcon":"","updated":"2026-05-14T07:19:56.825+01:00","dg-note-properties":{"title":"Home","tags":["index","gardenEntry"],"created":"2025-03-14T11:21","updated":"2025-05-31T07:53","vf_icon":"🖥️","up":[null,"[[Home]]"]}}
 ---
 
 <img align="right" alt="namtao logo." src="https://www.namtao.com/img/user/Resources/Meta/attachments/namtao-logo-1000.png">
-![namtao-logo-1000.png\|200](/img/user/Resources/Meta/attachments/namtao-logo-1000.png)
 
 > Hi folks, I'm Tris. I'm a producer, web developer, and musician based in London. I write electronic music, fast technical videos, and audio drama podcasts. Say hi to me [@tris@namtao.com](https://namtao.com/@tris)
 
