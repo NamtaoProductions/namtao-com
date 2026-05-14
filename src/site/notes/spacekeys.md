@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/spacekeys/","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/spacekeys/","hide":true,"noteIcon":"","updated":"2026-04-23T09:52:39.000+01:00","dg-note-properties":{"created":"2025-01-20T07:13","updated":"2025-05-16T09:19"}}
 ---
 
 This is my custom spacekeys config for obsidian, based on the sample keymap that comes with the plugin, but with some structural changes to match <https://lazynvim.org>'s defaults.
 ## Lazyvim Reference
-![lazyvim which key screenshot.png|200](/img/user/Resources/Meta/attachments/lazyvim%20which%20key%20screenshot.png)
+![lazyvim which key screenshot.png\|200](/img/user/Resources/Meta/attachments/lazyvim%20which%20key%20screenshot.png)
 
 ```yaml
 items:
@@ -90,7 +90,6 @@ items:
       a: markdown:add-alias
       c: workspace:copy-path
       C: workspace:copy-url
-      d: app:delete-file
       m: file-explorer:move-file
       o: open-with-default-app:open
       O: open-with-default-app:show

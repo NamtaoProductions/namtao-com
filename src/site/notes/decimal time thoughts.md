@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"public/decimal-time","permalink":"/public/decimal-time/","hide":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"public/decimal-time","permalink":"/public/decimal-time/","hide":true,"noteIcon":"","updated":"2025-08-11T13:52:04.000+01:00","dg-note-properties":{"up":["[[Lost Terminal]]"],"tags":[],"date":"2025-01-02","sr-due":"2026-04-01","sr-interval":335,"sr-ease":290,"created":"2025-01-20T07:13","updated":"2025-05-16T09:18"}}
 ---
 
 

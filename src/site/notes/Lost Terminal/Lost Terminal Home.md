@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":"","updated":"2026-01-20T08:37:33.719+00:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-20T07:10","updated":"2025-05-16T09:28","title":"Lost Terminal"}}
 ---
 
 
@@ -38,47 +38,52 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[LT19.0\|LT19.0]]                                           | Arriving at the beached city ship, The Kuethir, the crew of the MH2 soon realise that between power glitches and suspicious goings-on, there is more to the ship than meets the eye.                                                                                                                                                    |
 | [[LT20.0\|LT20.0]]                                           | After a stormy voyage, the MH2 arrives at Samoylov, grain basket of the Novamediterra. Quent and Stillman, residents from The Kuithir, attempt a romantic holiday, despite the thick smoke of the city, and Seth is reminded unpleasantly of his past.                                                                                  |
 | [[LT21.0\|LT21.0]]                                           | To be revealed...                                                                                                                                                                                                                                                                                                                       |
+| [[LT22.0\|LT22.0]]                                           | TODO                                                                                                                                                                                                                                                                                                                                    |
 
 { .block-language-dataview}
 
 ## Characters
 
-| Note                                                          | archetype                                   |
-| ------------------------------------------------------------- | ------------------------------------------- |
-| [[Lost Terminal/50 Meg\|50 Meg]]                           | VHF Witch                                   |
-| [[Aero\|Aero]]                                             | harbourmaster                               |
-| [[Lost Terminal/Alexander\|Alexander]]                     | solitary inventor                           |
-| [[Lost Terminal/Amelie Kotov\|Amelie Kotov]]               | generalist engineer                         |
-| [[Bay Langley\|Bay Langley]]                               | \-                                          |
-| [[Carma Sah\|Carma Sah]]                                   | School Principle                            |
-| [[Dr Boldt\|Dr Boldt]]                                     | Cruel psychologist                          |
-| [[Lost Terminal/Dr Redwing\|Dr Redwing]]                   | Programmer                                  |
-| [[Ezekiel Frangoulis\|Ezekiel Frangoulis]]                 | Excitable student                           |
-| [[Freja from Horns\|Freja from Horns]]                     | fisher                                      |
-| [[Geraldo Ko\|Geraldo Ko]]                                 | Chemistry teacher                           |
-| [[Lost Terminal/Season 15.0/Jakub Glas\|Jakub Glas]]       | radio ham                                   |
-| [[James Li\|James Li]]                                     | caring ai scientist                         |
-| [[Jenny Noll\|Jenny Noll]]                                 | retired bard                                |
-| [[Lost Terminal/Kamil Forester\|Kamil Forester]]           | subnautical technician                      |
-| [[Kat Stronski\|Kat Stronski]]                             | student                                     |
-| [[Kaycee Stronski\|Kaycee Stronski]]                       | engineer, worried mother                    |
-| [[Kimmo Shyu\|Kimmo Shyu]]                                 | harbourmaster                               |
-| [[Leila Tazi\|Leila Tazi]]                                 | worried mother                              |
-| [[Lost Terminal/Linda Noor\|Linda Noor]]                   | biologist and gardener                      |
-| [[Lost Terminal/LUNA\|LUNA]]                               | journalist                                  |
-| [[Lost Terminal/Lyosha Omarov\|Lyosha Omarov]]             | explorer                                    |
-| [[Lost Terminal/Maddie\|Maddie]]                           | satalite maintenance scutter                |
-| [[Mathilde from Horns\|Mathilde from Horns]]               | fisher                                      |
-| [[Lost Terminal/Season 18.0/Mato Valdemar\|Mato Valdemar]] | fishingboat captain                         |
-| [[Lost Terminal/Nia Andersen\|Nia Andersen]]               | repeaterkeeper                              |
-| [[Quent Heinlein\|Quent Heinlein]]                         | teacher of oceanography                     |
-| [[Lost Terminal/Samik Jensen\|Samik Jensen]]               | writer                                      |
-| [[Lost Terminal/Seth\|Seth]]                               | author stand-in, autistic, excitable, naive |
-| [[Siegfried Lin\|Siegfried Lin]]                           | \-                                          |
-| [[Sofia Tazi\|Sofia Tazi]]                                 | adventurous and loyal                       |
-| [[Stillman Fowlkes\|Stillman Fowlkes]]                     | engineer                                    |
-| [[Valentia Dalton\|Valentia Dalton]]                       | student                                     |
-| [[Lost Terminal/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                                       |
+| Note                                                                                     | archetype                                   |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------- |
+| [[StoryLine/Lost Terminal/Codex/Characters/50 Meg\|50 Meg]]                           | VHF Witch                                   |
+| [[StoryLine/Lost Terminal/Codex/Characters/Aero\|Aero]]                               | harbourmaster                               |
+| [[StoryLine/Lost Terminal/Codex/Characters/Alek Omarov\|Alek Omarov]]                 | \-                                          |
+| [[StoryLine/Lost Terminal/Codex/Characters/Alexander\|Alexander]]                     | solitary inventor                           |
+| [[StoryLine/Lost Terminal/Codex/Characters/Amelie Kotov\|Amelie Kotov]]               | generalist engineer                         |
+| [[StoryLine/Lost Terminal/Codex/Characters/Anouk Peters\|Anouk Peters]]               | \-                                          |
+| [[StoryLine/Lost Terminal/Codex/Characters/Bay Langley\|Bay Langley]]                 | \-                                          |
+| [[StoryLine/Lost Terminal/Codex/Characters/Carma Sah\|Carma Sah]]                     | School Principle                            |
+| [[StoryLine/Lost Terminal/Codex/Characters/Dr Boldt\|Dr Boldt]]                       | Cruel psychologist                          |
+| [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]                   | Programmer                                  |
+| [[StoryLine/Lost Terminal/Codex/Characters/Ezekiel Frangoulis\|Ezekiel Frangoulis]]   | Excitable student                           |
+| [[StoryLine/Lost Terminal/Codex/Characters/Freja from Horns\|Freja from Horns]]       | fisher                                      |
+| [[StoryLine/Lost Terminal/Codex/Characters/Geraldo Ko\|Geraldo Ko]]                   | Chemistry teacher                           |
+| [[StoryLine/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]                   | radio ham                                   |
+| [[StoryLine/Lost Terminal/Codex/Characters/James Li\|James Li]]                       | caring ai scientist                         |
+| [[StoryLine/Lost Terminal/Codex/Characters/Jenny Noll\|Jenny Noll]]                   | retired bard                                |
+| [[StoryLine/Lost Terminal/Codex/Characters/Kamil Forester\|Kamil Forester]]           | subnautical technician                      |
+| [[StoryLine/Lost Terminal/Codex/Characters/Kat Stronski\|Kat Stronski]]               | student                                     |
+| [[StoryLine/Lost Terminal/Codex/Characters/Kaycee Stronski\|Kaycee Stronski]]         | engineer, worried mother                    |
+| [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]                   | harbourmaster                               |
+| [[StoryLine/Lost Terminal/Codex/Characters/Leila Tazi\|Leila Tazi]]                   | worried mother                              |
+| [[StoryLine/Lost Terminal/Codex/Characters/Lev Omarov\|Lev Omarov]]                   | \-                                          |
+| [[StoryLine/Lost Terminal/Codex/Characters/Linda Noor\|Linda Noor]]                   | biologist and gardener                      |
+| [[StoryLine/Lost Terminal/Codex/Characters/LUNA\|LUNA]]                               | journalist                                  |
+| [[StoryLine/Lost Terminal/Codex/Characters/Lyosha Omarov\|Lyosha Omarov]]             | explorer                                    |
+| [[StoryLine/Lost Terminal/Codex/Characters/Maddie\|Maddie]]                           | satalite maintenance scutter                |
+| [[StoryLine/Lost Terminal/Codex/Characters/Mathilde from Horns\|Mathilde from Horns]] | fisher                                      |
+| [[StoryLine/Lost Terminal/Codex/Characters/Mato Valdemar\|Mato Valdemar]]             | fishingboat captain                         |
+| [[StoryLine/Lost Terminal/Codex/Characters/Nia Andersen\|Nia Andersen]]               | repeaterkeeper                              |
+| [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]]           | teacher of oceanography                     |
+| [[StoryLine/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]               | writer                                      |
+| [[StoryLine/Lost Terminal/Codex/Characters/Seth\|Seth]]                               | author stand-in, autistic, excitable, naive |
+| [[StoryLine/Lost Terminal/Codex/Characters/Siegfried Lin\|Siegfried Lin]]             | \-                                          |
+| [[StoryLine/Lost Terminal/Codex/Characters/Sofia Tazi\|Sofia Tazi]]                   | adventurous and loyal                       |
+| [[StoryLine/Lost Terminal/Codex/Characters/Stillman Fowlkes\|Stillman Fowlkes]]       | engineer                                    |
+| [[StoryLine/Lost Terminal/Codex/Characters/Tanya Omarov\|Tanya Omarov]]               | \-                                          |
+| [[StoryLine/Lost Terminal/Codex/Characters/Valentia Dalton\|Valentia Dalton]]         | student                                     |
+| [[StoryLine/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                                       |
 
 { .block-language-dataview}
 
@@ -121,8 +126,8 @@ However, Lost Terminal would not be what it is today without these people, who I
 - EMMA voiced by Gina Sneesby
 - Samik Jensen voiced by Nils Brobakk
 - Pṛthvī Mātā voiced by Carin Calder-La Croix
-- [[Kimmo Shyu\|Kimmo Shyu]] voiced by Amos Wenger
-- [[Quent Heinlein\|Quent Heinlein]] voiced by Robin Winslow
+- [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]] voiced by Amos Wenger
+- [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] voiced by Robin Winslow
 ## Character Concepts
 Occasionally friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look [here](https://www.patreon.com/posts/52133497) for how your character ideas can be included in Lost Terminal.
 

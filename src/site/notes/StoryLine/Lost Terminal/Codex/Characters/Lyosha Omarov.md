@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/story-line/lost-terminal/codex/characters/lyosha-omarov/","noteIcon":"","updated":"2026-04-23T09:57:38.000+01:00","dg-note-properties":{"aliases":["Lyosha"],"voice":"mid-high","archetype":"explorer","home":["[[Provorny]]"],"hair":"short, blonde","eyes":null,"pronouns":"he/him","lt-network-magic":null,"ai":null,"birthdate":null,"deathdate":null,"created":"2026-04-23","updated":"2025-04-03T09:08","up":["[[LT Characters]]"],"mother":"[[Tanya Omarov]]","father":"[[Alek Omarov]]","brother":"[[Lev Omarov]]","cover_image":"[[Lyosha Omarov pexels.jpg]]","current-location":"[[the Kuethir]]","type":"character","name":"Lyosha Omarov","modified":"2026-04-23","relations":[{"category":"social","type":"friend","target":"Kat Stronski"},{"category":"social","type":"best-friend","target":"Maddie"},{"category":"family","type":"sibling","target":"Lev Omarov"},{"category":"family","type":"parent","target":"Tanya Omarov"},{"category":"family","type":"parent","target":"Alek Omarov"}]}}
+---
+
+
+ 

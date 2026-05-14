@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"tpc","permalink":"/tpc/","title":"Phosphene Catalogue","tags":["index"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"tpc","permalink":"/tpc/","title":"Phosphene Catalogue","tags":["index"],"noteIcon":"","updated":"2026-05-03T12:17:58.311+01:00","dg-note-properties":{"up":["[[Podcasts]]"],"tags":["index"],"title":"Phosphene Catalogue","vf_icon":"🎨"}}
 ---
 
 

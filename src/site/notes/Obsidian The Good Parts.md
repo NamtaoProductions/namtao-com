@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-the-good-parts/","hide":true,"tags":["project/nb"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/obsidian-the-good-parts/","hide":true,"tags":["project/nb"],"noteIcon":"","updated":"2025-09-01T12:50:17.000+01:00","dg-note-properties":{"tags":["project/nb"],"state":"done","start":"2024-07-31","due":"2025-01-31","scheduled":"2024-12-10","titles":["thinking in obsidian","the obsidian triumvirate","hacking your brain with obsidian 2","Obsidian the good parts","The Obsidian Handbook","How to think better","Obsidian thinking inside the box","Building Your Second Brain In Obsidian"],"up":["[[No Boilerplate Index]]"],"test-link":"[[Videos]]","css":["css/mermaid.css"],"created":"2025-01-29T21:33","updated":"2025-05-16T09:19"}}
 ---
 
 
@@ -145,7 +145,7 @@ And we'll start with the curse of FOLDERS.
 
 > # [`/FOLDERS/`]()
 
-![batman-breaking-rifle-weapon-of-the-enemy.png|400](/img/user/Resources/Meta/attachments/batman-breaking-rifle-weapon-of-the-enemy.png)
+![batman-breaking-rifle-weapon-of-the-enemy.png\|400](/img/user/Resources/Meta/attachments/batman-breaking-rifle-weapon-of-the-enemy.png)
 
 ## Friends Don't Let Friends Use Folders
 
@@ -170,7 +170,7 @@ That ain't nothing.
 
 ## Folders in Their Natural Habitat
 
-![1950s office monochrome photo.jpg|700](/img/user/Resources/Meta/attachments/1950s%20office%20monochrome%20photo.jpg)
+![1950s office monochrome photo.jpg\|700](/img/user/Resources/Meta/attachments/1950s%20office%20monochrome%20photo.jpg)
 
  
 But we're not filing customer records, we're building our second brain.
@@ -182,7 +182,7 @@ And there is no paper here.
 
 <grid  drag="50 50" drop="left" pad="20px">
 
-![xerox-star-screenshot-1981.png|330](/img/user/Resources/Meta/attachments/xerox-star-screenshot-1981.png)
+![xerox-star-screenshot-1981.png\|330](/img/user/Resources/Meta/attachments/xerox-star-screenshot-1981.png)
 
 Left: Xerox Star, 1981.
 
@@ -190,7 +190,7 @@ Left: Xerox Star, 1981.
 
 <grid  drag="50 50" drop="right" pad="20px">
 
-![macos-desktop-icons-window.png|500](/img/user/Resources/Meta/attachments/macos-desktop-icons-window.png)
+![macos-desktop-icons-window.png\|500](/img/user/Resources/Meta/attachments/macos-desktop-icons-window.png)
 
 Right: Mac OSX, 2023
 
@@ -255,7 +255,7 @@ Don't use tags for metadata, just for simple grouping like this.
 
 Properties & Links are the real secret sauce of The Good Parts.
 
-![patreon.png|200](/img/user/Resources/Meta/attachments/patreon.png)
+![patreon.png\|200](/img/user/Resources/Meta/attachments/patreon.png)
 
 ## [Patreon.com/NoBoilerplate](http://www.patreon.com/noboilerplate)
 
@@ -379,7 +379,7 @@ Relationships could be:
 
 This is fully supported by the obsidian search and backlinks system, all plugins, too, but now you can filter by the TYPE of link.
 
-![my-obsidian-graph-view-29-012025.png|600](/img/user/Resources/Meta/attachments/my-obsidian-graph-view-29-012025.png)
+![my-obsidian-graph-view-29-012025.png\|600](/img/user/Resources/Meta/attachments/my-obsidian-graph-view-29-012025.png)
 
 Very pretty, but even *I* don't know what's going on _(and it's MY brain)_
 

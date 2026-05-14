@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/running-an-agile-team/","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/running-an-agile-team/","hide":true,"noteIcon":"","updated":"2025-05-16T09:11:52.000+01:00","dg-note-properties":{"created":"2025-04-30T10:04","updated":"2025-05-16T09:11","permalink":"public/agile"}}
 ---
 
 

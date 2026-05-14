@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tpc-2-2/","hide":true,"tags":["project/tpc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/tpc-2-2/","hide":true,"tags":["project/tpc"],"noteIcon":"","updated":"2025-12-05T07:59:25.873+00:00","dg-note-properties":{"tags":["project/tpc"],"start":"2024-10-03","due":"2024-10-31","scheduled":"","prev":"[[TPC2.1]]","state":"done","up":["[[TPC2.0]]"],"created":"2025-01-09T09:42","updated":"2025-03-17T20:02"}}
 ---
 
 

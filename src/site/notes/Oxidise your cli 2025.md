@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oxidise-your-cli-2025/","hide":true,"tags":["project"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/oxidise-your-cli-2025/","hide":true,"tags":["project"],"noteIcon":"","updated":"2025-09-22T08:00:23.000+01:00","dg-note-properties":{"created":"2025-05-09T07:48","updated":"2025-05-24T19:26","start":"2025-05-12","due":"2025-05-23","up":["[[No Boilerplate Index]]"],"scheduled":"2025-05-12","tags":["project"],"state":"done"}}
 ---
 
 

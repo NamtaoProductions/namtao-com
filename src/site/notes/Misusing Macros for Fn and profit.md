@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misusing-macros-for-fn-and-profit/","tags":["project/nb"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/misusing-macros-for-fn-and-profit/","tags":["project/nb"],"noteIcon":"","updated":"2025-12-23T20:49:14.000+00:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"scheduled":"2025-11-17","written":"2025-10-03","published":"2025-10-13","due":"2025-11-21","tags":["project/nb"],"state":"done","recorded":"2025-10-13"}}
 ---
 
 

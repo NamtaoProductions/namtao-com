@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/async-isn-t-real-and-can-t-hurt-you/","tags":["project/nb"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/async-isn-t-real-and-can-t-hurt-you/","tags":["project/nb"],"noteIcon":"","updated":"2025-09-22T08:00:08.000+01:00","dg-note-properties":{"start":"2025-04-03","due":"2025-07-16","up":["[[No Boilerplate Index]]"],"created":"2025-04-03T11:16","updated":"2025-04-03T11:20","aliases":[],"tags":["project/nb"],"state":"done","scheduled":"2025-04-03"}}
 ---
 
 

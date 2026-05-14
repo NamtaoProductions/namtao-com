@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lost-terminal/season-16-0/lt-season-16-0/","tags":["project/lt"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/lost-terminal/season-16-0/lt-season-16-0/","tags":["project/lt"],"noteIcon":"","updated":"2025-06-27T08:48:09.000+01:00","dg-note-properties":{"longform":{"format":"scenes","title":"lt16-longform","workflow":"LT Episode","sceneFolder":"/","scenes":["LT16.4"],"sceneTemplate":"templates/LT.md","ignoredFiles":["Season 16","LT16.1","LT16.2","LT16.3","LT16.4","season-16-network-artwork","season-16-network-diagram.excalidraw","terminal","lt16-longform - script","lt16-longform - terminal","LT16.6","LT16.5"]},"state":"done","area":"LT","due":"2024-06-03","category":"Project","aat-event-start-date":"2181-04-17T00:00:00","aat-event-end-date":"2181-04-18T10:00:00","aat-render-enabled":true,"timelines":["lt-16-timeline","lt"],"summary":"Yeshi Asks Seth what the weather will be in Longyearbyen when they make port in X days. Over 10 seconds he talks at light speed to his whole network to figure out the answer to the question, and discovers many stories about his AI friends.","up":["[[Lost Terminal]]"],"created":"2025-02-23T16:18","updated":"2025-04-05T16:56","tags":["project/lt"],"prev":["[[LT Season 15.0]]"],"cover_image":"[[lt16 logo.png]]"}}
 ---
 
 

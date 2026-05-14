@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hack-your-brain-with-powerlifting/","hide":true,"tags":["project/nb"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/hack-your-brain-with-powerlifting/","hide":true,"tags":["project/nb"],"noteIcon":"","updated":"2026-01-23T15:39:22.000+00:00","dg-note-properties":{"start":"2025-12-21","due":"2026-02-12","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","titles":["Hack Your Brain With Powerlifting","Powerlifting for Programmers","Powerlifting Engineering"],"modified":"2026-01-23T15:21:57.970+00:00"}}
 ---
 
 

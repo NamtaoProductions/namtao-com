@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/the-phosphene-catalogue/tpc-1-1/","hide":true,"tags":["Episodes"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/projects/the-phosphene-catalogue/tpc-1-1/","hide":true,"tags":["Episodes"],"noteIcon":"","updated":"2025-08-12T09:19:39.000+01:00","dg-note-properties":{"tags":["Episodes"],"aat-render-enabled":true,"aat-event-start-date":"1976-07-20","timelines":["tpc"],"state":"done","area":"personal","start":"2024-01-16","due":"2024-01-18","category":"Project","focus":false,"up":["[[TPC1.0]]"],"created":"2025-01-06T08:53","updated":"2025-05-16T09:17"}}
 ---
 
 # Episode 1.1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"errata","permalink":"/errata/","hide":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"errata","permalink":"/errata/","hide":true,"noteIcon":"","updated":"2025-06-24T08:26:37.000+01:00","dg-note-properties":{}}
 ---
 
 

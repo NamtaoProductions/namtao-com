@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-for-learning/","tags":["project/nb"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/obsidian-for-learning/","tags":["project/nb"],"noteIcon":"","updated":"2025-10-12T11:00:11.000+01:00","dg-note-properties":{"scheduled":"2025-08-07","written":"2025-09-03","published":"2025-09-04","due":"2025-09-05","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","aliases":["Hacking Your Education With Obsidian.md"],"recorded":"2025-09-15"}}
 ---
 
 
@@ -108,7 +108,7 @@ If you have 20 minutes rather than 20 seconds, watch my 2 previous videos on Obs
 
 The foundation of every obsidian system is links.
 In Obsidian, you link to pages by surrounding them with `[[square brackets]]` such as: School or Social.
-If the page doesn't exist (like [[Quantum Mechanics]]) Obsidian will dim the link, but it will also index it and allow you to autocomplete future links to this as-yet uncreated page.
+If the page doesn't exist (like [[Quantum Mechanics\|Quantum Mechanics]]) Obsidian will dim the link, but it will also index it and allow you to autocomplete future links to this as-yet uncreated page.
 If you follow the link, Obsidian CREATES that page, and now all those other links are real.
 This is very handy while you're building notes on a wide subject area that you know you will want to drill down into subsections, you can easily see where gaps in your knowledge are later on.
 

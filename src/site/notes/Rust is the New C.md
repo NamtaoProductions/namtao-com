@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust-is-the-new-c/","hide":true,"tags":["project"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/rust-is-the-new-c/","hide":true,"tags":["project"],"noteIcon":"","updated":"2025-07-28T07:18:21.000+01:00","dg-note-properties":{"created":"2025-02-21T11:46","updated":"2025-05-22T07:45","start":"2025-02-24","written":null,"due":"","published":null,"up":["[[Projects]]"],"scheduled":null,"tags":["project"],"state":"done"}}
 ---
 
 

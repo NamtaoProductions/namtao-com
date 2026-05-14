@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"public/dotool-midi","permalink":"/public/dotool-midi/","hide":true,"tags":["midi","music","automation","linux","keyboard"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"public/dotool-midi","permalink":"/public/dotool-midi/","hide":true,"tags":["midi","music","automation","linux","keyboard"],"noteIcon":"","updated":"2026-02-19T07:23:05.928+00:00","dg-note-properties":{"up":["[[Linux]]"],"tags":["midi","music","automation","linux","keyboard"],"created":"2025-01-07T17:27","updated":"2025-05-16T09:19"}}
 ---
 
 ## Find out the Names of Connected Midi Devices

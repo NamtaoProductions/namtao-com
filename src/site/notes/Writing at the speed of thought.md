@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing-at-the-speed-of-thought/","hide":true,"tags":["project/nb"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/writing-at-the-speed-of-thought/","hide":true,"tags":["project/nb"],"noteIcon":"","updated":"2025-09-22T08:00:35.000+01:00","dg-note-properties":{"created":"2025-01-27T08:53","updated":"2025-05-24T16:16","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"scheduled":"2025-04-07","due":"2025-04-30","state":"done","alternate titles":["Writing at the speed of thought","Vim Everywhere"]}}
 ---
 
 

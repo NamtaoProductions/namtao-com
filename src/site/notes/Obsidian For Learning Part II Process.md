@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-for-learning-part-ii-process/","tags":["project/nb"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/obsidian-for-learning-part-ii-process/","tags":["project/nb"],"noteIcon":"","updated":"2026-03-29T12:51:03.063+01:00","dg-note-properties":{"start":"2026-01-16","due":"2026-02-27","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2025-12-16T08:00:23.931+00:00"}}
 ---
 
 

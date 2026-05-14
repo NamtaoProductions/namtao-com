@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/the-phosphene-catalogue/tpc-1-5/","hide":true,"tags":["Episodes"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/projects/the-phosphene-catalogue/tpc-1-5/","hide":true,"tags":["Episodes"],"noteIcon":"","updated":"2025-08-12T09:19:40.000+01:00","dg-note-properties":{"tags":["Episodes"],"state":"done","area":"TPC","start":"2024-02-29","due":"2024-03-14","category":"Project","focus":false,"up":["[[TPC1.0]]"],"prev":["[[TPC1.4]]"],"created":"2025-01-06T08:53","updated":"2025-05-16T09:18"}}
 ---
 
 # Episode 1.5
