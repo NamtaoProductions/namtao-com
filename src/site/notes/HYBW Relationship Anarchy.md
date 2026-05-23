@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T15:51:15.554+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T16:18:05.758+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
 ---
 
 
@@ -924,6 +924,16 @@ _I'm producing the following RIGHT NOW:_
 ![image:width:90%](/img/user/Resources/Meta/attachments/decapsulate-logo-large.jpg)
 
 
+
+ ---
+
+[^1]: https://en.wikipedia.org/wiki/Amatonormativity
+[^2]: https://thethinkingasexual.wordpress.com/2016/06/06/relationship-anarchy-is-not-about-sex-or-polyamory/
+
+- Radical Intimacy by Sophie K. Rosa
+- Relationship Anarchy: Occupy Intimacy! by Juan-Carlos Pérez-Cortés
+- https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy
+- LOADS MORE HERE: https://theanarchistlibrary.org/category/topic/relationship-anarchy
 
 ---
  
