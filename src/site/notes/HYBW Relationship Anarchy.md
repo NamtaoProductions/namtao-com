@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T15:06:16.795+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T15:41:43.953+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
 ---
-
 
 
 
@@ -23,54 +22,6 @@
     These might seem like common sense, but society actually has VERY specific ideas about which relationships are more important than others.
     And as anyone who has learned chemistry after high school will tell you, sometimes you have to unlearn everything you had been taught for your entire life to improve.
     Relationship Anarchy provides an alternative lens for us here, but first we must ask ourselves, do we know what anarchy is?
-
-
-
----
-
-
-
-![image:width:40%](/img/user/Resources/Meta/attachments/cc-zero-2k.png)
-
-## PUBLIC DOMAIN VIDEOS
-
-
-
-> [!NOTE] &nbsp;Notes
-> - For all `links`, read my scripts at www.namtao.com
-> - All footnotes<sup>0</sup> are in the video description.
-
-
-
-
-
-
-![image:width:100%](/img/user/Resources/Meta/attachments/white-logo.png)
-
-
-
-
-
-
-I dedicate my video scripts to the public domain.
-
-Everything you see here: script, links, and images are part of a Markdown document available freely on my website, namtao.com, and github.
-
----
-
-
-# `WARNING: POLITICS`
-
-(boo!)
-
-
-
-    I have a deal for you:
-    You forgive me for sneaking politics into my video, and
-    I promise to speed through the political theory SO FAST
-    that it'll, most likely, be factually wrong.
-    Deal?
-    OK HERE WE GO
 
 
 
@@ -130,13 +81,15 @@ in our _interpersonal relationships_
 
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/anarc.png)
+"NO GODS, NO MASTERS"
 
+
+vs
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
 
 
 
 
-"NO GODS, NO MASTERS"
 
 
 "OH GOD, YES MASTER"
@@ -183,7 +136,7 @@ _(ie "easy mode")_
 
 
 ---
-Tool #1:
+Tool # 1:
 ## `THE RELATIONSHIP ESCALATOR`
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/relationship-escalator-illustration-nick-roberts.png)
@@ -219,12 +172,6 @@ _"He's not asked you to marry him yet? What a time-waster!"_
 
 `well-meaning friends`
 
-
-
-    _"He's not asked you to marry him yet? What a time-waster!"_
-
-
-
 ---
 
 
@@ -232,12 +179,6 @@ _"He's not asked you to marry him yet? What a time-waster!"_
 _"You guys aren't exclusive? You're obviously not serious about each other."_
 
 `less-well-meaning friends`
-
-
-
-    _"You guys aren't exclusive? You're obviously not serious about each other."_
-
-
 
 ---
 
@@ -247,12 +188,6 @@ _"You've been married for 5 years, WHERE ARE MY GRANDCHILDREN?"_
 
 
 `well-meaning parents`
-
-
-
-    _"You've been married for 5 years, WHERE ARE MY GRANDCHILDREN?"_
-
-
 
 ---
 
@@ -270,7 +205,7 @@ _(at least that's what people _say_...)"_
 
 
 
-    AND EVEN: "I go on too many dates, but I can't make them stay. At least that's what people say." TAYLOR, darling, who are these "people"? Blink twice if you're under duress.
+    TAYLOR, darling, who are these "people"? Blink twice if you're under duress.
 
 
 
@@ -306,21 +241,15 @@ _(at least that's what people _say_...)"_
 
 
 
-![image:width:30%](/img/user/Resources/Meta/attachments/patreon.png)
+It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure. Please consider my Patreon, especially if you'd like more videos like this, as queer topics are often demonetised here on YouTube.
+
 ## PATREON.COM/NOBOILERPLATE
 
 - 📼 Early, longer, and more detailed videos
 - 👨‍🏫 1:1 Mentoring over video chat. Email: mentoring@namtao.com
 - ❤️ My infinite gratitude for allowing me to continue making these videos
 
-
-
-
-It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure. Please consider my Patreon, especially if you'd like more videos like this, as queer topics are often demonetised here on YouTube.
-
-If you'd like to see and give feedback on my videos up to a week early, as well as get private discord access, and even your name in the credits, it would be very kind of you to check my Patreon.
-
-I also offer regular mentoring. If you'd like 1:1 tuition on ADHD & autism, personal organisation, programming, creative production, or anything that I talk about in my videos, do sign up and let's chat!
+Thank you! Onward:
 
 ---
 
@@ -390,6 +319,7 @@ Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 
     The point is, society had a LOT to say about Romeo & Juliet's relationship, but none of it actually helped them.
     The lesson is clear: WE MUST TALK TO THE PEOPLE WE ARE IN RELATIONSHIPS WITH, not just make assumptions.
+    Because:
 
 
 
@@ -402,8 +332,6 @@ Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 
 
 
-    traditional coupling can be harmful
-    
     When we're in love with someone, especially at the start, the romance can feel all-encompassing: This special someone seems to be all we're talking about and thinking about, isn't it good to pour all of our effort and expectations into this person?
     Just as we have heard people do in every story ever written?
     
@@ -863,20 +791,16 @@ THIS IS TOO MUCH
 
 Quote from: thethinkingasexual.wordpress.com[^2]
 
+RA IS ABOUT OPTIMISING FRIENDSHIPS
+There's no escalator for friendships because society, in general doesn't place importance on them.
+Sex sells but friendships don't.
+Isn't that sad?
+acexual and aromantic people suffer hugely from this depriotisation of friendships - take away friends and what is left?
 
+As The Thinking Aro says:
 
-    RA IS ABOUT OPTIMISING FRIENDSHIPS
-    There's no escalator for friendships because society, in general doesn't place importance on them.
-    Sex sells but friendships don't.
-    Isn't that sad?
-    acexual and aromantic people suffer hugely from this depriotisation of friendships - take away friends and what is left?
-
-    As The Thinking Aro says:
-
-    "relationship anarchy is fundamentally about community, as much as monogamous and polyamorous lifestyles are fundamentally about the couple.
-    That doesn’t mean couples can’t exist in relationship anarchy, but it does mean that the focus of a relationship anarchist’s life and emotional energy is not a couple relationship by default, the way it is for monogamists and polyamorists."
-
-
+> "relationship anarchy is fundamentally about community, as much as monogamous and polyamorous lifestyles are fundamentally about the couple.
+> That doesn’t mean couples can’t exist in relationship anarchy, but it does mean that the focus of a relationship anarchist’s life and emotional energy is not a couple relationship by default, the way it is for monogamists and polyamorists."
 
 ---
 
@@ -915,8 +839,6 @@ _"You have no family. You don't even have a dog."_
 
 
 
-
-
 1. Love is abundant, and every relationship is unique
 2. Love and respect instead of entitlement
 3. Find your core set of relationship values
@@ -932,7 +854,6 @@ _"You have no family. You don't even have a dog."_
 
 
 From *"The short instructional manifesto for relationship anarchy"*, Andie Nordgren
-
 
 
 
@@ -963,39 +884,38 @@ _I'm producing the following RIGHT NOW:_
 
 
 
-`LOST TERMINAL`
+[[Lost Terminal/Lost Terminal Home\|Lost Terminal]]
 - Near-future Sci-fi
 - Hopepunk / Solarpunk
 - _Extremely British_
 
 
 
-`MODEM PROMETHEUS`
+[[Modem Prometheus Home\|Modem Prometheus]]
 - Contemporary Urban Fantasy
 - Technology blended with magic
 - _Extremely British_
 
 
 
-![image:width:90%](/img/user/Resources/Meta/attachments/LT1-logo.png)
 
-![image:width:90%](/img/user/Resources/Meta/attachments/modem-prometheus-branding-final-2k.jpg)
-
-
-
-`PHOSPHENE CATALOGUE`
+[[Projects/The Phosphene Catalogue/The Phosphene Catalogue Home\|The Phosphene Catalogue]]
 - 1976 Urban Fantasy
 - Magical artwork
 - _Extremely British_
 
 
 
-`DECAPSULATE`
+[[Decapsulate Home\|Decapsulate]]
 
 - Non-fiction(!)
 - Discussion
 - Robin & I unpack NB's technical topics
 - _Extremely British_
+
+![image:width:90%](/img/user/Resources/Meta/attachments/LT1-logo.png)
+
+![image:width:90%](/img/user/Resources/Meta/attachments/modem-prometheus-branding-final-2k.jpg)
 
 
 
@@ -1004,21 +924,6 @@ _I'm producing the following RIGHT NOW:_
 ![image:width:90%](/img/user/Resources/Meta/attachments/decapsulate-logo-large.jpg)
 
 
-
----
-
-
-
-If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
-
-If you're interested in transhumanism and hopepunk, please check out my weekly sci-fi audiofiction podcast, Lost Terminal.
-
-If you like urban fantasy, I produce a wonderful podcast called Modem Prometheus.
-I just finished Season 3 of The Phosphene Catalogue, if you like mysteries and art, check it out!
-
-Transcripts and compile-checked markdown sourcecode are available on namtao.com and github, links in the description, and corrections are in the pinned ERRATA comment.
-
-Thank you so much for watching, talk to you on Discord.
 
 ---
  
