@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T15:41:43.953+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T15:51:15.554+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
 ---
 
 
@@ -241,7 +241,7 @@ _(at least that's what people _say_...)"_
 
 
 
-It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure. Please consider my Patreon, especially if you'd like more videos like this, as queer topics are often demonetised here on YouTube.
+Please consider my Patreon, especially if you'd like more videos like this, as queer topics are often demonetised here on YouTube.
 
 ## PATREON.COM/NOBOILERPLATE
 
