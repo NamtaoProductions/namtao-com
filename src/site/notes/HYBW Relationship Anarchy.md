@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T16:18:05.758+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T17:32:05.623+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
 ---
 
 
@@ -13,7 +13,7 @@
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
 
-# `RELATIONSHIP ANARCHY`
+# RELATIONSHIP ANARCHY`
 
 
 
@@ -27,7 +27,7 @@
 
 ---
 
-## `WHAT IS ANARCHY?`
+## WHAT IS ANARCHY?`
 
 ![image:width:20%](/img/user/Resources/Meta/attachments/anarc.png)
 
@@ -55,7 +55,7 @@ in our _political process_
 
 
 ---
-## `WHAT IS RELATIONSHIP ANARCHY?`
+## WHAT IS RELATIONSHIP ANARCHY?`
 
 ![image:width:20%](/img/user/Resources/Meta/attachments/ra.png)
 
@@ -109,8 +109,8 @@ vs
 
 
 FULL DISCLOSURE:
-## `I'M A STRAIGHT WHITE CIS MAN`
-## `IN A HETEROSEXUAL MARRIAGE`
+## I'M A STRAIGHT WHITE CIS MAN`
+## IN A HETEROSEXUAL MARRIAGE`
 
 _(ie "easy mode")_
 
@@ -125,7 +125,7 @@ _(ie "easy mode")_
 ---
 
 
-# `AMATONORMATIVITY`
+# AMATONORMATIVITY`
 (the societal assumption that everyone prospers with one exclusive romantic relationship[^1])
 
 
@@ -137,7 +137,7 @@ _(ie "easy mode")_
 
 ---
 Tool # 1:
-## `THE RELATIONSHIP ESCALATOR`
+## THE RELATIONSHIP ESCALATOR`
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/relationship-escalator-illustration-nick-roberts.png)
 
@@ -255,8 +255,8 @@ Thank you! Onward:
 
 
 
-## `SOME BAD RELATIONSHIPS`
-# `IN STORIES`
+## SOME BAD RELATIONSHIPS`
+# IN STORIES`
 
 
 
@@ -327,8 +327,8 @@ Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 
 
 
-# `TRADITIONAL COUPLING`
-# `CAN BE HARMFUL?`
+# TRADITIONAL COUPLING`
+# CAN BE HARMFUL?`
 
 
 
@@ -342,7 +342,7 @@ Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 ---
 
 TOOL #2:
-## `THE SMORGASBORD`
+## THE SMORGASBORD`
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/smorgasboard-swedish.png)
 
@@ -784,7 +784,7 @@ THIS IS TOO MUCH
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
 
 
-## `OPTIMISING FRIENDSHIPS`
+## OPTIMISING FRIENDSHIPS`
 
 
 
@@ -804,7 +804,7 @@ As The Thinking Aro says:
 
 ---
 
-## `PROJECT HAIL MARY`
+## PROJECT HAIL MARY`
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/hail-mary-eva-stratt.png)
 
@@ -818,7 +818,7 @@ _"You have no family. You don't even have a dog."_
 
 ---
 
-# `REALITY CHECK`
+# REALITY CHECK`
 
 
 
@@ -833,7 +833,7 @@ _"You have no family. You don't even have a dog."_
 
 ---
 
-# `DON'T GUESS: TALK`
+# DON'T GUESS: TALK`
 
 
 
