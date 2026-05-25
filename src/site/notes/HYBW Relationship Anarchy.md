@@ -290,7 +290,7 @@ Thank you! Onward:
 
 
 
-    Poor stupid kristof knew that society would judge Ana's possible future relationship with her possible future price husband as more important than his, a mere peasant's, love
+    Poor stupid kristof knew that society would judge Ana's possible future relationship with her possible future prince husband as more important than his, a mere peasant's, love
 
 
 
