@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-05-03T10:36:32.454+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-05-25T17:24:08.001+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -21,6 +21,7 @@ rayon = "1.11.0"
 serde = { version = "*", features = ["derive"] }
 ```
 
+And I dig running tests with https://nexte.st/
 ## Strict Lints
 
 > These lints do two things:
