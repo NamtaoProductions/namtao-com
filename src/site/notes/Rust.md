@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-06-02T07:23:53.997+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-06-02T07:26:26.989+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -130,13 +130,3 @@ where W: Walk {
 
 Good stuff here: https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md#scope
 
-
-test:
-
-
-> [!col]
-> one
-> 
-> two
-> 
-> three
