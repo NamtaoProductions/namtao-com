@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"empire","permalink":"/empire/","noteIcon":"","updated":"2026-06-05T13:21:21.273+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"empire","permalink":"/empire/","noteIcon":"","updated":"2026-06-05T13:23:04.853+01:00","dg-note-properties":{}}
 ---
 
 ![empire-larp-3-2048x1024.jpg](/img/user/Resources/Meta/attachments/empire-larp-3-2048x1024.jpg)
@@ -45,7 +45,6 @@
     - https://www.profounddecisions.co.uk/empire-wiki/Costume
 - Conduct rules
     - https://www.profounddecisions.co.uk/empire-wiki/Conduct
-# Good Videos
 ## What's Empire Like?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XYPAs0_vR5Q?si=jRIiQ7DiKitWnJ0B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
