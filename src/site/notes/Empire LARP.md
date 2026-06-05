@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"empire","permalink":"/empire/","noteIcon":"","updated":"2026-06-05T13:10:55.871+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"empire","permalink":"/empire/","noteIcon":"","updated":"2026-06-05T13:11:34.300+01:00","dg-note-properties":{}}
 ---
 
 ![empire-larp-3-2048x1024.jpg](/img/user/Resources/Meta/attachments/empire-larp-3-2048x1024.jpg)
@@ -48,5 +48,7 @@
 ## What Will You Need?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YM_coaPjkK4?si=6mRE4ufFcLAREpbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# Pix
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/55919472@N00/albums/72177720316702083" title="Empire LARP E1 2024"><img src="https://live.staticflickr.com/65535/53698249918_9134d9e7d9_h.jpg" width="1600" height="1200" alt="Empire LARP E1 2024"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 # Map
 ![](https://www.profounddecisions.co.uk/mediawiki-public/images/thumb/1/15/Steeplechase2026-1.png/1448px-Steeplechase2026-1.png)
