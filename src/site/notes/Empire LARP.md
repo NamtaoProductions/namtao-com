@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"empire","permalink":"/empire/","noteIcon":"","updated":"2026-06-05T13:15:25.225+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"empire","permalink":"/empire/","noteIcon":"","updated":"2026-06-05T13:19:48.781+01:00","dg-note-properties":{}}
 ---
 
 ![empire-larp-3-2048x1024.jpg](/img/user/Resources/Meta/attachments/empire-larp-3-2048x1024.jpg)
+
+> [Empire](https://www.profounddecisions.co.uk/empire-wiki/The_game) is a 16C-themed glamping sandbox LARP that runs for 4 times a year just outside Cambridge, UK.
+> Players choose the kind of character they want to play based on what they want to do in the game (anything from combat to politics, to setting up a for-real tavern!), and are free to be involved in as much or as little of the game as suits them.
+
 ## Info
 - Largest LARP in Europe, over 4000 people camp over the weekend
     - More than a Roman legion!
