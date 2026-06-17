@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":"","updated":"2026-01-20T08:37:33.719+00:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-20T07:10","updated":"2025-05-16T09:28","title":"Lost Terminal"}}
+{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":"","updated":"2026-06-17T07:48:25.288+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-20T07:10","updated":"2025-05-16T09:28","title":"Lost Terminal"}}
 ---
 
 
@@ -55,10 +55,11 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[StoryLine/Lost Terminal/Codex/Characters/Bay Langley\|Bay Langley]]                 | \-                                          |
 | [[StoryLine/Lost Terminal/Codex/Characters/Carma Sah\|Carma Sah]]                     | School Principle                            |
 | [[StoryLine/Lost Terminal/Codex/Characters/Dr Boldt\|Dr Boldt]]                       | Cruel psychologist                          |
-| [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]                   | Programmer                                  |
+| [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]                   | programmer                                  |
 | [[StoryLine/Lost Terminal/Codex/Characters/Ezekiel Frangoulis\|Ezekiel Frangoulis]]   | Excitable student                           |
 | [[StoryLine/Lost Terminal/Codex/Characters/Freja from Horns\|Freja from Horns]]       | fisher                                      |
 | [[StoryLine/Lost Terminal/Codex/Characters/Geraldo Ko\|Geraldo Ko]]                   | Chemistry teacher                           |
+| [[StoryLine/Lost Terminal/Codex/Characters/Heaton\|Heaton]]                           | scout                                       |
 | [[StoryLine/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]                   | radio ham                                   |
 | [[StoryLine/Lost Terminal/Codex/Characters/James Li\|James Li]]                       | caring ai scientist                         |
 | [[StoryLine/Lost Terminal/Codex/Characters/Jenny Noll\|Jenny Noll]]                   | retired bard                                |
@@ -72,6 +73,7 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[StoryLine/Lost Terminal/Codex/Characters/LUNA\|LUNA]]                               | journalist                                  |
 | [[StoryLine/Lost Terminal/Codex/Characters/Lyosha Omarov\|Lyosha Omarov]]             | explorer                                    |
 | [[StoryLine/Lost Terminal/Codex/Characters/Maddie\|Maddie]]                           | satalite maintenance scutter                |
+| [[maddies-s22-friend\|maddies-s22-friend]]                                            | Rocky from PHM                              |
 | [[StoryLine/Lost Terminal/Codex/Characters/Mathilde from Horns\|Mathilde from Horns]] | fisher                                      |
 | [[StoryLine/Lost Terminal/Codex/Characters/Mato Valdemar\|Mato Valdemar]]             | fishingboat captain                         |
 | [[StoryLine/Lost Terminal/Codex/Characters/Nia Andersen\|Nia Andersen]]               | repeaterkeeper                              |
@@ -128,6 +130,18 @@ However, Lost Terminal would not be what it is today without these people, who I
 - Pṛthvī Mātā voiced by Carin Calder-La Croix
 - [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]] voiced by Amos Wenger
 - [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] voiced by Robin Winslow
+
+| Character                                                                      | Voice                             |
+| ------------------------------------------------------------------------------ | --------------------------------- |
+| [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]         | [[Gina Sneezby\|Gina Sneezby]] |
+| [[StoryLine/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]         | Alex Bayly                        |
+| [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]         | [[Amos Wenger\|Amos Wenger]]      |
+| [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] | Robin Winslow                     |
+| [[StoryLine/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]     | Nils Brobakk                      |
+| [[StoryLine/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]   | Robin Howell                      |
+
+{ .block-language-dataview}
+
 ## Character Concepts
 Occasionally friends and patrons suggest ideas to me, and sometimes I include them! (after some modification). If you are a patron, look [here](https://www.patreon.com/posts/52133497) for how your character ideas can be included in Lost Terminal.
 
