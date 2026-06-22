@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-06-02T07:26:26.989+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-06-22T08:37:43.346+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -57,6 +57,7 @@ Also here's an 80% of the above as a one-liner:
 cargo clippy -- -D clippy::pedantic -D clippy::nursery
 ```
 
+I also dig what is written here: https://emschwartz.me/your-clippy-config-should-be-stricter/
 ## Rust Devenv
 
 > Here's a reasonable [devenv.nix](https://devenv.sh)
@@ -129,4 +130,3 @@ where W: Walk {
 ```
 
 Good stuff here: https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md#scope
-
