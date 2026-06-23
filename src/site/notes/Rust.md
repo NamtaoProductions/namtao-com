@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-06-22T08:37:43.346+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-06-23T18:28:38.016+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -121,7 +121,7 @@ fn walk_pet<W: Walk>(pet: &mut W) {
     pet.walk();
 }
 ```
-is equivilant to
+is equivalant to
 ```rust
 fn walk_pet<W>(pet: &mut W)
 where W: Walk {
