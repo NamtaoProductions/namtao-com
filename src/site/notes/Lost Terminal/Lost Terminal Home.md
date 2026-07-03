@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":"","updated":"2026-06-17T07:48:25.288+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-20T07:10","updated":"2025-05-16T09:28","title":"Lost Terminal"}}
+{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","hide":true,"tags":["index"],"noteIcon":"","updated":"2026-06-17T07:49:38.000+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-20T07:10","updated":"2025-05-16T09:28","title":"Lost Terminal"}}
 ---
 
 
@@ -59,7 +59,7 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[StoryLine/Lost Terminal/Codex/Characters/Ezekiel Frangoulis\|Ezekiel Frangoulis]]   | Excitable student                           |
 | [[StoryLine/Lost Terminal/Codex/Characters/Freja from Horns\|Freja from Horns]]       | fisher                                      |
 | [[StoryLine/Lost Terminal/Codex/Characters/Geraldo Ko\|Geraldo Ko]]                   | Chemistry teacher                           |
-| [[StoryLine/Lost Terminal/Codex/Characters/Heaton\|Heaton]]                           | scout                                       |
+| [[StoryLine/Lost Terminal/Codex/Characters/Heaton\|Heaton]]                           | gardener                                    |
 | [[StoryLine/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]                   | radio ham                                   |
 | [[StoryLine/Lost Terminal/Codex/Characters/James Li\|James Li]]                       | caring ai scientist                         |
 | [[StoryLine/Lost Terminal/Codex/Characters/Jenny Noll\|Jenny Noll]]                   | retired bard                                |

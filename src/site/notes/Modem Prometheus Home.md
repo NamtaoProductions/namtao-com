@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mp","permalink":"/mp/","tags":["index","project"],"noteIcon":"","updated":"2026-06-02T08:11:13.654+01:00","dg-note-properties":{"up":["[[Podcasts]]"],"tags":["index","project"],"created":"2025-01-20T07:10","updated":"2025-05-31T08:05","start":"2025-03-10","due":"2025-03-10","scheduled":"2025-03-10","state":"ongoing","vf_icon":"🌆"}}
+{"dg-publish":true,"dg-path":"mp","permalink":"/mp/","tags":["index","project"],"noteIcon":"","updated":"2026-06-02T08:11:13.000+01:00","dg-note-properties":{"up":["[[Podcasts]]"],"tags":["index","project"],"created":"2025-01-20T07:10","updated":"2025-05-31T08:05","start":"2025-03-10","due":"2025-03-10","scheduled":"2025-03-10","state":"ongoing","vf_icon":"🌆"}}
 ---
 
 ![modem-prometheus-branding-final-512.png\|200](/img/user/Resources/Meta/attachments/modem-prometheus-branding-final-512.png)

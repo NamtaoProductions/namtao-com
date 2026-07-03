@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","updated":"2026-01-20T08:40:38.837+00:00","dg-note-properties":{"tags":["project/tpc","TPC","episode"],"start":"2024-12-12","due":"2025-01-23","up":["[[TPC2.0]]"],"scheduled":"2024-12-30","prev":"[[TPC2.6]]","state":"done","groups":["TPC","TPC2.0","episode"],"recorded":"2025-01-07","written":"2025-01-07","published":"2025-01-09","created":"2025-01-22T20:13","updated":"2025-03-18T07:16"}}
+{"dg-publish":true,"permalink":"/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","updated":"2026-01-20T08:40:38.000+00:00","dg-note-properties":{"tags":["project/tpc","TPC","episode"],"start":"2024-12-12","due":"2025-01-23","up":["[[TPC2.0]]"],"scheduled":"2024-12-30","prev":"[[TPC2.6]]","state":"done","groups":["TPC","TPC2.0","episode"],"recorded":"2025-01-07","written":"2025-01-07","published":"2025-01-09","created":"2025-01-22T20:13","updated":"2025-03-18T07:16"}}
 ---
 
 

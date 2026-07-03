@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-23T17:35:41.403+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"writing"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-03T13:34:43.700+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 
@@ -12,6 +12,8 @@
 ---
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
+
+
 
 # RELATIONSHIP ANARCHY
 
@@ -32,6 +34,7 @@
 ![image:width:20%](/img/user/Resources/Meta/attachments/anarc.png)
 
 Abolish:
+
 - authority
 - coercion
 - hierarchy
@@ -43,23 +46,25 @@ in our _political process_
 
 
     > Political Anarchism is a philosophy and movement that seeks to abolish authority, coercion, and hierarchy in our political process.
-    
+
     Political anarchy questions inherent hierarchies in society:
     - kings and subjects
     - lords and serfs
     - bosses / eployees
     - rich / poor
-    
+
     Asking especially why having some people in power over other people is so highly valued in our society.
 
 
 
 ---
+
 ## WHAT IS RELATIONSHIP ANARCHY?
 
 ![image:width:20%](/img/user/Resources/Meta/attachments/ra.png)
 
 Abolish:
+
 - authority
 - coercion
 - hierarchy
@@ -69,7 +74,7 @@ in our _interpersonal relationships_
 
 
     > Relationship Anarchism is a philosophy that seeks to abolish authority, coercion, and hierarchy in interpersonal relationships.
-    
+
     Relationship Anarchy questions inherent hierarchies in our relationships, especially why romantic relationships are so highly valued in our society over all other kinds.
 
 
@@ -80,12 +85,16 @@ in our _interpersonal relationships_
 
 
 
+
+
 ![image:width:100%](/img/user/Resources/Meta/attachments/anarc.png)
 "NO GODS, NO MASTERS"
 
 
+
 vs
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
+
 
 
 
@@ -109,7 +118,9 @@ vs
 
 
 FULL DISCLOSURE:
+
 ## I'M A STRAIGHT WHITE CIS MAN
+
 ## IN A HETEROSEXUAL MARRIAGE
 
 _(ie "easy mode")_
@@ -125,7 +136,9 @@ _(ie "easy mode")_
 ---
 
 
+
 # AMATONORMATIVITY
+
 (the societal assumption that everyone prospers with one exclusive romantic relationship[^1])
 
 
@@ -136,7 +149,9 @@ _(ie "easy mode")_
 
 
 ---
+
 Tool # 1:
+
 ## THE RELATIONSHIP ESCALATOR
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/relationship-escalator-illustration-nick-roberts.png)
@@ -159,7 +174,7 @@ Tool # 1:
     - Retire
     - Die
     It's called an "Escalator" because once you're on the bottom step, you are pulled UP by society, even if you're very comfortable where you are, thank you very much. Or perhaps you'd like to slow down, or return to a previous, comfortable, level, without breaking up and starting all over again, at the bottom.
-    
+
     This metophor is genius, because if you ever try to walk down an 'up' escalator, you don't just have to fight against the will of the machine, but all the people who protest as you push past them, who are saying things like:
 
 
@@ -168,7 +183,10 @@ Tool # 1:
 
 
 
+
 _"He's not asked you to marry him yet? What a time-waster!"_
+
+
 
 `well-meaning friends`
 
@@ -176,7 +194,10 @@ _"He's not asked you to marry him yet? What a time-waster!"_
 
 
 
+
 _"You guys aren't exclusive? You're obviously not serious about each other."_
+
+
 
 `less-well-meaning friends`
 
@@ -184,7 +205,9 @@ _"You guys aren't exclusive? You're obviously not serious about each other."_
 
 
 
+
 _"You've been married for 5 years, WHERE ARE MY GRANDCHILDREN?"_
+
 
 
 `well-meaning parents`
@@ -198,7 +221,8 @@ _"I go on too many dates_
 
 _but I can't make them stay._
 
-_(at least that's what people _say_...)"_
+_(at least that's what people \_say_...)"\_
+
 
 
 `T. SWIFT, WARRIOR-POET`
@@ -213,15 +237,17 @@ _(at least that's what people _say_...)"_
 
 
 
-*\[Two little lovebirds\] sitting in a tree*
+_\[Two little lovebirds\] sitting in a tree_
 
-*K-I-S-S-I-N-G!*
+_K-I-S-S-I-N-G!_
 
-*First comes love*
+_First comes love_
 
-*Then comes marriage*
+_Then comes marriage_
 
-*Then comes baby in a baby carriage!*
+_Then comes baby in a baby carriage!_
+
+
 
 
 `Traditional nursery rhyme`
@@ -256,6 +282,7 @@ Thank you! Onward:
 
 
 ## SOME BAD RELATIONSHIPS
+
 # IN STORIES
 
 
@@ -269,6 +296,8 @@ Thank you! Onward:
 ![image:width:100%](/img/user/Resources/Meta/attachments/edward-bella-jacob.png)
 
 (& JACOB)
+
+
 
 
 # BELLA & EDWARD
@@ -286,11 +315,12 @@ Thank you! Onward:
 
 
 
+
 # ANA & KRISTOF
 
 
 
-    Poor stupid kristof knew that society would judge Ana's possible future relationship with her possible future price husband as more important than his, a mere peasant's, love
+    Poor stupid kristof knew that society would judge Ana's possible future relationship with her possible future prince husband as more important than his, a mere peasant's, love
 
 
 
@@ -299,6 +329,7 @@ Thank you! Onward:
 ![image:width:100%](/img/user/Resources/Meta/attachments/romeo-juliet-baz.png)
 
 Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
+
 
 
 
@@ -311,6 +342,7 @@ Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 
 
 ---
+
 ![image:width:100%](/img/user/Resources/Meta/attachments/randj-baz-juliet-candles.png)
 
 (the set designer and director disagreed about how many candles are in this scene)
@@ -328,13 +360,14 @@ Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 
 
 # TRADITIONAL COUPLING
+
 # CAN BE HARMFUL?
 
 
 
     When we're in love with someone, especially at the start, the romance can feel all-encompassing: This special someone seems to be all we're talking about and thinking about, isn't it good to pour all of our effort and expectations into this person?
     Just as we have heard people do in every story ever written?
-    
+
     It's not, and I'll explain using tool #2:
 
 
@@ -342,6 +375,7 @@ Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 ---
 
 TOOL #2:
+
 ## THE SMORGASBORD
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/smorgasboard-swedish.png)
@@ -482,7 +516,7 @@ classDiagram
         Finances/legal
         Routines & chores
     }
-    
+
     classDef alice fill:#932727,color:white
 ```
 
@@ -508,7 +542,7 @@ classDiagram
         Sharing social circles
         Presenting as a social unit
     }
-    
+
     classDef alice fill:#932727,color:white
 ```
 
@@ -564,7 +598,7 @@ classDiagram
         Finances/legal
         Routines & chores
     }
-    
+
     classDef alice fill:#932727,color:white
 ```
 
@@ -590,7 +624,7 @@ classDiagram
         Sharing social circles
         Presenting as a social unit
     }
-    
+
     classDef alice fill:#932727,color:white
 ```
 
@@ -670,7 +704,7 @@ classDiagram
         Sharing social circles
         Presenting as a social unit
     }
-    
+
     classDef spicy fill:#932727,color:white
 ```
 
@@ -681,18 +715,18 @@ AN EXAMPLE RELATIONSHIP ANARCHY SMORGASBORD
     Just look at the options that are available! Quite a menu.
     Most people won't have an appetite for everything here, and that's fine, that's how a menu WORKS!
     (some people don't like food that's too spicy and that's the same here! I am not here to kinkshame!)
-    
+
     Having all these topics available to discuss with someone you are in a relationship with, gives you a much richer vocabulary to answer the question "so what are we to each other".
     Far more than friend/lover/partner, the only options society tells us are avilable.
-    
+
     For example, Alice and Jane might like sleeping together, but after discussion, don't see themselves moving in or starting a family or caregiving for each other.
     Alice and Bob see each other all the time, and they are comfortable with cuddling while watching a movie and holding hands while in social situations, and love their relationship just as it is.
     Any of these people might have other relationships that involve other parts of the smorgasboard, and just as you don't check with existing friends before making a new friend - you just do it! RA is optimised for the lovely unexpected.
 
     This all sounds utopic, but there is a darker side of the Smorgasboard, which I touched on earlier:
-    
+
     Under the existing assumptions of the kind of society that unquestioningly accepts the Relationship Escalator, ALL THESE OPTIONS must be fulfilled by EXACTLY ONE person.
-    
+
     What a terrible burden to put on someone, right?
 
 
@@ -747,7 +781,7 @@ classDiagram
         Finances/legal
         Routines & chores
     }
-    
+
     classDef alice fill:#932727,color:white
 ```
 
@@ -773,7 +807,7 @@ classDiagram
         Sharing social circles
         Presenting as a social unit
     }
-    
+
     classDef alice fill:#932727,color:white
 ```
 
@@ -782,6 +816,7 @@ THIS IS TOO MUCH
 ---
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
+
 
 
 ## OPTIMISING FRIENDSHIPS
@@ -811,12 +846,15 @@ As The Thinking Aro says:
 _"You have no family. You don't even have a dog."_
 
 
+
     A clear example of society devaluaing friendship relationships is Project Hail Mary, my film of the year so far:
     Because grace has no family, he is expendable, because family are assumed to be more important than him enriching the lives of hundreds of his students
 
 
 
 ---
+
+
 
 # REALITY CHECK
 
@@ -853,15 +891,15 @@ _"You have no family. You don't even have a dog."_
 
 
 
-From *"The short instructional manifesto for relationship anarchy"*, Andie Nordgren
+From _"The short instructional manifesto for relationship anarchy"_, Andie Nordgren
 
 
 
     Assumptions are never good, and that counts double in relationships, especially the harmful assumption that your exclusive partner must fulfil everything you require - how could that POSSIBLY be?
-    
+
     Would you want the pressure of fulfilling everything on the smorgasbord for your partner?
     And what about the quiet resentment when you inevitably fall short.
-    
+
     RA provides an ethos and framework to talk to the people you are in relationships with without the baggage of society dragging you down.
 
     instead of having romantic partners and friends you just have relationships - defining what each means within them.
@@ -877,6 +915,7 @@ From *"The short instructional manifesto for relationship anarchy"*, Andie Nordg
 ---
 
 ## FANCY A PODCAST?
+
 _I'm producing the following RIGHT NOW:_
 
 
@@ -885,6 +924,7 @@ _I'm producing the following RIGHT NOW:_
 
 
 [[Lost Terminal/Lost Terminal Home\|Lost Terminal]]
+
 - Near-future Sci-fi
 - Hopepunk / Solarpunk
 - _Extremely British_
@@ -892,6 +932,7 @@ _I'm producing the following RIGHT NOW:_
 
 
 [[Modem Prometheus Home\|Modem Prometheus]]
+
 - Contemporary Urban Fantasy
 - Technology blended with magic
 - _Extremely British_
@@ -899,7 +940,9 @@ _I'm producing the following RIGHT NOW:_
 
 
 
+
 [[Projects/The Phosphene Catalogue/The Phosphene Catalogue Home\|The Phosphene Catalogue]]
+
 - 1976 Urban Fantasy
 - Magical artwork
 - _Extremely British_
@@ -928,6 +971,7 @@ _I'm producing the following RIGHT NOW:_
  ---
 
 [^1]: https://en.wikipedia.org/wiki/Amatonormativity
+
 [^2]: https://thethinkingasexual.wordpress.com/2016/06/06/relationship-anarchy-is-not-about-sex-or-polyamory/
 
 - Radical Intimacy by Sophie K. Rosa
@@ -936,4 +980,5 @@ _I'm producing the following RIGHT NOW:_
 - LOADS MORE HERE: https://theanarchistlibrary.org/category/topic/relationship-anarchy
 
 ---
+
  

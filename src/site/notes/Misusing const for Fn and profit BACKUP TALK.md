@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misusing-const-for-fn-and-profit-backup-talk/","tags":["project/nb"],"noteIcon":"","updated":"2025-10-27T17:44:09.000+00:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"scheduled":"2025-09-01","written":"2025-10-03","published":"2025-10-13","due":"2025-10-08","tags":["project/nb"],"state":"done","recorded":"2025-10-13"}}
+{"dg-publish":true,"permalink":"/misusing-const-for-fn-and-profit-backup-talk/","tags":["project/nb"],"noteIcon":"","updated":"2025-11-17T15:43:49.416+00:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"scheduled":"2025-09-01","written":"2025-10-03","published":"2025-10-13","due":"2025-10-08","tags":["project/nb"],"state":"done","recorded":"2025-10-13"}}
 ---
 
 

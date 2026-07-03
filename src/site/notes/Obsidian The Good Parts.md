@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-the-good-parts/","hide":true,"tags":["project/nb"],"noteIcon":"","updated":"2025-09-01T12:50:17.000+01:00","dg-note-properties":{"tags":["project/nb"],"state":"done","start":"2024-07-31","due":"2025-01-31","scheduled":"2024-12-10","titles":["thinking in obsidian","the obsidian triumvirate","hacking your brain with obsidian 2","Obsidian the good parts","The Obsidian Handbook","How to think better","Obsidian thinking inside the box","Building Your Second Brain In Obsidian"],"up":["[[No Boilerplate Index]]"],"test-link":"[[Videos]]","css":["css/mermaid.css"],"created":"2025-01-29T21:33","updated":"2025-05-16T09:19"}}
+{"dg-publish":true,"permalink":"/obsidian-the-good-parts/","hide":true,"tags":["project/nb"],"noteIcon":"","updated":"2025-09-01T12:50:17.893+01:00","dg-note-properties":{"tags":["project/nb"],"state":"done","start":"2024-07-31","due":"2025-01-31","scheduled":"2024-12-10","titles":["thinking in obsidian","the obsidian triumvirate","hacking your brain with obsidian 2","Obsidian the good parts","The Obsidian Handbook","How to think better","Obsidian thinking inside the box","Building Your Second Brain In Obsidian"],"up":["[[No Boilerplate Index]]"],"test-link":"[[Videos]]","css":["css/mermaid.css"],"created":"2025-01-29T21:33","updated":"2025-05-16T09:19"}}
 ---
 
 

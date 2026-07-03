@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-for-learning-part-ii-process/","tags":["project/nb"],"noteIcon":"","updated":"2026-03-29T12:51:03.063+01:00","dg-note-properties":{"start":"2026-01-16","due":"2026-02-27","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2025-12-16T08:00:23.931+00:00"}}
+{"dg-publish":true,"permalink":"/obsidian-for-learning-part-ii-process/","tags":["project/nb"],"noteIcon":"","updated":"2026-06-17T07:56:12.000+01:00","dg-note-properties":{"start":"2026-01-16","due":"2026-02-27","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2025-12-16T08:00:23.931+00:00"}}
 ---
 
 
@@ -48,7 +48,7 @@ ATOMIC NOTES
 
 
 We are going to forge our work, essays, exam revision, books, or even video scripts, from atomic notes.
-
+    
 You may have heard of this concept before, perhaps as 'smart' or 'main', or 'permanent' notes, the core unit of the Zettelkasten system, an interlinked web of knowledge, with the information digested, deconstructed and rebuilt in your own words, in your own image.
 Many books on note-taking talk about what makes these kinds of notes good, but I think all qualities are downstream of these two principle features of atomic  
 2. Each note doesn't require reading lots of other notes to understand, they are loosely coupled to each other.

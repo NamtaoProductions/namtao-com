@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/namtao-home/","title":"Home","metatags":{"og:title":"Namtao Productions","og:image":"https://www.namtao.com/apple-touch-icon.png","description":"Namtao Productions produces No Boilerplate, Lost Terminal, Modem Prometheus, and The Phosphene Catalogue"},"tags":["index","gardenEntry"],"noteIcon":"","updated":"2026-05-14T07:28:03.928+01:00","dg-note-properties":{"title":"Home","tags":["index","gardenEntry"],"created":"2025-03-14T11:21","updated":"2025-05-31T07:53","vf_icon":"🖥️","up":[null,"[[Home]]"]}}
+{"dg-publish":true,"permalink":"/namtao-home/","title":"Home","metatags":{"og:title":"Namtao Productions","og:image":"https://www.namtao.com/apple-touch-icon.png","description":"Namtao Productions produces No Boilerplate, Lost Terminal, Modem Prometheus, and The Phosphene Catalogue"},"tags":["index","gardenEntry"],"noteIcon":"","updated":"2026-05-14T07:28:03.000+01:00","dg-note-properties":{"title":"Home","tags":["index","gardenEntry"],"created":"2025-03-14T11:21","updated":"2025-05-31T07:53","vf_icon":"🖥️","up":[null,"[[Home]]"]}}
 ---
 
 <img width=200 align="right" alt="namtao logo." src="https://www.namtao.com/img/user/Resources/Meta/attachments/namtao-logo-1000.png">
