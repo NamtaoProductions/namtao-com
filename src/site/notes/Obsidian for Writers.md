@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"obsidian-for-writers","permalink":"/obsidian-for-writers/","tags":["project"],"noteIcon":"","updated":"2026-07-06T17:03:44.859+01:00","dg-note-properties":{"start":"2026-05-01","due":"2026-06-21","up":["[[Projects]]"],"tags":["project"],"state":"promoting"}}
+{"dg-publish":true,"dg-path":"obsidian-for-writers","permalink":"/obsidian-for-writers/","tags":["project"],"noteIcon":"","updated":"2026-07-06T17:11:39.265+01:00","dg-note-properties":{"start":"2026-05-01","due":"2026-06-21","up":["[[Projects]]"],"tags":["project"],"state":"promoting"}}
 ---
 
 
@@ -331,7 +331,6 @@ By using a STANDARD instead of an ECOSYSTEM, you gain superpowers you didn't eve
 
 
 
-
 If this is all a little overwhelming, I quite understand, I've had 6 years of editing and tweaking my setup to get to this stage.
 If you would prefer a turn-key solution, I have built a pre-configured writers vault as a bonus download for all those who support me, at any level, on my Patreon.
 Please consider signing up, especially if you'd like more videos on writing.
@@ -579,7 +578,7 @@ and if you've come from the engineering world, git and all the plain text collab
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-writers-editing.png)
 
-*The patreon bonus writers vault, with characters base, metadata, my heading styles, and preconfigured Storyline plugin.*
+*The [patreon bonus writers vault](https://www.patreon.com/noboilerplate/posts/obsidian-for-zip-162081754), with characters base, metadata, my heading styles, and preconfigured Storyline plugin.*
 
 
 
