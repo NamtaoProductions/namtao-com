@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","hide":true,"tags":["index"],"noteIcon":"","updated":"2026-05-23T16:18:20.451+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-27T10:32","updated":"2025-06-03T18:42","title":"No Boilerplate"}}
+{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","hide":true,"tags":["index"],"noteIcon":"","updated":"2026-07-06T17:05:11.452+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-27T10:32","updated":"2025-06-03T18:42","title":"No Boilerplate"}}
 ---
 
 
@@ -25,6 +25,7 @@ I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https:/
 51. [[Hack Your Brain With Powerlifting\|Hack Your Brain With Powerlifting]]
 52. [[Obsidian For Learning Part II Process\|Obsidian For Learning Part II Process]]
 53. [[HYBW Relationship Anarchy\|HYBW Relationship Anarchy]]
+54. [[Obsidian for Writers\|Obsidian for Writers]]
 
 ---
 # Rust
