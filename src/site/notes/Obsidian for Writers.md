@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"obsidian-for-writers","permalink":"/obsidian-for-writers/","tags":["project"],"noteIcon":"","updated":"2026-07-06T17:11:39.265+01:00","dg-note-properties":{"start":"2026-05-01","due":"2026-06-21","up":["[[Projects]]"],"tags":["project"],"state":"promoting"}}
+{"dg-publish":true,"dg-path":"obsidian-for-writers","permalink":"/obsidian-for-writers/","tags":["project"],"noteIcon":"","updated":"2026-07-08T08:57:39.464+01:00","dg-note-properties":{"start":"2026-05-01","due":"2026-06-21","up":["[[Projects]]"],"tags":["project"],"state":"promoting"}}
 ---
 
-
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Obsidian for Writers" width="100%" height="100%" src="https://makertube.net/videos/embed/6q59rXesVKHLx1BWSfMFru?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 # Obsidian For Writers
 
 ## INTRODUCTION
