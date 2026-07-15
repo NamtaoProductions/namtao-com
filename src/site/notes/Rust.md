@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-06-23T18:28:38.016+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-07-15T07:26:55.191+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -98,6 +98,40 @@ Then add oxalica's rust-overlay with:
 
 ```sh
 devenv inputs add rust-overlay github:oxalica/rust-overlay --follows nixpkgs
+```
+
+## Typestate Pattern
+
+> The typestate pattern is an API design pattern that encodes information about an object's run-time state in its compile-time type.
+
+I maintain the best example of this pattern here: https://github.com/0atman/typestate-template
+
+```rust
+//NOTE: This is psudocode, read the repo for working code
+
+// States
+struct Red;
+struct Yellow;
+struct Green;
+
+// a trait for all valid states
+trait SignalState {}
+impl SignalState for Red {}
+impl SignalState for Yellow {}
+impl SignalState for Green {}
+
+// Core state struct
+struct TrafficSignal<S: SignalState> {
+    _marker: PhantomData<S>,
+    data: String,
+}
+
+// Methods only available in the Red state
+impl TrafficSignal<Red> {
+    pub fn next(self) -> TrafficSignal<Green> {
+        TrafficSignal::transition(self)
+    }
+}
 ```
 
 ## Rust Function Signatures
