@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T09:12:42.093+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
+{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T09:16:26.317+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
 ---
 
 
@@ -49,7 +49,7 @@ https://illuri-sandeep5454.medium.com/self-driving-cars-intro-6831192cd95d
     - _I read the code_
     - copilot autocomplete
 3. I CURATE
-    - _I don't read the code_
+    - _I don't (or can't!) read the code_
     - Claude Code
 4. ?
     - The inmates are running the asylum?
