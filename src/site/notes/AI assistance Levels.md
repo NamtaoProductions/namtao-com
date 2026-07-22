@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T09:16:26.317+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
+{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T09:16:46.247+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
 ---
 
 
+# STATUS: DRAFT
 
 It all started, as so many things do, with a tweet by @mitchellh:
 
