@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T08:45:37.459+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
+{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T09:10:26.357+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
 ---
 
 
