@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T09:10:26.357+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
+{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T09:11:43.456+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
 ---
 
 
@@ -8,10 +8,9 @@ It all started, as so many things do, with a tweet by @mitchellh:
 
 ![i read the code.png](/img/user/Resources/Meta/attachments/i%20read%20the%20code.png)
 
-## I ~~READ~~ _WRITE_ THE CODE
 
 But I thought he didn't go far enough, I think it's more like:
-## I _WRITE_ THE CODE
+## I ~~READ~~ _WRITE_ THE CODE
 
 So maybe there are a few different levels? And I thought about diverless car assistant levels:
 
