@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"rust-dont-panic","permalink":"/rust-dont-panic/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-01T10:36:16.022+01:00","dg-note-properties":{"start":"2026-06-30","due":"2026-07-31","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"promoting"}}
+{"dg-publish":true,"dg-path":"rust-dont-panic","permalink":"/rust-dont-panic/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-03T20:47:25.244+01:00","dg-note-properties":{"start":"2026-06-30","due":"2026-07-31","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"promoting"}}
 ---
 
 
@@ -8,11 +8,9 @@
 
 
 
-![image:width:20%](/img/user/Resources/Meta/attachments/cloudflare-down.png)
-
 ## THE MISTAKE
 
-```rust {3}
+```rust
 let (feature_values, _) = features
     .append_with_names(&self.config.feature_names)
     .unwrap();
@@ -34,34 +32,6 @@ So why don't rust developers do that?
 
 ---
 
-
-
-![image:width:30%](/img/user/Resources/Meta/attachments/cc-zero-2k.png)
-
-## PUBLIC DOMAIN VIDEOS
-
-
-
-> [!NOTE] &nbsp;Notes
-> - For all links and references, read my scripts at www.namtao.com
-> &nbsp;
-
-
-
-
-
-
-![image:width:100%](/img/user/Resources/Meta/attachments/white-logo.png)
-
-
-
-
-
-
-I dedicate my video scripts to the public domain.
-
-Everything you see here: script, links, and images are part of a Markdown document available freely on my website, namtao.com, and on github.
-
 # PART 1
 ## ALTERNATIVES TO `UNWRAP()`
 
@@ -73,8 +43,6 @@ Like a kid on Christmas morning about to receive an Atari instead of an Xbox, yo
 Rust NEVER had nulls, the ecosystem was built around the Result type from the very start, so we have a very uniform way of managing errors right in the standard library, with no exceptions.
 
 Speaking of:
-
----
 
  ---
 ```rust
@@ -187,7 +155,7 @@ I will give you a combinator cheatsheet in a moment, but I'll highlight one of t
 
 ## TESTING FOR OK
 
-```rust {1-9} +validate:rust-script
+```
 fn parse_add_one_v1(num: &str) -> i32 {
     let number = num.parse::<i32>();
     if number.is_ok() {
@@ -215,7 +183,7 @@ Here's how to do it properly:
 
 ## UNWRAP_OR_DEFAULT()
 
-```rust {9-13} +validate:rust-script
+```rust
 fn parse_add_one_v1(num: &str) -> i32 {
     let number = num.parse::<i32>();
     if number.is_ok() {
@@ -258,7 +226,7 @@ Because, while we might intend to write sensible code that uses all the lovely R
 
 
  
-==Monadic error passing==
+Monadic error passing
 Better than exceptions, better than returning random error numbers, better than multiple return values.
 Treating errors as native types in the type system rather than exceptions to otherwise imagined perfect code inverts the usual happy-path thinking we typically employ as engineers.
 
@@ -270,7 +238,7 @@ This is all fine in theory, but in practice there is a problem, see if you can s
 
 Just read the readme:
 
-```rust {6-7} +validate:rust-script
+```rust
 # //! ```cargo
 # //! [dependencies]
 # //! serde = { version = "1.0", features = ["derive"] }
@@ -307,7 +275,7 @@ This is the primary way unwraps creep into our code I think, through code exampl
 ## HOW DO YOU USE REGEX?
 
 Duh, just read the readme:
-```rust {3} +validate:rust-script
+```rust
 # //! ```cargo
 # //! [dependencies]
 //! regex = "1.13"
@@ -399,25 +367,6 @@ This means disallowing all unwraps, expects, and any panicking methods, even and
 
 And we'll ensure that by using one single tool included in every Rust installation.
 
-
-
-
-
-![](/img/user/Resources/Meta/attachments/lets-get-rusty-logo.png)
-
-`letsgetrusty.com/start-with-tris`
-
-
-
-
-I'm delighted to say that this video is sponsored by friend of the channel, Let's Get Rusty, and their Rust Accelerator course, which I am one of the tutors of!
-
-In addition to being a Fellow Rust YouTuber, Bogdan runs Rust training both corporate and personal, with a new cohort starting next month.  
-
-Visit letsgetrusty.com/start-with-tris, link in the pinned comment, to find out more about the training, and thanks so much to Let's Get Rusty for sponsoring this video!
-
-
-
 # PART 3
 ## `CLIPPY`
 
@@ -461,8 +410,6 @@ This is RUST! It's SO easy to never panic!
 
 If configured correctly, clippy can fail on nearly any code that might panic at runtime.
 This is all powered by the extra syntax that the Rust language gives us - hints to the compiler about what our intentions are - and is thus impossible in languages with simpler syntax.
-
----
 
 
 
@@ -666,70 +613,3 @@ _(I also dig this article: `emschwartz.me/your-clippy-config-should-be-stricter`
 
 In closing, once you stop unwrapping errors to get to the type inside, and start working safely with combinator methods, the distinction between errors and data falls away, and you are left with just data.
 And no reason to panic!
-
-08:00
-
----
-
-_you are listening to:_
-
-![image:width:70%](/img/user/Resources/Meta/attachments/lost-terminal-logo-text.png)
-
-
-
-
-
-![image:width:100%](/img/user/Resources/Meta/attachments/lost-terminal-crt.png)
-
-
-
-![image:width:100%](/img/user/Resources/Meta/attachments/BPAsLonglist-2026.png)
-
-
-
-Check out the show at `LostTerminal.com`, it's extremely nerdy!
-
-
-
-
-If you have made it this far then you probably quite like programming, technology, spooky radio signals and maybe even post-apocalyptic stories, right?
-
-If so, then I think you might love my audio fiction podcast, Lost Terminal, which was recently longlisted for the British Podcast awards!
-
-I solo write, record and produce the show weekly, have done since 2020, and have nearly finished season 22!
-
----
-
-## THANK YOU
-
-To all my patrons, you make this possible!
-
-
-```rust
-let sponsors = [
- "Jaycee"
-];
-let patrons: [&str; XXX];
-```
-
-
-I'd be very grateful for your support on:
-- [Patreon](http://www.patreon.com/noboilerplate)
-
-
-
-
-If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon.
-
-If you're interested in transhumanism and hopepunk, please check out my weekly sci-fi audiofiction podcast, Lost Terminal.
-
-If you like urban fantasy, I produce a wonderful podcast called Modem Prometheus.
-I just finished Season 3 of The Phosphene Catalogue, if you like mysteries and art, check it out!
-
-Transcripts and compile-checked markdown sourcecode are available on namtao.com and github, links in the description, and corrections are in the pinned ERRATA comment.
-
-Thank you so much for watching.
-
----
-
- 
