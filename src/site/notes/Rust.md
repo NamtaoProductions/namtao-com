@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-07-15T07:26:55.191+01:00","dg-note-properties":{"up":["[[No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-08-06T16:20:06.250+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -50,6 +50,14 @@ panic_in_result_fn = "deny"
 panic = "deny"
 exit = "deny"
 as_conversions = "deny"
+```
+
+But allow these in tests:
+```toml
+allow-unwrap-in-tests = true
+allow-expect-in-tests = true
+allow-panic-in-tests = true
+allow-indexing-slicing-in-tests = true
 ```
 
 Also here's an 80% of the above as a one-liner:
@@ -164,3 +172,5 @@ where W: Walk {
 ```
 
 Good stuff here: https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md#scope
+
+ 
