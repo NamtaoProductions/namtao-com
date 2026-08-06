@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-08-06T16:20:06.250+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-08-06T17:01:18.964+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -52,7 +52,7 @@ exit = "deny"
 as_conversions = "deny"
 ```
 
-But allow these in tests:
+But allow these in tests, in your `clippy.toml`:
 ```toml
 allow-unwrap-in-tests = true
 allow-expect-in-tests = true
