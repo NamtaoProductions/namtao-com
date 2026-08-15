@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/aipolicy/","noteIcon":"","updated":"2026-08-15T10:07:38.195+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"aipolicy","permalink":"/aipolicy/","noteIcon":"","updated":"2026-08-15T10:08:25.869+01:00","dg-note-properties":{}}
 ---
 
-(this policy is based on [Complexly's AI Policy](https://my.info/aipolicy), retrieved on 2026-08-15, mostly just `s/Complexly/my`)
 
-# NAMTAO AI Policy
+> (this policy is almost entirely based on [Complexly's AI Policy](https://my.info/aipolicy), retrieved on 2026-08-15, with a bit of `s/Complexly/my`)
+
+# NAMTAO Productions AI Policy
 
 For good reason, AI tools such as ChatGPT, Claude, DALL-E 2, and Midjmyney have generated a lot of interest. Their ability to synthesize stories and images can be impressive. But they're also incompatible with much of what I do here. While I don't want to ignore the role they might legitimately play in brainstorming and early research, it's important to note that using these tools to *create* scripts and visuals often conflicts with my values in a number of ways:
 
