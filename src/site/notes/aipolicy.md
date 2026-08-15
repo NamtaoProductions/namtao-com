@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"aipolicy","permalink":"/aipolicy/","noteIcon":"","updated":"2026-08-15T10:08:25.869+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"aipolicy","permalink":"/aipolicy/","noteIcon":"","updated":"2026-08-15T10:09:18.163+01:00","dg-note-properties":{}}
 ---
 
 
-> (this policy is almost entirely based on [Complexly's AI Policy](https://my.info/aipolicy), retrieved on 2026-08-15, with a bit of `s/Complexly/my`)
+> (this policy is almost entirely based on [Complexly's AI Policy](https://my.info/aipolicy), retrieved on 2026-08-15)
 
 # NAMTAO Productions AI Policy
 
