@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-08-13T11:34:48.389+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-08-25T06:28:52.875+00:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -81,12 +81,16 @@ I also dig what is written here: https://emschwartz.me/your-clippy-config-should
   };
 
   packages = with pkgs; [
-    openssl
+    bacon 
+    cargo-seek
+    cargo-nextest
+    cargo-generate
   ];
 
-  scripts.watcher= {
+  scripts.watcher = {
     exec = ''
-      RUSTFLAGS=-Awarnings watchexec -r --clear=reset -e rs --wrap-process=none "cargo run -q"
+        watchexec -c -e rs \
+        "cargo clippy && cargo test && cargo run"
     '';
     packages = [ pkgs.watchexec ];
     description = "Rebuilds and runs app with supressed warnings";
@@ -95,9 +99,9 @@ I also dig what is written here: https://emschwartz.me/your-clippy-config-should
   # 
   # C LIBRARIES
   #
-  # env.LD_LIBRARY_PATH = lib.makeLibraryPath [
-  #   pkgs.zlib
-  # ];
+  env.LD_LIBRARY_PATH = lib.makeLibraryPath [
+    pkgs.openssl
+  ];
 }
 
 ```
