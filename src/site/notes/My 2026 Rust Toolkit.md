@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:19:09.083+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
+{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T10:32:51.987+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
 ---
 
 
@@ -26,6 +26,8 @@ I'll start with the single tool that I manage nearly all of this with:
 
 
 
+
+> (not sponsored by devenv!)
 
 Not everyone is powerful enough to use nix, I know I wasn't for many years, but there is a gateway drug available in DEVENV, which you can think of as a json-like DSL or schema that gives you access to the largest package repository on the planet, config for those packages, and per-project isolation without the overhead of containers.
 (Finally no more VMs to run docker on mac in!)
@@ -593,7 +595,9 @@ fn get_cluster_info() -> Result<ClusterMap> {
 }
 ```
 
-Honourable mention: `rootcause` alternative with ergonomic error tree annotations
+Honourable mentions:
+- `rootcause` alternative with ergonomic error tree annotations
+- `thiserror` great ergonomics for building errors, useful in libraries
 
 
 
@@ -607,7 +611,6 @@ But specifying all the kinds of errors a function can return gets old fast, and 
 ## ITERTOOLS
 
 > Extra iterator adaptors, iterator methods, free functions, and macro
-
 
 
 
@@ -657,6 +660,9 @@ And like the python library of the same name, itertools contains advanced iterat
 
 And remember, this is rust: It all compiles down to for loops and if statements:
 It's a zero-cost abstraction, the cost being your sanity!
+
+> [!ERROR] ERRATA
+> This is not actually guarenteed by `itertools`, indeed one of the goals is to add convienience functions missing from the standard library due to the zero-cost requirement
 
 ## CRITERION
 
