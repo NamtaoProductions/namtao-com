@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","hide":true,"tags":["index"],"noteIcon":"","updated":"2026-08-01T10:43:38.000+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-27T10:32","updated":"2025-06-03T18:42","title":"No Boilerplate"}}
+{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","hide":true,"tags":["index"],"noteIcon":"","updated":"2026-08-26T08:07:33.834+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-27T10:32","updated":"2025-06-03T18:42","title":"No Boilerplate"}}
 ---
 
 
@@ -27,6 +27,7 @@ I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https:/
 53. [[HYBW Relationship Anarchy\|HYBW Relationship Anarchy]]
 54. [[Obsidian for Writers\|Obsidian for Writers]]
 55. [[Rust Don't Panic\|Rust Don't Panic]]
+56. [[My 2026 Rust Toolkit\|My 2026 Rust Toolkit]]
 
 ---
 # Rust

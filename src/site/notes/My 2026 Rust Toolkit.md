@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:00:19.273+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
+{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:07:20.358+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
 ---
 
 
@@ -17,9 +17,7 @@ _2026 edition_
 
 
 
-Hi friends my name is Tris and this is No Boilerplate, where I focus on fast, technical videos.
-
-Today I'm going to demo my 2026 toolkit for writing rust, containing a dozen or so tools & packages that I use in every project, along with smart default config.
+Hi folks. Today I'm going to demo my 2026 toolkit for writing rust, containing a dozen or so tools & packages that I use in every project, along with smart default config.
 
 I'll start with the single tool that I manage nearly all of this with:
 
