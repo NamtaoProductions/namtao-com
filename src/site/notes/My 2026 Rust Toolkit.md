@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:17:15.454+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
+{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:19:09.083+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
 ---
 
 
 Hi folks. Today I'm going to demo my 2026 toolkit for writing rust, containing a dozen or so tools & packages that I use in every project, along with smart default config.
 
 I'll start with the single tool that I manage nearly all of this with:
-
----
 
 
 
@@ -31,8 +29,6 @@ I'll start with the single tool that I manage nearly all of this with:
 
 Not everyone is powerful enough to use nix, I know I wasn't for many years, but there is a gateway drug available in DEVENV, which you can think of as a json-like DSL or schema that gives you access to the largest package repository on the planet, config for those packages, and per-project isolation without the overhead of containers.
 (Finally no more VMs to run docker on mac in!)
-
----
 
 
 
@@ -93,8 +89,6 @@ Just look at what we've got configured in a single file:
   };
 }
 ```
-
----
 
 Rust installation, set to nightly, with rust-analyzer and clippy,
 System packages, including bacon and cargo-seek, more on them later
@@ -294,8 +288,6 @@ features:
 
 `cargo info` is very useful, too, to see more detail on the crate before installing it, especially to check the features you might need to enable!
 
----
-
 
 
 ## <span style="color: palette:blue">CARGO-SEEK</span>
@@ -339,7 +331,7 @@ error: used `unwrap()` on a `Result` value
 Rust comes included with all the batteries you need to get up and running, including the most comprehensive linter and code checker you will have ever used, called clippy.
 Out of the box, it's fine, but you can give it TEETH.
 
- ---
+## CLIPPY CONFIG
 
 
 
@@ -391,8 +383,6 @@ Here is my clippy config, which I recommend using by default in every project. T
 To allow for fast prototyping where it should be - in tests - allow panicking there with these clippy overrides.
 
 For more details, and a rationale for this unhinged pedantry, see my dedicated video, Rust: Don't Panic.
-
----
 
 
 
@@ -538,8 +528,6 @@ Hello, world!
 
 Evolved from the old staple of `cargo-watch`, this rewrite watches a directory of optionally-filtered files and triggers any chain of commands you like, not just cargo ones.
 I keep it around for chaining cargo clippy, cargo test, and cargo run into a pipeline that kicks off whenever I save.
-
----
 
 
 
@@ -749,8 +737,6 @@ Rayon is the simplest parallelism library you'll ever use, try it before you rea
 for more information see my video async isn't real and can't hurt you
 If you build your logic in Rust's lazy iterators, mutated by simple functions, you can make your whole pipeline parallel by changing `.iter()` to `.par_iter()`.
 
----
-
 
 
 
@@ -905,8 +891,6 @@ The `command-run` crate is juuuuust right, optionally allowing us to:
 - wrap the execution in a result
 - combine stderr and stdout
 - format the command as a string, not a builder
-
----
 
 
 
@@ -1140,8 +1124,6 @@ Honourable mention: `tauri`, lightweight native WebView.
 
 Or React Native, thanks to the Dioxus crate, which bundles up your app into android, iOS, or desktop apps, with batteries include and hot-reloading.
 For a lighter option that just replaces Electron, try the `Tauri` crate, based on native webview.
-
----
 
 
 
