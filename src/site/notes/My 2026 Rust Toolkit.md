@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:12:59.173+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
+{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:17:15.454+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
 ---
 
 
@@ -135,7 +135,7 @@ Let me show you how I use all these together.
 
 
 # <span style="background-color: #222">PART 1: TOOLING</span>
-```toml {99}
+```sh
 $ rustup update nightly
 info: syncing channel updates for nightly-x86_64-unknown-linux-gnu
 info: latest update on 2026-08-15 for version 1.99.0-nightly (d453bdd8f 2026-08-14)
@@ -223,7 +223,7 @@ $ cargo new prelude
 
 
 
-```bash
+```sh
 $ tree
 .
 ├── Cargo.lock
@@ -306,11 +306,7 @@ features:
 
 
 
-```bash +exec_replace +pty
-cd ~/projects/prelude/
-echo "$ cargo seek"
-cargo seek -s rayon
-```
+![screenshot-cargo-seek.png](/img/user/Resources/Meta/attachments/screenshot-cargo-seek.png)
 
 
 
@@ -324,7 +320,7 @@ In this case, run `cargo install cargo-seek` and after compilation, the cargo-se
 
 
 
-```rust
+```js
 $ cargo clippy
     Checking prelude v0.1.0 (/home/oatman/projects/prelude)
 error: used `unwrap()` on a `Result` value
@@ -599,7 +595,7 @@ Rust has a very rich standard library providing functions and types for high and
 
 
 
-```rust
+```js
 use eyre::Result;
 
 fn get_cluster_info() -> Result<ClusterMap> {
@@ -628,7 +624,7 @@ But specifying all the kinds of errors a function can return gets old fast, and 
 
 
 
-```rust
+```js
 use itertools::Itertools;
 
 let it = (1..3).interleave(vec![-1, -2]);
@@ -683,7 +679,7 @@ It's a zero-cost abstraction, the cost being your sanity!
 
 
 
-```rust
+```js
 use std::hint::black_box;
 use criterion::{criterion_group, criterion_main, Criterion};
 
@@ -735,7 +731,7 @@ Found 11 outliers among 99 measurements (11.11%)
 
 
 
-```rust
+```js
 use rayon::prelude::*;
 fn sum_of_squares(input: &[i32]) -> i32 {
     input.par_iter() // <-- just change that!
@@ -773,7 +769,7 @@ So, I've shown you my essential standard library of crates that I use in every o
 
 
 
-```rust
+```js
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -805,7 +801,7 @@ Nearly every application needs to serialise or deserialise data, which in Rust m
 > A date-time library that encourages you to jump into the pit of success.
 > _(the author helpfully clarifies that it's pronounced like "GIF")_
 
-```rust
+```js
 use jiff::{Timestamp, ToSpan};
 
 fn main() -> Result<(), jiff::Error> {
@@ -836,7 +832,7 @@ Ergonomic time handling. The standard library is fine, but we can do better!
 
 
 
-```rust
+```js
 use clap::Parser;
 
 /// Simple program to greet a person
@@ -887,7 +883,7 @@ Remember, kids, it's argeparse, not argvalidate. Do it once, and, ideally, let c
 
 
 
-```rust
+```js
 let output = Command::with_args("echo", &["hello", "world"])
     .enable_capture()
     .run()?;
@@ -923,7 +919,7 @@ The `command-run` crate is juuuuust right, optionally allowing us to:
 
 
 
-````rust +validate:rust-script
+````js
 # //! ```cargo
 # //! [dependencies]
 //! utoipa = "5"
@@ -1008,7 +1004,7 @@ Continuing the bad spelling of crates like `reqwest`, `utoipa` allows any popula
 
 > higher level HTTP client library
 
-```rust
+```js
 use std::collections::HashMap;
 
 #[tokio::main]
@@ -1039,7 +1035,7 @@ Reqwest has both sync and async versions of your favourite HTTP verbs, and opera
 
 
 
-```rust
+```js
 struct Country {
     country: String,
     count: i64
@@ -1071,7 +1067,7 @@ Install the `sqlx-cli` for DB management, migrations, and offline validation.
 
 
 
-```rust
+```js
 #[component]
 pub fn button() -> impl IntoView {
   let (count, set_count) = signal(0);
@@ -1110,7 +1106,7 @@ You don't have to write React any more!
 
 
 
-```rust
+```js
 use dioxus::prelude::*;
 
 fn main() {
@@ -1164,7 +1160,7 @@ For a lighter option that just replaces Electron, try the `Tauri` crate, based o
 ...have you installed it yet?
 Head over to devenv.sh and get cracking!
 
-```nix {99}
+```js
 {
   languages.rust = {
     enable = true;
