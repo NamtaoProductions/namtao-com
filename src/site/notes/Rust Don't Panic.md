@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"rust-dont-panic","permalink":"/rust-dont-panic/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-03T20:47:25.244+01:00","dg-note-properties":{"start":"2026-06-30","due":"2026-07-31","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"promoting"}}
+{"dg-publish":true,"dg-path":"rust-dont-panic","permalink":"/rust-dont-panic/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-03T20:47:25.000+01:00","dg-note-properties":{"start":"2026-06-30","due":"2026-07-31","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"promoting"}}
 ---
 
 

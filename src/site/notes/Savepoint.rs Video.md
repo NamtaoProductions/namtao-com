@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/savepoint-rs-video/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-17T14:28:21.612+01:00","dg-note-properties":{"start":"2026-04-08","due":"2026-04-27","up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"permalink":"/savepoint-rs-video/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-17T14:28:21.000+01:00","dg-note-properties":{"start":"2026-04-08","due":"2026-04-27","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"aipolicy","permalink":"/aipolicy/","noteIcon":"","updated":"2026-08-15T13:08:00.958+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"aipolicy","permalink":"/aipolicy/","noteIcon":"","updated":"2026-08-15T13:08:00.000+01:00","dg-note-properties":{}}
 ---
 
 

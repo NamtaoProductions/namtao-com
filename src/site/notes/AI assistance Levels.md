@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-22T09:16:46.247+01:00","dg-note-properties":{"up":["[[No Boilerplate Index]]"],"tags":["project/nb"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing"}}
+{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb","project"],"noteIcon":"","updated":"2026-08-25T06:53:13.986+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb","project"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"planning","priority":"normal","modified":"2026-08-25T05:53:13.980+00:00"}}
 ---
 
 
-# STATUS: DRAFT
+# state: DRAFT
 
 It all started, as so many things do, with a tweet by @mitchellh:
 
@@ -38,22 +38,57 @@ https://illuri-sandeep5454.medium.com/self-driving-cars-intro-6831192cd95d
 
 ---
 
+SAE LEVELS
+0. No control
+1. Simple Driver Assist (lane beeps etc)
+    - Intellisense / Advice on mistakes / tips / spelling
+    - AI Spell Checker
+2. Complex/combined driver assists
+    - refactoring / translation / change tense of prose / change style of music
+    - Code/sentance completion
+    - Simplify/shorten paragraph
+3. Automatic Driving, Human on Standby
+  - I read the code
+4. AD, but only in controlled circumstances (highway etc)
+  - I test the feature
+5. AD, all conditions, never human driver
+
 ## AI Levels
 
 0. I THINK
-    - _no AI use_
+    - _NO AI USE_
     - vscode/vim/etc
-1. I MAKE
+    - Painting with paint
+    - playing music
+1. I MAKE / GET FEEDBACK
+    - _YOU WRITE EVERYTHING_
     - _I write the code_
     - copilot questions
-2. I FIX
+    - music llm advice
+2. I FIX / HELPED BY A RESEARCH ASSISTANT
+    - _SHORT LOOP YOU CAN STILL EDIT THE OUTPUT_
     - _I read the code_
+    - do it while I watch
     - copilot autocomplete
-3. I CURATE
+    - music loop building / chord progression automation
+3. I CURATE / DECIDE ON WHICH OPTIONS LOOK GOOD
+    - AGENTIC YOU CAN'T CHANGE THE OUTPUT
+    - do it and I'll read it later - maybe
     - _I don't (or can't!) read the code_
     - Claude Code
-4. ?
+    - building final track mp3
+4. +
     - The inmates are running the asylum?
+
+high levels don't exist, or will exist in 5+ years, and maybe they shouldn't exist for knowlege work and 
+
+people who say they read the code are lying, they CAN'T
+
+agents make 99% correct code, but that cannot be supervised
+
+99% is useless to me, I can't trust myself 
+
+- Bainbridge's 1983 Ironies of Automation
 
 ---
 

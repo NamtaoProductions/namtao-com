@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spacekeys/","hide":true,"noteIcon":"","updated":"2026-04-23T09:52:39.000+01:00","dg-note-properties":{"created":"2025-01-20T07:13","updated":"2025-05-16T09:19"}}
+{"dg-publish":true,"permalink":"/spacekeys/","hide":true,"noteIcon":"","updated":"2026-08-24T07:21:52.238+01:00","dg-note-properties":{"created":"2025-01-20T07:13","updated":"2025-05-16T09:19"}}
 ---
 
 This is my custom spacekeys config for obsidian, based on the sample keymap that comes with the plugin, but with some structural changes to match <https://lazynvim.org>'s defaults.
@@ -228,7 +228,7 @@ items:
   o:
     description: Obsidian
     items:
-      t: insert-template
+      t: templater-obsidian:insert-templater
       b: darlal-switcher-plus:switcher-plus:open-related-items-active
       d: daily-notes
       l: darlal-switcher-plus:switcher-plus:open-related-items-active

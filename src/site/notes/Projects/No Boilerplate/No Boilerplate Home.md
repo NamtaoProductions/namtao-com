@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","hide":true,"tags":["index"],"noteIcon":"","updated":"2026-08-01T10:43:38.358+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-27T10:32","updated":"2025-06-03T18:42","title":"No Boilerplate"}}
+{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","hide":true,"tags":["index"],"noteIcon":"","updated":"2026-08-01T10:43:38.000+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-27T10:32","updated":"2025-06-03T18:42","title":"No Boilerplate"}}
 ---
 
 

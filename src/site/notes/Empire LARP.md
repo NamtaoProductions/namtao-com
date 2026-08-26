@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"empire","permalink":"/empire/","noteIcon":"","updated":"2026-06-11T11:42:20.169+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"empire","permalink":"/empire/","noteIcon":"","updated":"2026-06-11T11:42:20.000+01:00","dg-note-properties":{}}
 ---
 
 ![empire-larp-3-2048x1024.jpg](/img/user/Resources/Meta/attachments/empire-larp-3-2048x1024.jpg)

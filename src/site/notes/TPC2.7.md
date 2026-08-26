@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","updated":"2026-01-20T08:40:38.000+00:00","dg-note-properties":{"tags":["project/tpc","TPC","episode"],"start":"2024-12-12","due":"2025-01-23","up":["[[TPC2.0]]"],"scheduled":"2024-12-30","prev":"[[TPC2.6]]","state":"done","groups":["TPC","TPC2.0","episode"],"recorded":"2025-01-07","written":"2025-01-07","published":"2025-01-09","created":"2025-01-22T20:13","updated":"2025-03-18T07:16"}}
+{"dg-publish":true,"permalink":"/tpc-2-7/","tags":["project/tpc","TPC","episode"],"noteIcon":"","updated":"2026-08-04T12:33:51.000+01:00","dg-note-properties":{"tags":["project/tpc","TPC","episode"],"start":"2024-12-12","due":"2025-01-23","up":["[[TPC2.0]]"],"scheduled":"2024-12-30","prev":"[[Projects/The Phosphene Catalogue/Season 2/TPC2.6]]","state":"done","groups":["TPC","TPC2.0","episode"],"recorded":"2025-01-07","written":"2025-01-07","published":"2025-01-09","created":"2025-01-22T20:13","updated":"2025-03-18T07:16"}}
 ---
 
 
@@ -168,7 +168,7 @@ Beyond the white-sailed ships are hints of dark clouds just over the horizon, bu
 >
 > No, Morwenna, look: I'm just going to have to tell you what happened.
 > I had to find Sarah myself. I had been thoughtless, and cowardly, and stupid, but also... scared.
-> I rushed out of the building and fought my way past the tourists down into the District line and then to Temple station. I's half-remembered that Sarah had an exhibition today and so ran from the station to [[Projects/The Phosphene Catalogue/The Solomon Gallery\|The Solomon Gallery]]. At the ticket office I asked when the artist would be attending, but the man on the desk told me that Sarah Porter was unwell today and would not be available.
+> I rushed out of the building and fought my way past the tourists down into the District line and then to Temple station. I half-remembered that Sarah had an exhibition today and so ran from the station to [[Projects/The Phosphene Catalogue/The Solomon Gallery\|The Solomon Gallery]]. At the ticket office I asked when the artist would be attending, but the man on the desk told me that Sarah Porter was unwell today and would not be available.
 > Unwell! Could our falling-out (professional or... whatever it was) have hurt her as much as I now realise it had hurt me, I wondered?
 > I didn't stop to catch my breath, I ran back to the underground and boarded a train heading west - to Sarah's flat in Bayswater, heart now also rushing with a tiny, silly, hope.
 >

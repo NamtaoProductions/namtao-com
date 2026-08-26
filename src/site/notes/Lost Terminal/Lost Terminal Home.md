@@ -35,6 +35,7 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[Lost Terminal/Season 16.0/LT Season 16.0\|LT Season 16.0]] | Yeshi Asks Seth what the weather will be in Longyearbyen when they make port in X days. Over 10 seconds he talks at light speed to his whole network to figure out the answer to the question, and discovers many stories about his AI friends.                                                                                         |
 | [[LT Season 17.0\|LT Season 17.0]]                           | The MH2 makes port at [[Lost Terminal/Thule\|Thule]]. Lyosha and maddie go on adventures, 50Meg checks in, Seth and LUNA play a game, and an AI from Japan says hello.                                                                                                                                                                                       |
 | [[LT Season 18.0\|LT Season 18.0]]                           | The MH2 Crew visit the Inland Sea of Greenland, a new saltwater lake revealed by the melted Arctic. During their exploration of the villages, Seth seeks memory advice from his friends and tries to build better systems, Yeshi makes friends with a local fishing crew, and Nia struggles with what it means to be a Repeater Keeper. |
+| [[LT0.9\|LT0.9]]                                             | TODO                                                                                                                                                                                                                                                                                                                                    |
 | [[LT19.0\|LT19.0]]                                           | Arriving at the beached city ship, The Kuethir, the crew of the MH2 soon realise that between power glitches and suspicious goings-on, there is more to the ship than meets the eye.                                                                                                                                                    |
 | [[LT20.0\|LT20.0]]                                           | After a stormy voyage, the MH2 arrives at Samoylov, grain basket of the Novamediterra. Quent and Stillman, residents from The Kuithir, attempt a romantic holiday, despite the thick smoke of the city, and Seth is reminded unpleasantly of his past.                                                                                  |
 | [[LT21.0\|LT21.0]]                                           | To be revealed...                                                                                                                                                                                                                                                                                                                       |
@@ -47,13 +48,18 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | Note                                                                                     | archetype                                   |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------- |
 | [[StoryLine/Lost Terminal/Codex/Characters/50 Meg\|50 Meg]]                           | VHF Witch                                   |
-| [[StoryLine/Lost Terminal/Codex/Characters/Aero\|Aero]]                               | harbourmaster                               |
+| [[StoryLine/Lost Terminal/Codex/Characters/Aero Lyberth\|Aero Lyberth]]               | harbourmaster                               |
 | [[StoryLine/Lost Terminal/Codex/Characters/Alek Omarov\|Alek Omarov]]                 | \-                                          |
+| [[Aleksey Morozova\|Aleksey Morozova]]                                                | finance bro                                 |
 | [[StoryLine/Lost Terminal/Codex/Characters/Alexander\|Alexander]]                     | solitary inventor                           |
 | [[StoryLine/Lost Terminal/Codex/Characters/Amelie Kotov\|Amelie Kotov]]               | generalist engineer                         |
 | [[StoryLine/Lost Terminal/Codex/Characters/Anouk Peters\|Anouk Peters]]               | \-                                          |
+| [[Astrid\|Astrid]]                                                                    | gardener                                    |
 | [[StoryLine/Lost Terminal/Codex/Characters/Bay Langley\|Bay Langley]]                 | \-                                          |
+| [[brown suit\|brown suit]]                                                            | chill manager                               |
 | [[StoryLine/Lost Terminal/Codex/Characters/Carma Sah\|Carma Sah]]                     | School Principle                            |
+| [[charcoal-grey suit\|charcoal-grey suit]]                                            | brusque manager                             |
+| [[Dmitri\|Dmitri]]                                                                    | engineer                                    |
 | [[StoryLine/Lost Terminal/Codex/Characters/Dr Boldt\|Dr Boldt]]                       | Cruel psychologist                          |
 | [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]                   | programmer                                  |
 | [[StoryLine/Lost Terminal/Codex/Characters/Ezekiel Frangoulis\|Ezekiel Frangoulis]]   | Excitable student                           |
@@ -65,7 +71,9 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[StoryLine/Lost Terminal/Codex/Characters/Jenny Noll\|Jenny Noll]]                   | retired bard                                |
 | [[StoryLine/Lost Terminal/Codex/Characters/Kamil Forester\|Kamil Forester]]           | subnautical technician                      |
 | [[StoryLine/Lost Terminal/Codex/Characters/Kat Stronski\|Kat Stronski]]               | student                                     |
+| [[Katherine\|Katherine]]                                                              | engineer                                    |
 | [[StoryLine/Lost Terminal/Codex/Characters/Kaycee Stronski\|Kaycee Stronski]]         | engineer, worried mother                    |
+| [[Kaz\|Kaz]]                                                                          | engineer                                    |
 | [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]                   | harbourmaster                               |
 | [[StoryLine/Lost Terminal/Codex/Characters/Leila Tazi\|Leila Tazi]]                   | worried mother                              |
 | [[StoryLine/Lost Terminal/Codex/Characters/Lev Omarov\|Lev Omarov]]                   | \-                                          |
@@ -83,6 +91,7 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[StoryLine/Lost Terminal/Codex/Characters/Siegfried Lin\|Siegfried Lin]]             | \-                                          |
 | [[StoryLine/Lost Terminal/Codex/Characters/Sofia Tazi\|Sofia Tazi]]                   | adventurous and loyal                       |
 | [[StoryLine/Lost Terminal/Codex/Characters/Stillman Fowlkes\|Stillman Fowlkes]]       | engineer                                    |
+| [[Svetla\|Svetla]]                                                                    | engineer                                    |
 | [[StoryLine/Lost Terminal/Codex/Characters/Tanya Omarov\|Tanya Omarov]]               | \-                                          |
 | [[StoryLine/Lost Terminal/Codex/Characters/Valentia Dalton\|Valentia Dalton]]         | student                                     |
 | [[StoryLine/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                                       |
@@ -131,14 +140,15 @@ However, Lost Terminal would not be what it is today without these people, who I
 - [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]] voiced by Amos Wenger
 - [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] voiced by Robin Winslow
 
-| Character                                                                      | Voice                             |
-| ------------------------------------------------------------------------------ | --------------------------------- |
-| [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]         | [[Gina Sneezby\|Gina Sneezby]] |
-| [[StoryLine/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]         | Alex Bayly                        |
-| [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]         | [[Amos Wenger\|Amos Wenger]]      |
-| [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] | Robin Winslow                     |
-| [[StoryLine/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]     | Nils Brobakk                      |
-| [[StoryLine/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]   | Robin Howell                      |
+| Character                                                                      | Voice                                    |
+| ------------------------------------------------------------------------------ | ---------------------------------------- |
+| [[Astrid\|Astrid]]                                                          | [[Projects/rolodex/Laura C\|Laura C]] |
+| [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]         | [[Gina Sneezby\|Gina Sneezby]]        |
+| [[StoryLine/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]         | Alex Bayly                               |
+| [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]         | [[Amos Wenger\|Amos Wenger]]             |
+| [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] | Robin Winslow                            |
+| [[StoryLine/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]     | Nils Brobakk                             |
+| [[StoryLine/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]   | Robin Howell                             |
 
 { .block-language-dataview}
 

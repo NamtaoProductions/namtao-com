@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mentoring-hema/","hide":true,"noteIcon":"","updated":"2026-06-11T12:54:45.233+01:00","dg-note-properties":{"up":["[[Mentoring|Mentoring]]"],"pron":"heh-muh"}}
+{"dg-publish":true,"permalink":"/mentoring-hema/","hide":true,"noteIcon":"","updated":"2026-08-05T08:05:57.000+01:00","dg-note-properties":{"up":["[[Mentoring|Mentoring]]"],"pron":"heh-muh"}}
 ---
 
 # Background
@@ -53,13 +53,11 @@ I do not struggle with staying consistent or try to figure things out on myself.
     - infra
     - 
 
-
-
 - Goals: what can be ignored, what needs to be learned?
     - Single specialism
         - high-performance Rust microservices
     - Broad familiarity
-        - Transferable high-value full-stack compsci knowledge 
+        - Transferable high-value full-stack compsci knowledge
 
 Let's patch up your computer science theory with what I think are forgotten foundational concepts and also my recommendations on how to learn these:
 
@@ -69,7 +67,7 @@ Let's patch up your computer science theory with what I think are forgotten foun
         - The Journeyman is tight all the time. This makes their work of high quality, but it still remains slow.
         - The Master knows when to save time by cutting corners, and when nothing but the most careful tight tolerances are required, she uses them.
         - This is of course all about experience, and I think translates perfectly to software engineering
-            - When to optimise an inner loop, 
+            - When to optimise an inner loop,
                 - or when to know You Ain't Gonna Need It
             - What jobs requires us to choose more comprehensive tools (such as precise modelling in Rust), or when we can get away with throwing something together quickly in, say, Ruby On Rails
     - I recommend becoming what Valve calls "T shaped people"
@@ -140,3 +138,83 @@ Let's patch up your computer science theory with what I think are forgotten foun
 - tooling
 - unix/scripts/makefile/etc
 - infra
+
+# 2026-07-24 - 16:32
+
+> I thought the prerequisite to becoming a successful tech founder, my real goal, was becoming a good (well-rounded) engineer.   
+> As someone who has been running their own business and might know others doing it in the tech sector, I wanted to hear your thoughts about this.   
+> how to practically approach this and really just demystifying startups for me based on your experience.
+
+- crypto being more inclusive? oh is it
+    - start a crypto company, focussed on financial services
+    - not sure what to do
+- do you need to be a good engineer to be a good founder?
+    - find a partner who knows business
+    - get a US partner
+- get the investor video
+- vibe coding is eating all the low hanging fruit
+- bootstrappers bible
+- actionables
+    - built tiny projects
+    - what is overcomplicated
+    - open source is never a waste of time
+    - ideas
+        - beer brewing calculator
+        - weight tracker app
+        - 
+- https://www.youtube.com/watch?v=geiTg6Z7w3A
+- easy to give up if running on motivation
+    - this is why demos to real humans work
+    - every day before mvp
+- every tool's a hammer
+    - use everything that you have learned
+- Rework
+    - https://www.goodreads.com/en/book/show/6732019-rework
+    - The best little book on tech startups including such wisdom as:
+        - "Meetings are toxic"
+        - "Your estimates suck"
+        - "Say no by default"
+- Stardew valley wasn't always so flashy!
+    - https://www.youtube.com/watch?v=geiTg6Z7w3A
+
+ 
+# 2026-08-03 - 16:00
+
+- exciting idea, but
+- when people are paying you, you have a business
+- think of https://itch.io/
+- not in a rush to make money
+- user feedback at first, not money
+- manim?
+- antiscocial deduction
+    - game mechanics - automating reputation
+    - kinda werewolf/mafia/secret hitler - but where you are rewarded for being right
+     
+        - https://boardgamegeek.com/boardgame/261403/inhuman-conditions
+    - voting on a decision that has a hidden right answer
+    - those who get answers right, get weighted higher in future votes
+    - poker example
+        - you all share a seat, but get weighted on how you play a hand
+        - use blackjack! 17!
+
+
+- this is your first game, so it'll be your worst!
+    - Heard of _17CF Quest_ or _Air Pear_? me either - those were the games that ConcernedApe made before Stardew Valley!
+- extra learning?
+    - work on the parts of the project you are weak at - music, sound, animations, art etc
+    - You can still fitting in the reading I recommended in the background
+        - if you have those books on your phone ready to read at all times, you'll get through them one bathroom break at a time!
+- when to stop?
+    - notice when people are not genuinly excited by what you're doing
+    - be honest with feedback, put it in a spreadsheet and give yourself deadlines
+    - don't abandon the project immediately, trust your own taste, but notice what works and what doesn't
+- where to start?
+    - make "working, but *not* good enough" online demo
+    - don't have any graphics at the start, graphics take too long! use text and emojis
+    - cheat with a simple off-the-shelf theme, something like https://nostalgic-css.github.io/NES.css/
+- R&D
+    - YOU get to learn while you make the game
+    - if the game fails, the research will have still succeeded!
+    - and the NEXT game will be better
+
+ 
