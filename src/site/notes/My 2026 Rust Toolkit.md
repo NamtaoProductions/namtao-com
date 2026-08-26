@@ -1,20 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:07:20.358+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
+{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-08-26T08:11:33.156+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"producing","modified":"2026-08-08T09:59:14.933+01:00"}}
 ---
-
-
-
-
-
-
-
-## <span style="color: palette:blue">MY RUST TOOLKIT</span>
-
-
-
-_2026 edition_
-
-
 
 
 Hi folks. Today I'm going to demo my 2026 toolkit for writing rust, containing a dozen or so tools & packages that I use in every project, along with smart default config.
@@ -28,7 +14,7 @@ I'll start with the single tool that I manage nearly all of this with:
 
 
 
-## <span style="background-color: #222">PART 0:</span>
+# PART 0: DEVENV
 
 
 
@@ -36,7 +22,6 @@ I'll start with the single tool that I manage nearly all of this with:
 
 
 
-## <span style="background-color: #222">DEVENV</span>
 
 
 
@@ -46,8 +31,6 @@ I'll start with the single tool that I manage nearly all of this with:
 
 Not everyone is powerful enough to use nix, I know I wasn't for many years, but there is a gateway drug available in DEVENV, which you can think of as a json-like DSL or schema that gives you access to the largest package repository on the planet, config for those packages, and per-project isolation without the overhead of containers.
 (Finally no more VMs to run docker on mac in!)
-
-Just look at what we've got configured in a single file:
 
 ---
 
@@ -63,7 +46,6 @@ Just look at what we've got configured in a single file:
 
 
 
-## <span style="background-color: #222">DEVENV</span>
 
 
 
@@ -152,7 +134,7 @@ Let me show you how I use all these together.
 
 
 
-## <span style="background-color: #222">PART 1: TOOLING</span>
+# <span style="background-color: #222">PART 1: TOOLING</span>
 ```toml {99}
 $ rustup update nightly
 info: syncing channel updates for nightly-x86_64-unknown-linux-gnu
@@ -171,7 +153,7 @@ rust-analyzer installed                        9.04 MiB
 
 
 
-# RUSTUP
+## RUSTUP
 
 > Install and easily switch between stable, beta, and nightly compilers and keep them updated.
 
@@ -199,7 +181,7 @@ The benefits, not least to compile times, have been worth the one or two occasio
 Like, just this WEEK, the new traitsolver that dropped in nightly can make some crates like apache datafusion compile more than 8x faster!
 This is rust, nightly builds are REALLY stable!
 
-# CARGO
+## CARGO
 
 > Rust's package manager and swiss army knife
 
@@ -225,7 +207,7 @@ See 'cargo help <command>' for more information on a specific command.
 
 Now Rust is installed, it's time to speedrun the primary tool for interacting with the whole ecosystem: Cargo.
 
-# CARGO NEW
+## CARGO NEW
 
 > Create a new rust project
 
@@ -259,7 +241,7 @@ $ tree
 
 `cargo new`, creates a blank, rust project with a hello world main file, and a `Cargo.toml` config
 
-# SEARCH & ADD
+## SEARCH & ADD
 
 > Search packages in the registry. Default registry is crates.io
 
@@ -287,7 +269,7 @@ Honourable mention: `cargo-shear`, removes dependencies you're no longer using
 Before opening your browser and heading to crates.io, or - my favourite - lib.rs, to find a package for this or that, try `cargo search`.
 Your search results are there right in your terminal, ready to add without opening your `Cargo.toml` with `cargo add`, specifying any features you need using the `--feature` flag
 
-# CARGO INFO
+## CARGO INFO
 
 > Displays information about a package
 
@@ -336,7 +318,7 @@ cargo seek -s rayon
 Is a pretty TUI wrapping all three of these commands, which you can install using Cargo's binary installer command, `cargo install`.
 In this case, run `cargo install cargo-seek` and after compilation, the cargo-seek binary will be added to the `.cargo/bin` directory, which you should make sure is in your `$PATH`.
 
-# CLIPPY
+## CLIPPY
 
 > Checks a package to catch common mistakes and improve your Rust code.
 
@@ -361,7 +343,7 @@ error: used `unwrap()` on a `Result` value
 Rust comes included with all the batteries you need to get up and running, including the most comprehensive linter and code checker you will have ever used, called clippy.
 Out of the box, it's fine, but you can give it TEETH.
 
-# CLIPPY CONFIG
+ ---
 
 
 
@@ -435,7 +417,7 @@ In addition to setting up your editor with the LSP server that comes with rustup
 
 Remember, that the first error in your file is not always the one to fix - the first error in the COMPILER output usually is.
 
-# CARGO-NEXTEST
+## CARGO-NEXTEST
 
 > next-generation test runner
 
@@ -486,7 +468,7 @@ And it does all this up to 3x faster than cargo test.
 
 PRETTY GOOD, RIGHT?
 
-# CARGO-GENERATE
+## CARGO-GENERATE
 
 > _cargo, make me a project_
 
@@ -528,7 +510,7 @@ exa -T generate-demo
 
 Cargo generate allows you to specify internet-accessible templates to quickly scaffold larger frameworks such as a web app, the example here is from leptos. More on THAT crate later.
 
-# WATCHEXEC
+## WATCHEXEC
 
 > execute commands in response to file modifications
 
@@ -604,14 +586,14 @@ See my video "Writing At The Speed of Thought" for details on WHY you should lea
 
 ALL with vim keybindings.
 
-## <span style="background-color: #222">PART 2: MY STANDARD LIBRARY</span>
+# <span style="background-color: #222">PART 2: MY STANDARD LIBRARY</span>
 
 
 
 
 Rust has a very rich standard library providing functions and types for high and low level applications - SOME might say it has TOO many string types - but we can augment this with some crates that are so ubiquitous and mature that they have become my own personal standard library.
 
-# COLOR-EYRE
+## COLOR-EYRE
 
 > error report handler for panics and eyre::Reports for colorful, consistent, and well formatted error reports
 
@@ -638,7 +620,7 @@ The Result type is used in any fallible function, so you always know what you ar
 
 But specifying all the kinds of errors a function can return gets old fast, and so the community standardised on the `anyhow` crate. My favourite fork of which is, `eyre`, and specifically `color-eyre`, which allows for beautiful as well as ergonomic error handling.
 
-# ITERTOOLS
+## ITERTOOLS
 
 > Extra iterator adaptors, iterator methods, free functions, and macro
 
@@ -692,7 +674,7 @@ And like the python library of the same name, itertools contains advanced iterat
 And remember, this is rust: It all compiles down to for loops and if statements:
 It's a zero-cost abstraction, the cost being your sanity!
 
-# CRITERION
+## CRITERION
 
 > Statistics-driven micro-benchmarking library
 
@@ -746,7 +728,7 @@ Found 11 outliers among 99 measurements (11.11%)
 
 `cargo bench`, like `cargo test` has a pluggabe backend, and `criterion` provides advanced statistics and report generation which even include pretty gnuplot charts.
 
-# RAYON
+## RAYON
 
 > simple work-stealing parallelism for Rust
 
@@ -776,7 +758,7 @@ If you build your logic in Rust's lazy iterators, mutated by simple functions, y
 
 
 
-## <span style="background-color: #222">PART 3: GO-TO CRATES</span>
+# <span style="background-color: #222">PART 3: GO-TO CRATES</span>
 
 
 
@@ -785,7 +767,7 @@ If you build your logic in Rust's lazy iterators, mutated by simple functions, y
 
 So, I've shown you my essential standard library of crates that I use in every one of my projects, now here are some rock stars that I use in NEARLY every project.
 
-# SERDE
+## SERDE
 
 > generic serialization/deserialization framework
 
@@ -818,7 +800,7 @@ Honourable mention: `nanoserde` zero-deps derive-based serde for json & toml.
 
 Nearly every application needs to serialise or deserialise data, which in Rust means the `serde` create. If you're not using it directly, your dependencies certainly are!
 
-# JIFF
+## JIFF
 
 > A date-time library that encourages you to jump into the pit of success.
 > _(the author helpfully clarifies that it's pronounced like "GIF")_
@@ -845,7 +827,7 @@ Honourable mention: `chrono`, the old master.
 
 Ergonomic time handling. The standard library is fine, but we can do better!
 
-# CLAP
+## CLAP
 
 > A simple to use, efficient, and full-featured Command Line Argument Parser
 
@@ -899,7 +881,7 @@ Honourable mention: `bpaf`, argparsing with clear combainators
 Rust's built-in argument parsing is good, but far better is to use the `derive` feature of `clap` and organise it all into a neat struct, with parsed data and help documentation derived for you.
 Remember, kids, it's argeparse, not argvalidate. Do it once, and, ideally, let clap do it for you.
 
-# COMMAND-RUN
+## COMMAND-RUN
 
 > a thin wrapper around the `std::process::Command` type with a few additional convenient features:
 
@@ -1022,7 +1004,7 @@ async fn get_pet_by_id(pet_id: u64) -> Result<Pet, std::io::ErrorKind> {
 
 Continuing the bad spelling of crates like `reqwest`, `utoipa` allows any popular backend Rust web framework from `axum` to `rocket`, to become a self-documenting statically-typed REST API.
 
-# REQWEST
+## REQWEST
 
 > higher level HTTP client library
 
@@ -1051,7 +1033,7 @@ Yes, it's spelled like that. The authors SAY they chose that spelling because it
 
 Reqwest has both sync and async versions of your favourite HTTP verbs, and operates by default on RUSTLS, the pure rust cryptographic library that can replace OpenSSL.
 
-# SQLX
+## SQLX
 
 > An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
 
@@ -1082,7 +1064,7 @@ let countries = sqlx::query_as!(
 Combine `utoipa` with the compile-time verified queries of SQLX and your business logic is modelled in a single struct, across models, views, and controllers!
 Install the `sqlx-cli` for DB management, migrations, and offline validation.
 
-# LEPTOS
+## LEPTOS
 
 > full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces
 
@@ -1119,7 +1101,7 @@ Though it also supports server side rendering, and therefore could be used on th
 The `trunk` utility is the Swiss army knife here, providing hotreloading, auto bundling of CSS and static assets, tailwind integration, and like a billion other features.
 You don't have to write React any more!
 
-# DIOXUS
+## DIOXUS
 
 > Build fullstack web, desktop, and mobile apps with a single codebase; A "better Flutter": faster, slimmer, and web-native.
 
@@ -1174,7 +1156,7 @@ For a lighter option that just replaces Electron, try the `Tauri` crate, based o
 
 
 
-## <span style="background-color: #222">DEVENV.SH</span>
+# <span style="background-color: #222">DEVENV.SH</span>
 
 
 
