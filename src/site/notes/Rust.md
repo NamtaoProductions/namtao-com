@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-08-26T08:06:34.490+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-09-03T08:03:53.758+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library
@@ -116,7 +116,7 @@ devenv inputs add rust-overlay github:oxalica/rust-overlay --follows nixpkgs
 
 > The typestate pattern is an API design pattern that encodes information about an object's run-time state in its compile-time type.
 
-I maintain the best example of this pattern here: https://github.com/0atman/typestate-template
+I maintain the best example of this pattern I could find here: https://github.com/0atman/typestate-template
 
 ```rust
 //NOTE: This is psudocode, read the repo for working code
