@@ -1,0 +1,21 @@
+{%if settings.dgHomeLink === true%}
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <a href="/" style="text-decoration: none;">
+                {% if meta.siteLogoPath %}
+                    <img class="site-logo" src="{{meta.siteLogoPath}}" alt="{{meta.siteName}}">
+                {% else %}
+                    <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+                {% endif %}
+            </a>
+        </div>
+        <div class="navbar-actions">
+            {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
+            {% include "components/pagePanelButton.njk" %}
+        </div>
+    </nav>
+    {%else%}
+    <div class="empty-navbar" >
+        {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
+    </div>
+{%endif%}

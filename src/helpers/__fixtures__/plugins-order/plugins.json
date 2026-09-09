@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "plugins": {
+    "one": {
+      "order": 5
+    },
+    "three": {
+      "order": -1
+    },
+    "two": {
+      "order": "not a number"
+    }
+  }
+}

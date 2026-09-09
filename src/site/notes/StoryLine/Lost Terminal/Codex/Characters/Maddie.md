@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/story-line/lost-terminal/codex/characters/maddie/","hide":true,"tags":["character"],"noteIcon":"","updated":"2026-09-09T08:46:18.668+01:00","dg-note-properties":{"voice":null,"archetype":"satalite maintenance scutter","home":"[[Lost Terminal/Molly Hughes II]]","hair":null,"eyes":null,"pronouns":"she/her","ai":true,"birthdate":"2077-07-13","deathdate":null,"groups":["Station 6"],"aliases":["MAT-3"],"created":"2025-02-23T16:17","updated":"2025-03-17T17:57","up":["[[LT Characters]]"],"image":"[[Resources/Meta/attachments/Maddie hoog.png]]","current-location":"[[Lost Terminal/Longyearbyen]]","tags":["character"],"type":"character","name":"Maddie","modified":"2026-06-17","relations":[{"category":"social","type":"best-friend","target":"Lyosha Omarov"},{"category":"family","type":"ward","target":"Seth"},{"category":"social","type":"friend","target":"Linda Noor"},{"category":"social","type":"friend","target":"Heaton"}]}}
+---
+
+
+ 

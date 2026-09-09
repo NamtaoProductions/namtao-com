@@ -1,0 +1,10 @@
+{
+  "id": "two",
+  "name": "two",
+  "version": "1.0.0",
+  "description": "Order fixture",
+  "author": "Fixture",
+  "slots": {
+    "common.footer": "templates/item.njk"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "moc-nav",
+  "name": "MOC Navigation",
+  "version": "1.0.1",
+  "description": "Replaces the file tree with a Map of Content: navigation built from the links in your home note.",
+  "author": "Ole Eskild Steensen",
+  "regions": {
+    "navigation": "templates/moc-nav.njk"
+  },
+  "styles": ["styles/moc-nav.scss"],
+  "settings": [
+    {
+      "key": "heading",
+      "name": "Sidebar heading",
+      "description": "Small label shown above the map of content.",
+      "type": "text",
+      "default": "Map of Content",
+      "env": "MOC_NAV_HEADING"
+    }
+  ],
+  "noteSettings": ["dgShowFileTree"]
+}
