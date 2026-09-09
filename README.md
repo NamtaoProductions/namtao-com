@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/digital-garden-dark.svg">
+    <img src="img/digital-garden.svg" alt="Digital Garden logo" width="128" height="128">
+  </picture>
+</p>
+
 # Digital Obsidian Garden
 This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden).
 See the README in the plugin repo for information on how to set it up.
@@ -7,6 +14,34 @@ See the README in the plugin repo for information on how to set it up.
 ---
 ## Docs
 Docs are available at [docs.forestry.md](https://docs.forestry.md/)
+
+---
+## Plugins
+
+The garden is extensible through plugins: directories under `src/plugins/`
+that add markup to layout slots, site-wide styles and scripts, and
+build-time Eleventy/markdown-it hooks. Core features like search
+(`dg-search`), link previews (`dg-link-preview`), timestamps
+(`dg-timestamps`), and math (`dg-math`) are themselves plugins built on
+this API — `dg-link-preview` is the smallest one to read first.
+
+- Docs (installing plugins, writing your own): [docs.forestry.md](https://docs.forestry.md/)
+- Reference code: the first-party plugins under [`src/plugins/`](src/plugins/)
+- Building plugins with an AI agent: this repo ships a
+  [`garden-plugin-author` skill](skills/garden-plugin-author/SKILL.md) in
+  the open [Agent Skills](https://skills.sh) format, teaching agents how
+  to create, test, and publish garden plugins. Install it into any
+  harness (Claude Code, Cursor, Codex, …) with:
+
+  ```sh
+  npx skills add oleeskild/digitalgarden
+  ```
+
+To try a third-party plugin manually, drop its directory into
+`src/plugins/` — a valid `garden-plugin.json` is all it takes. Disable any
+plugin via `src/plugins/plugins.json` (`{"plugins": {"dg-search": {"enabled": false}}}`).
+Only install plugins from authors you trust: plugin code runs in your site
+build and in your visitors' browsers.
 
 ---
 ## CSS Variables
