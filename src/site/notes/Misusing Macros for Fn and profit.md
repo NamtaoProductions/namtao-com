@@ -5,13 +5,13 @@
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Misusing Macros for fn and Profit (Live @EuroRust '25!)" width="100%" height="100%" src="https://makertube.net/videos/embed/iCQbmo1mTzVmh5ki5Su4pT" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
+<!-- no_footer -->
 
+<!-- new_lines: 8 -->
+<!-- column_layout: [13,5] -->
+<!-- column: 0 -->
 
-
-
-
-
-
+<!-- alignment: left -->
  ---
 
 Today I'm going to talk about Rust’s compile-time, outside the focus of type correctness and safety, which gets all the press. This is a topic that is under-served, I believe, because it’s such an alien idea (except for lisp programmers!). AND YET IT’S SO COOL!
@@ -33,7 +33,7 @@ It's no secret how this happened: It is thanks to the skill, experience, and for
 
 ---
 ## RETROFITTING ALWAYS SUCKS
-
+<!-- alignment: center -->
 
 - `Types Checking`
     - MyPy for Python
@@ -66,8 +66,8 @@ Metaprogramming is nearly always left out or nerfed in programming languages bec
 
 ---
 
-
-
+<!-- new_lines: 7 -->
+<!-- font_size: 3 -->
 
 ## _SOMETIMES TO FIND OUT, ONE SIMPLY MUST FUCK AROUND_
 
@@ -77,7 +77,7 @@ And I discovered it almost by accident.
 ---
 
 # <span class="highlight">PART 1:</span>
-
+<!-- new_lines: 1 -->
 
 ## MY CONST JOURNEY
 
@@ -85,9 +85,9 @@ And I discovered it almost by accident.
 fn addone(x: i32) -> i32 { x + 1 }
 ```
 
+<!-- new_lines: 3 -->
 
-
-
+<!-- alignment: right -->
 
 What is wrong here?
 
@@ -107,9 +107,9 @@ nursery       = { level = "deny", priority = -1 }
 unwrap_used   = "deny"
 ```
 
+<!-- new_lines: 2 -->
 
-
-
+<!-- alignment: right -->
 
 If you've set up clippy to neg your code by erroring on pedantic lints, which I do because I love pain, this simple rust function will not compile.
 
@@ -118,7 +118,7 @@ If you've set up clippy to neg your code by erroring on pedantic lints, which I 
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/vim-comptime-error.png)
 
-
+<!-- alignment: center -->
 `rust-analyzer` is incredible...
 
 A quick aside on how much I love the combination of bacon and clippy.
@@ -131,7 +131,7 @@ Compare this inline error with:
 # CLIPPY SAVES YOUR BACON 🐷
 ![image:width:100%](/img/user/Resources/Meta/attachments/bacon-comptime.png)
 
-
+<!-- alignment: center -->
 
 ...and `bacon clippy` is a perfect pairing
 
@@ -148,7 +148,7 @@ As happened with my const journey.
 $ cargo clippy
 
  1  error: this could be a `const fn`
-    src/main.rs:20:1
+   --> src/main.rs:20:1
     |
  20 | fn addone(x: i32) -> i32 { x + 1 }
     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -175,10 +175,10 @@ For example:
 ---
 # CONSTANT FUNCTIONS
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ```rust {4-6} +validate:rust-script
 const fn i_square(x: i32) -> i32 {
@@ -192,9 +192,9 @@ const fn f_square(x: f32) -> f32 {
 }
 ```
 
+<!-- column: 1 -->
 
-
-
+<!-- new_lines: 1 -->
 ```rust
 error: cannot call non-const fn
 `powi` in constant functions
@@ -203,8 +203,8 @@ error: cannot call non-const fn
     |     ^^^^^^^^^
 // (error output lightly edited)
 ```
-
-
+<!-- reset_layout -->
+<!-- alignment: right -->
 
 (btw, `powi()` et al. is available in `lib.rs/crates/const_soft_float`)
 
@@ -237,7 +237,7 @@ const fn demo(x: i32, y: i32, f: f64) -> &'static str {
 		_             => "Keep searching..."}}
 ```
 
-
+<!-- alignment: center -->
 
 _(TIP: try `https://lib.rs/crates/konst` for const std functions)_
 
@@ -247,7 +247,7 @@ Presenterm runs all my rust code blocks through the compiler, it ran it just now
 
 ![image:width:90%](/img/user/Resources/Meta/attachments/presenterm-temp.png)
 
-
+<!-- alignment: center -->
 
 🔗 github.com/mfontanini/presenterm
 💝 github.com/sponsors/mfontanini
@@ -274,7 +274,7 @@ const fn demo(x: i32, y: i32, f: f64) -> &'static str {
 		_             => "Keep searching..."}}
 ```
 
-
+<!-- alignment: center -->
 
 _(TIP: try `https://lib.rs/crates/konst` for const std functions)_
  
@@ -306,11 +306,11 @@ And just like with the escape hatch of unsafe, macros are the escape hatch of co
 ---
  ---
 # MACROS
-
+<!-- alignment: center -->
 _(my favourite breakfast cereal)_
 
-
-
+<!-- font_size: 2 -->
+<!-- new_lines: 1 -->
 
 ```rust +validate:rust-script
 const compiletime: &str = env!("PATH");
@@ -318,12 +318,12 @@ const compiletime: &str = env!("PATH");
 
 Macros execute arbitrary code at compile time, and then can insert the results of that processing as potentially const values, like here, the result of interrogating the path is a const, static string.
 
-
+<!-- new_lines: 3 -->
 
 ---
  ---
-
-
+<!-- new_lines: 2 -->
+<!-- font_size: 4 -->
 # THE WHOLE LANGUAGE
 # IS AVAILABLE
 # AT COMPILE TIME
@@ -331,8 +331,8 @@ Macros execute arbitrary code at compile time, and then can insert the results o
 Arbitary code execution while compiling is an extremely clever trick that LISP had figured out in the 1950s.
 # MACROS ARE AMAZING
 
-
-
+<!-- column_layout: [2,1] -->
+<!-- column: 0 -->
 
 PATH at runtime:
 ```rust {3} +validate:rust-script
@@ -359,9 +359,9 @@ This unassuming example is WILD:
 
 in all these other languages, the source files are effectively dead text until the end user calls them to wake them up.
 
+<!-- pause -->
 
-
-
+<!-- column: 1 -->
  1. &nbsp;❌JavaScript
  2. &nbsp;❌Python
  3. &nbsp;❌Java
@@ -383,13 +383,13 @@ in all these other languages, the source files are effectively dead text until t
  19. ✅Rust
  20. ❌Dart
 
-
+<!-- reset_layout -->
 
 ---
 # RUNTIME VS COMPILETIME
 
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ```rust {4, 9}
 #[proc_macro]
@@ -405,7 +405,7 @@ Executes when inserted code is called:
 runtime!();
 ```
 
-
+<!-- column: 1 -->
 
 ```rust {4, 9}
 #[proc_macro]
@@ -420,7 +420,7 @@ Executes immediately during compilation:
 comptime!();
 ```
 
-
+<!-- reset_layout -->
 
 Everyone clear?
 You can rewrite syntax and have your function call at runtime,
@@ -428,7 +428,7 @@ or you can run the code during compilation RIGHT NOW.
 
 ---
  ---
-
+<!-- new_lines: 5 -->
 
 # WHAT CAN WE DO?
 
@@ -481,7 +481,7 @@ lisp!(defun factorial ((n i32)) i32
            help: a function with a similar name exists: `factorial`
 ```
 
-
+<!-- alignment: right -->
 
 *Not as nice as runtime, sure, but improving all the time
 
@@ -491,7 +491,7 @@ This crate effectively teaches the rust compiler to speak lisp using the macro s
 ---
 # THIS EVEN WORKS IN-EDITOR
 
-
+<!-- new_lines: 1 -->
 
 ```rust {4-6}
     1 ▎ lisp!(defun factorial ((n i32)) i32
@@ -504,8 +504,8 @@ This crate effectively teaches the rust compiler to speak lisp using the macro s
  NORMAL   master   1  6  󱘗  src/main.rs               2   169  1  1
 ```
 
-
-
+<!-- alignment: right -->
+<!-- new_lines: 1 -->
 
 (This is Neovim. Other editors, I understand, are available)
 
@@ -529,7 +529,7 @@ pub fn make_answer(_item: TokenStream) -> TokenStream {
 ```
 
 Sure you can use macros to just rewrite syntax...
-
+<!-- alignment: right -->
 ...but where's the fun in that? 😈
 
 But the power is much more than rewriting code or reducing boilerplate - though I love that feature.
@@ -539,10 +539,10 @@ Want to execute code that has NOTHING to do with the eventual syntax you will in
 
 ---
 
-
+<!-- new_lines: 1 -->
 
  ---
-
+<!-- font_size: 4 -->
 
 ## WHY HAVE I NEVER REALISED THIS BEFORE?
 
@@ -553,7 +553,7 @@ This secret compile-time world is inaccessible to most other languages for techn
 
 ![image:width:60%](/img/user/Resources/Meta/attachments/model-checking-screenshot-macros.jpg)
 
-
+<!-- alignment: center -->
 
 It happens to the best of us!
 
@@ -563,8 +563,8 @@ This is completely understandable.
 
 ---
 
-
-
+<!-- new_lines: 5 -->
+<!-- font_size: 4 -->
 
 ## IT'S DIFFICULT TO MISS
 ## WHAT YOU'VE NEVER KNOWN
@@ -583,7 +583,7 @@ LISP might be the best language for your project technically, but try changing a
 
 ---
 
-
+<!-- new_lines: 3 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/language-by-abstraction-xkcd-edit.png)
 
@@ -621,7 +621,7 @@ This was one of the key breakthroughs with Lisp, 70 years ago, and yet most impl
 There is not need for this fear, we've had 70 years to solve the problems and build good rules.
 
 ---
-
+<!-- new_lines: 3 -->
 
 ## NEVER DO IN A <span class="highlight">MACRO</span> WHAT YOU CAN DO IN A <span class="highlight">FUNCTION</span>
 
@@ -630,9 +630,9 @@ There is some ancient wisdom passed down from the wise lisp masters for us to le
 Such as "never do in a macro what you can do in a function"
 
 # <span class="highlight">PART 4:</span>
+<!-- new_lines: 2 -->
 
-
-
+<!-- font_size: 4 -->
 
 ## WHAT SHOULD WE
 ## <span class="highlight">_NOT_</span> DO?
@@ -646,7 +646,7 @@ BUT THAT DOESN'T MEAN YOU SHOULD BE AFRAID OF THEM
 
 ![image:width:50%](/img/user/Resources/Meta/attachments/slms-clean-room.png)
 
-
+<!-- alignment: center -->
 
 (Image of the South London Makerspace, my new home)
 
@@ -694,10 +694,10 @@ but this is GOOD.
 
 ---
 
+<!-- new_lines: 2 -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 - `JAVASCRIPT`
     - Babel
@@ -716,9 +716,9 @@ but this is GOOD.
 - `RUBY`
     - civol/ppr
 
-
+<!-- column: 1 -->
 ![image:width:85%](/img/user/Resources/Meta/attachments/look-what-they-need.png)
-
+<!-- reset_layout -->
 
 Look what they need to mimic a fraction of our power!
 
@@ -733,7 +733,7 @@ And before you speak, I can already hear you ask:
 ---
 # PART 5:
 
-
+<!-- font_size: 4 -->
 
 ## AREN'T THERE
 ## 😈 SECURITY 👻
@@ -745,8 +745,8 @@ And to that I say:
 ---
  ---
 
-
-
+<!-- font_size: 2 -->
+<!-- incremental_lists: true -->
 
 1. Shut up
 2. Don't worry about it
@@ -769,7 +769,7 @@ Firstly, only allowing arbitary code execution at runtime isn't the solution tha
 You know what I almost always do after I compile my code? I run my code!
 Secondly,
 
-
+<!-- pause -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/vscode-restricted-mode-screenshot.png)
 
 THIS PROBLEM IS ALREADY FIXED in vscode, the editor for babies who are afraid of the command line. (I'm kidding, kindof)
@@ -777,7 +777,7 @@ THIS PROBLEM IS ALREADY FIXED in vscode, the editor for babies who are afraid of
 But there's a much more important reason why I don't care about imagined macro secrutity problems raised by people who have never used a language with them, and it's this:
 
 ---
-
+<!-- new_lines: 3 -->
  ---
 
 # _THEY GET TO PROGRAM THE COMPUTER_
@@ -789,7 +789,7 @@ I don't know, what if it executes good code?
 
 ---
 
-
+<!-- font_size: 2 -->
 
 ```shell
 $ ./configure # code executing here
@@ -827,7 +827,7 @@ let todos = sqlx::query_as!(
 ```sql {2}
  1  error: error returned from database:
            (code: 1) no such column: TYPO
-    src/main.rs:44:21
+   --> src/main.rs:44:21
     |
  44 |           let todos = sqlx::query_as!(
     |  _____________________^
@@ -974,8 +974,8 @@ const VALUE_STR: &'static str = run_command_str!("uname", "-a");
 ---
 
 # ASIDE:
-
-
+<!-- new_lines: 2 -->
+<!-- font_size: 6 -->
 
 # MARA'S <span class="highlight">CRIMES</span>
 
@@ -1043,20 +1043,20 @@ fn main() {
     }
 }
 ```
-
+<!-- alignment: right -->
 
 > "Please do not use this" - Mara Bos
 
 At least she has some shame about this one...
 
 ---
-
+<!-- new_lines: 6 -->
 
 I'm have presented this evidence because she can't keep getting away from this.
 
 ---
 
-
+<!-- skip_slide -->
 
 
 ## CRATE HONOURABLE MENTIONS
@@ -1085,9 +1085,9 @@ And a bucket of good crates:
   └─MASTODON─────┘
 ```
 
+<!-- column: 1 -->
+<!-- font_size: 1 -->
 
-
-
-
+<!-- new_lines: 2 -->
 
 Thank you!

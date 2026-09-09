@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/savepoint-rs-video/","tags":["project/nb"],"noteIcon":"","updated":"2026-05-17T14:28:21.000+01:00","dg-note-properties":{"start":"2026-04-08","due":"2026-04-27","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
-
+<!-- new_lines: 1 -->
 
 ![image:width:50%](/img/user/Resources/Meta/attachments/savepoint-white.png)
 _(graphics design is my passion)_
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Hi friends my name is Tris and this is No Boilerplate, where I focus on fast, technical videos.
 
@@ -15,26 +15,26 @@ I've made a little project for you that's ready to use today, but first, story t
 
 ---
 
-
-
-
+<!-- font_size: 2 -->
+<!-- alignment: left -->
+<!-- font_size: 3 -->
 <span style="color: #88f">ME</span>
 
-
+<!-- font_size: 2 -->
 *Hey, could you help me? I don't understand what's wrong...*
 
 *I've been staring at this code for an hour and at this point I just want to burn it all down!*
-
-
+<!-- alignment: right -->
+<!-- font_size: 3 -->
 <span style="color: #f88">SENIOR</span>
-
+<!-- font_size: 2 -->
 
 *No problem!*
 
 *First off, great instincts, delete your changes-*
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 A few years ago, I was a mid-level developer working in a new team.
 Like happens now and then when you are writing software, I had got myself tied up in a problem, and seemed to be going round in circles:
@@ -48,12 +48,12 @@ What she wanted us to do was start over, revert to the last working commit and t
 
 ---
 
-
+<!-- new_lines: 9 -->
 
 ```mermaid
 flowchart LR
 
-broken["BROKEN"]revert["Revert changes, try again"]|way faster!|fixed["FIXED"]
+broken["BROKEN"]-->revert["Revert changes, try again"]-->|way faster!|fixed["FIXED"]
 broken-.->debug["Keep debugging"]-.->|unbounded debugging time|fixed
 
 style fixed fill:#245d2e,color:white,stroke-width:0px
@@ -62,8 +62,8 @@ style revert fill:#245d2e,color:white,stroke-width:0px
 style debug fill:#932727,color:white,stroke-width:0px
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 I was HORRIFIED - we would be wasteing hours of work, I thought!
 But I was wrong, she was trying to save me from the sunk cost fallacy.
@@ -78,7 +78,7 @@ When I asked her where she learned this horrible (but effective) technique, she 
 
 # TEST-DRIVEN DEVELOPMENT
 
-
+<!-- new_lines: 6 -->
 
 ```mermaid
 flowchart LR
@@ -89,17 +89,17 @@ style ok fill:#245d2e,color:white,stroke-width:0px
 err@{ shape: diam, label: "TESTS\nFAILED" }
 ok@{ shape: diam , label: "TESTS\nPASSED"}
 
-err|Improve the CODE|ok
-ok|Improve the TESTS|err
+err-->|Improve the CODE|ok
+ok-->|Improve the TESTS|err
 ```
 
-
-
+<!-- new_lines: 8 -->
+<!-- alignment: right -->
 For more info, watch my video:
 ["Compiler-Driven Development in Rust"](youtube.com/watch?v=Kdpfhj3VM04)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 In TDD, you build the tests and code iteratively and complementary to each other.
 Improve the tests until they fail, then improve the code so the tests pass.
@@ -115,30 +115,30 @@ I forgot all about these thoughts until today.
 
 ---
 
-
+<!-- new_lines: 2 -->
 
 ![image:width:40%](/img/user/Resources/Meta/attachments/cc-zero-2k.png)
 
-
+<!-- new_lines: 3 -->
 ## PUBLIC DOMAIN VIDEOS
 
-
+<!-- new_lines: 1 -->
 
 > [!NOTE] &nbsp;Notes
 > - For all links, read my scripts at www.namtao.com
 > - All footnotes<sup>1</sup> are in the video description.
 
+<!-- column_layout: [5,1] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
 
-
-
-
-
+<!-- new_lines: 0 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/white-logo.png)
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 I dedicate my video scripts to the public domain.
 
@@ -148,25 +148,25 @@ Everything you see here: script, links, and images are part of a Markdown docume
 
 ![image:width:40%](/img/user/Resources/Meta/attachments/savepoint-white.png)
 
-
+<!-- new_lines: 1 -->
  ---
-
-
+<!-- new_lines: 2 -->
+<!-- font_size: 2 -->
 
 _github.com/NamtaoProductions/savepoint_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 SO, on that note: I've just published a tiny command-line tool called Savepoint. It's a command watcher that commits when you fix errors.
 Here's a demo:
 
 ---
 
+<!-- column_layout: [1,2,1] -->
+<!-- column: 0 -->
 
-
-
-
+<!-- new_lines: 5 -->
 ```html {1-10}
 RUNS TESTS, WHICH PASS
 
@@ -175,7 +175,7 @@ RUNS TESTS, WHICH PASS
 
 GREAT! BREAK IT!
 ```
-
+<!-- new_lines: 8 -->
 
 ```js {0}
 TESTS PASS!
@@ -188,7 +188,7 @@ MAKES A SAVEPOINT COMMIT
 WATCHES FOR CHANGES...
 ```
 
-
+<!-- column: 1 -->
  ---
 
 ```shell {1-9}
@@ -221,8 +221,8 @@ $ savepoint -f js -- yarn test
 🏁 SAVEPOINT: Monitoring..
 ```
 
-
-
+<!-- column: 2 -->
+<!-- new_lines: 13 -->
 
 ```js {0}
 RERUNS TESTS, WHICH FAIL
@@ -234,9 +234,9 @@ RERUNS TESTS, WHICH FAIL
 GREAT! FIX IT!
 ```
 
-
-
-
+<!-- reset_layout -->
+<!-- end_slide -->
+<!-- skip_slide -->
 
 To use it, specify the filetype you want to watch for changes and the command to watch.
 This would typically be your fastest unit test suite or if writing in a language like Rust, where if it compiles, it probably works, just your build command!
@@ -248,10 +248,10 @@ In this example, our yarn tests have passed, and checkpoint is monitoring the co
 Let's improve our tests to make the code fail.
 
 ---
+<!-- column_layout: [1,2,1] -->
+<!-- column: 0 -->
 
-
-
-
+<!-- new_lines: 5 -->
 ```html {0}
 RUNS TESTS, WHICH PASS
 
@@ -260,7 +260,7 @@ RUNS TESTS, WHICH PASS
 
 GREAT! BREAK IT!
 ```
-
+<!-- new_lines: 8 -->
 
 ```js {0}
 TESTS PASS!
@@ -273,7 +273,7 @@ MAKES A SAVEPOINT COMMIT
 WATCHES FOR CHANGES...
 ```
 
-
+<!-- column: 1 -->
  ---
 
 ```shell {1,10-17}
@@ -306,8 +306,8 @@ $ savepoint -f js -- yarn test
 🏁 SAVEPOINT: Monitoring..
 ```
 
-
-
+<!-- column: 2 -->
+<!-- new_lines: 13 -->
 
 ```js {1-10}
 RERUNS TESTS, WHICH FAIL
@@ -319,18 +319,18 @@ RERUNS TESTS, WHICH FAIL
 GREAT! FIX IT!
 ```
 
-
-
-
+<!-- reset_layout -->
+<!-- end_slide -->
+<!-- skip_slide -->
 
 OK, great, savepoint picked up our changes, reran the test command, and it's failed as expected.
 In TDD, when your tests fail, you improve your code to make them pass.
 
 ---
+<!-- column_layout: [1,2,1] -->
+<!-- column: 0 -->
 
-
-
-
+<!-- new_lines: 5 -->
 ```html {0}
 RUNS TESTS, WHICH PASS
 
@@ -339,7 +339,7 @@ RUNS TESTS, WHICH PASS
 
 GREAT! BREAK IT!
 ```
-
+<!-- new_lines: 8 -->
 
 ```html {1-10}
 TESTS PASS!
@@ -352,7 +352,7 @@ MAKES A SAVEPOINT COMMIT
 WATCHES FOR CHANGES...
 ```
 
-
+<!-- column: 1 -->
  ---
 
 ```shell {1,19-30}
@@ -385,8 +385,8 @@ $ savepoint -f js -- yarn test
 🏁 SAVEPOINT: Monitoring..
 ```
 
-
-
+<!-- column: 2 -->
+<!-- new_lines: 13 -->
 
 ```js {0}
 RERUNS TESTS, WHICH FAIL
@@ -398,9 +398,9 @@ RERUNS TESTS, WHICH FAIL
 GREAT! FIX IT!
 ```
 
-
-
-
+<!-- reset_layout -->
+<!-- end_slide -->
+<!-- skip_slide -->
 
 And when we do, savepoint picks up the changes, reruns the test command, which now passes.
 Because we have transitioned from a failing state to a passing state, savepoint makes a git commit of this known good code.
@@ -411,7 +411,7 @@ It does all this without user interaction, looping forever, ticktocking between 
 ---
 
 ## SQUASH YOUR COMMITS BEFORE PUSHING
-
+<!-- font_size: 2 -->
 ```sh {6-7}
 ...
 SAVEPOINT: Autosaving!
@@ -422,11 +422,11 @@ $ git reset --soft HEAD~3
 $ git commit -m "FEAT: New user page"
 ```
 
-
+<!-- font_size: 1 -->
 (it's what heroes do)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 You run it once at the start of the day, and forget about it until it's time to squash your commits and push your changes.
 
@@ -437,7 +437,7 @@ It's possible that I, or a kind contributor, will automate this in Savepoint in 
 Indeed, hopefully, there have already been many improvements and changes already implemented, suggested by my patrons, who see these videos before everyone else.
 
 ---
-
+<!-- new_lines: 3 -->
 
 ![image:width:30%](/img/user/Resources/Meta/attachments/patreon.png)
  ---
@@ -446,8 +446,8 @@ Indeed, hopefully, there have already been many improvements and changes already
 - 👨‍🏫 1:1 Mentoring over video chat
 - ❤️ My infinite gratitude for allowing me to continue making these videos
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure.
 
@@ -487,8 +487,8 @@ def main [...cmd: string] {                                    # Nu handles arg 
 
 _(script edited for brevity to the point it no longer works)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 Before rewriting in rust, I prototyped savepoint using nushell.
 
 I write all my scripts in nu, which is a rust-like statically typed shell and language.
@@ -496,18 +496,18 @@ Whereas for my interactive terminal shell I still prefer fish, finally a shell f
 
 ---
 
+<!-- new_lines: 6 -->
 
-
-
+<!-- font_size: 7 -->
 # `SIDEQUEST!`
-
+<!-- font_size: 5 -->
 # NUSHELL 🚀 SPEEDRUN
 
 ---
 
-
-
-
+<!-- column_layout: [1,5,1] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
 
 # 1. STRUCTURED DATA
 
@@ -519,10 +519,10 @@ ls | where size > 6mb | sort-by modified
 sh -c "nu -c 'ls | where size > 6mb | sort-by modified'"
 ```
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ...
 
@@ -530,21 +530,21 @@ sh -c "nu -c 'ls | where size > 6mb | sort-by modified'"
 
 ## 2. BATTERIES INCLUDED
 
-
-
-
+<!-- column_layout: [3,4,3] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
 
 ```sql
 http get https://httpbin.org/json
 ```
 
-
+<!-- reset_layout -->
 ```nu +exec_replace +pty:100:20
 sh -c "nu -m compact -c 'http get https://httpbin.org/json'"
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ...
 
@@ -553,9 +553,9 @@ sh -c "nu -m compact -c 'http get https://httpbin.org/json'"
 ---
 ## 3. RUST-LIKE ERRORS
 
-
-
-
+<!-- column_layout: [1,4,1] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
 
 ```rust
 10 / "tris"
@@ -565,8 +565,8 @@ sh -c "nu -m compact -c 'http get https://httpbin.org/json'"
 10 / "tris"
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ...
 
@@ -600,8 +600,8 @@ def main [...cmd: string] {                                    # Nu handles arg 
 
 _(script edited for brevity to the point it no longer works)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 OK, back to the nushell prototype.
 As you can see, savepoint is doing nothing particulrlly clever:
@@ -613,20 +613,20 @@ The most important realisation I had when rewriting this into the final rust pro
 ---
 # THE SAVEPOINT STATE MACHINE
 
-
+<!-- new_lines: 8 -->
 
 ```mermaid
 flowchart LR
 
-PASSING|fail|FAILING|pass; git commit|PASSING
+PASSING-->|fail|FAILING-->|pass; git commit|PASSING
 
 style FAILING fill:#932727,color:white,stroke-width:0px
 style PASSING fill:#245d2e,color:white,stroke-width:0px
 
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 It's a state machine with two states, but only one important transition:
 - If the test command passes after previously failing.
@@ -641,10 +641,10 @@ I actually wrote the first rust version before figuring this out, I threw away m
 
 ---
 
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 ## RUST STATE MACHINE
-
+<!-- font_size: 2 -->
 
 ```rust {1-10|0}
 enum State {
@@ -653,8 +653,8 @@ enum State {
 }
 ```
 
-
-
+<!-- column: 1 -->
+<!-- new_lines: 1 -->
 
 ```rust {0|1-10|4|0}
 struct SavePoint {
@@ -664,7 +664,7 @@ struct SavePoint {
 }
 ```
 
-
+<!-- reset_layout -->
 
 ```rust {0|1-10|0}
 impl SavePoint {
@@ -674,11 +674,11 @@ impl SavePoint {
 }
 ```
 
-
+<!-- font_size: 1 -->
 _(Code edited for brevity to the point it no longer works)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 I won't walk through the full code, you can imagine what the implementation looks like, and you can read it on github if you're really curious, but I want to highlight the clarity of structure here:
 
@@ -692,16 +692,16 @@ I'm glossing over a lot of UI and helper functions that don't really matter here
 
 ![image:width:40%](/img/user/Resources/Meta/attachments/savepoint-white.png)
 
-
+<!-- new_lines: 1 -->
  ---
 
-
-
+<!-- new_lines: 2 -->
+<!-- font_size: 2 -->
 
 _github.com/NamtaoProductions/savepoint_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 That's it! I hope this little utility becomes an invluable addition to your daily toolbox, and please report any issues you find or improvements you'd like to see.
 If you're a rust developer, I would be delighted to review PRs, too.
@@ -709,11 +709,11 @@ If you're a rust developer, I would be delighted to review PRs, too.
 And if you're not a rust developer, I can highly recommend the course by friend of the channel and sponsor of today's video: Let's Get Rusty.
 
 ---
-
-
+<!-- font_size: 2 -->
+<!-- new_lines: 3 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/lets-get-rusty-logo.png)
-
+<!-- new_lines: 1 -->
 
 `letsgetrusty.com/start-with-tris`
 
@@ -734,8 +734,8 @@ I'd be very grateful for your support on:
 - [Ko-Fi](https://ko-fi.com/noboilerplate)
 - [Gumroad](https://namtao.gumroad.com)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
 

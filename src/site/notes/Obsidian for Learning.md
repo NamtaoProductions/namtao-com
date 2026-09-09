@@ -4,8 +4,8 @@
 
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Hacking Your Learning With Obsidian.md" width="100%" height="100%" src="https://makertube.net/videos/embed/nFGS4iZ6C5YeG3GMMWkJvQ" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 I often daydream of what my university life might have been, if only I had access to a tool like Obsidian: A powerful knowledge platform and second brain that acts like a force multiplier to everything I do today.
 What could I have learned?
@@ -14,24 +14,24 @@ How fast could I have learned it?
 I can't turn back time, but I can do the next-best thing:
 I can teach YOU, dear viewer, how to use this tool to learn way faster than your peers, master technical and artistic subjects, and organise your life to do everything you want, without burning out.
 
+<!-- column_layout: [5,1] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
 
+<!-- new_lines: 0 -->
 
+<!-- reset_layout -->
 
+<!-- end_slide -->
+<!-- skip_slide -->
 
-
-
-
-
-
-
-
-
+<!-- end_slide -->
 ![](/img/user/Resources/Meta/attachments/newspaper-youtuber-1.png)
 
 My "Coping Mechanisms" video was 2 years ago, if you can believe it[^1]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Hello past Tris, it's me again, Future Tris. You're still spending all my money, I see. Good for you.
 
@@ -43,13 +43,13 @@ Make sure you've refreshed your memory of that advice, I'm going to put half of 
 Also buy nVidia stock, don't sell those bitcoins in 2015, and if you don't want RSI ruining your good time, you'd better get used to lifting weights sooner rather than later.
 Let's crack on.
 
+<!-- end_slide -->
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- font_size: 7 -->
 # PART 0: ADVANCED OBSIDIAN USAGE
 
-
+<!-- font_size: 2 -->
 - `[[Links]]` Are the `key`
 - `#tags` cut across boundaries
 - `Search`, don't ~~sort~~
@@ -58,8 +58,8 @@ Let's crack on.
 - `Jump` exactly where you want to go
 - Mice are `allergic` to Obsidian
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 In 20 seconds, here's how to use Obsidian for everyday, above-average note-taking:
 
@@ -72,13 +72,13 @@ In 20 seconds, here's how to use Obsidian for everyday, above-average note-takin
 
 If you have 20 minutes rather than 20 seconds, watch my 2 previous videos on Obsidian then come back here for the advanced course.
 
-
+<!-- end_slide -->
 ## LINKS ARE THE KEY
 
-
-
-
-
+<!-- new_lines: 2 -->
+<!-- column_layout: [1,2] -->
+<!-- column: 0 -->
+<!-- new_lines: 7 -->
 
 ```yaml
 # Links Are The Key
@@ -88,23 +88,23 @@ If you have 20 minutes rather than 20 seconds, watch my 2 previous videos on Obs
 - [[Quantum Mechanics]]
 ```
 
-
+<!-- column: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/links-are-the-key-screenshot.png)
 
+<!-- reset_layout -->
 
+<!-- column_layout: [1,2] -->
+<!-- column: 0 -->
+<!-- alignment: center -->
 
+<!-- column: 1 -->
+<!-- alignment: center -->
 
+<!-- reset_layout -->
 
-
-
-
-
-
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The foundation of every obsidian system is links.
 In Obsidian, you link to pages by surrounding them with `[[square brackets]]` such as: School or Social.
@@ -112,33 +112,33 @@ If the page doesn't exist (like [[Quantum Mechanics\|Quantum Mechanics]]) Obsidi
 If you follow the link, Obsidian CREATES that page, and now all those other links are real.
 This is very handy while you're building notes on a wide subject area that you know you will want to drill down into subsections, you can easily see where gaps in your knowledge are later on.
 
-
+<!-- end_slide -->
 
 ## LINKING HAPPENS ORGANICALLY
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/desire-lines-park.png)
 
-
+<!-- alignment: right -->
 Mike Schmitz On YouTube[^2]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Fellow YouTuber, Mike Schmitz, says that in a mature second brain, links become like desire lines - paths worn into the grass showing where people often walk.
 
 This idea of mental desire lines is the subject of the beautiful song, _"Let The Path Grow Over"_, written by my friend John Callaghan, and I quote:
 
+<!-- end_slide -->
 
+<!-- new_lines: 3 -->
 
-
-
-
-
+<!-- new_lines: 2 -->
+<!-- alignment: right -->
 
 "Let The Path Grow Over" by John Callaghan[^3]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 > The mind can be thought of as a field.
 > The most frequently-travelled routes leave paths along the grass and likewise in our mental make-up.
@@ -150,22 +150,22 @@ This idea of mental desire lines is the subject of the beautiful song, _"Let The
 
 Go listen to the full song, it's amazing
 
-
+<!-- end_slide -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/tags-cut-across-boundaries-screenshot.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If you want to break out of your well-organised constellation of notes - perhaps to see all lecture notes you've taken across all subjects - tags, not folders, are the way to do it.
 I've made a whole video explaining my dislike of using folders in Obsidian[^4] I won't repeat myself here.
 
-
+<!-- end_slide -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/search-dont-sort-screenshot.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Obsidian's search is SUPER POWERFUL, allowing you to find notes by any combination of:
 - file name or path
@@ -174,12 +174,12 @@ Obsidian's search is SUPER POWERFUL, allowing you to find notes by any combinati
 - keywords in the same heading
 - property metadata
 
-
+<!-- end_slide -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/saved-searches-bookmarks-screenshot.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If you ever do something twice, automate it. That's good general life advice actually, past Tris.
 If you keep searching for the same files again and again, use Obsidian's powerful bookmarks feature.
@@ -198,34 +198,34 @@ You can arrange these bookmarks into groups for quick access, like I'm doing her
 - Then a group of bookmarks for quick access to common hub or index notes
 - Lastly, web links that open in Obsidian's built-in web browser. You've got a browser already, but I use Obsidian's as a distraction-free option for work only.
 
-
-
+<!-- end_slide -->
+<!-- font_size: 2 -->
 ## JUMP EXACTLY WHERE YOU WANT TO GO
 ![image:width:100%](/img/user/Resources/Meta/attachments/harpoon-exactly-where-you-want.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The first thing you should train yourself to do when looking for a note in obsidian is to hit `ctrl/cmd o`, which opens up the quickswitcher.
 It fuzzyfinds based on file name - Even if you don't know the full name, try a few words that you remember, it'll usually suggest what you want.
 And if the file doesn't exist, hit enter, and you'll create a note with the name you were searching for.
 
 Definitely install the `quickswitcher ++` plugin (that's what I'm using here), this replaces the existing quickswitcher with one that can search through headings, links, backlinks and loads more.
-
+<!-- end_slide -->
 
 ## FEATURES FOR STUDENTS
 
+<!-- new_lines: 3 -->
 
-
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
+<!-- new_lines: 2 -->
 ```js
 ## Pretty LaTeX Notation
 $$ 1+2+3+\cdots+10=\sum_{n=1}^{10}n $$
 ```
 
-
+<!-- new_lines: 5 -->
 
 ```js
 ## Markdown Tables
@@ -236,36 +236,36 @@ $$ 1+2+3+\cdots+10=\sum_{n=1}^{10}n $$
 First 5 Fibonacci Numbers
 ```
 
-
+<!-- column: 1 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/obsidian-screenshot-latex-tables.png)
 
+<!-- reset_layout -->
 
+<!-- font_size: 1 -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 Obsidian comes with support for advanced LaTeX (and Typst) notation and easy Markdown tables, perfect for writing reports of all kinds.
  
 
-
+<!-- end_slide -->
 
 ## MICE ARE ALLERGIC TO OBSIDIAN
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/obsidian-hotkeys.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 It's true!
 By which I mean, Obsidian is designed around hotkeys, which are essential when you're trying to keep up with a fast-talking lecturer, or it's 11pm and the paper (or youtube video) is due tomorrow!
 Obsidian is built around the command palette, `c-p`, and every single command can be mapped to a hotkey in the settings.
 
-
+<!-- end_slide -->
 
 ## PLUGINS FOR CONSOLE COWBOYS
 
-
+<!-- alignment: left-->
 - `Breadcrumbs`
     - Navigate through notes by parent, sibling, child ontology links
 - `Commander`
@@ -279,8 +279,8 @@ Obsidian is built around the command palette, `c-p`, and every single command ca
 - `Vim Yank Highlight`
 - `Improved Vim Cursor`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Just as an example, here are a few of the 80 plugins I use that help me navigate around my second brain at light speed.
 
@@ -291,12 +291,12 @@ Obsidian is perfect for me not because the developers happened to make it that w
 
 If you're ready, let me show you MY system:
 
+<!-- end_slide -->
 
+<!-- new_lines: 1 -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If all this setup is a bit overwhelming, I understand. I have compiled it all into an obsidian vault you can download and use straight away, available for anyone who supports me on my Patreon.
 
@@ -306,20 +306,20 @@ If you'd like to see and give feedback on my videos up to a week early, as well 
 
 I'm also offering a limited number of mentoring slots. If you'd like 1:1 tuition on Obsidian, personal organisation, web programming, creative production, or anything that I talk about in my videos, do sign up and let's chat!
 
+<!-- end_slide -->
 
-
-
-
-
+<!-- new_lines: 1 -->
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/a-system-for-writing-cover.jpg)
 
-
+<!-- column: 1 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/gtd-book-cover.png)
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Two existing frameworks have principly informed my system:
 1. Zettelkasten, a system for building and using your linked knowledge,
@@ -328,9 +328,9 @@ Two existing frameworks have principly informed my system:
 I have spent the last 5 years distilling, evolving, and experimenting with my obsidian vault.
 I have simplified and integrated both these techniques into what I'm _unfortunately_ calling, "The FLAP system".
 
-
+<!-- end_slide -->
 ## The FLAP System
-
+<!-- alignment: center -->
 
 `Fleeting, Literature, Atomic, Projects`
 
@@ -342,18 +342,18 @@ flowchart TD
     P@{ shape: processes, label: "Projects" }
     
     subgraph FLAP
-        L |Reference from| A
-        F |Process Into| A
-        A |Compose Into| P
+        L -->|Reference from| A
+        F -->|Process Into| A
+        A -->|Compose Into| P
     end
     
-    P |Write| X@{ shape: documents, label: "Essays" }
-    P |Write| Y@{ shape: documents, label: "Dissertations" }
-    P |Write| Z@{ shape: documents, label: "Exam Revision" }
-    P |Think| ZZ@{ shape: documents, label: "Ideas" }
+    P -->|Write| X@{ shape: documents, label: "Essays" }
+    P -->|Write| Y@{ shape: documents, label: "Dissertations" }
+    P -->|Write| Z@{ shape: documents, label: "Exam Revision" }
+    P -->|Think| ZZ@{ shape: documents, label: "Ideas" }
 ```
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The system has 3 parts. In short:
 
@@ -363,14 +363,14 @@ The system has 3 parts. In short:
 
 Today we will focus on the inputs to this system.
 
+<!-- end_slide -->
 
-
-
-
+<!-- new_lines: 7 -->
+<!-- font_size: 4 -->
 # PART 1: `CAPTURE`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Tris, you have to make notes.
 I know you think you can get by with just attending lectures and absorbing the information like you always have.
@@ -381,31 +381,31 @@ So many of our friends, colleagues, and acquaintances say the same: "Everything 
 The biggest cause of this for us was skipping learning to learn, and only learning for tests.
 But in doing that, I missed preparing for The Real Test.
 What is The Real Test? Well, According to John Green:
+<!-- end_slide -->
 
-
-
-
+<!-- new_lines: 3 -->
+<!-- font_size: 4 -->
 # `THE TEST`
-
-
+<!-- font_size: 2 -->
+<!-- new_lines: 1 -->
 
 1. `The Test` will measure whether you are an informed, engaged, and productive citizen of the world
-
+<!-- pause -->
 2. `The Test` will judge your ability to think  
-
+<!-- pause -->
 3. `The Test` will last your entire life
-
+<!-- pause -->
 4. `EVERYTHING WILL BE ON IT`
 
+<!-- font_size: 1 -->
 
-
-
-
+<!-- alignment: right -->
+<!-- new_lines: 3 -->
 
 John Green, Crash Course World History[^7]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 > _"The test will measure whether you are an informed, engaged, and productive citizen of the world, and it will take place in schools and bars and hospitals and dorm rooms and in places of worship. You will be tested on first dates, in job interviews, while watching football, and while scrolling through your Twitter feed._
 > &nbsp;
@@ -416,59 +416,59 @@ John Green, Crash Course World History[^7]
 
 Fortunately, passing John Green's Test is simple, if not easy, and it all starts with note-taking.
 
+<!-- end_slide -->
 
-
-
+<!-- font_size: 4 -->
 ## NOTE-TAKING
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/field-notes-remembering-it-now.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Note-Taking is the input to your digital second brain, an augmentation of your eyes and ears and working memory for when you exceed the capacity of your biological first brain.
 There are three types of notes I will teach you today, though you may discover more, and they're all actually designed for the same purpose:
 
+<!-- end_slide -->
 
-
-
+<!-- font_size: 4 -->
 ## LECTURE NOTES
 ![image:width:100%](/img/user/Resources/Meta/attachments/lecture-notes-on-optics-photo-wikimedia-commons.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 This is the kind of note-taking most students are familiar with - taking notes in class.
 You listen to the teacher, and write down the facts and figures that seem most important.
 There's a reason their use is so widespread: Writing down what we have heard re-enforces the lesson, and aids memory.
 It's a good start, but all too often, this is where learning finishes. We'll get on to how to process these notes in part 2, but next up are:
 
+<!-- end_slide -->
 
-
-
+<!-- font_size: 4 -->
 ## LITERATURE NOTES
 ![image:width:100%](/img/user/Resources/Meta/attachments/motivation-highlighted-photo.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Another classic of education, especially at college level, that you may be familiar with - highlighting in textbooks, PDFs, or websites.
 (I know you've never read a text book in your life, Past Tris, but you should really try it!)
 When taking Literature Notes, you read through the course book, guidelines, handbook, legal cases or whatever it is that you are studying, and make highlights or copy and paste critical sections that you know are significant, in the hope that this will stick them in your brain.
 It won't, but this process is a vital start.
 
+<!-- end_slide -->
 
-
-
+<!-- font_size: 4 -->
 ## FLEETING NOTES
+<!-- font_size: 1 -->
 
-
-
-
+<!-- new_lines: 5 -->
+<!-- font_size: 2 -->
 
 > [!IMPORTANT] When you have reached the opposite shore, you do not carry the raft on your back, but leave it behind.
 > Alan Watts, on Meditation
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Now we're getting to the good stuff that you haven't heard of yet, despite EVERYONE using fleeting notes.
 
@@ -479,17 +479,17 @@ These are all examples of fleeting notes.
 What makes a fleeting note fleeting is that once it has helped you remember something, you throw it away or delete it, they're supposed to be temporary;
 
 As Alan Watts says, Don't drag the raft with you after you have crossed the river with it.
+<!-- end_slide -->
 
-
-
-
+<!-- new_lines: 5 -->
+<!-- font_size: 5 -->
 
 ## THE RADIO
-
+<!-- font_size: 4 -->
 ## `OF YOUR MIND`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The way to think about fleeting notes is that they are highlights from the live radio broadcast that is your internal monologue and thoughts.
 
@@ -499,26 +499,26 @@ It's difficult to predict when she'll put on a banger of a new track that will m
 
 If you have been doing your job right and consuming high-quality media, such as: books, films, videogames, and videos, you will begin to be visited by IDEAS.
 
-
-
+<!-- end_slide -->
+<!-- font_size: 4 -->
 
 ## TYPES OF IDEAS:
 
-
-
+<!-- font_size: 2 -->
+<!-- new_lines: 1 -->
 
 1. New ideas
 2. Existing ideas
 3. Blends of other ideas
 
-
-
+<!-- new_lines: 2 -->
+<!-- font_size: 2 -->
 
 > [!IMPORTANT] If you have an idea and publish it on the internet, that counts as a ghost of done.
 > COD Manifesto[^8]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Most of these ideas will be one of three kinds, in my experience:
 1. New ideas
@@ -532,24 +532,24 @@ This is the most important feature of notes of any kind: Capturing ideas, tasks,
 At first, it's critical to *capture* but not *do*.
 This is so vital, I've given it a name:
 
-
-
-
+<!-- end_slide -->
+<!-- new_lines: 3 -->
+<!-- font_size: 4 -->
 ## `THE TEMPORAL CONTRACT`
-
-
+<!-- font_size: 1 -->
+<!-- new_lines: 5 -->
 ```mermaid
 flowchart LR
-    A[PAST SELF] |Write Notes| B
-    B[PRESENT SELF] |Write Notes| C[FUTURE SELF]
+    A[PAST SELF] -->|Write Notes| B
+    B[PRESENT SELF] -->|Write Notes| C[FUTURE SELF]
 ```
 
-
-
+<!-- new_lines: 12 -->
+<!-- alignment: right -->
 
 (Fancy, right?)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Fancy, right?
 The Temporal Contract is between you and your self yesterday, and your self tomorrow.
@@ -567,21 +567,21 @@ YOU do not need to do what your past self asks, but you must have at least READ 
 If it doesn't vibe with you when you first read it, keep it in the list, read it again tomorrow.
 Each day you prime your unconscious with these thoughts, and eventually, you might find where they should take you.
 
+<!-- end_slide -->
 
-
-
-
+<!-- new_lines: 0 -->
+<!-- font_size: 4 -->
 ## HIGHLIGHTS CAPTURING
 
-
-
+<!-- font_size: 2 -->
+<!-- new_lines: 3 -->
 `ESSENTIAL PLUGINS:`
  - Readwise Integration
  - QuickAdd
  - Spaced Repetition
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 SO, enough theory, let's implement this capture process in Obsidian.
 Most of the features we'll be using are built-in, but we'll be using the following extra plugins, so install them from Community Plugins inside Obsidian settings:
@@ -589,37 +589,37 @@ Most of the features we'll be using are built-in, but we'll be using the followi
  - The Readwise Pugin for capturing literature notes from books, videos, podcasts, webpages - everywhere
  - The QuickAdd Plugin for capturing our fleeting thoughts, from anywhere within Obsidian
  - The Spaced Repetition plugin not just for learning, but also for resurfacing snoozed fleeting notes
+<!-- end_slide -->
 
-
-
-
+<!-- new_lines: 0 -->
+<!-- font_size: 4 -->
 ## READWISE INTEGRATION
 
-
-
-
-
+<!-- font_size: 1 -->
+<!-- new_lines: 2 -->
+<!-- column_layout: [2,1] -->
+<!-- column: 0 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/readwise-screenshot-mac.png)
 
-
+<!-- alignment: center-->
 
 (other brands are available)
+<!-- column: 1 -->
 
-
-
+<!-- new_lines: 3 -->
 "How I Capture & PROCESS using Readwise & Obsidian"[^9]
 ![image:width:100%](/img/user/Resources/Meta/attachments/fromsergio-thumb-capture-and-process-readwise.png)
 
-
+<!-- alignment: center -->
 `YouTube.com/@FromSergio`
 
+<!-- reset_layout -->
 
+<!-- new_lines:  -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Readwise (not sponsored) has revolutionised my learning by reducing friction in the capture process to nearly zero.
 It is genius piece of middleware that syncs sources of highlights, such as ebook readers, pdf clients, or web browsers, to places where you can process these highlights, such as Notion, Evernote, and most importantly for us, Obsidian.
@@ -628,17 +628,17 @@ You CAN write Literature notes without using Readwise, there are alternatives av
 
 My friend Sergio was the first to explain readwise in a way I understood - do check out his channel here.
 
-
-
-
+<!-- end_slide -->
+<!-- new_lines: 0 -->
+<!-- font_size: 4 -->
 
 # READWISE READER
 ![image:width:100%](/img/user/Resources/Meta/attachments/reader-readwise-screenshot-fasterthanlime.png)
 
+<!-- font_size: 1 -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 What makes Readwise so compelling for me, is the recent release of their reader app, which not only of course natively supports highlights syncing, but goes far beyond RSS and blogs, and allows you to add ebooks and reflowed pdfs, and even youtube videos ready for highlighting too.
 
@@ -649,22 +649,22 @@ Don't have them in a format that can be uploaded? Sure you do! Ask your teacher,
 
 Your guilt about pirating books you or your school already own should be zero.
 
+<!-- end_slide -->
 
-
-
-
+<!-- new_lines: 0 -->
+<!-- font_size: 3 -->
 
 # CUSTOM READWISE TEMPLATE
-
+<!-- font_size: 1 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/readwise-obsidian-export-screenshot.png)
 
-
+<!-- alignment: right -->
 My Templates, adapted from FromSergio's, are on GitHub[^10]
 
+<!-- font_size: 1 -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The default Readwise obsidian export template is good, but you will want to make the following changes:
 - Tag the page with `#literature/unfiled`
@@ -674,18 +674,18 @@ This now allows you to search for unprocessed literature notes by tag, process t
 
 If you ever alter the format of the readwise export template, and want to update your existing notes, you can do so by deleting the files in obsidian and re-running the sync command.
 
+<!-- end_slide -->
 
-
-
+<!-- font_size: 3 -->
 ## QUICKADD
-
+<!-- font_size: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/quickadd-screenshot-writers-block.png)
 
+<!-- pause -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ```yaml
 ---
@@ -699,13 +699,13 @@ tags:
 > {{VALUE}}
 ```
 
-
+<!-- column: 1 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/writers-block-fleeting-note-screenshot.png)
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 OK Past Tris: You've captured other people's knowledge and ideas using readwise everywhere, now we're going to capture your own thoughts.
 Don't look at me like that, they're not all bad.
@@ -725,8 +725,8 @@ More on that processing in part 2.
  
 I also use the Telegram and REST API plugins to capture fleeting notes. Either of these allow you to capture fleeting notes while away from obsidian, wherever you are.
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 So far, past Tris, you might be unimpressed.
 My advice, though hinting at greatness, has been quite similar to existing note-taking recommendations.
@@ -740,18 +740,18 @@ Your homework till then is to read all of A System for Writing, by Bob Doto (it'
 
 SEE YOU IN PART 2!
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 2 -->
 
 # THANK YOU
-
+<!-- alignment: center -->
 To all my patrons, you make this possible!
 
+<!-- new_lines: 2 -->
+<!-- column_layout: [1,5,1] -->
+<!-- column: 0 -->
 
-
-
-
-
+<!-- column: 1 -->
 ```rust
 let producers: [&str; 0] = [];
 let sponsors = [
@@ -760,16 +760,16 @@ let sponsors = [
 let patrons: [&str; 1267];
 ```
 
-
-
-
+<!-- column: 2 -->
+<!-- reset_layout -->
+<!-- new_lines: 1 -->
 
 I'd be very grateful for your support on:
 - [Patreon](patreon.com/noboilerplate)
 - [Ko-Fi](ko-fi.com/noboilerplate)
 - [Gumroad](namtao.gumroad.com)
 
-
+<!-- end_slide -->
 
 # Footnotes
 
@@ -793,9 +793,9 @@ I'd be very grateful for your support on:
 
 [^10]: https://gist.github.com/0atman/29daa5676a39388006e6c2e73e60f479
 
+<!-- skip_slide -->
 
-
-
+<!-- end_slide -->
 
 ---
 

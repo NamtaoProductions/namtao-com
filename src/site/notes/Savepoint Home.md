@@ -34,7 +34,7 @@ Options:
 🏁 SAVEPOINT: Running command...
    Compiling savepoint v0.1.4 (/home/oatman/projects/savepoint)
 error: expected one of `!` or `::`, found `SavePoint`
-   src/main.rs:37:10
+  --> src/main.rs:37:10
    |
 37 | uhoh! impl SavePoint<Passing> {
    |            ^^^^^^^^^ expected one of `!` or `::`
@@ -60,8 +60,8 @@ When tests pass, savepoint makes a commit:
 
 ```mermaid
 flowchart LR
-PASSING|fail|FAILING
-FAILING|pass; git commit|PASSING
+PASSING-->|fail|FAILING
+FAILING-->|pass; git commit|PASSING
 ```
 
 > Other transitions are no-ops (such as tests passing while in passing state)

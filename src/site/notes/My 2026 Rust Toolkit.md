@@ -7,49 +7,49 @@ Hi folks. Today I'm going to demo my 2026 toolkit for writing rust, containing a
 
 I'll start with the single tool that I manage nearly all of this with:
 
+<!-- column_layout: [1,2,1] -->
+<!-- column: 0 -->
 
-
-
-
-
+<!-- new_lines: 3 -->
+<!-- font_size: 4 -->
 # PART 0: DEVENV
+<!-- font_size: 1 -->
+<!-- column: 1 -->
+<!-- column: 2 -->
 
+<!-- jump_to_middle -->
+<!-- new_lines: 13 -->
+<!-- font_size: 4 -->
+<!-- font_size: 1 -->
 
+<!-- reset_layout -->
 
-
-
-
-
-
-
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 > (not sponsored by devenv!)
 
 Not everyone is powerful enough to use nix, I know I wasn't for many years, but there is a gateway drug available in DEVENV, which you can think of as a json-like DSL or schema that gives you access to the largest package repository on the planet, config for those packages, and per-project isolation without the overhead of containers.
 (Finally no more VMs to run docker on mac in!)
 
+<!-- column_layout: [1,2,1] -->
+<!-- column: 0 -->
 
+<!-- new_lines: 3 -->
+<!-- font_size: 4 -->
+<!-- font_size: 1 -->
+<!-- column: 1 -->
+<!-- column: 2 -->
 
+<!-- jump_to_middle -->
+<!-- new_lines: 13 -->
+<!-- font_size: 4 -->
+<!-- font_size: 1 -->
 
+<!-- reset_layout -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Not everyone is powerful enough to use nix, I know I wasn't for many years, but there is a gateway drug available in DEVENV, which you can think of as a json-like DSL or schema that gives you access to the largest package repository on the planet, config for those packages, and per-project isolation without the overhead of containers.
 (Finally no more VMs to run docker on mac in!)
@@ -124,11 +124,11 @@ HOWEVER.
 I'm not here to just give you a config file, and send you on your way.
 Let me show you how I use all these together.
 
+<!-- new_lines: 1 -->
+<!-- font_size: 2 -->
 
-
-
-
-
+<!-- jump_to_middle -->
+<!-- font_size: 5 -->
 
 # <span style="background-color: #222">PART 1: TOOLING</span>
 ```sh
@@ -146,14 +146,14 @@ rust-analyzer installed                        9.04 MiB
       rustfmt pending installation             2.37 Mi
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ## RUSTUP
 
 > Install and easily switch between stable, beta, and nightly compilers and keep them updated.
 
-
+<!-- new_lines: 1 -->
 
 ```sh
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -166,8 +166,8 @@ info: default toolchain set to nightly-x86_64-unknown-linux-gnu
   nightly-x86_64-unknown-linux-gnu - rustc 1.99.0-nightly (3d6c19bb9 2026-08-11)
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If you're NOT using devenv, then the first thing you'll need to bootstrap your rust dev environment, whatever your operating system, is the Rustup installer, version, and component manager.
 Run the one-liner here from rustup.rs, then when it's installed switch to nightly.
@@ -181,7 +181,7 @@ This is rust, nightly builds are REALLY stable!
 
 > Rust's package manager and swiss army knife
 
-
+<!-- new_lines: 1 -->
 
 ```sh
 $ cargo
@@ -198,8 +198,8 @@ Commands:
 See 'cargo help <command>' for more information on a specific command.
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Now Rust is installed, it's time to speedrun the primary tool for interacting with the whole ecosystem: Cargo.
 
@@ -207,17 +207,17 @@ Now Rust is installed, it's time to speedrun the primary tool for interacting wi
 
 > Create a new rust project
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- column_layout: [2,1] -->
+<!-- column: 0 -->
 
 ```sh
 $ cargo new prelude
     Creating binary (application) `prelude` package
 ```
 
-
+<!-- column: 1 -->
 
 ```sh
 $ tree
@@ -230,10 +230,10 @@ $ tree
 2 directories, 3 files
 ```
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 `cargo new`, creates a blank, rust project with a hello world main file, and a `Cargo.toml` config
 
@@ -241,7 +241,7 @@ $ tree
 
 > Search packages in the registry. Default registry is crates.io
 
-
+<!-- new_lines: 1 -->
 
 ```sh
 $ cargo search rayon
@@ -255,12 +255,12 @@ $ cargo add rayon
       Adding rayon v1.12.0 to dependencies
 ```
 
-
+<!-- new_lines: 1 -->
 
 Honourable mention: `cargo-shear`, removes dependencies you're no longer using
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Before opening your browser and heading to crates.io, or - my favourite - lib.rs, to find a package for this or that, try `cargo search`.
 Your search results are there right in your terminal, ready to add without opening your `Cargo.toml` with `cargo add`, specifying any features you need using the `--feature` flag
@@ -269,7 +269,7 @@ Your search results are there right in your terminal, ready to add without openi
 
 > Displays information about a package
 
-
+<!-- new_lines: 1 -->
 
 ```sh
 cargo info rayon
@@ -285,25 +285,25 @@ features:
   web_spin_lock = [dep:wasm_sync, rayon-core/web_spin_lock]
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 `cargo info` is very useful, too, to see more detail on the crate before installing it, especially to check the features you might need to enable!
 
-
+<!-- font_size: 4 -->
 
 ## <span style="color: palette:blue">CARGO-SEEK</span>
 
-
+<!-- font_size: 1 -->
 
 > A terminal user interface for searching, adding and installing cargo crates.
 
-
+<!-- new_lines: 1 -->
 
 ![screenshot-cargo-seek.png](/img/user/Resources/Meta/attachments/screenshot-cargo-seek.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Is a pretty TUI wrapping all three of these commands, which you can install using Cargo's binary installer command, `cargo install`.
 In this case, run `cargo install cargo-seek` and after compilation, the cargo-seek binary will be added to the `.cargo/bin` directory, which you should make sure is in your `$PATH`.
@@ -312,13 +312,13 @@ In this case, run `cargo install cargo-seek` and after compilation, the cargo-se
 
 > Checks a package to catch common mistakes and improve your Rust code.
 
-
+<!-- new_lines: 1 -->
 
 ```js
 $ cargo clippy
     Checking prelude v0.1.0 (/home/oatman/projects/prelude)
 error: used `unwrap()` on a `Result` value
-  src/main.rs:2:19
+ --> src/main.rs:2:19
   |
 2 |     assert_eq!(1, "1".parse().unwrap());
   |                   ^^^^^^^^^^^^^^^^^^^^
@@ -327,17 +327,17 @@ error: used `unwrap()` on a `Result` value
   = help: for further information visit rust-lang.github.io/rust-clippy/master/index.html#unwrap_used
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Rust comes included with all the batteries you need to get up and running, including the most comprehensive linter and code checker you will have ever used, called clippy.
 Out of the box, it's fine, but you can give it TEETH.
 
 ## CLIPPY CONFIG
 
-
-
-
+<!-- column_layout: [3,2] -->
+<!-- column: 0 -->
+<!-- alignment: left -->
 
 Add these to your `Cargo.toml`:
 
@@ -361,7 +361,7 @@ exit = "deny"
 as_conversions = "deny"
 ```
 
-
+<!-- column: 1 -->
 
 and these in your `clippy.toml`:
 
@@ -372,34 +372,34 @@ allow-panic-in-tests = true
 allow-indexing-slicing-in-tests = true
 ```
 
-
+<!-- new_lines: 11 -->
 
 Find them at: `namtao.com/rust`
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Here is my clippy config, which I recommend using by default in every project. The groups pedantic and nursery will teach you good rust patterns, and the rest of the lints stop you writing code that can crash.
 To allow for fast prototyping where it should be - in tests - allow panicking there with these clippy overrides.
 
 For more details, and a rationale for this unhinged pedantry, see my dedicated video, Rust: Don't Panic.
 
-
+<!-- font_size: 4 -->
 
 ## <span style="color: palette:blue">BACON</span>
 
-
+<!-- font_size: 1 -->
 
 > watches your project and runs jobs in background
 
-
+<!-- new_lines: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/bacon-rust.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 In addition to setting up your editor with the LSP server that comes with rustup, Rust Analyzer, I recommend running `bacon clippy` in a terminal, watching the excellent output and following its advice.
 
@@ -409,7 +409,7 @@ Remember, that the first error in your file is not always the one to fix - the f
 
 > next-generation test runner
 
-
+<!-- new_lines: 1 -->
 
 ```js
 $ cargo nextest run
@@ -433,8 +433,8 @@ $ cargo nextest run
      Summary [   0.021s] 14 tests run: 14 passed, 177 skipped
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Though you can test your code with `cargo test` and doctests with `cargo test --doc`, and benchmark it all with `cargo bench`, your testing will be much more powerful and, almost as important, PRETTIER with nextest.
 
@@ -460,10 +460,10 @@ PRETTY GOOD, RIGHT?
 
 > _cargo, make me a project_
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- column_layout: [2,1] -->
+<!-- column: 0 -->
 
 ```bash
 $ cargo generate leptos-rs/start-trunk
@@ -483,7 +483,7 @@ $ cargo generate leptos-rs/start-trunk
 ✨   Done! New project created ~/projects/generate-demo
 ```
 
-
+<!-- column: 1 -->
 
 ```bash +exec_replace
 cd ~/projects/
@@ -491,10 +491,10 @@ echo "$ tree generate-demo"
 exa -T generate-demo
 ```
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Cargo generate allows you to specify internet-accessible templates to quickly scaffold larger frameworks such as a web app, the example here is from leptos. More on THAT crate later.
 
@@ -502,7 +502,7 @@ Cargo generate allows you to specify internet-accessible templates to quickly sc
 
 > execute commands in response to file modifications
 
-
+<!-- new_lines: 1 -->
 
 ```bash {1,3,9,16,18}
 $ watchexec "cargo clippy && cargo test && cargo run"
@@ -525,36 +525,36 @@ Hello, world!
 [Command was successful]
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Evolved from the old staple of `cargo-watch`, this rewrite watches a directory of optionally-filtered files and triggers any chain of commands you like, not just cargo ones.
 I keep it around for chaining cargo clippy, cargo test, and cargo run into a pipeline that kicks off whenever I save.
 
-
+<!-- font_size: 3 -->
 
 ## <span style="color: palette:blue">NEOVIM</span>
 
-
+<!-- font_size: 1 -->
 
 > There are many editors, but this one is mine
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- column_layout: [2,1] -->
+<!-- column: 0 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/nvim-lazy-rust.png)
 
-
+<!-- column: 1 -->
 
 - My preferred config is the excellent: `lazyvim.org`
 - _Bread on Penguins_ from scratch guide: `youtube.com/watch?v=zkOEdhfwXok`
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 There are many editors, but this one is mine.
 
@@ -574,8 +574,8 @@ ALL with vim keybindings.
 
 # <span style="background-color: #222">PART 2: MY STANDARD LIBRARY</span>
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Rust has a very rich standard library providing functions and types for high and low level applications - SOME might say it has TOO many string types - but we can augment this with some crates that are so ubiquitous and mature that they have become my own personal standard library.
 
@@ -583,7 +583,7 @@ Rust has a very rich standard library providing functions and types for high and
 
 > error report handler for panics and eyre::Reports for colorful, consistent, and well formatted error reports
 
-
+<!-- new_lines: 1 -->
 
 ```js
 use eyre::Result;
@@ -599,8 +599,8 @@ Honourable mentions:
 - `rootcause` alternative with ergonomic error tree annotations
 - `thiserror` great ergonomics for building errors, useful in libraries
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Rust handles errors in such a sensible way that it FINALLY allows senior developers to sleep at night.
 The Result type is used in any fallible function, so you always know what you are going to get, and there are no exceptions to the type system like 'null'.
@@ -612,9 +612,9 @@ But specifying all the kinds of errors a function can return gets old fast, and 
 
 > Extra iterator adaptors, iterator methods, free functions, and macro
 
-
-
-
+<!-- new_lines: 1 -->
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 ```js
 use itertools::Itertools;
 
@@ -627,7 +627,7 @@ for elt in interleave(&[1, 2, 3], &[2, 3, 4]) {
 }
 ```
 
-
+<!-- column: 1 -->
 the gang's all here:
 - all
 - any
@@ -648,12 +648,12 @@ the gang's all here:
 - kmerge
 - kmerge_by
 - ...
+<!-- reset_layout -->
 
+<!-- new_lines: 1 -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Ergonomic Rust programs are often built around data that is mutated by iterators in a pipeline.
 And like the python library of the same name, itertools contains advanced iterator functions for shuffling, zipping and unzipping and working with higher-dimension iterables.
@@ -668,10 +668,10 @@ It's a zero-cost abstraction, the cost being your sanity!
 
 > Statistics-driven micro-benchmarking library
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ```js
 use std::hint::black_box;
@@ -695,7 +695,7 @@ criterion_group!(benches, criterion_benchmark);
 criterion_main!(benches);
 ```
 
-
+<!-- column: 1 -->
 
 ```sh
 $ cargo bench
@@ -709,12 +709,12 @@ Found 11 outliers among 99 measurements (11.11%)
   5 (5.05%) high severe
 ```
 
+<!-- reset_layout -->
 
+<!-- new_lines: 1 -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 `cargo bench`, like `cargo test` has a pluggabe backend, and `criterion` provides advanced statistics and report generation which even include pretty gnuplot charts.
 
@@ -722,8 +722,8 @@ Found 11 outliers among 99 measurements (11.11%)
 
 > simple work-stealing parallelism for Rust
 
-
-
+<!-- new_lines: 1 -->
+<!-- font_size: 2 -->
 
 ```js
 use rayon::prelude::*;
@@ -734,24 +734,24 @@ fn sum_of_squares(input: &[i32]) -> i32 {
 }
 ```
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Rayon is the simplest parallelism library you'll ever use, try it before you reach for heavyweight async frameworks.
 for more information see my video async isn't real and can't hurt you
 If you build your logic in Rust's lazy iterators, mutated by simple functions, you can make your whole pipeline parallel by changing `.iter()` to `.par_iter()`.
 
-
-
+<!-- new_lines: 1 -->
+<!-- font_size: 2 -->
 
 # <span style="background-color: #222">PART 3: GO-TO CRATES</span>
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 So, I've shown you my essential standard library of crates that I use in every one of my projects, now here are some rock stars that I use in NEARLY every project.
 
@@ -759,7 +759,7 @@ So, I've shown you my essential standard library of crates that I use in every o
 
 > generic serialization/deserialization framework
 
-
+<!-- new_lines: 1 -->
 
 ```js
 use serde::{Deserialize, Serialize};
@@ -779,12 +779,12 @@ fn main() {
 }
 ```
 
-
+<!-- new_lines: 1 -->
 
 Honourable mention: `nanoserde` zero-deps derive-based serde for json & toml.
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Nearly every application needs to serialise or deserialise data, which in Rust means the `serde` create. If you're not using it directly, your dependencies certainly are!
 
@@ -806,12 +806,12 @@ fn main() -> Result<(), jiff::Error> {
 }
 ```
 
-
+<!-- new_lines: 1 -->
 
 Honourable mention: `chrono`, the old master.
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Ergonomic time handling. The standard library is fine, but we can do better!
 
@@ -819,10 +819,10 @@ Ergonomic time handling. The standard library is fine, but we can do better!
 
 > A simple to use, efficient, and full-featured Command Line Argument Parser
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ```js
 use clap::Parser;
@@ -841,7 +841,7 @@ struct Args {
 }
 ```
 
-
+<!-- column: 1 -->
 
 ```sh
 $ cargo run -- --help
@@ -857,14 +857,14 @@ Options:
   -V, --version        Print version
 ```
 
+<!-- reset_layout -->
 
-
-
+<!-- new_lines: 1 -->
 
 Honourable mention: `bpaf`, argparsing with clear combainators
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Rust's built-in argument parsing is good, but far better is to use the `derive` feature of `clap` and organise it all into a neat struct, with parsed data and help documentation derived for you.
 Remember, kids, it's argeparse, not argvalidate. Do it once, and, ideally, let clap do it for you.
@@ -873,7 +873,7 @@ Remember, kids, it's argeparse, not argvalidate. Do it once, and, ideally, let c
 
 > a thin wrapper around the `std::process::Command` type with a few additional convenient features:
 
-
+<!-- new_lines: 1 -->
 
 ```js
 let output = Command::with_args("echo", &["hello", "world"])
@@ -886,10 +886,10 @@ assert_eq!(
 );
 ```
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Rust's built-in command execution library is comprehensive, but a little too low-level for my liking.
 The `command-run` crate is juuuuust right, optionally allowing us to:
@@ -898,16 +898,16 @@ The `command-run` crate is juuuuust right, optionally allowing us to:
 - combine stderr and stdout
 - format the command as a string, not a builder
 
-
+<!-- font_size: 4 -->
 
 ## UTOIPA
 
-
+<!-- font_size: 1 -->
 
 > Compile time generated OpenAPI documentation for Rust
 
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ````js
 # //! ```cargo
@@ -942,7 +942,7 @@ async fn get_pet_by_id(pet_id: u64) -> Result<Pet, std::io::ErrorKind> {
 # }
 ````
 
-
+<!-- column: 1 -->
 
 ```json
 {
@@ -981,12 +981,12 @@ async fn get_pet_by_id(pet_id: u64) -> Result<Pet, std::io::ErrorKind> {
 ...
 ```
 
+<!-- reset_layout -->
 
+<!-- new_lines: 1 -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Continuing the bad spelling of crates like `reqwest`, `utoipa` allows any popular backend Rust web framework from `axum` to `rocket`, to become a self-documenting statically-typed REST API.
 
@@ -1008,10 +1008,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 }
 ```
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 SPEAKING OF REQWEST!
 Yes, it's spelled like that. The authors SAY they chose that spelling because it makes it easier to search for a unique name.
@@ -1023,7 +1023,7 @@ Reqwest has both sync and async versions of your favourite HTTP verbs, and opera
 
 > An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.
 
-
+<!-- new_lines: 1 -->
 
 ```js
 struct Country {
@@ -1044,8 +1044,8 @@ let countries = sqlx::query_as!(
 .await?;
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Combine `utoipa` with the compile-time verified queries of SQLX and your business logic is modelled in a single struct, across models, views, and controllers!
 Install the `sqlx-cli` for DB management, migrations, and offline validation.
@@ -1054,8 +1054,8 @@ Install the `sqlx-cli` for DB management, migrations, and offline validation.
 
 > full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces
 
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ```js
 #[component]
@@ -1071,16 +1071,16 @@ pub fn button() -> impl IntoView {
 }
 ```
 
-
+<!-- column: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/leptos-counter-demo.png)
 
+<!-- reset_layout -->
 
+<!-- new_lines: 1 -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 For frontend web I like the extremely comprehensive `leptos` crate.
 Though it also supports server side rendering, and therefore could be used on the backend, the ergonomics break down for me when using that feature.
@@ -1091,10 +1091,10 @@ You don't have to write React any more!
 
 > Build fullstack web, desktop, and mobile apps with a single codebase; A "better Flutter": faster, slimmer, and web-native.
 
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ```js
 use dioxus::prelude::*;
@@ -1114,36 +1114,36 @@ fn app() -> Element {
 }
 ```
 
+<!-- column: 1 -->
 
-
-
+<!-- new_lines: 2 -->
 - Apps are declared with standard HTML and CSS
 - Reactivity inspired by React and SolidJS and co
 - Dioxus code runs natively with no virtual machine, call system APIs with zero overhead
 
-
+<!-- reset_layout -->
 
 Honourable mention: `tauri`, lightweight native WebView.
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Or React Native, thanks to the Dioxus crate, which bundles up your app into android, iOS, or desktop apps, with batteries include and hot-reloading.
 For a lighter option that just replaces Electron, try the `Tauri` crate, based on native webview.
 
+<!-- column_layout: [1,2,1] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
+<!-- column: 2 -->
+<!-- new_lines: 30 -->
 
-
-
-
-
-
-
-
-
+<!-- reset_layout -->
+<!-- jump_to_middle -->
+<!-- font_size: 5 -->
 # <span style="background-color: #222">DEVENV.SH</span>
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ...have you installed it yet?
 Head over to devenv.sh and get cracking!

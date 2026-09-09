@@ -5,18 +5,18 @@
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Oxidise Your Command Line (2025 Edition)" width="100%" height="100%" src="https://makertube.net/videos/embed/hiKSq6g3sjkMsrTZ6fUS32" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
-
+<!-- new_lines: 10 -->
 OXIDISE YOUR COMMAND LINE
 ===
 
 # `2025 EDITION`
 
+<!-- end_slide -->
 
+<!-- new_lines: 2 -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -24,53 +24,53 @@ OXIDISE YOUR COMMAND LINE
 It's been a little over 2 years since my last [Oxidise your Command Line](https://youtu.be/dFkGNe4oaKk) video, and it's about time for an update.
 Today I have `30` rust-powered command line tools to show you that have replaced and extended my old standards, in addition to a few non-standard ones that I didn't know I needed.
 
+<!-- end_slide -->
 
+<!-- font_size: 2 -->  
 
-
-
-
+<!-- new_lines: 2 -->
 ## Public Domain Videos
 
-
+<!-- font_size: 1 -->  
 ![image:width:50%](/img/user/Resources/Meta/attachments/cc-zero-2k.png)
 
-
+<!-- new_lines: 2 -->
 > [!NOTE] For all links, read my scripts here:
 > - `www.namtao.com`
 > - `github.com/NamtaoProductions/namtao-com`
 
+<!-- column_layout: [5,1] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
 
-
-
-
-
+<!-- new_lines: 0 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/white-logo.png)
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
  
 
 I dedicate my video scripts to the public domain.
 
 Everything you see here: script, links, and images are part of a Markdown document available freely at my website and on GitHub at the above address.
 
+<!-- end_slide -->
 
-
-
+<!-- new_lines: 5 -->
 # OUT WITH THE OLD
 # `IN WITH THE NEW`
 
+<!-- end_slide -->
 
-
-
+<!-- new_lines: 8 -->
 # PART 1:
 # `OUT WITH THE OLD`
 
+<!-- end_slide -->
 
-
-
+<!-- skip_slide -->
 
 These are the tools I've replaced with modern, oxidised, versions. Mostly drop-in replacements that do the job harder, better, faster, or stronger than their older counterparts.
 We'll start with the very foundation of my daily computing.
@@ -89,7 +89,7 @@ echo "> coreutils ls"
 coreutils ls
 ```
 
-
+<!-- alignment: center -->
 All my friends are invited, including:
 `cat`
 `chown`
@@ -105,8 +105,8 @@ All my friends are invited, including:
 `rm`
 `whoami`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -120,15 +120,15 @@ Fish
 
 > A smart and user-friendly command line `sh`ell for Linux, macOS, and the rest of the family
 
-
+<!-- new_lines: 2 -->
 ![](/img/user/Resources/Meta/attachments/fish-screenshot-demoing-git-completions.png)
 
-
+<!-- new_lines: 2 -->
 > [!IMPORTANT] Finally, a shell for the 90s! Watch out, Netscape Navigator 4.0! Web configuration for those lucky few with a graphical computer! 24-bit color: Behold the monospaced rainbow!
 > Unhinged statements from the `fish` team
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -155,8 +155,8 @@ echo "> uname"
 nu -c uname
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -176,8 +176,8 @@ echo ""
 rg --type=rust --color=always fn
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -202,8 +202,8 @@ echo ""
 fd -e .rs -x wc
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 - fd is a fast, pretty, drop-in replacement for find, with a much more modern ux, and pretty colours
 
@@ -219,8 +219,8 @@ echo ""
 bat --color always --line-range 0:4 Cargo.toml
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - the cat with wings!
@@ -239,8 +239,8 @@ echo ""
 eza --time-style=long-iso --group-directories-first --icons -l --color=always
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - Alias `ls=eza` and you get a drop-in replacement that supports colours and git status
@@ -266,8 +266,8 @@ echo "> pwd"
 echo ".config/nvim/lua"
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -306,8 +306,8 @@ Server: gunicorn/19.9.0
 }
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - A simpler interface than curl
@@ -321,8 +321,8 @@ ZELLIJ
 
 ![](/img/user/Resources/Meta/attachments/zellij-screenshot-two-panes.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - tmux/screen replacement
@@ -335,8 +335,8 @@ GITUI
 
 ![](/img/user/Resources/Meta/attachments/gitui-staged-changes-screenshot.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - It's a great UI for when you want to do lots of small operations, and don't want to repeat yourself using the regular git command
@@ -354,8 +354,8 @@ echo ""
 dust -Cin 9
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - A graphical disk usage analyser with a pretty UI
@@ -368,21 +368,21 @@ DUA
 
 ![](/img/user/Resources/Meta/attachments/dua-interactive-screenshot.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - Another graphical disk usage analyser, but this one is INTERACTIVE
 - It's just as fast as du-dust
 
+<!-- end_slide -->
 
-
-
+<!-- new_lines: 8 -->
 # PART 2:
 # `IN WITH THE NEW`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Though you might not have an existing app to replace, I recommend the following tools to anyone because they're COOL, and they'll make your life more joyful!
 
@@ -497,11 +497,11 @@ V
 VCSH
 Zig
 
-
+<!-- alignment: center -->
 Tag yourself!
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - Because the programs used to generate your shell prompt will be executed all the time when using the terminal, you NEED them to be FAST.
@@ -514,8 +514,8 @@ YAZI
 
 ![](/img/user/Resources/Meta/attachments/yazi-showing-image-screenshot.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -538,8 +538,8 @@ echo ""
 hyperfine --warmup=1 -r 3 --style=color "cargo build"
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -554,11 +554,11 @@ EVIL-HELIX
 
 ![](/img/user/Resources/Meta/attachments/screenshot-evil-helix-tokyonight.png)
 
-
+<!-- alignment: center -->
 Rust lsp auto-configured, lsp code action triggered, tokyonight theme
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 demo
  
 - The normal version of helix is a batteries-included text editor in a single binary
@@ -575,8 +575,8 @@ BACON
 
 ![](/img/user/Resources/Meta/attachments/screenshot-bacon-clippy-warnings-2025.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -596,8 +596,8 @@ echo ""
 cargo info rayon --color=always
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 - I spend my whole life trying to avoid opening a web browser, and cargo-info helps me in this Sisyphean endeavour!
@@ -623,8 +623,8 @@ echo ""
 fselect "SELECT name, created FROM . MAXDEPTH 1 where is_dir==false ORDER BY created" | column -t
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 - I don't know about you, but I can't remember all of the unusual or advanced find parameters, I have to look them up every time.
 - But you know what I can remember? SQL syntax.
@@ -639,11 +639,11 @@ NCSPOT
 
 ![](/img/user/Resources/Meta/attachments/ncspot-screenshot.png)
 
-
+<!-- alignment: center -->
 (Listen to `GANYMEDE 2071` wherever you get your music and at `namtao.bandcamp.com`)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 - The regular spotify is an electron app that uses hundreds of megabytes of memory, just to play a 3MB track.
 - On my machine, ncspot uses 2MB of memory.
@@ -656,25 +656,25 @@ RUSTY-MAN
 
 > Command-line viewer for rustdoc documentation
 
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
  ```bash +exec_replace
 echo "> rusty-man std::thread"
 echo ""
 rusty-man std::thread --viewer=rich --width=30
 ```
 
-
+<!-- column: 1 -->
  ```bash +exec_replace
 echo "> rusty-man -e std::thread"
 echo ""
 rusty-man -e std::thread --viewer=rich --width=30
 ```
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 - It's man pages for rust crates!
 - Though you can read all the rust documentation offline on your machine using Bugs Bunny's favourite command, `rustup doc`, that requires a web browser.
@@ -696,8 +696,8 @@ echo '> delta README.md README-duplicate.md'
 delta README.md README-duplicate.md | head -n10
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 
@@ -717,12 +717,12 @@ echo ""
 rga --color=always river ~/Dropbox/Books/A\ Kiss\ Of\ Salt\ And\ Silt.epub | head -n3
 ```
 
-
-
+<!-- new_lines: 2 -->
+<!-- alignment: center -->
 (Listen to "`A Kiss of Salt And Silt`" and our other spooky stories at `ModemPrometheus.com`)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
  
 - RGA wraps ripgrep to search inside container files like zips.
 - Here I'm grepping INSIDE an epub of the script of my spookiest podcast, Modem Prometheus
@@ -742,8 +742,8 @@ echo ""
 tokei
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 
 
@@ -760,7 +760,7 @@ WIKI-TUI
 ![](/img/user/Resources/Meta/attachments/wiki-tui-screenshot-rust-demo.png)
 
 ---
-
+<!-- skip_slide -->
 
 - Another way to avoid the web browser
 - (I'm developing somewhat of a pattern here, aren't!)
@@ -797,7 +797,7 @@ just clean
 ```
 
 ---
-
+<!-- skip_slide -->
 
 - Just is a sane, modern Make replacement for running and chaining commands in your project
 - It produces detailed error messages and avoids `make`'s idiosyncrasies, so debugging a Justfile is easier and less surprising than debugging a Makefile.
@@ -834,7 +834,7 @@ echo ""
 ```
 
 ---
-
+<!-- skip_slide -->
 
 - Mask is another command runner, like just and make, but the config file is a standard markdown file, as you see here.
 - This is a really neat trick, as it means your documentation can serve as your code, and vice versa
@@ -854,7 +854,7 @@ mprocs "cargo watch clippy" "cargo test"
 ![](/img/user/Resources/Meta/attachments/mprocs-screenshot-clippy-test-demo.png)
 
 ---
-
+<!-- skip_slide -->
 
 - Mprocs provides a simple way to run a bunch of long-running commands, and monitor their output
 - You might use this to run dev databases or web servers, perhaps set up queues or caching
@@ -868,8 +868,8 @@ Presenterm
 
 > A terminal slideshow presentation tool
 
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ````markdown
 Presenterm
@@ -877,37 +877,37 @@ Presenterm
 
 > A terminal slideshow presentation tool
 
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ```markdown
 (this markdown)
 ```
-
+<!-- column: 1 -->
 
 Looks like:
 ![](presenterm-temp.png)
 
-
-
-
+<!-- reset_layout -->
+<!-- alignment: center -->
+<!-- new_lines: 2 -->
 
 https://github.com/sponsors/mfontanini
 ````
-
+<!-- column: 1 -->
 
 Looks like:
 
 ![](/img/user/Resources/Meta/attachments/presenterm-temp.png)
 
-
+<!-- new_lines: 7 -->
 
 ❤️ `https://github.com/sponsors/mfontanini`
-
-
+<!-- reset_layout -->
+<!-- alignment: center -->
 
 ---
-
+<!-- skip_slide -->
 
  
 
@@ -926,7 +926,7 @@ Honourable Mentions
 
 > I ran out of time to talk about these, but they're cool!
 
-
+<!-- new_lines: 5 -->
 
 - kondo
     - If nested clutter doesn't bring you joy, let it go!
@@ -938,23 +938,23 @@ Honourable Mentions
     - A system-wide text expander/templater
 
 ---
-
+<!-- skip_slide -->
 
 I couldn't fit everything I wanted in the video today, here are some that didn't quite make the cut, but are still cool.
 I'd love to know your favourite cli tools, even if they're not written in Rust! Do let me know.
 
  
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 4 -->
 # Thank You
-
+<!-- alignment: center -->
 To all my patrons, you make this possible!
 
+<!-- column_layout: [1,5,1] -->
+<!-- column: 0 -->
 
-
-
-
+<!-- column: 1 -->
 ```rust
 let producers: [&str; 0] = [];
 let sponsors = [
@@ -963,15 +963,15 @@ let sponsors = [
 let patrons: [&str; 879];
 ```
 
-
-
+<!-- column: 2 -->
+<!-- reset_layout -->
 
 I'd be very greatful for your support on:
 - [Patreon](patreon.com/noboilerplate)
 - [Ko-Fi](ko-fi.com/noboilerplate)
 - [Gumroad](namtao.gumroad.com)
 
-
+<!-- end_slide -->
  
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon.
 If you're interested in transhumanism and hopepunk, please check out my weekly sci-fi audiofiction podcast, Lost Terminal.
@@ -979,12 +979,12 @@ Season 3 of the Phosphene Catalogue is coming soon, if you like mysteries and ar
 Transcripts and compile-checked markdown sourcecode are available on namtao.com and github, links in the description, and corrections are in the pinned ERRATA comment.
 Thank you so much for watching, talk to you on Discord.
 
+<!-- skip_slide -->
 
-
-
+<!-- end_slide -->
 
 ---
-
+<!-- skip_slide -->
 
 ---
 

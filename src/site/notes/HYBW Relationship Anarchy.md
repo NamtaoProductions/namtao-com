@@ -3,21 +3,23 @@
 ---
 
 
-
+<!--
+speaker_note: |
 
     Hi friends my name is Tris and this is No Boilerplate, where I focus on fast, technical videos.
 
-
+-->
 
 ---
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
 
-
+<!-- jump_to_middle -->
 
 # RELATIONSHIP ANARCHY
 
-
+<!--
+speaker_note: |
 
     A lesson that I suspect many parents and teachers are already hoping to instil in the young people in their care is: No one is ALWAYS more important than anyone else, and no relationship is ALWAYS more important than any other.
     This received wisdom comes in many forms, "don't forget your mates when you get a girlfriend" would be an example, but so would "Don't let your parents dictate whom you choose to marry".
@@ -25,7 +27,7 @@
     And as anyone who has learned chemistry after high school will tell you, sometimes you have to unlearn everything you had been taught for your entire life to improve.
     Relationship Anarchy provides an alternative lens for us here, but first we must ask ourselves, do we know what anarchy is?
 
-
+-->
 
 ---
 
@@ -41,9 +43,10 @@ Abolish:
 
 in our _political process_
 
+<!-- new_lines: 2 -->
 
-
-
+<!--
+speaker_note: |
 
     > Political Anarchism is a philosophy and movement that seeks to abolish authority, coercion, and hierarchy in our political process.
 
@@ -55,7 +58,7 @@ in our _political process_
 
     Asking especially why having some people in power over other people is so highly valued in our society.
 
-
+-->
 
 ---
 
@@ -71,51 +74,53 @@ Abolish:
 
 in our _interpersonal relationships_
 
-
+<!--
+speaker_note: |
 
     > Relationship Anarchism is a philosophy that seeks to abolish authority, coercion, and hierarchy in interpersonal relationships.
 
     Relationship Anarchy questions inherent hierarchies in our relationships, especially why romantic relationships are so highly valued in our society over all other kinds.
 
-
+-->
 
 ---
 
-
-
-
-
-
+<!-- alignment: center -->
+<!-- new_lines: 1 -->
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
+<!-- new_lines: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/anarc.png)
 "NO GODS, NO MASTERS"
 
-
+<!-- column: 1 -->
 
 vs
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
 
+<!-- reset_layout -->
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
-
-
-
-
+<!-- column: 1 -->
 
 "OH GOD, YES MASTER"
 
+<!-- reset_layout -->
 
-
-
+<!--
+speaker_note: |
 
     Anarchy rejects hierarchy in our political process, _relationship_ anarchy rejects hierarchy in our relationships with each other.
     Are we clear? An-archy; Against heirarchy.
     Thank you for your patience, boring time over.
 
-
+-->
 
 ---
 
-
+<!-- new_lines: 4 -->
 
 FULL DISCLOSURE:
 
@@ -125,28 +130,30 @@ FULL DISCLOSURE:
 
 _(ie "easy mode")_
 
-
+<!--
+speaker_note: |
 
     Full disclosure: I wrote this video to introduce you to this important, yet inherently queer topic.
     Please understand that I'm not speaking from experience, but a hyperfocused sidequest deep-dive I went down while researching mental health topics for my podcast, Lost Terminal!
     I have provided links to books, articles, and other vides by queer experts in the field for you to engage with further, and I recommend you do.
 
-
+-->
 
 ---
 
-
+<!-- jump_to_middle -->
 
 # AMATONORMATIVITY
 
 (the societal assumption that everyone prospers with one exclusive romantic relationship[^1])
 
-
+<!--
+speaker_note: |
 
     As we move through our lives, we are surrounded by bad relationship examples, in books, films, online, and even in our parents and teachers.
     I don't blame them, they're just doing the best they can, following society's default path that Relationship Anarchists name "The Relationship Escalator":
 
-
+-->
 
 ---
 
@@ -156,11 +163,12 @@ Tool # 1:
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/relationship-escalator-illustration-nick-roberts.png)
 
-
+<!-- alignment: right -->
 
 `Image credit: Nick Roberts, The Washington Post`
 
-
+<!--
+speaker_note: |
 
     This is the first tool I want to tell you about today
     Society seems to have this rule that EVERY romantic relationship MUST follow this exact route:
@@ -177,45 +185,45 @@ Tool # 1:
 
     This metophor is genius, because if you ever try to walk down an 'up' escalator, you don't just have to fight against the will of the machine, but all the people who protest as you push past them, who are saying things like:
 
-
+-->
 
 ---
 
-
-
+<!-- font_size: 2 -->
+<!-- jump_to_middle -->
 
 _"He's not asked you to marry him yet? What a time-waster!"_
 
-
+<!-- alignment: right -->
 
 `well-meaning friends`
 
 ---
 
-
-
+<!-- font_size: 2 -->
+<!-- jump_to_middle -->
 
 _"You guys aren't exclusive? You're obviously not serious about each other."_
 
-
+<!-- alignment: right -->
 
 `less-well-meaning friends`
 
 ---
 
-
-
+<!-- font_size: 2 -->
+<!-- jump_to_middle -->
 
 _"You've been married for 5 years, WHERE ARE MY GRANDCHILDREN?"_
 
-
+<!-- alignment: right -->
 
 `well-meaning parents`
 
 ---
 
-
-
+<!-- font_size: 2 -->
+<!-- new_lines: 2 -->
 
 _"I go on too many dates_
 
@@ -223,19 +231,20 @@ _but I can't make them stay._
 
 _(at least that's what people \_say_...)"\_
 
-
+<!-- alignment: right -->
 
 `T. SWIFT, WARRIOR-POET`
 
-
+<!--
+speaker_note: |
 
     TAYLOR, darling, who are these "people"? Blink twice if you're under duress.
 
-
+-->
 
 ---
 
-
+<!-- font_size: 2 -->
 
 _\[Two little lovebirds\] sitting in a tree_
 
@@ -247,12 +256,13 @@ _Then comes marriage_
 
 _Then comes baby in a baby carriage!_
 
-
-
+<!-- font_size: 2 -->
+<!-- alignment: right -->
 
 `Traditional nursery rhyme`
 
-
+<!--
+speaker_note: |
 
     - And they start US so young!
         - FIRST comes love
@@ -260,12 +270,12 @@ _Then comes baby in a baby carriage!_
         - THEN AND ONLY THEN ARE BABIES AUTHORISED
     - and so on, in every film, every song, every hallmark advert. Death by a thousand paper cuts, and we hardly even know we are learning these rules
 
-
+-->
 
 ---
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Please consider my Patreon, especially if you'd like more videos like this, as queer topics are often demonetised here on YouTube.
 
@@ -279,17 +289,18 @@ Thank you! Onward:
 
 ---
 
-
+<!-- new_lines: 5 -->
 
 ## SOME BAD RELATIONSHIPS
 
 # IN STORIES
 
-
+<!--
+speaker_note: |
 
     Let's look at some case studies, shall we?
 
-
+-->
 
 ---
 
@@ -297,32 +308,34 @@ Thank you! Onward:
 
 (& JACOB)
 
-
-
+<!-- jump_to_middle -->
+<!-- new_lines: 4 -->
 
 # BELLA & EDWARD
 
-
+<!--
+speaker_note: |
 
     AUDIBLE GASP! Bella can't possibly have complex feelings for TWO guys, that's UNHEARD OF! WHAT CAN SHE, A GOOD MORMON-CODED GIRL, DO?
 
-
+-->
 
 ---
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/ana-kristoff.png)
 (and whats-his-name, the evil prince guy)
 
-
-
+<!-- jump_to_middle -->
+<!-- new_lines: 4 -->
 
 # ANA & KRISTOF
 
-
+<!--
+speaker_note: |
 
     Poor stupid kristof knew that society would judge Ana's possible future relationship with her possible future prince husband as more important than his, a mere peasant's, love
 
-
+-->
 
 ---
 
@@ -330,16 +343,17 @@ Thank you! Onward:
 
 Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 
-
-
+<!-- jump_to_middle -->
+<!-- new_lines: 4 -->
 
 # ROMEO & JULIET
 
-
+<!--
+speaker_note: |
 
     These two star-crossed galazy brain geniuses don't even know each other's NAMES until act 2!
 
-
+-->
 
 ---
 
@@ -347,30 +361,32 @@ Baz Luhrmann's "Romeo ☩ Juliet" (1996) is THE BEST ADAPTATION FIGHT ME
 
 (the set designer and director disagreed about how many candles are in this scene)
 
-
+<!--
+speaker_note: |
 
     The point is, society had a LOT to say about Romeo & Juliet's relationship, but none of it actually helped them.
     The lesson is clear: WE MUST TALK TO THE PEOPLE WE ARE IN RELATIONSHIPS WITH, not just make assumptions.
     Because:
 
-
+-->
 
 ---
 
-
+<!-- new_lines: 6 -->
 
 # TRADITIONAL COUPLING
 
 # CAN BE HARMFUL?
 
-
+<!--
+speaker_note: |
 
     When we're in love with someone, especially at the start, the romance can feel all-encompassing: This special someone seems to be all we're talking about and thinking about, isn't it good to pour all of our effort and expectations into this person?
     Just as we have heard people do in every story ever written?
 
     It's not, and I'll explain using tool #2:
 
-
+-->
 
 ---
 
@@ -380,14 +396,15 @@ TOOL #2:
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/smorgasboard-swedish.png)
 
-
+<!--
+speaker_note: |
 
     In a restaurant, a smorgasboard is a buffet of many small items that you can fill you plate with.
     A little of this, a little of that. If you don't like meat, no-one is forcing you to have some, if you love olives, take a whole bunch!
     It's an alternative to a set menu, where you'll eat what you are served, like it or not.
     Relationship Anarchists take all the behaviours that, according to the escalator, previously had to be fulfilled by just one person, and splits them into a buffet that you can use as a conversation starter with your friends, paramours, or messy situationships.
 
-
+-->
 
 ---
 
@@ -710,7 +727,8 @@ classDiagram
 
 AN EXAMPLE RELATIONSHIP ANARCHY SMORGASBORD
 
-
+<!--
+speaker_note: |
 
     Just look at the options that are available! Quite a menu.
     Most people won't have an appetite for everything here, and that's fine, that's how a menu WORKS!
@@ -729,7 +747,7 @@ AN EXAMPLE RELATIONSHIP ANARCHY SMORGASBORD
 
     What a terrible burden to put on someone, right?
 
-
+-->
 
 ---
 
@@ -817,12 +835,12 @@ THIS IS TOO MUCH
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
 
-
+<!-- jump_to_middle -->
 
 ## OPTIMISING FRIENDSHIPS
 
-
-
+<!-- new_lines: 8 -->
+<!-- alignment: right -->
 
 Quote from: thethinkingasexual.wordpress.com[^2]
 
@@ -845,20 +863,22 @@ As The Thinking Aro says:
 
 _"You have no family. You don't even have a dog."_
 
-
+<!--
+speaker_note: |
 
     A clear example of society devaluaing friendship relationships is Project Hail Mary, my film of the year so far:
     Because grace has no family, he is expendable, because family are assumed to be more important than him enriching the lives of hundreds of his students
 
-
+-->
 
 ---
 
-
+<!-- jump_to_middle -->
 
 # REALITY CHECK
 
-
+<!--
+speaker_note: |
 
     I want to pause at the end here and give a reality check.
 
@@ -867,15 +887,15 @@ _"You have no family. You don't even have a dog."_
     Coupling, in one way or another is often the easier choice for people.
     RA encompasses these coupled relationships, too, but doesn't accept them as the default or best, and neither should you.
 
-
+-->
 
 ---
 
 # DON'T GUESS: TALK
 
+<!-- new_lines: 4 -->
 
-
-
+<!-- font_size: 2 -->
 
 1. Love is abundant, and every relationship is unique
 2. Love and respect instead of entitlement
@@ -887,13 +907,14 @@ _"You have no family. You don't even have a dog."_
 8. Change through communication
 9. Customise your commitments
 
-
-
-
+<!-- new_lines: 3 -->
+<!-- font_size: 1 -->
+<!-- alignment: right -->
 
 From _"The short instructional manifesto for relationship anarchy"_, Andie Nordgren
 
-
+<!--
+speaker_note: |
 
     Assumptions are never good, and that counts double in relationships, especially the harmful assumption that your exclusive partner must fulfil everything you require - how could that POSSIBLY be?
 
@@ -910,7 +931,7 @@ From _"The short instructional manifesto for relationship anarchy"_, Andie Nordg
     - And his thruple
     - and all friends who you loved along the way.
 
-
+-->
 
 ---
 
@@ -918,10 +939,10 @@ From _"The short instructional manifesto for relationship anarchy"_, Andie Nordg
 
 _I'm producing the following RIGHT NOW:_
 
+<!-- new_lines: 2 -->
 
-
-
-
+<!-- column_layout: [1,1,1,1] -->
+<!-- column: 0 -->
 
 [[Lost Terminal/Lost Terminal Home\|Lost Terminal]]
 
@@ -929,7 +950,7 @@ _I'm producing the following RIGHT NOW:_
 - Hopepunk / Solarpunk
 - _Extremely British_
 
-
+<!-- jump_to_middle -->
 
 [[Modem Prometheus Home\|Modem Prometheus]]
 
@@ -937,9 +958,9 @@ _I'm producing the following RIGHT NOW:_
 - Technology blended with magic
 - _Extremely British_
 
+<!-- column: 1 -->
 
-
-
+<!-- column: 2 -->
 
 [[Projects/The Phosphene Catalogue/The Phosphene Catalogue Home\|The Phosphene Catalogue]]
 
@@ -947,7 +968,7 @@ _I'm producing the following RIGHT NOW:_
 - Magical artwork
 - _Extremely British_
 
-
+<!-- jump_to_middle -->
 
 [[Decapsulate Home\|Decapsulate]]
 
@@ -960,13 +981,13 @@ _I'm producing the following RIGHT NOW:_
 
 ![image:width:90%](/img/user/Resources/Meta/attachments/modem-prometheus-branding-final-2k.jpg)
 
-
+<!-- column: 3 -->
 
 ![image:width:90%](/img/user/Resources/Meta/attachments/tpc-logo.jpg)
 
 ![image:width:90%](/img/user/Resources/Meta/attachments/decapsulate-logo-large.jpg)
 
-
+<!-- reset_layout -->
 
  ---
 

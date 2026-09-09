@@ -102,8 +102,8 @@ agents make 99% correct code, but that cannot be supervised
 - 👨‍🏫 1:1 Mentoring over video chat. Email: mentoring@namtao.com
 - ❤️ My infinite gratitude for allowing me to continue making these videos
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure.
 
@@ -116,15 +116,15 @@ I also offer regular mentoring. If you'd like 1:1 tuition on Obsidian, personal 
 # PODCAST SHOUTOUT
  ---
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 whatever seems relavent
 
 ---
 # Thank You
 
-
+<!-- end_slide -->
 
 To all my patrons, you make this possible!
 
@@ -141,7 +141,7 @@ I'd be very grateful for your support on:
 - [Ko-Fi](https://ko-fi.com/noboilerplate)
 - [Gumroad](https://namtao.gumroad.com)
 
-
+<!-- skip_slide -->
 
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
 

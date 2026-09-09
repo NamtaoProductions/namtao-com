@@ -5,15 +5,15 @@
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Obsidian for Writers" width="100%" height="100%" src="https://makertube.net/videos/embed/6q59rXesVKHLx1BWSfMFru?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 ## INTRODUCTION
+<!-- jump_to_middle -->
 
-
-
+<!-- font_size: 2 -->
 
 > [!IMPORTANT] The premise is simple yet profound. While humans excel at generating insights, our capacity to retain them is limited. We’re forgetful. We lose our train of thought. Great ideas vanish as quickly as they appear.
 > "A System for Writing", by Bob Doto
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Hi folks, my name is Tris, and this is No Boilerplate, where I focus on fast, technical videos.
 Both the co-writer of this video, Bob Doto, and I are professional writers and if you are too, you need to know about Obsidian.
@@ -27,17 +27,17 @@ It's hard to remember your thoughts, in part because they're so riddled with gap
 
 For the writer, keeping an entire book in our head, is our own, personal, purgatory.
 
-
+<!-- include: /home/oatman/Dropbox/Chamber/public-domain-presenterm.md -->
 
 # EXTERNAL MIND THESIS
-
-
+<!-- jump_to_middle -->
+<!-- font_size: 2 -->
 
 > [!IMPORTANT] ...writing is an effective means of improving thinking skills because a person must mentally process ideas in order to write an explanation.
 > William Zinsser, _"Writing To Learn"_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The solution since the beginning of history, has been for the writer to keep notes on the books, papers, and writing we are working on.
 Get the thoughts out of your mind, and organised on paper.
@@ -56,12 +56,12 @@ Ownerhip of our text files.
 
 # WHAT IS OBSIDIAN?
 
-
-
+<!-- new_lines: 1 -->
+<!-- font_size: 2 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/obsidian-screenshot-simple.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Enter Obsidian:
 
@@ -72,26 +72,26 @@ For the technically-minded, Obsidian allows you, should you wish, to treat your 
 Even non-programmers can take advantage of this, thanks to the thousands of plugins available in the app, with more being published every day.
 
 # OFFLINE SUPERPOWERS
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/photo-depressing-house-oops-its-my-house.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 One of the key features (and certainly one of the most highlighted by both users and the platform itself) is that Obsidian runs offline. At first glance, that might not sound like a big deal. We live online. Most of our tools live online. And, thanks to cloud-based platforms, so too does our writing live online. So why would we want to move ourselves and it offline?
 
 As it turns out, when you do so, you gain superpowers.
 
 # WRITE ANYWHERE
+<!-- new_lines: 1 -->
 
-
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/typewriter-from-shining.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The most immediate benefit is also the most obvious: no requirement to have an internet connection means no dependency on having one. You can write in a forest without Starlink; at a café with no WiFi; on a plane without being extorted for in-flight internet. Your work is always accessible, always editable, because it's not sitting on a server somewhere. It's sitting on your computer.
 
@@ -99,57 +99,57 @@ This distinction-your computer versus a server-matters more than it might initia
 
 # YOUR FILES
 
-
+<!-- font_size: 3 -->
 ## ARE ACTUALLY _YOUR_ FILES
 
-
+<!-- font_size: 2 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-finder-mockup.png)
 
-
+<!-- font_size: 1 -->
 remember _files_?
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 For most people who've grown up working in cloud-based tools like Google Docs, the idea of storing files locally can feel almost quaint.
 
 # THE BOTTOM LINE IS
 
-
+<!-- font_size: 6 -->
 _**CONTROL**_
-
+<!-- font_size: 2 -->
 - No cloud
 - No logins
 - No ads
 - No AI
 
-
+<!-- new_lines: 1 -->
 
 you own your writing
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Local file storage gives you a sense of control, a genuinely rare thing in the modern software landscape. With Obsidian, you're not dependent on a WiFi connection. You're not at the mercy of a tech company's account policies. You're not quietly feeding your writing into a surveillance apparatus or AI training algorithm. You're starting from a position of ownership. For a writer, that's no small thing. Your writing is everything.
 
 # WRITING IN OBSIDIAN
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/obsidian.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 A combination of good design decisions makes writing in Obsidian feel not only fast and secure, but also enjoyable and productive.
 
 # MARKDOWN
 
+<!-- new_lines: 3 -->
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
+<!-- alignment: right -->
 
-
-
-
-
-
+<!-- new_lines: 2 -->
 ## This is a Heading
  ---
 _this is italic text_
@@ -157,9 +157,9 @@ _this is italic text_
 **this is bold**
 
 [[this is a link\|this is a link]]
+<!-- column: 1 -->
 
-
-
+<!-- font_size: 2 -->
 ```markdown
 # This is a Heading
 ## This is a sub Heading
@@ -168,13 +168,13 @@ _this is italic text_
 [[this is a link]]
 ```
 
-
-
+<!-- reset_layout -->
+<!-- alignment: center -->
 
 What more do you need?
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 _(learn more: [markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/))_
 
@@ -189,15 +189,15 @@ There are a few more options available, which you can look up here, but this is 
 
 (If this style of formatting doesn't vibe with you, then the formatting toolbar plugin is what you need!)
 
+<!-- end_slide -->
+<!-- font_size: 2 -->
 
-
-
-
+<!-- new_lines: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-distraction-free.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The beauty of writing in Markdown is that it allows you to focus on the content, with only minimal attention needed to its presentation - as a writer, you shouldn't care about that until publishing.
 All it takes is committing a few keyboard shortcuts to memory, which you can customize to make even more intuitive, and 99% of your day-to-day formatting needs will be met, literally, at the tips of your fingers.
@@ -207,27 +207,27 @@ This has been extremely beneficial to me as a professional writer with deadlnes.
 Writing on keyboards means typing on keyboards. Markdown integrates formatting into the typing you're already doing. As you write, you can type all the formatting you need, never stopping to click or swipe. It's a seamless process that keeps you focused on the work at hand; the work that's going to get you PAID, not the appearance of those words.
 
 # BANISH DISTRACTIONS
-
-
+<!-- jump_to_middle -->
+<!-- font_size: 2 -->
 
 > [!IMPORTANT] You don't have to write. You have permission to not write, but you don't have permission to do anything else.
 > Neil Gaiman
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Never having to leave the keyboard leads to speed, which although not a metric most people equate with "good writing," is actually kind of crucial to the whole process, ask George R.R. Martin. The fact that your hands never leave the home row, means you're not breaking the flow of the writing itself. You're getting more words on this page in less time. This has a direct effect on speeding up the transition from "no draft" to "first draft."
 For my full thesis on this, watch my video "Writing At The Speed Of Thought"
 
 # PLAIN TEXT LASTS FOREVER
-
+<!-- new_lines: 1 -->
 
 ![image:width:80%](/img/user/Resources/Meta/attachments/hieroglyphs-on-stone.png)
 
 _The chisels are gone, the writing remains_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Forever is a strong word, but if history is anything to go on, plain text will be around for a very long time. Which means your writing will too.
 
@@ -235,12 +235,12 @@ Working inside plain text Markdown doesn't just insure us against the obsolescen
 
 # STANDARDS > ECOSYSTEMS
 
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/killed-by-google-2026.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Imagine you wrote a book in, say, the Google Docs ecosystem, and want to see what plugins or integrations are available to help organise, modify, or publish your writing.
 
@@ -253,12 +253,12 @@ But they all must use Google's API to work on your documents. Which means Google
 Contrast this with writing your book in Obsidian as a simple, plain-text, markdown document.
 
 # MARKDOWN IS EVERYWHERE
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/gdocs-markdown-export.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 How many tools work with Obsidian? Well, there are about 5000 native obsidian plugins at time of recording, but probably not many external tools. In fact, neither Scrivner nor Microsoft Word nor Google Docs—none of the big word processors—will support Obsidian. It's just too small for them to bother with.
 
@@ -273,45 +273,45 @@ Ok, that might be 10s of thousands!
 But, it gets better.
 
 # PLAIN TEXT
+<!-- font_size: 1 -->
 
-
-
-
+<!-- column_layout: [4,3,1] -->
+<!-- column: 0 -->
 ![image:width:30%](/img/user/Resources/Meta/attachments/screenshot-obsidian-latex.png)
 ![image:width:50%](/img/user/Resources/Meta/attachments/screenshot-mermaid-plugin-flowchart.png)
 ![image:width:20%](/img/user/Resources/Meta/attachments/screenshot-abc-plugin.png)
 ![image:width:60%](/img/user/Resources/Meta/attachments/screenshot-hurt-chordlyrics-plugin.png)
 
-
+<!-- column: 1 -->
 
 ```latex
 $$\Sigma\ fancy!\ \pi$$
 ```
-
+<!-- new_lines: 3 -->
 
 ```haskell
 flowchart LR
-A  B  C
+A --> B --> C
 ```
 
-
+<!-- new_lines: 2 -->
 ```haskell
 C E G
 ```
 
-
+<!-- new_lines: 2 -->
 ```js
 [Verse 1]
 Em   G       A     Em       G      A       Em
    I hurt myself today   to see if I still feel
 ``` 
 
-
+<!-- reset_layout -->
 
 (showing built-in `LaTeX`, `Mermaid` plugins; Community `ABC Music Notation`, and `Chord Sheets` plugins)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Markdown is just plain text, sequential, human-readable, asci characters arranged in lines. That means any tool that works with plain text files works with your Obsidian manuscript!
 
@@ -327,8 +327,8 @@ Like, A MILLION!
 
 By using a STANDARD instead of an ECOSYSTEM, you gain superpowers you didn't even know existed.
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If this is all a little overwhelming, I quite understand, I've had 6 years of editing and tweaking my setup to get to this stage.
 If you would prefer a turn-key solution, I have built a pre-configured writers vault as a bonus download for all those who support me, at any level, on my Patreon.
@@ -336,13 +336,13 @@ Please consider signing up, especially if you'd like more videos on writing.
 
 Thank you so much! Onward:
 # UNKNOWN UNKNOWNS
+<!-- jump_to_middle -->
 
-
-
+<!-- font_size: 3 -->
 ## _IT'S HARD TO MISS WHAT YOU'VE NEVER KNOWN_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Writers tend to stick with whatever platform they've been using that makes the sometimes chaotic experience of writing feel more manageable. When it comes to platforms, writers are creature of habit. And, if it ain't broke, why fix it?
 
@@ -352,22 +352,22 @@ And have forgotten about the slow degradation of features inside them.
 
 Here are a few basic Obsidian features you may not have known you need.
 
+<!-- end_slide -->
 
-
-
+<!-- new_lines: 3 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/my-obsidian-graph-view-29-012025.png)
-
+<!-- alignment: right -->
 
 My Obsidian network of links, c. 2025
 
-
-
-
+<!-- jump_to_middle -->
+<!-- alignment: center -->
+<!-- font_size: 6 -->
  <span style="color: black; background-color: black">**[[LINKS\|LINKS]]**</span>
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Writers who use Google Docs, Apple Pages, and Word are probably not familiar with the wonder of using links. Because, although you CAN make links in these tools, they are annoying to use, and clearly not supposed to be a core part of your workflow.
 
@@ -386,62 +386,62 @@ That's nice of the Literature and Latte team to provide, but compared to Obsidia
 Because if your editor supports LINKS, like obsidian does, you can easily organise your writing with structures that make sense to YOU and YOUR STORY, as simple or as nested as you like, with just a few keystrokes.
 
 # MANUSCRIPT REFACTORING
-
+<!-- font_size: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/wikimedia-commons-editing-a-paper.png)
 
-
+<!-- alignment: right -->
 credit: [wikimedia commons](https://commons.wikimedia.org/wiki/File:2008-01-26_(Editing_a_paper)_-_31.jpg)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Writers who edit their own work inevitably need to move around paragraphs and sections. Obsidian makes this effortless with a simple keyboard shortcut. No cutting and pasting required. So long as your cursor is in the paragraph you want to move, you can just press the shortcut, and the paragraph will move up or down. This is especially useful during structural edits, when experimenting with the order of ideas rather than the words themselves. This allows you to rearrange your thinking in real-time.
 
 # OUTLINE DRAG AND DROP
 
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-outline-drag.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 For larger rewriting tasks, you can also move entire sections of your draft by clicking and dragging the heading in the outline in the right-hand panel. This is particularly helpful when using the Obsidian mobile app. No more dragging your finger to select multiple paragraphs and tables, hoping you catch everything. Just open the side bar, long-press the heading, and drag it, and all text inside that section, where you want it.
 
 # PLUGINS
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-website-plugins.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 At the heart of Obsidian are plugins, toggle-able options that expand the features of the editor, in large and small ways. These can be one of the 30 or so that are built-in, or the nearly 5000 made by the passionate community. All for free.
 
 # MINIMAL EDITOR
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-distraction-free.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Even with all plugins turned off, Obsidian is the best distraction-free Markdown text editor on the planet.
 
 # MAXIMAL EDITOR
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-lt-environment.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 But turn on a few built in-plugins such as Bases, and it doesn't take much to have a powerful organization _system for writing_, without installing any 3rd-party plugins.
 
 Of course, while you shouldn't clutter your Obsidian with loads of plugins you don't need, there are a few that I find so uniquely useful to me in my writing, that you simply MUST use:
 
 # PLUGIN SPEEDRUN
-
+<!-- font_size: 2 -->
 
 - Scroll offset
 - Linter
@@ -450,8 +450,8 @@ Of course, while you shouldn't clutter your Obsidian with loads of plugins you d
 - Bases / dataview / tasks
 - Storyline
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 - scroll offset
     - A feature that is sometimes called "typewriter scrolling", this keeps the current line in the middle of the page, allowing you to read the context above and below without wasting time reaching for your mouse and scrolling.
@@ -468,16 +468,16 @@ Of course, while you shouldn't clutter your Obsidian with loads of plugins you d
     - A comprehensive storywriting framework with scenes, plothole detection, pacing guidance, reading complexity statistics and far, far more. Especially from those refugees from Scrivner, you will feel right at home in this plugin, but without any of Scrivner's constraints.
 
 # BEWARE OF TOXIC PRODUCTIVITY:
+<!-- new_lines: 7 -->
 
-
-
+<!-- font_size: 6 -->
 
 I HAVE 109 PLUGINS
 
-
+<!-- font_size: 1 -->
 (in my defense, only ~half are active at a time, using _plugin groups_)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 Community plugins are some of the most interesting and exciting aspects of the Obsidian ecosystem. So much so, that some people find it hard to resist tinkering with their setup rather than using it.
 
 > (I, of course, can't empathise with this position, and havn't spend 6 years tweaking my setup)
@@ -486,24 +486,24 @@ It's important to remember, and this is especially true for writers, that the pl
 (And I hope one day to learn this for myself)
 
 # DOWNSIDES
-
-
+<!-- jump_to_middle -->
+<!-- font_size: 3 -->
 
 What are you, cops?
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 There are very few downsides to using Obsidian for writing. But, it would be disingenuous to not mention the few that get brought up in the community. I especially want to mention these, because if you do decide to try out Obsidian, they're going to rear their heads fairly quickly, and I want to help you past them.
 
-
-
-
+<!-- end_slide -->
+<!-- new_lines: 2 -->
+<!-- font_size: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/obsidian-gdocs.excalidraw.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 While Obsidian is one of the simplest platforms to use, if your only experience with writing is using Google Docs, opening up Obsidian for the first time can feel a bit daunting. Mostly, because of how little there is to see. Missing are the flashy toolbars, constant helpful pop-up suggestions, and familiar colourways of the bigger writing platforms.
 But I promise, if you take a few days to get used to how Obsidian works, you'll soon see why so many writers have made the leap.
@@ -516,24 +516,24 @@ Though for the power user, there are comprehensive hotkeys to do everything insi
 
 # SEMANTIC _VS_ PRESENTATION
 
-
-
-
-
+<!-- column_layout: [1,4,1,4,1] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
+<!-- new_lines: 0 -->
 
 ```md
 Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off—then, I account it high time to get to sea as soon as I can. This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; I quietly take to the ship. There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
 ```
 
-
-
+<!-- column: 2 -->
+<!-- column: 3 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/foliate-screenshot.png)
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Printing your writing from Obsidian requires an added step of first converting your markdown file to a PDF, or word document, which although can be done quickly, and with only a few keystrokes, can feel like unnecessary friction.
 It is a small price to pay for the many other benefits that come with writing in Obsidian, and I think a blessing in disguise.
@@ -545,8 +545,8 @@ Whether or not Hemingway actually wrote drunk and edited sober, YOU SHOULD SPLIT
 ## (Or Word or ePUB or HTML...)
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-writers-export.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 but what if you are both writer and publisher?
 The enhancing export plugin is essential for the solo publisher, using Pandoc behind the scenes:
@@ -559,43 +559,43 @@ It does this by using LaTeX behind the scenes, an industry-standard in the publi
 I'd need a whole video to explain this extremely comprehensive system, but you don't have to worry about it YET, just get writing in markdown, safe in the knowledge that every publishing format is available to you when you need it!
 
 # COLLABORATION
-
+<!-- font_size: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-screen-garden.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 One of the long-standing issues people have with Obsidian is its lacklustre collaboration ability. Collaborating with colleagues is simply not a core function, the files are on your computer, not theirs!
 But, it's not impossible. In fact, this video, which is a collaboration between Bob Doto and I, is proof that it can happen, and with relative ease. Of course, you will need to install a plugin to make it happen, we used Screen Garden, others such as Peeraft work well too.
 and if you've come from the engineering world, git and all the plain text collaboration tools are available, of course too.
 
+<!-- end_slide -->
 
-
-
-
+<!-- font_size: 1 -->
+<!-- new_lines: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-writers-editing.png)
 
 *The [patreon bonus writers vault](https://www.patreon.com/noboilerplate/posts/obsidian-for-zip-162081754), with characters base, metadata, my heading styles, and preconfigured Storyline plugin.*
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 In the end, using markdown, and thus keeping your hands on the keyboard, keeps you, the writer, in the writing process by bringing work that would otherwise take you out of the process, back in. You can now choose when you want to pause, employ a little helpful distraction, rather than the tools you're using making that decision for you.
 
+<!-- end_slide -->
+<!-- new_lines: 1 -->
 
+<!-- font_size: 2 -->
 
-
-
-
-
-
+<!-- column_layout: [2,3] -->
+<!-- column: 0 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/a-system-for-writing-cover.jpg)
 
-
-
+<!-- column: 1 -->
+<!-- new_lines: 4 -->
 
 - IMO the best book on Zettelkasten
 - read about it at: `bobdoto.computer`
@@ -603,10 +603,10 @@ In the end, using markdown, and thus keeping your hands on the keyboard, keeps y
 
 (All links below)
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 This video would not have been possible without my cowriter and friend, Bob Doto.
 

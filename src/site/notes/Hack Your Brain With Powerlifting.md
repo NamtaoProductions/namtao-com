@@ -4,25 +4,25 @@
 
 
 
-
+<!-- end_slide -->
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Hack your Brain with Powerlifting" width="100%" height="100%" src="https://makertube.net/videos/embed/i1ic9eu7MJrW4NgpUv1kLX?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
+<!-- skip_slide -->
+<!-- end_slide -->
 
 
 
-
-
-
-
+<!-- end_slide -->
+<!-- new_lines: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/stanley-parable.jpg)
-
+<!-- alignment: center -->
 
 _Our bodies are not even CLOSE to adapting to **AGRICULTURE**, let alone desks and computers._
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Hi friends my name is Tris and this is No Boilerplate, where I focus on fast, technical videos.
 
@@ -40,20 +40,20 @@ SO: To hack your brain effectively, you must ALSO hack your body.
 
 # PART 0
 ## DISCLAIMER
+<!-- alignment: center -->
 
-
-
-
-
+<!-- new_lines: 2 -->
+<!-- font_size: 2 -->
+<!-- alignment: center -->
 
 _Gender, body type, background, and age do not matter_
 
 _...though for reasons of my liability, please be over 18 and in good, medical-professional-certified health_
+<!-- alignment: right -->
 
-
-
+<!-- font_size: 1 -->
 `Paraphrased from the introduction of "Couch To Barbell", by Casey Johnston`
-
+<!-- end_slide -->
 
 ## WHEN TO USE A BARBELL
 
@@ -73,8 +73,8 @@ flowchart TD
 
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 One of the revelations when I first began looking into powerlifting in 2020, was how few exercises were trained, 3 core movements, and how little Equipment was required to train them, a barbell.
 
@@ -86,56 +86,56 @@ Barbell training requires that you be able to move around in certain ways while 
 A Deadlift using a Smith Machine is easier and safer because it greatly reduces the variables so you can't get them wrong. However, you don't want that, because a large part of our training is LEARNING HOW TO MOVE correctly.
 - If you can't lift the empty bar, which weights 20KG by itself, don't worry many gyms have lighter bars to get you started! if it's still too much, then Casey Johnston has your back with her course Couch To Barbell, which takes you from lifting a broomhandle to lifting the bar.
 - 
-
+<!-- end_slide -->
 
 # A TALE OF TWO BOOKS
+<!-- new_lines: 2 -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 ![image:width:50%](/img/user/Resources/Meta/attachments/a-physical-education-cover.png)
 
-
+<!-- column: 1 -->
 
 ![image:width:50%](/img/user/Resources/Meta/attachments/starting-strength-cover.png)
 
+<!-- reset_layout -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 
 _"What Starting Strength lacked in polish or flash it made up for with raw, unflinching, unsparing density"_
 
-
+<!-- alignment: right -->
 `Casey Johnston`
 
-
+<!-- column: 1 -->
 
 _"Physical strength is the most important thing in life."_
-
-
+<!-- alignment: right -->
+<!-- new_lines: 1 -->
 
 `Mark Rippetoe`
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 My two primary sources are Casey Johnston's primer on how Powerlifting changed the last decade of her life, and the textbook she recommends, Starting Strength, by Mark Rippetoe, now in its 3rd edition.
 
 NONE of this is sponsored, probably they would want to distance themselves from this amateur telling you how to do with powerlifting...
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 7 -->
 # PART 1
 ## PREVENTION > CURE
-
+<!-- alignment: center -->
 
 _(with apologies to Robert Smith)_
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 For all my adult life, I have suffered from posture-related back problems.
 "Nerd Back" I believe is the technical term.
@@ -148,15 +148,15 @@ I'm serious: Footballers and gymnasts and track runners - all these people have 
 Lift with your legs not your back is the standard recommendation.
 This is good advice if you are like most of us, and sitting at a desk for much of our days has given us a weak back. BUT DO YOU SEE THE PROBLEM HERE.
 Wouldn't it be better to NOT HAVE A WEAK BACK?
+<!-- end_slide -->
 
-
-
+<!-- new_lines: 3 -->
 
 ## ERGONOMICS ARE NOT ENOUGH
 ![image:width:30%](/img/user/Resources/Meta/attachments/laptop-ergo.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The thing most people talk about in programming circles, certainly the ones I've been in for 15 years, is ERGONOMICS:
 - Get a gaming chair with back support
@@ -178,21 +178,21 @@ They all seemed to in the short term, but soon enough I began to get aches and p
 I now realise that the ACT of changing my desk environment was perhaps what was working, not any SPECIFIC change I had made.
 "The best position is your NEXT position" as Physiotherapists often say.
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 5 -->
 ## GYM MEMBERSHIP > DOCTOR
-
-
-
+<!-- new_lines: 4 -->
+<!-- font_size: 2 -->
+<!-- alignment: center -->
 
 _"Exercise is not a thing we do to fix a problem – it is a thing we must do anyway, a thing without which there will always be problems."_
+<!-- alignment: right -->
 
-
-
+<!-- font_size: 1 -->
 `Mark Rippetoe, "Starting Strength", 3rd Edition`[^1]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 A gym membership is Cheaper Than A Doctor
 Going full-time here on YouTube has been wonderful for many reasons:
@@ -208,19 +208,19 @@ After months of weekly appointments with specialists, and doing all the little s
 "I will do ANYTHING to cure this," I told my favourite Physiotherapist, eventually, "give me HARD exercises to do, I'll get a gym membership, I'll go swimming 3 times a week - ANYTHING!"
 "Tris," he said, "that is music to my ears".
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 4 -->
 ## STRENGTH IS BETTER THAN ERGONOMICS
-
-
-
+<!-- new_lines: 4 -->
+<!-- font_size: 2 -->
+<!-- alignment: center -->
 _"Exercise is the thing we must do to replicate the conditions under which our physiology was – and still is – adapted, the conditions under which we are physically normal."_
-
-
+<!-- alignment: right -->
+<!-- font_size: 1 -->
 `Mark Rippetoe, "Starting Strength", 3rd Edition`[^1]
-
-
-
+<!-- new_lines: 4 -->
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Various Physios have told me that they are often confounded by the problem that people don't WANT to exercise, they, very reasonably, WANT to live their lives.
 Physios know that they can't reasonably ask most of their patients to do the one thing that would surely cure them: Go to the gym regularly and work on the specific problem until they are strong enough to never relapse,
@@ -228,34 +228,34 @@ Instead, they give little exercises, do these 10 stretches twice a day, etc, tha
 
 THIS WAS NOT ACCEPTABLE TO ME.
 
+<!-- end_slide -->
 
-
-
+<!-- new_lines: 6 -->
 # PART 2
 
 ## WHY POWERLIFTING?
+<!-- new_lines: 4 -->
 
-
-
-
+<!-- alignment: center -->
+<!-- font_size: 2 -->
 _"Never half-ass two things, whole-ass one thing"_
-
-
+<!-- alignment: right -->
+<!-- font_size: 1 -->
 `Ronald Ulysses Swanson, philosopher & jazz virtuoso`
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 It's because I'm impatient short on time.
 At the start of the training, where most of the benefits I'm interested in happen, powerlifting represents the absolute least amount of time I need to be away from my computer, in order to continue using it indefinitely.
 
-
+<!-- end_slide -->
 ## EFFORT VS TIME
 
 ```mermaid
 quadrantChart
  
-   x-axis Low Effort  High Effort
-    y-axis Short Time  Long Time
+   x-axis Low Effort --> High Effort
+    y-axis Short Time --> Long Time
 
     quadrant-2 HOME
     quadrant-4 GYM
@@ -266,12 +266,12 @@ quadrantChart
     Weightlifting: [0.7, 0.3]
     Powerlifting: [0.9, 0.1]
 ```
-
+<!-- alignment: center -->
 
 It's counter-intuitive, but you have to get out of your house
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Look, I made a graph:
 
@@ -287,24 +287,24 @@ Look, I made a graph:
 
 The least exercise time for the most benefit.
 
+<!-- end_slide -->
 
-
-
-
+<!-- column_layout: [1,1,1] -->
+<!-- column: 0 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/victorian-exercise-2.jpg)
-
+<!-- column: 1 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/victorian-exercise-3.jpg)
-
+<!-- column: 2 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/victorian-exercise-4.jpg)
-
-
-
+<!-- reset_layout -->
+<!-- font_size: 2 -->
+<!-- alignment: center -->
 _"It made no more sense to try and exercise one muscle at a time than it did to try and walk one muscle at a time"_
-
-
+<!-- font_size: 1 -->
+<!-- alignment: right -->
 `Casey Johnston, "A Physical Education"`
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The reason the simple training of powerlifting takes so little time compared to just using weight machines is because powerlifting focuses on heavy, compound barbell lifts, whereas machines isolate individual muscles.
 
@@ -312,14 +312,14 @@ It should be obvious that working out many, potentially dozens, of muscles in pa
 
 It's also, critically for me, much more FUN.
 
-
+<!-- end_slide -->
 
 ![image:width:70%](/img/user/Resources/Meta/attachments/powerlifting.png)
 
 ## &nbsp;&nbsp;SQUAT &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;PRESS &nbsp;&nbsp; &nbsp; &nbsp;DEADLIFT
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 The main draw of Powerlifting for me are that it's simple and goal oriented.
 Running for X minutes per day is miserable. Knowing that you'll be able to lift 2.5KG more by the end of today's session and plotting your progress over time is REALLY FUN!
 The simplicity of the core lifts means that you can focus on them and finesse your technique, something that the non-professional can't do if they spread themselves thinly across every machine in the gym.
@@ -329,22 +329,22 @@ Each of these lifts are functional, meaning they train your body to do the movem
 But I don't actually power lift to get better at lifting heavy weights.
 I powerlift to get better at sitting and typing.
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 5 -->
 ## A CONTRACT TEST FOR YOUR BODY
 
+<!-- new_lines: 5 -->
+<!-- font_size: 2 -->
 
-
-
-
+<!-- alignment: center -->
 _"every time I attempted to do a squat or a deadlift, I was swinging up the big handle on the breaker box of the haunted old theater that was my body"_
-
-
+<!-- alignment: right -->
+<!-- font_size: 1 -->
 
 `Casey Johnston, "A Physical Education"`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 In programming, my field, we write contract tests to check documented or assumed functionality of an external interface, such as the Github or Stripe APIs.
 
@@ -363,20 +363,20 @@ Think about it, you can either:
 We're hacking our brain by ensuring our body is always ready to do what we need it to do, to achieve our goals.
 Even, and ESPECIALLY, if that goal involves sitting at a computer for much of the day.
 
-
+<!-- end_slide -->
 ## EXERCISE VS TRAINING
 ![image:width:60%](/img/user/Resources/Meta/attachments/savage-explosion.jpg)
 
-
-
+<!-- alignment: center -->
+<!-- font_size: 2 -->
 _"Remember kids, the only difference between screwing around and science is **writing it down**."_
-
-
+<!-- alignment: right -->
+<!-- font_size: 1 -->
 
 `Adam Savage, quoting ballistics expert Alex Jason`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Exercise, generally, is some activity done regularly because you like the way it makes you feel, either during it or after.
 For example, a reason that someone might enjoy going into an office instead of working from home is that the commute gives them regular exercise.
@@ -385,7 +385,7 @@ Training, however, is exercise with a goal in mind.
 Exercise can be done on vibes, but training, you will have to plan.
 Training, you must be scientific.
 
-
+<!-- end_slide -->
 
 # PATREON
 
@@ -396,8 +396,8 @@ Training, you must be scientific.
 - 👨‍🏫 1:1 Mentoring over video chat
 - ❤️ My infinite gratitude for allowing me to continue making these videos
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 It's just me running this channel, and I'm so grateful to everyone for supporting me on this wild adventure.
 
@@ -405,15 +405,15 @@ If you'd like to see and give feedback on my videos up to a week early, as well 
 
 I'm also offering a limited number of mentoring slots. If you'd like 1:1 tuition on Obsidian, personal organisation, web programming, creative production, or anything that I talk about in my videos, do sign up and let's chat!
 
-
+<!-- end_slide -->
 ## PART 3: A POWERLIFTER IS AN ENGINEER
 ![image:width:90%](/img/user/Resources/Meta/attachments/20220525-practical-programming-cover-clip-sm-2713698095.jpg)
 
-
+<!-- alignment: right -->
 Image credit: Aasgaard Company
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Powerlifting is old technology, but technology nonetheless, and to be a powerlifter is to be an engineer who solves linear acceleration equations with your body.
 
@@ -422,43 +422,43 @@ This is the 'newbie gains' honeymoon period, and it's nothing short of astonishi
 Within a year of powerlifting training, you can expect to reach something like 80% of your total capacity for lifting.
 The reason this happens so fast is also one of the most disappointing for some people:
 
-
+<!-- end_slide -->
 ## WHY AREN'T I GETTING _SWOLE_?
 
+<!-- new_lines: 2 -->
 
-
-
-
-
+<!-- alignment: center -->
+<!-- column_layout: [1,1,1] -->
+<!-- column: 0 -->
 
 **TYPICAL BODYBUILDER**
 ![image:width:100%](/img/user/Resources/Meta/attachments/superman-cavil.png)
 
-
+<!-- column: 1 -->
 
 **TYPICAL POWERLIFTER**
 ![image:width:100%](/img/user/Resources/Meta/attachments/wonder-woman-tank.png)
 
-
+<!-- column: 2 -->
 
 TYPICAL PROGRAMMER
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/batman-fire.png)
 
+<!-- reset_layout -->
 
-
-
-
+<!-- column_layout: [1,1,1] -->
+<!-- column: 0 -->
 _Squat: 300lb_
-
+<!-- column: 1 -->
 _Squat: 300lb_
-
+<!-- column: 2 -->
 _(did not qualify)_
 
-
+<!-- reset_layout -->
 ## _Powerlifting != Bodybuilding_
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 We are not bodybuilders, who are lifting weights for aesthetic reasons, we are lifting to get stronger, and to make our numbers go up.
 
@@ -469,80 +469,80 @@ Having big muscles is one thing, knowing what to do with them is quite another, 
 The whole nervous system is literally learning to pull together.
 And the nervous system adapts much quicker than muscles, which are quicker to adapt than tendons, which is are quick than bones increase their density under all this load.
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/flanders-rescue.png)
 
-
+<!-- alignment: center -->
 
 Deadlifting Homer Simpson would be no slight feat of strength, even for Ned
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 Think of the extraordinary feats of strength that are possible under emergency conditions.
 These people didn't hulk out and suddenly grow muscles, what happened is that the extreme situation made failure unthinkable, and so the body did what evolution trained it to do, and it pulled itself together.
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 1 -->
 
 ![image:width:80%](/img/user/Resources/Meta/attachments/casey_johnston.jpg)
-
+<!-- alignment: right -->
 
 `Credit: "Casey Johnston: I didn't start weight lifting because I wanted to be strong", thecut.com (2022)`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Powerlifters don't look like they lift weights, unless they also train bodybuilding, which is optional.
 Many people, especially women, aren't interested in that outcome.
 Bodybuilding is a difficult, time-consuming process, you can't ACCIDENTALLY do it with powerlifting!
 The advice I see repeated often is "don't WORRY about getting too big, after you're hooked, you're gonna WISH you COULD get bigger!
 
-
+<!-- end_slide -->
 ## PART 4: THE LIFTS
 
 ![image:width:40%](/img/user/Resources/Meta/attachments/powerlifting.png)
 
+<!-- new_lines: 1 -->
+<!-- font_size: 2 -->
 
-
-
-
+<!-- alignment: center -->
 _"full-range-of-motion barbell exercises are essentially the functional expression of human skeletal and muscular anatomy under a load."_
-
-
+<!-- alignment: right -->
+<!-- font_size: 1 -->
 
 `Mark Rippetoe, "Starting Strength", 3rd Edition`[^1]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 Though the exact lifts in Powerlifting programmes differ slightly, almost all are dominated by the 3 core lifts of: The Squat, Press, and Deadlift.
 
 Though you should read Starting Strength (or talk to a PT) to find out the exact mechanics of each lift, I will quickly go through why each is useful, specifically in relation to countering the perils of desk work.
 We will start with the most important:
-
+<!-- end_slide -->
 ## SQUAT
-
-
-
+<!-- new_lines: 2 -->
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 ![image:width:80%](/img/user/Resources/Meta/attachments/squat.png)
 
+<!-- column: 1 -->
 
+<!-- font_size: 2 -->
 
-
-
-
-
+<!-- alignment: center -->
+<!-- new_lines: 2 -->
  _"The full-range-of-motion exercise known as the squat is the single most useful exercise in the weight room"_
-
-
+<!-- alignment: right -->
+<!-- font_size: 1 -->
 
 `"Starting Strength", 3rd Edition`[^1]
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Some powerlifting programmes switch out the overhead press with a bench press, or the deadlift with a power clean, or perhaps add in barbell rows or a modified deadlift, that's all fine;
 
@@ -557,29 +557,29 @@ I believe the squat is the exercise that has most corrected my posture problems,
     - Starting strength says "Athletes who are missing an ACL can safely squat heavy weights because the ACL is under no stress in a correctly performed full squat
 
 You do the squat first because it's the most important lift, then move on to:
-
+<!-- end_slide -->
 ## PRESS
 
-
-
-
+<!-- new_lines: 2 -->
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 ![image:width:80%](/img/user/Resources/Meta/attachments/press.png)
 
+<!-- column: 1 -->
 
+<!-- font_size: 2 -->
 
-
-
-
-
+<!-- alignment: center -->
+<!-- new_lines: 1 -->
 
 _"The press is the oldest upper-body exercise done with a barbell...still the most useful upper-body exercise in the weight room."_
-
-
+<!-- alignment: right -->
+<!-- font_size: 1 -->
 
 `"Starting Strength", 3rd Edition`[^1]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 Starting Strength suggests that the overhead press is more useful than the more common bench press (which is used in powerlifting competitions), but for RSI training, I think they load the arms the same, so try both and see which you prefer.
 The Overhead Press has the benefit of not requiring a bench, but you can't lift as much as in the bench press, so I leave it up to you.
 
@@ -590,29 +590,29 @@ All of this training counters the unnatural use of our arms and hands through ty
 
 Now that your back has had a nice rest, you can tackle the last lift:
 
-
+<!-- end_slide -->
 ## DEADLIFT
 
-
-
-
+<!-- new_lines: 2 -->
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 ![image:width:80%](/img/user/Resources/Meta/attachments/deadlift.png)
 
+<!-- column: 1 -->
 
+<!-- font_size: 2 -->
 
-
-
-
-
+<!-- alignment: center -->
+<!-- new_lines: 2 -->
 
 _"My shoulders lock, my back sets, my hips tense, and my feet drive the floor away, flooded with light."_
-
-
+<!-- alignment: right -->
+<!-- font_size: 1 -->
 
 `Casey Johnston, "A Physical Education"`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 The motion of the deadlift is the most comprehensive compound lift that we as humans can do.
 Most muscles below the neck are involved here.
 It's like a 1-2 punch for curing back and RSI problems in one go:
@@ -623,12 +623,12 @@ These are all areas that my evolutionarily unadapted desk life caused me problem
 
 But no longer.
 
-
-
+<!-- end_slide -->
+<!-- new_lines: 2 -->
 
 ## EXAMPLE NOVICE SCHEDULE
-
-
+<!-- font_size: 2 -->
+<!-- new_lines: 1 -->
 
 | MON      | TUE | WED      | THU | FRI      |
 | -------- | :-: | -------- | --- | -------- |
@@ -636,16 +636,16 @@ But no longer.
 | PRESS    |     | PRESS    |     | PRESS    |
 | DEADLIFT | 😴  | DEADLIFT | 😴  | DEADLIFT |
 
-
-
-
+<!-- font_size: 2 -->
+<!-- new_lines: 1 -->
+<!-- alignment: center -->
 
 - 3 lifts
     - 5 reps
     - 3 sets
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 Starting Strength suggest you do each of these core lifts 5 times, then take a break of a minute or so, then do another 2 sets.
 5x3 across Squat/Press/Deadlift.
 You will find many derivative programmes recommend similar, I expect they all work well enough for what we're trying to do here.
@@ -654,25 +654,25 @@ This schedule takes me only 30 minutes in the gym, and half of that time is take
 Because of the huge weights in Powerlifting, recovery is slow, you CAN'T do this every day.
 Rest, eat, sleep, and the weights will go up next time, certainly in the beginning phase.
 
-
+<!-- end_slide -->
 
 ## ~~RECOMMENDED~~ REQUIRED READING
+<!-- new_lines: 1 -->
 
-
-
-
+<!-- column_layout: [1,1] -->
+<!-- column: 0 -->
 ![image:width:60%](/img/user/Resources/Meta/attachments/a-physical-education-cover.png)
 
-
+<!-- column: 1 -->
 ![image:width:70%](/img/user/Resources/Meta/attachments/starting-strength-cover.png)
 
-
-
+<!-- reset_layout -->
+<!-- alignment: center -->
 
 _(not sponsored, both books merely saved my life)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 My goal here isn't to tell you how to train with weights, or even tell you what exactly to train with.
 But rather, to emphasise the benefits that come from consistently showing up in the gym, lifting heavy weights, and getting stronger, regardless of how you define stronger.
@@ -686,9 +686,9 @@ In time, if you want, you can get more complex, but you don't have to.
 - listen to your body's feedback,
 - then do it all again.
 
-
-
-
+<!-- end_slide -->
+<!-- font_size: 2 -->
+<!-- alignment: center -->
 
 THANK YOU To all my patrons, you make this possible!
 
@@ -699,14 +699,14 @@ let sponsors = [
 let patrons: [&str; 1037];
 ```
 
-
+<!-- alignment: left -->
 I'd be very grateful for your support on:
 - [Patreon](http://www.patreon.com/noboilerplate)
 - [Ko-Fi](https://ko-fi.com/noboilerplate)
 - [Gumroad](https://namtao.gumroad.com)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
 
@@ -718,6 +718,6 @@ Transcripts and compile-checked markdown sourcecode are available on namtao.com 
 
 Thank you so much for watching, talk to you on Discord.
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
  

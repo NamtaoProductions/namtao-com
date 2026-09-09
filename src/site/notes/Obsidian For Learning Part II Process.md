@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-for-learning-part-ii-process/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-09T09:05:00.610+01:00","dg-note-properties":{"start":"2026-01-16","due":"2026-02-27","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2025-12-16T08:00:23.931+00:00"}}
+{"dg-publish":true,"permalink":"/obsidian-for-learning-part-ii-process/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-09T09:12:39.863+01:00","dg-note-properties":{"start":"2026-01-16","due":"2026-02-27","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2025-12-16T08:00:23.931+00:00"}}
 ---
 
 
@@ -9,18 +9,18 @@ I was tempted to start this whole video at the end because most other guides sta
 And if you just take notes but don't do anything with them, that won't get you to where you need to be.
 The biggest unanswered question in nearly every book, article, and video on note-taking I have seen is:
 
+<!-- skip_slide -->
+<!-- end_slide -->
 
-
-
-
+<!-- new_lines: 3 -->
 
 ```mermaid
 flowchart TD
 
     style B stroke-width:4px,fill:#333,stroke:#42affa
 
-    A[TAKE NOTES]  B
-    B[DRAW THE REST OF THE OWL]  C[PROFIT]
+    A[TAKE NOTES] --> B
+    B[DRAW THE REST OF THE OWL] --> C[PROFIT]
  
     B@{ shape: braces }
 
@@ -28,8 +28,8 @@ flowchart TD
 
 Thanks! I hate it
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 WHAT DO YOU DO AFTER YOU HAVE TAKEN NOTES?!
 
@@ -44,8 +44,8 @@ ATOMIC NOTES
 ## _<span style="color: palette:green">HIGH</span> COHESION_
 ## _<span style="color: palette:red">LOW</span> COUPLING&nbsp;_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 We are going to forge our work, essays, exam revision, books, or even video scripts, from atomic notes.
 
@@ -53,23 +53,23 @@ You may have heard of this concept before, perhaps as 'smart' or 'main', or 'per
 Many books on note-taking talk about what makes these kinds of notes good, but I think all qualities are downstream of these two principle features of atomic  
 2. Each note doesn't require reading lots of other notes to understand, they are loosely coupled to each other.
 
-
+<!-- new_lines: 3 -->
 
 ```mermaid
 flowchart TD
 style COMPILER stroke-width:4px,fill:#333,stroke:#42affa
 
-NOTE1 COMPILER
-NOTE2 COMPILER
-NOTE3 COMPILER
+NOTE1--> COMPILER
+NOTE2--> COMPILER
+NOTE3--> COMPILER
 
-COMPILER  ESSAY
+COMPILER --> ESSAY
 ```
 
 _(In Zettelkasten, compiler is YOU!)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Atomic Notes are the compiler artefacts of our learning, before they have been linked together into their final form.
 When I was at university, they taught us that good software modules are well-written if they have:
@@ -78,22 +78,22 @@ When I was at university, they taught us that good software modules are well-wri
 That is, the parts work well together, but are flexible enough to be reused in multiple programs.
 If a computer program is a composition of modules, the outputs of our system, like an essay, will be a composition of atomic notes.
 
-
-
+<!-- column_layout: [3,1] -->
+<!-- column: 0 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-learning-graph-atomis.png)
 
-
-
-
+<!-- column: 1 -->
+<!-- alignment: left -->
+<!-- new_lines: 14 -->
 
 🔵 Atomic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 🔴 Literature &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 🟡 Fleeting
 
-
-
-
+<!-- reset_layout -->
+<!-- end_slide -->
+<!-- skip_slide -->
 I have taken this part of the FLAP system directly from the Zettelkasten notetaking method, from the best book on the subject, A System for Writing, by Bob Doto.
 
 These small, self-contained notes hold our best understanding of a topic, written in our own words, as simply as possible (but no simpler).
@@ -104,24 +104,24 @@ What DOES scale is the original metophor:
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-yt-morganeua-zk.png)
 
-
+<!-- alignment: right -->
 Source: @morganeua `youtu.be/ugxcbsgjEHI`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The Zettelkasten system was originally a way of organising notes on paper, inside a linear card file, like this small demonstration here by fellow YouTuber Morgan (who makes really great videos on using her zk to write her PhD, btw.)
 
 Notice how on paper there is no graph to browse?
 Though zk paper notes do include numerical references to others in the box, creating a logical graph, the primary browsing and retrieval was done by thumbing through the cards, flicking through the titles and jumping to clumps of related knowledge.
 
+<!-- new_lines: 1 -->
 
+<!-- column_layout: [1,5] -->
+<!-- column: 0 -->
 
-
-
-
-
-
+<!-- new_lines: 5 -->
+<!-- alignment: center -->
 
 This is
 
@@ -131,14 +131,14 @@ to scroll
 
 👉
 
-
+<!-- column: 1 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-virt-folder.png)
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Here you can see the visualisation of the tree inside my Obsidian using the [virt-folder](https://github.com/gr0grig/obsidian-virt-folder) plugin, a recent addition to my system.
 This is better than a graph because I don't have any buttons for navigating graphs  on my computer.
@@ -149,8 +149,8 @@ OK, let's zoom into one of these atomic
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-writing-notes-clarifies-your-thinking.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 This is a mature example of one of my Atomic notes.
 I will highlight a few key features, and we'll deep-dive later on.
@@ -161,9 +161,9 @@ I will highlight a few key features, and we'll deep-dive later on.
 - And there are references to other literature notes, either in my vault or links out onto the internet
 
 ## MY NOTES USE
+<!-- new_lines: 2 -->
 
-
-
+<!-- font_size: 2 -->
 
 | OBSIDIAN FEATURE  | PURPOSE   |
 | -- | -  |
@@ -171,8 +171,8 @@ I will highlight a few key features, and we'll deep-dive later on.
 | `#tags`           | Type      |
 | `filenames.md`    | Identity  |
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 I use:
 - uplinks for structure, where do my notes live.
@@ -181,11 +181,11 @@ I use:
 
 As I explained in the previous video, my system has 3 parts:
 
-
-
+<!-- skip_slide -->
+<!-- end_slide -->
 
 ## THE `FLAP` SYSTEM
-
+<!-- alignment: center -->
 
 ```mermaid
 flowchart TD
@@ -200,20 +200,20 @@ flowchart TD
         A@{ shape: database, label: "#Atomic Notes" }
         P@{ shape: processes, label: "Projects" }
     end 
-        L |Reference from| A
-        F |Process Into| A
+        L -->|Reference from| A
+        F -->|Process Into| A
     
     subgraph WRITE
-        A |Compose Into| P
-        P |Write| X@{ shape: documents, label: "Essays" }
-        P |Write| Y@{ shape: documents, label: "Dissertations" }
-        P |Write| Z@{ shape: documents, label: "Exam Revision" }
-        P |Think| ZZ@{ shape: documents, label: "Ideas" }
+        A -->|Compose Into| P
+        P -->|Write| X@{ shape: documents, label: "Essays" }
+        P -->|Write| Y@{ shape: documents, label: "Dissertations" }
+        P -->|Write| Z@{ shape: documents, label: "Exam Revision" }
+        P -->|Think| ZZ@{ shape: documents, label: "Ideas" }
     end
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 > 1. CAPTURE: Take notes on Lectures, Literature, and your own Fleeting thoughts.
 > 2. PROCESS: Use these to write an interlinked network of Atomic notes in your own words.
@@ -228,7 +228,7 @@ In Obsidian, I use no folders and only 4 tags:
 In part 1 I focused on the inputs to this system, capturing your thoughts into fleeting notes, and other people's thoughts as literature notes.
 Today, we're going to focus on processing those raw notes into atomic notes.
 
-
+<!-- end_slide -->
 
 PART 1
 ===
@@ -236,26 +236,26 @@ PART 1
 
 _a single trusted system_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The process that I aim to teach you today revolves around building a daily practice of distilling atomic notes, which will, over time, become a single trusted system.
 I will demo what this looks like practically using Obsidian towards the end of the video.
 
 The wording "Single Trusted System" is something I've borrowed from David Allan's legendary book from 2001, "Getting Things Done".
 
-
+<!-- new_lines: 3 -->
 ## A SINGLE TRUSTED SYSTEM
-
-
-
+<!-- alignment: center -->
+<!-- new_lines: 3 -->
+<!-- font_size: 2 -->
 
 📥 Stored in 1 place&nbsp;
 
 ✅ Processed reliably
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 There are two vital components to your fleeting notes system:
 
@@ -271,8 +271,8 @@ Here's mine:
 
 ## DAILY PROCESS
 
-
-
+<!-- column_layout: [2,1] -->
+<!-- column: 0 -->
 
 ```mermaid
 flowchart TD 
@@ -290,27 +290,27 @@ flowchart TD
     
     Fleeting ==> IsAtomic 
     IsAtomic ==>|yes: process into| Atomic
-    IsAtomic |no: do it| DDDD
+    IsAtomic -->|no: do it| DDDD
     Literature ==>|reference from| Atomic
 ```
 
-
-
-
-
+<!-- column: 1 -->
+<!-- font_size: 1 -->
+<!-- new_lines: 1 -->
+<!-- alignment: left -->
 
 `#literature` notes are linked to from new `#atomic` notes
-
+<!-- new_lines: 1 -->
 `#fleeting` notes are rewritten to `#atomic` &nbsp;
 (or done/deleted)
-
+<!-- new_lines: 1 -->
 _(fleeting notes can be lecture or meeting notes, anything that makes sense for your work and life)_
+<!-- reset_layout -->
 
+<!-- alignment: center -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Like the mason, we have dragged all the stone we need into our workshop, but the real challenge begins now.
 During this process, our Literature and Fleeting notes are the raw materials we will hone into a useful form: Atomic notes.
@@ -322,43 +322,43 @@ There are two main parts of the process:
 
 You must do this process daily, this is especially important for fleeting notes, as they could contain urgent tasks.
 
-
+<!-- new_lines: 3 -->
 ## THE TEMPORAL CONTRACT
-
-
+<!-- font_size: 1 -->
+<!-- new_lines: 2 -->
 ```mermaid
 flowchart LR
     style B stroke-width:4px,fill:#333,stroke:#42affa
-    A[PAST SELF] |Write Notes| B
-    B[PRESENT SELF] |Write Notes| C[FUTURE SELF]
+    A[PAST SELF] -->|Write Notes| B
+    B[PRESENT SELF] -->|Write Notes| C[FUTURE SELF]
 ```
 
-
+<!-- new_lines: 2 -->
 
 1. Write notes to yourself
 2. Process them daily
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 They're urgent because the 'you' of yesterday is counting on the 'you' of today to fulfil the temporal contract.
 
 Yesterday's self had the easy job, throw some random words into a note and tag it fleeting, or make some highlights while reading, but now, you must process them.
 
-
+<!-- new_lines: 5 -->
 
 ## HOW TO SOLVE NOTES BANKRUPTCY
 
-
+<!-- new_lines: 2 -->
 
 _"Sometimes you feel drawn to an idea, but don’t know why... you can always come back to the capture and see if its relevancy has increased."_
 
-
+<!-- alignment: right -->
 
 Bob Doto, [[Resources/Research/Readwise/A System for Writing\|A System for Writing]]
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 And processing every little thought that comes to us, and every highlight from books we read, podcasts we listen to, and videos we watch can quickly become overwhelming.
 And here, I propose an unusual solution.
@@ -370,45 +370,45 @@ You could refile these snoozed fleeting ideas or thought or highlights into a di
 
 I have a better method based on misusing spaced repetition.
 
-
+<!-- alignment: left -->
 &nbsp; 1st  2nd     3rd        4th                     5th repetition
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/spaced-rep-output.png)
 
-
+<!-- alignment: center -->
 Time
-
+<!-- alignment: right -->
 Image Credit: Taalhammer.com
 
 
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 I'm sure you know about spaced repetition
 It's the effect whereby each time you revise something, you increase the amount of time you retain it, eventually flattening the forgetting curve to nearly horizontal - you've moved the information from short-term to long-term memory.
 
 It's a marvellous technique, and the only one I have found that works for me.
 
-
+<!-- new_lines: 2 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/spaced-rep-plugin.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 You should certainly become familiar with Stephen Mwangi's excellent Obsidian plugin, [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetitio) to aid in your studies, however I also use it for managing my fleeting note backlog.
 
 Let me show you how to use it,
 But if you want to get started immediately, I have compiled all of this into an obsidian vault you can download and use straight away, available for anyone who supports me on my Patreon.
 
-
+<!-- end_slide -->
 
 PART 2
 ===
 ## _WHAT DOES THIS ALL LOOK LIKE?_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ## Processing Fleeting Notes Demo
 Finally, what does this all look like?
@@ -417,20 +417,20 @@ Join me in my daily processing.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-open-note-review.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 In the morning, I open my notes for review, using this command from the spaced repetition plugin.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-review-fleeting.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Then I select fleeting, I'm not revising my atomic notes just yet.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-ask-mum.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 And the first due fleeting note is opened by the plugin, which in this case is:
 "Ask mum when she is free for a catchup chat"
@@ -448,15 +448,15 @@ So for this, I'll send mum a quick message, then the task is done.
 I delete this fleeting note, and re-run the spaced repetition command to get the next one.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-buy-milk.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 OK, "Buy oat milk"
 If the task belongs to a different project, like here, a shopping list, I copy and paste it into another note, and delete this fleeting note and re-run spaced repetition command as before.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-divine-base.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 "Struggle with the dichotomy between my divine self and base self" HMM!
 Sometimes, like here, it's difficult to figure out what to do with a fleeting note.
@@ -465,8 +465,8 @@ In this case, don't stress about it, just snooze it.
 Future me can figure this one out I'm sure!
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-review-later.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 To snooze this fleeting note, I review it using the spaced repetition plugin as "easy", or as I've renamed it in the plugin settings, to "later".
 It's all the same, whatever spaced repetition you use - you could even use Anki if you want - this note will be scheduled to be reviewed in the future.
@@ -475,8 +475,8 @@ And hopefully I will have figured it out by then!
 After I run this review command the note is changed:
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-all-caught-up.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Look at the  new properties added to the note.
 We can see that I won't see it in my morning note review sessions for more 4 days, at time of recording.
@@ -485,15 +485,15 @@ Don't worry about the exact properties that the plugin sets, rest assured that i
 
 ## FLEETING NOTES MUST SCALE
 
-
+<!-- new_lines: 2 -->
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-obsidian-search-my-fleeting.png)
-
+<!-- new_lines: 1 -->
 
 _(I'm honestly surprised I have so many, I review < 10 per day, plus any new fleeting notes from yesterday)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 After a few days of doing this, you'll have a much shorter list, only featuring the things you have consistently ranked as "hard" (ie, urgent). Now is the time to slow down and actually DO these tasks, or perhaps file or research them. Deleting is a great option too, if they can't be done, or don't make sense anymore.
 
@@ -501,22 +501,22 @@ The reason I process my fleeting notes like this, not just reading the list, is 
 If you are to trust that your system will work in the long run, then you need a scalable system, too.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-earnest.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ## Tasks for Later
 Some tasks must be done later on, and should be added to an existing project or, like here, captured in another note.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-watch-list.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The solution here was to cut and paste the fleeting thought into the appropriate note.
 More advanced project management with due dates and start dates I'll go into detail in the last video in this series, but it's in the patreon vault already if you'd like to give it a go now.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-ramella.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ## Minutes to Be Distilled
 Capturing what other people have said is as important to the student as it is for the teacher or office worker or someone who just wants to help out a friend:
@@ -529,8 +529,8 @@ These kinds of notes are scattered and informal, they have to be: When you were 
 But now, when their words are still fresh in your mind, is the time to go through your notes and expand them into atomic notes, or tasks that are either further fleeting notes or added to a specific project, as before.
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-fleeting-writersblock.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ## Thoughts To Be Filed
 - good thoughts? expand into atomic
@@ -543,8 +543,8 @@ Interesting.
 The method is simple:
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-writers-atomic.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Here, I've taken this idea and expanded it in my own words, cross-referencing to other notes as I find them, and keeping the original capture as reference.
 I have also changed the tag from fleeting to atomic.
@@ -553,8 +553,8 @@ Not in a folder bunched together with other files, nor drifting aimlessly in a s
 We place this new atomic note 'behind' exactly one other note:
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-writersblock-zk-filed.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 In a physical card box, you would put the note cards behind each other, and this is very, VERY useful. We are using the 'up' property, under the tag here to model this.
 This single organisation technique allows us to build a tree of related links that can be explored and visualised in a much more understandable way than a graph, like here with the virt-folder plugin.
@@ -568,8 +568,8 @@ REFERENCES
 - Facts
 - Formulae
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Another category of fleeting note is knowledge, not tasks to be done or lessons to be captured in atomic notes.
 
@@ -583,8 +583,8 @@ LITERATURE NOTES
 
 ## PROCESSING
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ## Write Atomic Notes from Highlights
 - Some highlights are written up into their own atomic note
@@ -592,16 +592,16 @@ LITERATURE NOTES
 - yet more are left to process later
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-smart-notes-think.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 For example, here we have a highlight I made while reading How To Take Smart Notes by Sönke Ahrens.
 Sönke quoted Niklas Luhmann, the legendary author whose prolific Zettelkasten card file contained over 90k notes.
 Reading this quote resonated with me at the time, and because I am processing it soon after highlighting, I have remembered the insight and can form it into a new atomic note:
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-framework-language-luhmann-quote-addition.png)
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Like so.
 I have made a new note with the fully-developed learning as the filename, and I have referenced the Luhmann quote.
@@ -614,8 +614,8 @@ These are the only two organisational features I need in my atomic
 
 ![image:width:100%](/img/user/Resources/Meta/attachments/screenshot-student-smart-notes-checked.png)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 The final step, if you are using my readwise template, or any highlights importer that allows you to format highlights as markdown checkboxes, is to check off the highlight to indicate it is processed, and you can now move on to the next one.
 
@@ -636,20 +636,20 @@ flowchart TD
     
     F@{ shape: card, label: "Fleeting Notes" }
     L@{ shape: card, label: "Literature Notes" }
-    L |Reference from| A
-    F |Process Into| A
-    A |Compose Into| P
+    L -->|Reference from| A
+    F -->|Process Into| A
+    A -->|Compose Into| P
     
     subgraph N[&nbsp;&nbsp;NEXT&nbsp;&nbsp;VIDEO]
-        P |Write| X@{ shape: documents, label: "Essays" }
-        P |Write| Y@{ shape: documents, label: "Dissertations" }
-        P |Write| Z@{ shape: documents, label: "Exam Revision" }
-        P |Think| ZZ@{ shape: documents, label: "Ideas" }
+        P -->|Write| X@{ shape: documents, label: "Essays" }
+        P -->|Write| Y@{ shape: documents, label: "Dissertations" }
+        P -->|Write| Z@{ shape: documents, label: "Exam Revision" }
+        P -->|Think| ZZ@{ shape: documents, label: "Ideas" }
     end
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 We're two-thirds of the way through the system:
 Once you've built the habit of daily processing, and you're making loosely coupled but highly cohesive atomic notes out of your fleeting thoughts and other people's highlights, you will have everything you need to build novel work of your own.
@@ -672,8 +672,8 @@ I'd be very grateful for your support on:
 - [Ko-Fi](https://ko-fi.com/noboilerplate)
 - [Gumroad](https://namtao.gumroad.com)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If you would like to support my channel, get early ad-free and tracking-free videos, your name in the credits or 1:1 mentoring, head to my patreon or ko-fi.
 

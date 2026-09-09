@@ -2,11 +2,11 @@
 {"dg-publish":true,"dg-path":"rust-dont-panic","permalink":"/rust-dont-panic/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-04T11:49:47.000+01:00","dg-note-properties":{"start":"2026-06-30","due":"2026-07-31","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
-
+<!-- new_lines: 3 -->
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Rust: Don't Panic" width="100%" height="100%" src="https://makertube.net/videos/embed/sPBJihWsLmkDiNoEsHNoxw?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
-
+<!-- skip_slide -->
 
 ## THE MISTAKE
 
@@ -18,8 +18,8 @@ let (feature_values, _) = features
 
 -- [Cloudflare](blog.cloudflare.com/18-november-2025-outage/)
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
  
 Hi friends my name is Tris and this is No Boilerplate, where I focus on fast, technical videos.
 
@@ -35,8 +35,8 @@ So why don't rust developers do that?
 # PART 1
 ## ALTERNATIVES TO `UNWRAP()`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Like a kid on Christmas morning about to receive an Atari instead of an Xbox, you must be careful of what you unwrap.
 
@@ -64,8 +64,8 @@ let a_file = std::fs::File::open("does_not_exist.txt").unwrap();
 # }
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
  
 Chapter 9 of the Rust Book tells us the three typical ways that we can crash our rust code:
@@ -77,14 +77,14 @@ While in software, failure is always an option, these 3 are the primary causes o
 
 ---
 
-
-
+<!-- new_lines: 6 -->
+<!-- font_size: 2 -->
 
 > [!IMPORTANT] I THOUGHT RUST WAS SAFE?!
 > -Normal reaction
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Yes, I know, I was surprised when people told me panicking the process and crashing counts as safe.
 
@@ -96,8 +96,8 @@ But this answer does not satisfy me.
 # MEMORY SAFETY
 ## IS NOT ENOUGH
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 I want to avoid panicking in any of the 3 main cases Rust code can panic.
 
@@ -105,14 +105,14 @@ Fortunately for me and you, we can safely navigate all three of these cases usin
 
 ---
 
-
-
+<!-- column_layout: [2,3,2] -->
+<!-- column: 0 -->
 
 ## RESULTS
 
 - ok
 - err
-
+<!-- column: 1 -->
 
 ## _BOTH!_
 - <span style="color: red">~~unwrap~~</span>
@@ -130,7 +130,7 @@ Fortunately for me and you, we can safely navigate all three of these cases usin
 - or_else
 - transpose
 
-
+<!-- column: 2 -->
 ## OPTIONS
 
 - xor
@@ -139,10 +139,10 @@ Fortunately for me and you, we can safely navigate all three of these cases usin
 - ok_or_else
 - flatten
 
+<!-- reset_layout -->
 
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 OOH just look at those options!
 And Results, I suppose.
@@ -166,8 +166,8 @@ fn parse_add_one_v1(num: &str) -> i32 {
 }
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Let's say you're parsing a string into a number and then adding one to it.
 For our example, if it doesn't parse, then it's equivalent to zero.
@@ -199,8 +199,8 @@ fn parse_add_one_v2(num: &str) -> i32 {
 }
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 NOW we're talking.
 The genius of `unwrap_or_default()` isn't just that we deleted a bunch of boilerplate, though you can imagine how I feel about that, but that we _removed a call to unwrap()_.
@@ -211,8 +211,8 @@ And that's going to be a theme throughout this video, because I think you should
 
 _(seriously)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 NEVER unwrap.
 
@@ -223,8 +223,8 @@ Because, while we might intend to write sensible code that uses all the lovely R
 # PART 2
 ## THE PROBLEM WITH `UNWRAP()`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
  
 Monadic error passing
 Better than exceptions, better than returning random error numbers, better than multiple return values.
@@ -261,8 +261,8 @@ fn serde_unwrapped() {
 
 _you panic if given json in a bad format_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Here's the hello world example for serde, one of the Rust ecosystem's most popular crates by downloads and references.
 Show me a rust app that doesn't use serde, and I'll show you a rust app that PROBABLY SHOULD HAVE.
@@ -287,8 +287,8 @@ fn main() {
 
 _Another unwrap!_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Here's the regex crate - same problem!
 So what's the solution?
@@ -299,20 +299,20 @@ Let's see what The Book has to say on the matter:
 
 ---
 
+<!-- new_lines: 3 -->
 
-
-
+<!-- alignment: left -->
 <span style="color: #555555">"When you're writing an example to illustrate some concept, also including robust error-handling code can make the example less clear.</span>
 ## _IN EXAMPLES, IT’S UNDERSTOOD THAT A CALL TO A METHOD LIKE `UNWRAP` THAT COULD PANIC IS MEANT AS A <span style="color: red">PLACEHOLDER</span>_
-
+<!-- alignment: left -->
 <span style="color: #555555">for the way you'd want your application to handle errors. Similarly, the unwrap and expect methods are very handy when you're prototyping and you're not yet ready to decide how to handle errors." </span>
 
-
+<!-- alignment: right -->
 
 --The Rust Book, Chapter 9.3
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 "In examples", the book says, "it's understood that a call to a method like unwrap that could panic is meant as a placeholder for the way you'd want your application to handle errors."
 
@@ -320,16 +320,16 @@ Interesting. It goes on to say:
 
 ---
 
-
-
+<!-- alignment: left -->
+<!-- new_lines: 5 -->
 ## _"THEY LEAVE CLEAR MARKERS IN YOUR CODE FOR WHEN YOU’RE READY <span style="color: blue">TO MAKE YOUR PROGRAM MORE ROBUST</span>"_
 
-
+<!-- alignment: right -->
 
 --The Rust Book, Chapter 9.3
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 "They leave clear markers in your code for when you're ready to make your program more robust."
 
@@ -343,7 +343,7 @@ RIGHT! This is the genius of unwrap, they are syntactical todos that are not jus
 let _home: std::net::IpAddr = "1.2.3." // <- error here
     .parse().unwrap(); //INFO: Hardcoded IP address should be valid
 ```
-
+<!-- alignment: left -->
 
 We can do a bit better with `expect()`:
 
@@ -357,8 +357,8 @@ Which at least gives a nice message when it crashes:
 > The application panicked (crashed).
 > Message: `Hardcoded IP address should be valid: AddrParseError(Ip)`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 `unwrap()`, and its cousin, `expect()`, are todos we put in our code, but we were never meant to leave them there.
 
@@ -369,15 +369,15 @@ And we'll ensure that by using one single tool included in every Rust installati
 
 # PART 3
 ## `CLIPPY`
-
-
-
-
+<!-- column_layout: [1,2,1] -->
+<!-- column: 0 -->
+<!-- column: 1 -->
+<!-- column: 2 -->
 ![image:width:100%](/img/user/Resources/Meta/attachments/clippy-transparent.png)
 Great, THIS guy!
-
-
-
+<!-- reset_layout -->
+<!-- end_slide -->
+<!-- skip_slide -->
 
 ---
 
@@ -392,7 +392,7 @@ fn randint() -> usize {
 
 ```rust
 warning: direct cast of function item into an integer
-    src/main.rs:2:13
+   --> src/main.rs:2:13
     |
 2   |     randint as usize
     |             ^^^^^^^^
@@ -400,8 +400,8 @@ warning: direct cast of function item into an integer
 
 _(and in doing so, teaches you correct rust)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 As you probably know, Clippy is rust's built-in code-checker.
 Out of the box, it has sensible but conservative defaults that allow panicking, which is, like, why would you let this be the default?
@@ -411,18 +411,18 @@ This is RUST! It's SO easy to never panic!
 If configured correctly, clippy can fail on nearly any code that might panic at runtime.
 This is all powered by the extra syntax that the Rust language gives us - hints to the compiler about what our intentions are - and is thus impossible in languages with simpler syntax.
 
-
-
-
+<!-- column_layout: [1,2] -->
+<!-- column: 0 -->
+<!-- alignment: right -->
 
  ---
-
+<!-- alignment: left -->
 
 in your `Cargo.toml`:
-
+<!-- new_lines: 12 -->
 Up-to-date version @
 `namtao.com/rust`
-
+<!-- column: 1 -->
 
 ```toml
 [lints.clippy]
@@ -444,11 +444,11 @@ exit = "deny"
 as_conversions = "deny"
 ```
 
+<!-- reset_layout -->
+<!-- alignment: center -->
 
-
-
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Enable these lints in every project. They do two things:
 1. Teach you rust
@@ -470,7 +470,7 @@ fn might_panic(list: Vec<i32>) -> i32 {
 ```rust
 $ cargo clippy
 error: indexing may panic
-   src/main.rs:20:5
+  --> src/main.rs:20:5
    |
 20 |     list[10]
    |     ^^^^^^^^
@@ -478,8 +478,8 @@ error: indexing may panic
    = help: consider using `.get(n)` or `.get_mut(n)` instead
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Here's what your development environment will be like after you have done so: not just kept safe by clippy, but in nearly all cases, errors are enriched with sensible suggestions and defaults.
 
@@ -502,8 +502,8 @@ mod tests {
 }
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 Oh, by the way: You can have your cake and eat it, too:
 
 If you're wondering how on earth to prototype code quickly if you can't use `.unwrap()` and friends - you CAN use them in unit tests, by default clippy ignores them in that context, even using the strict lints I recommend.
@@ -529,8 +529,8 @@ error: linking with `cc` failed: exit code: 1
           ERROR[no-panic]: detected panic in function `demo`
 ```
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 If, on the other hand, you want to be MORE strict, and want to PROVE your code never panics, not just trust that clippy is finding all edge cases:
 
@@ -540,7 +540,7 @@ Because it makes assumptions about the link-time environment, this crate is, per
 
 ---
 ## BEAUTIFUL EXAMPLE
-
+<!-- new_lines: 2 -->
 
 ```rust
 fn purchase(basket: Result<Basket>) -> Result<Order> {
@@ -554,8 +554,8 @@ fn purchase(basket: Result<Basket>) -> Result<Order> {
 
 ✨ wow ✨
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 A well-behaved Rust program, like in any functional language, is composed of data that is transformed through functions in a pipeline.
 Rust encourages this through its powerful, native iterators, but also in the result combinator methods.
@@ -564,7 +564,7 @@ It's not just safer if you don't unwrap, it's actually way nicer to code like th
 ---
 
  ---
-
+<!-- new_lines: 2 -->
 
 | **Method**                    | **DESCRIPTION**                                              |
 | ----------------------------- | ------------------------------------------------------------ |
@@ -575,12 +575,12 @@ It's not just safer if you don't unwrap, it's actually way nicer to code like th
 | `map_err`(self, op: D)        | compute a new error value given the old error value          |
 | `or`(self, res: Result<T, F>) | Returns `self.Ok` or `res.Ok`, left-biased, else `res`'s Err |
 | `or_else`(self, op: O)        | compute another Result given the current error               |
-
+<!-- new_lines: 2 -->
 
 Great cheatsheet at `wasabifan.github.io/combinator-quick-reference`
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Here are some common Result transformation methods, with not a single unwrap in sight!
 Checkout wasabifan's cheatsheet, linked below.
@@ -591,8 +591,8 @@ Checkout wasabifan's cheatsheet, linked below.
 
 _(but don't let that put you off)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 Before you head to the comments to tell me that only using non-panicking language features does not protect against failed memory allocations or other problems, I acknowledge that following my advice here will only give you a program that is _nearly_ perfect.
 
@@ -608,8 +608,8 @@ If you're in a memory constrained or safety-critical application, then you have 
 
 _(I also dig this article: `emschwartz.me/your-clippy-config-should-be-stricter`)_
 
-
-
+<!-- end_slide -->
+<!-- skip_slide -->
 
 In closing, once you stop unwrapping errors to get to the type inside, and start working safely with combinator methods, the distinction between errors and data falls away, and you are left with just data.
 And no reason to panic!
