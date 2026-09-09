@@ -1,0 +1,71 @@
+.moc-nav {
+  .moc-heading {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    opacity: 0.6;
+    margin: 14px 8px 6px;
+  }
+
+  .moc-section {
+    margin: 2px 0;
+  }
+
+  .moc-section-header {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    cursor: pointer;
+
+    &:hover {
+      background: var(--background-modifier-hover, rgba(128, 128, 128, 0.12));
+    }
+
+    svg {
+      width: 14px;
+      height: 14px;
+      flex-shrink: 0;
+      opacity: 0.6;
+    }
+  }
+
+  .moc-section-link {
+    text-decoration: none;
+    font-weight: 600;
+    color: inherit;
+    flex: 1;
+  }
+
+  .moc-children {
+    margin-left: 12px;
+    padding-left: 8px;
+    border-left: 1px solid var(--background-modifier-border, rgba(128, 128, 128, 0.25));
+  }
+
+  .moc-child {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    opacity: 0.85;
+    font-size: 0.92em;
+    padding: 3px 8px;
+    border-radius: 6px;
+
+    &:hover {
+      opacity: 1;
+      background: var(--background-modifier-hover, rgba(128, 128, 128, 0.12));
+    }
+  }
+
+  .active-note {
+    color: var(--text-accent, inherit);
+  }
+
+  .moc-empty {
+    font-size: 0.85em;
+    opacity: 0.7;
+    padding: 8px;
+  }
+}

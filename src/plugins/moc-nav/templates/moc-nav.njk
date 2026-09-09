@@ -1,0 +1,101 @@
+{#
+  MOC navigation: the home note is treated as a Map of Content. Its
+  outgoing links become top-level sections; each section's own outgoing
+  links become its children. Uses the core-computed link graph, so it
+  updates automatically as you link notes.
+
+  Honors the same dgShowFileTree flag as the built-in file tree, so the
+  sidebar layout (and the no-filetree body class) keeps working.
+#}
+{% if settings.dgShowFileTree !== true %}
+  {% include "components/navbar.njk" %}
+{% else %}
+  {% set home = graph.nodes[graph.homeAlias] %}
+
+  <div x-init="isDesktop = (window.innerWidth>=1000) ? true: false;"
+       x-on:resize.window="isDesktop = (window.innerWidth>=1000) ? true : false;"
+       x-data="{isDesktop: true, showFilesMobile: false}">
+
+    <div x-show.important="!isDesktop" style="display: none;">
+      <nav class="navbar">
+        <div class="navbar-inner">
+          <span style="font-size: 1.5rem; margin-right: 10px;" @click="showFilesMobile=!showFilesMobile"><i data-lucide="menu"></i></span>
+          {% for imp in dynamics.filetree.beforeTitle %}
+            {% include imp %}
+          {% endfor %}
+          {% if meta.siteLogoPath %}
+          <a href="/" style="text-decoration: none; flex: 1; display: flex; justify-content: center;">
+            <img class="site-logo" src="{{meta.siteLogoPath}}" alt="{{meta.siteName}}">
+          </a>
+          {% else %}
+          <a href="/" style="text-decoration: none; text-align: center;">
+            <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+          </a>
+          {% endif %}
+          {% for imp in dynamics.filetree.afterTitle %}
+            {% include imp %}
+          {% endfor %}
+        </div>
+        {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
+      </nav>
+    </div>
+
+    <div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none;" class="fullpage-overlay"></div>
+
+    <div class="filetree-wrapper" x-show.important="isDesktop || showFilesMobile" style="display: none;">
+      <nav class="filetree-sidebar moc-nav">
+        {% for imp in dynamics.filetree.beforeTitle %}
+          {% include imp %}
+        {% endfor %}
+        {% if meta.siteLogoPath %}
+        <a href="/" style="text-decoration: none; display: flex; justify-content: center;">
+          <img class="site-logo" src="{{meta.siteLogoPath}}" alt="{{meta.siteName}}">
+        </a>
+        {% else %}
+        <a href="/" style="text-decoration: none; text-align: center;">
+          <h1 style="text-align:center;">{{meta.siteName}}</h1>
+        </a>
+        {% endif %}
+        {% for imp in dynamics.filetree.afterTitle %}
+          {% include imp %}
+        {% endfor %}
+
+        {% set slotName = "filetree.actions" %}{% include "components/pluginSlot.njk" %}
+
+        <div class="moc-heading">{{ pluginSettings.heading }}</div>
+
+        {% if home and home.outBound.length > 0 %}
+          {% for sectionUrl in home.outBound %}
+            {% set section = graph.nodes[sectionUrl] %}
+            {% if section and not section.hide and section.url != home.url %}
+              <div class="moc-section"
+                   x-data="{isOpen: $persist(true).as('moc-{{ section.url }}')}">
+                <div class="moc-section-header" @click="isOpen=!isOpen">
+                  <i x-show="isOpen" style="display: none;" data-lucide="chevron-down"></i>
+                  <i x-show="!isOpen" data-lucide="chevron-right"></i>
+                  <a class="moc-section-link {{ 'active-note' if section.url === page.url }}"
+                     href="{{ section.url }}" @click.stop
+                     data-note-icon="{{ section.noteIcon }}">{{ section.title }}</a>
+                </div>
+                <div class="moc-children" x-show="isOpen" style="display: none;">
+                  {% for childUrl in section.outBound %}
+                    {% set child = graph.nodes[childUrl] %}
+                    {% if child and not child.hide and child.url != home.url and child.url != section.url %}
+                      <a class="moc-child {{ 'active-note' if child.url === page.url }}"
+                         href="{{ child.url }}"
+                         data-note-icon="{{ child.noteIcon }}">{{ child.title }}</a>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+              </div>
+            {% endif %}
+          {% endfor %}
+        {% else %}
+          <div class="moc-empty">
+            Link some notes from your home note to grow this map.
+          </div>
+        {% endif %}
+      </nav>
+    </div>
+  </div>
+{% endif %}
