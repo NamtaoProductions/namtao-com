@@ -15,6 +15,16 @@ module.exports = async (data) => {
     // Use the first match and convert to site-relative path
     logoPath = "/" + logoFiles[0].split("src/site/")[1];
   }
+
+  // Logo height override. A bare number means pixels; any other value must
+  // be a simple CSS length (e.g. "3rem") — anything else is ignored so the
+  // env value can't inject arbitrary CSS.
+  let logoHeight = (process.env.LOGO_HEIGHT || "").trim();
+  if (/^\d+(\.\d+)?$/.test(logoHeight)) {
+    logoHeight += "px";
+  } else if (!/^\d+(\.\d+)?(px|rem|em|%|vh|vw|ch)$/.test(logoHeight)) {
+    logoHeight = "";
+  }
   if (themeStyle) {
     themeStyle = themeStyle.split("site")[1];
   }
@@ -61,8 +71,12 @@ module.exports = async (data) => {
     bodyClasses.push(styleSettingsBodyClasses);
   }
 
+  // Deprecated: timestamps are rendered by the dg-timestamps plugin, which
+  // reads these env vars itself. Kept here because user components may
+  // still reference meta.timestampSettings.
   let timestampSettings = {
     timestampFormat: process.env.TIMESTAMP_FORMAT || "MMM dd, yyyy h:mm a",
+    dateFormat: process.env.DATE_FORMAT || "MMM dd, yyyy",
     showCreated: process.env.SHOW_CREATED_TIMESTAMP == "true",
     showUpdated: process.env.SHOW_UPDATED_TIMESTAMP == "true",
   };
@@ -71,6 +85,8 @@ module.exports = async (data) => {
     backlinkHeader: process.env.UI_BACKLINK_HEADER || "Pages mentioning this page",
     noBacklinksMessage: process.env.UI_NO_BACKLINKS_MESSAGE || "No other pages mentions this page",
     searchButtonText: process.env.UI_SEARCH_BUTTON_TEXT || "Search",
+    pagePanelLabel: process.env.UI_PAGE_PANEL_LABEL || "On this page",
+    pagePanelClose: process.env.UI_PAGE_PANEL_CLOSE || "Close",
     searchPlaceholder: process.env.UI_SEARCH_PLACEHOLDER || "Start typing...",
     searchNotStarted: process.env.UI_SEARCH_NOT_STARTED_TEXT || "Enter your search text in the box above",
     searchEnterHotkey: process.env.UI_SEARCH_ENTER_HOTKEY || "Enter",
@@ -96,6 +112,7 @@ module.exports = async (data) => {
     baseTheme: process.env.BASE_THEME || "dark",
     siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
     siteLogoPath: logoPath,
+    logoHeight,
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
     siteBaseUrl: baseUrl,
     styleSettingsCss,
