@@ -47,15 +47,31 @@
 <link href="/styles/digital-garden-base.css" rel="stylesheet">
 
 <link href="/styles/custom-style.css" rel="stylesheet">
+{#- Plugin styles load before user styles so user CSS keeps the last word -#}
+{%- for style in plugins.styles -%}
+<link href="{{style}}?v={{meta.buildDate|isoDate}}" rel="stylesheet">
+{%- endfor -%}
 {%- for style in dynamics.styles -%}
 <link href="{{style}}?v={{meta.buildDate|isoDate}}" rel="stylesheet">
 {%- endfor -%}
+{%- for script in plugins.scripts -%}
+<script defer src="{{script}}?v={{meta.buildDate|isoDate}}"></script>
+{%- endfor -%}
 
-{% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
+{% favicons './.cache/favicon.normalized.svg', appleIconBgColor='#123' %}
 
 {% if meta.styleSettingsCss %}
     <style>
         {{ meta.styleSettingsCss | safe }}
+    </style>
+{% endif %}
+{% if meta.logoHeight %}
+    <style>
+        :root {
+            --dg-logo-height: {{ meta.logoHeight }};
+            --dg-logo-height-mobile: {{ meta.logoHeight }};
+            --dg-filetree-logo-height: {{ meta.logoHeight }};
+        }
     </style>
 {% endif %}
 <style>
