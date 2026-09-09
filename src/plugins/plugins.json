@@ -13,6 +13,19 @@
         "src/plugins/moc-nav/styles/moc-nav.scss",
         "src/plugins/moc-nav/templates/moc-nav.njk"
       ]
+    },
+    "copy-code-button": {
+      "repo": "oleeskild/garden-plugin-copy-code-button",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-09T06:14:13.357Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/copy-code-button/README.md",
+        "src/plugins/copy-code-button/garden-plugin.json",
+        "src/plugins/copy-code-button/styles/copy.scss",
+        "src/plugins/copy-code-button/templates/copy.njk"
+      ]
     }
   }
 }
