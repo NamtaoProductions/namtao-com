@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-for-learning-part-ii-process/","tags":["project/nb"],"noteIcon":"","updated":"2026-06-17T07:56:12.000+01:00","dg-note-properties":{"start":"2026-01-16","due":"2026-02-27","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2025-12-16T08:00:23.931+00:00"}}
+{"dg-publish":true,"permalink":"/obsidian-for-learning-part-ii-process/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-09T09:05:00.610+01:00","dg-note-properties":{"start":"2026-01-16","due":"2026-02-27","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2025-12-16T08:00:23.931+00:00"}}
 ---
 
 
@@ -21,9 +21,9 @@ flowchart TD
 
     A[TAKE NOTES]  B
     B[DRAW THE REST OF THE OWL]  C[PROFIT]
-    
+ 
     B@{ shape: braces }
-    
+
 ```
 
 Thanks! I hate it
@@ -48,7 +48,7 @@ ATOMIC NOTES
 
 
 We are going to forge our work, essays, exam revision, books, or even video scripts, from atomic notes.
-    
+
 You may have heard of this concept before, perhaps as 'smart' or 'main', or 'permanent' notes, the core unit of the Zettelkasten system, an interlinked web of knowledge, with the information digested, deconstructed and rebuilt in your own words, in your own image.
 Many books on note-taking talk about what makes these kinds of notes good, but I think all qualities are downstream of these two principle features of atomic  
 2. Each note doesn't require reading lots of other notes to understand, they are loosely coupled to each other.
@@ -160,7 +160,7 @@ I will highlight a few key features, and we'll deep-dive later on.
 - A see-also section contains links to related atomic notes
 - And there are references to other literature notes, either in my vault or links out onto the internet
 
-## MY NOTES USE:
+## MY NOTES USE
 
 
 
@@ -662,7 +662,7 @@ To all my patrons, you make this possible!
 ```rust
 let producers: [&str; 0] = [];
 let sponsors:  [&str; 1] = [
-	"Jaycee" 
+ "Jaycee" 
 ];
 let patrons: [&str; 940];
 ```
