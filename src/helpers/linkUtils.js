@@ -1,5 +1,12 @@
+const path = require("path");
+
 const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
+// Markdown-style links to .md files, e.g. [Feedback](../concepts/feedback.md).
+// Negative lookbehind excludes image embeds. Group 1 is the link target.
+const markdownMdLinkRegex =
+  /(?<!\!)\[[^\]]*\]\(\s*([^)\s]+?\.(?:md|markdown))(#[^)\s]*)?\s*\)/gi;
+const externalSchemeRegex = /^[a-z][a-z0-9+.-]*:/i;
 // Match iframe src for canvas embedded files (internal links only, not external URLs)
 // Format: <iframe src="/path/" class="canvas-file-iframe" ...>
 // Use non-greedy [^>]*? to avoid over-matching
@@ -15,8 +22,113 @@ try {
 } catch (e) {
   // bases-engine not available, skip bases link extraction
 }
+const { pickNoteMetadata } = require("./bases-engine/noteMetadata");
 
-function extractLinks(content) {
+/**
+ * Resolve a markdown link target to a vault-root-relative path.
+ * Returns null for external links or paths escaping the vault root.
+ * sourceDir is the vault-relative directory of the linking note ("" for root).
+ */
+function resolveVaultPath(linkTarget, sourceDir) {
+  if (!linkTarget || externalSchemeRegex.test(linkTarget)) {
+    return null;
+  }
+  let decoded = linkTarget;
+  try {
+    decoded = decodeURI(linkTarget);
+  } catch {
+    // Keep the raw target if it is not valid percent-encoding
+  }
+  const resolved = decoded.startsWith("/")
+    ? path.posix.normalize(decoded.slice(1))
+    : path.posix.normalize(path.posix.join(sourceDir || "", decoded));
+  if (resolved.startsWith("../") || resolved === "..") {
+    return null;
+  }
+  return resolved;
+}
+
+/**
+ * Possible vault-root-relative interpretations of a markdown link target,
+ * most likely first. Obsidian resolves targets relative to the note, but
+ * dataview and Obsidian's "absolute path in vault" link setting emit
+ * vault-root paths with no ./ or ../ prefix, so those targets get a
+ * vault-root candidate as fallback.
+ */
+function vaultPathCandidates(linkTarget, sourceDir) {
+  const noteRelative = resolveVaultPath(linkTarget, sourceDir);
+  const candidates = noteRelative ? [noteRelative] : [];
+  if (
+    linkTarget &&
+    !linkTarget.startsWith("/") &&
+    !linkTarget.startsWith("./") &&
+    !linkTarget.startsWith("../")
+  ) {
+    const vaultRoot = resolveVaultPath(linkTarget, "");
+    if (vaultRoot && !candidates.includes(vaultRoot)) {
+      candidates.push(vaultRoot);
+    }
+  }
+  return candidates;
+}
+
+/**
+ * Extract markdown-style links to .md files, resolved against the source
+ * note's vault path and stripped of extension/fragment so they match the
+ * stem URLs used by the graph. Ambiguous targets yield every candidate
+ * interpretation; the graph drops the ones that match no note.
+ */
+function extractMarkdownLinks(content, sourcePath) {
+  const links = [];
+  const sourceDir = path.posix.dirname(sourcePath || "");
+  let match;
+  markdownMdLinkRegex.lastIndex = 0;
+  while ((match = markdownMdLinkRegex.exec(content)) !== null) {
+    for (const resolved of vaultPathCandidates(
+      match[1],
+      sourceDir === "." ? "" : sourceDir,
+    )) {
+      links.push(resolved.replace(/\.(md|markdown)$/i, ""));
+    }
+  }
+  return links;
+}
+
+/**
+ * Rewrite relative .md hrefs in rendered HTML to their resolved permalinks.
+ * resolveAnchor(vaultPathCandidates, fragment, originalHref) receives the
+ * candidate interpretations (most likely first) and returns an attributes
+ * object ({ href, ... }) or null to leave the anchor untouched.
+ */
+function convertMdHrefs(html, sourceDir, resolveAnchor) {
+  // (?:[^>]*?\s)? requires href to start the tag or follow whitespace, so
+  // attributes like data-href (dataviewjs anchors) are never rewritten.
+  return html.replace(
+    /(<a\s(?:[^>]*?\s)?href=")([^"]+)("[^>]*>)/gi,
+    (fullMatch, before, href, after) => {
+      const [target, ...fragmentParts] = href.split("#");
+      const fragment = fragmentParts.length ? `#${fragmentParts.join("#")}` : "";
+      if (
+        !/\.(md|markdown)$/i.test(target) ||
+        target.startsWith("/") ||
+        externalSchemeRegex.test(target)
+      ) {
+        return fullMatch;
+      }
+      const candidates = vaultPathCandidates(target, sourceDir);
+      if (!candidates.length) {
+        return fullMatch;
+      }
+      const attrs = resolveAnchor(candidates, fragment, href);
+      if (!attrs || !attrs.href) {
+        return fullMatch;
+      }
+      return `${before}${attrs.href}${fragment}${after}`;
+    },
+  );
+}
+
+function extractLinks(content, sourcePath) {
   // Extract iframe sources for canvas embeds
   const iframeLinks = [];
   let match;
@@ -50,6 +162,7 @@ function extractLinks(content) {
           .split("#")[0]
     ),
     ...iframeLinks,
+    ...(sourcePath ? extractMarkdownLinks(content, sourcePath) : []),
   ];
 }
 
@@ -91,7 +204,27 @@ function extractBasesLinks(content, basesNotes) {
   return links;
 }
 
-async function getGraph(data) {
+// getGraph is called from eleventyComputed, i.e. once per rendered page, but
+// its result only depends on the note collection. Recomputing it per page made
+// the build O(notes²). Cache the in-flight promise keyed on the collection
+// array itself: each build (including watch-mode rebuilds) creates a fresh
+// collections array, so the cache self-invalidates and old entries get GC'd.
+const graphCache = new WeakMap();
+
+function getGraph(data) {
+  const notes = data.collections.note;
+  if (!notes) {
+    return computeGraph(data);
+  }
+  let cached = graphCache.get(notes);
+  if (!cached) {
+    cached = computeGraph(data);
+    graphCache.set(notes, cached);
+  }
+  return cached;
+}
+
+async function computeGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
@@ -127,11 +260,12 @@ async function getGraph(data) {
         v.data["dg-home"] ||
         (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
         false,
-      outBound: extractLinks(content),
+      outBound: extractLinks(content, fpath),
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
-      hide: v.data.hideInGraph || false,
+      hide: v.data.hide || v.data.hideInGraph || false,
+      private: v.data.hide || false,
     };
     stemURLs[fpath] = v.url;
     if (
@@ -177,7 +311,7 @@ async function getGraph(data) {
     return {
       path: item.filePathStem.replace("/notes/", ""),
       url: item.url,
-      metadata: item.data,
+      metadata: pickNoteMetadata(item.data),
       fileSlug: item.fileSlug,
       // Inject computed link data for bases queries
       _links: url.outBound || [],
@@ -221,5 +355,7 @@ async function getGraph(data) {
 exports.wikiLinkRegex = wikiLinkRegex;
 exports.internalLinkRegex = internalLinkRegex;
 exports.extractLinks = extractLinks;
+exports.resolveVaultPath = resolveVaultPath;
+exports.convertMdHrefs = convertMdHrefs;
 exports.getGraph = getGraph;
 exports._basesNotesWithLinks = null;
