@@ -27,7 +27,7 @@
         "html-minifier-terser": "^7.2.0",
         "node-html-parser": "^7.0.2",
         "sass": "^1.49.9",
-        "vitest": "^4.1.0"
+        "vitest": "^5.0.0"
     },
     "dependencies": {
         "@11ty/eleventy-img": "^4.0.2",
