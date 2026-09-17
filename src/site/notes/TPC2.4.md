@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tpc-2-4/","hide":true,"tags":["project/tpc"],"noteIcon":"","updated":"2026-09-09T08:48:58.593+01:00","dg-note-properties":{"tags":["project/tpc"],"start":"2024-10-31","due":"2024-11-28","up":["[[TPC2.0]]"],"scheduled":"","prev":"[[TPC2.3]]","state":"done","created":"2025-01-09T09:42","updated":"2025-03-17T20:02"}}
+{"dg-publish":true,"permalink":"/tpc-2-4/","hide":true,"tags":["project/tpc"],"noteIcon":"","updated":"2026-09-10T10:03:37.983+01:00","dg-note-properties":{"tags":["project/tpc"],"start":"2024-10-31","due":"2024-11-28","up":["[[TPC2.0]]"],"scheduled":"","prev":"[[TPC2.3]]","state":"done","created":"2025-01-09T09:42","updated":"2025-03-17T20:02"}}
 ---
 
 

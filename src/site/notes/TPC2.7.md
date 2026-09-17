@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tpc-2-7/","hide":true,"tags":["project/tpc","TPC","episode"],"noteIcon":"","updated":"2026-09-09T08:49:00.637+01:00","dg-note-properties":{"tags":["project/tpc","TPC","episode"],"start":"2024-12-12","due":"2025-01-23","up":["[[TPC2.0]]"],"scheduled":"2024-12-30","prev":"[[Projects/The Phosphene Catalogue/Season 2/TPC2.6]]","state":"done","groups":["TPC","TPC2.0","episode"],"recorded":"2025-01-07","written":"2025-01-07","published":"2025-01-09","created":"2025-01-22T20:13","updated":"2025-03-18T07:16"}}
+{"dg-publish":true,"permalink":"/tpc-2-7/","hide":true,"tags":["project/tpc","TPC","episode"],"noteIcon":"","updated":"2026-09-10T10:03:38.123+01:00","dg-note-properties":{"tags":["project/tpc","TPC","episode"],"start":"2024-12-12","due":"2025-01-23","up":["[[TPC2.0]]"],"scheduled":"2024-12-30","prev":"[[Projects/The Phosphene Catalogue/Season 2/TPC2.6]]","state":"done","groups":["TPC","TPC2.0","episode"],"recorded":"2025-01-07","written":"2025-01-07","published":"2025-01-09","created":"2025-01-22T20:13","updated":"2025-03-18T07:16"}}
 ---
 
 

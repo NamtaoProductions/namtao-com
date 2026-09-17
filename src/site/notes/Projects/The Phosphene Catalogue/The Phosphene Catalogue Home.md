@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"tpc","permalink":"/tpc/","title":"Phosphene Catalogue","tags":["index"],"noteIcon":"","updated":"2026-08-19T11:53:19.000+01:00","dg-note-properties":{"up":["[[Podcasts]]"],"tags":["index"],"title":"Phosphene Catalogue","vf_icon":"🎨"}}
+{"dg-publish":true,"dg-path":"tpc","permalink":"/tpc/","title":"Phosphene Catalogue","tags":["index"],"noteIcon":"","updated":"2026-09-10T10:03:38.034+01:00","dg-note-properties":{"up":["[[Podcasts]]"],"tags":["index"],"title":"Phosphene Catalogue","vf_icon":"🎨"}}
 ---
 
 

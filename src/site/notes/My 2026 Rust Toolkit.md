@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-04T11:49:55.000+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2026-08-08T09:59:14.933+01:00"}}
+{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-10T10:03:37.996+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2026-08-08T09:59:14.933+01:00"}}
 ---
 
 

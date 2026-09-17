@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":"","updated":"2026-09-09T08:13:32.312+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-20T07:10","updated":"2025-05-16T09:28","title":"Lost Terminal"}}
+{"dg-publish":true,"dg-path":"lt","permalink":"/lt/","title":"Lost Terminal","tags":["index"],"noteIcon":"","updated":"2026-09-10T10:03:37.664+01:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-20T07:10","updated":"2025-05-16T09:28","title":"Lost Terminal"}}
 ---
 
 
@@ -139,15 +139,15 @@ However, Lost Terminal would not be what it is today without these people, who I
 - [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]] voiced by Amos Wenger
 - [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] voiced by Robin Winslow
 
-| Character                                                                      | Voice                                    |
-| ------------------------------------------------------------------------------ | ---------------------------------------- |
-| [[Astrid\|Astrid]]                                                          | [[Projects/rolodex/Laura C\|Laura C]] |
-| [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]         | [[Gina Sneezby\|Gina Sneezby]]        |
-| [[StoryLine/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]         | Alex Bayly                               |
-| [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]         | [[Amos Wenger\|Amos Wenger]]             |
-| [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] | Robin Winslow                            |
-| [[StoryLine/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]     | Nils Brobakk                             |
-| [[StoryLine/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]   | Robin Howell                             |
+| Character                                                                      | Voice                                               |
+| ------------------------------------------------------------------------------ | --------------------------------------------------- |
+| [[Astrid\|Astrid]]                                                          | [[Resources/rolodex/Laura C\|Laura C]]           |
+| [[StoryLine/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]         | [[Resources/rolodex/Gina Sneezby\|Gina Sneezby]] |
+| [[StoryLine/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]         | Alex Bayly                                          |
+| [[StoryLine/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]         | [[Amos Wenger\|Amos Wenger]]                        |
+| [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]] | Robin Winslow                                       |
+| [[StoryLine/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]     | Nils Brobakk                                        |
+| [[StoryLine/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]   | Robin Howell                                        |
 
 { .block-language-dataview}
 

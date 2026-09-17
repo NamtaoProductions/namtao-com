@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story-line/lost-terminal/codex/characters/aero-lyberth/","hide":true,"noteIcon":"","updated":"2026-09-09T08:44:54.969+01:00","dg-note-properties":{"up":["[[LT Characters]]"],"voice":"cheerful, young","archetype":"harbourmaster","home":"[[Lost Terminal/Thule]]","hair":null,"eyes":null,"pronouns":"she/her","lt-network-magic":["[[Lost Terminal/Thule]]"],"ai":null,"birthdate":null,"deathdate":null,"created":"2026-04-23","updated":"2024-11-25T14:57","current-location":"[[Lost Terminal/Thule]]","type":"character","name":null,"modified":"2026-04-23","aliases":["Aero"]}}
+{"dg-publish":true,"permalink":"/story-line/lost-terminal/codex/characters/aero-lyberth/","hide":true,"noteIcon":"","updated":"2026-09-10T10:03:37.988+01:00","dg-note-properties":{"up":["[[LT Characters]]"],"voice":"cheerful, young","archetype":"harbourmaster","home":"[[Lost Terminal/Thule]]","hair":null,"eyes":null,"pronouns":"she/her","lt-network-magic":["[[Lost Terminal/Thule]]"],"ai":null,"birthdate":null,"deathdate":null,"created":"2026-04-23","updated":"2024-11-25T14:57","current-location":"[[Lost Terminal/Thule]]","type":"character","name":null,"modified":"2026-04-23","aliases":["Aero"]}}
 ---
 
 ## Description

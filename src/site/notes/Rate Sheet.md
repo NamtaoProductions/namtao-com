@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"rates","permalink":"/rates/","hide":true,"noteIcon":"","updated":"2026-09-09T08:48:16.048+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"rates","permalink":"/rates/","hide":true,"noteIcon":"","updated":"2026-09-10T10:03:37.994+01:00","dg-note-properties":{}}
 ---
 
 # YouTube

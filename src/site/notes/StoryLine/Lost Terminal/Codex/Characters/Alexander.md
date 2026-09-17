@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story-line/lost-terminal/codex/characters/alexander/","hide":true,"noteIcon":"","updated":"2026-09-09T08:45:04.287+01:00","dg-note-properties":{"up":["[[LT Characters]]"],"aliases":["Ana","Adrian","Arina"],"created":"2026-04-23","updated":"2025-03-17T17:57","archetype":"solitary inventor","home":["[[Station Odin]]"],"current-location":"[[Station Odin]]","type":"character","name":"Alexander","modified":"2026-04-23","relations":[{"category":"family","type":"adoptive-parent","target":"Seth"}]}}
+{"dg-publish":true,"permalink":"/story-line/lost-terminal/codex/characters/alexander/","hide":true,"noteIcon":"","updated":"2026-09-10T10:03:37.988+01:00","dg-note-properties":{"up":["[[LT Characters]]"],"aliases":["Ana","Adrian","Arina"],"created":"2026-04-23","updated":"2025-03-17T17:57","archetype":"solitary inventor","home":["[[Station Odin]]"],"current-location":"[[Station Odin]]","type":"character","name":"Alexander","modified":"2026-04-23","relations":[{"category":"family","type":"adoptive-parent","target":"Seth"}]}}
 ---
 
 

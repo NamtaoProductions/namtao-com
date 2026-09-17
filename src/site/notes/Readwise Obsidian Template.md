@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"readwise-obsidian-template","permalink":"/readwise-obsidian-template/","hide":true,"noteIcon":"","updated":"2026-09-09T08:51:29.046+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"readwise-obsidian-template","permalink":"/readwise-obsidian-template/","hide":true,"noteIcon":"","updated":"2026-09-10T10:03:37.997+01:00","dg-note-properties":{}}
 ---
 
 The existing obsidian template that Readwise provide is good, but it can be GREAT.

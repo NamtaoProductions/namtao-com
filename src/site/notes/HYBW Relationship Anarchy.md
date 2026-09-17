@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-07-03T13:34:43.000+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-10T10:03:37.615+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 

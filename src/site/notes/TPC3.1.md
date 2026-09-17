@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tpc-3-1/","hide":true,"tags":["project/tpc"],"noteIcon":"","updated":"2026-09-09T08:49:01.775+01:00","dg-note-properties":{"up":["[[TPC3.0]]"],"scheduled":"2025-10-11","written":"2025-10-02","recorded":"2025-10-05","published":"2025-10-17","due":"2025-10-31","state":"done","prev":["[[TPC2.7]]"],"tags":["project/tpc"],"modified":"2025-10-23T08:56:01.475+01:00","patreon_link":"https://www.patreon.com/posts/142169655","episode":"3.1","episode_link":"https://www.spreaker.com/episode/3-1-hireth-pendragon-s-tears--68297624","cover_image":"![[Resources/Meta/attachments/tpc3.1-logo.png]]"}}
+{"dg-publish":true,"permalink":"/tpc-3-1/","hide":true,"tags":["project/tpc"],"noteIcon":"","updated":"2026-09-10T10:03:37.998+01:00","dg-note-properties":{"up":["[[TPC3.0]]"],"scheduled":"2025-10-11","written":"2025-10-02","recorded":"2025-10-05","published":"2025-10-17","due":"2025-10-31","state":"done","prev":["[[TPC2.7]]"],"tags":["project/tpc"],"modified":"2025-10-23T08:56:01.475+01:00","patreon_link":"https://www.patreon.com/posts/142169655","episode":"3.1","episode_link":"https://www.spreaker.com/episode/3-1-hireth-pendragon-s-tears--68297624","cover_image":"![[Resources/Meta/attachments/tpc3.1-logo.png]]"}}
 ---
 
 

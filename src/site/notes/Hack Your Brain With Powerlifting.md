@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nb/powerlifting","permalink":"/nb/powerlifting/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-09T08:45:52.102+01:00","dg-note-properties":{"start":"2025-12-21","due":"2026-02-12","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","titles":["Hack Your Brain With Powerlifting","Powerlifting for Programmers","Powerlifting Engineering"],"modified":"2026-01-23T15:21:57.970+00:00"}}
+{"dg-publish":true,"dg-path":"nb/powerlifting","permalink":"/nb/powerlifting/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-10T10:03:37.622+01:00","dg-note-properties":{"start":"2025-12-21","due":"2026-02-12","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","titles":["Hack Your Brain With Powerlifting","Powerlifting for Programmers","Powerlifting Engineering"],"modified":"2026-01-23T15:21:57.970+00:00"}}
 ---
 
 

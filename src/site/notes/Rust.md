@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-09-03T08:03:53.758+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
+{"dg-publish":true,"permalink":"/rust/","noteIcon":"","updated":"2026-09-10T10:03:38.020+01:00","dg-note-properties":{"up":["[[Projects/No Boilerplate/No Boilerplate Home]]"]}}
 ---
 
 ## My Standard Library

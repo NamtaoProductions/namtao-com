@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-for-learning/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-09T08:48:03.737+01:00","dg-note-properties":{"scheduled":"2025-08-07","written":"2025-09-03","published":"2025-09-04","due":"2025-09-05","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","aliases":["Hacking Your Education With Obsidian.md"],"recorded":"2025-09-15"}}
+{"dg-publish":true,"permalink":"/obsidian-for-learning/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-10T10:03:37.605+01:00","dg-note-properties":{"scheduled":"2025-08-07","written":"2025-09-03","published":"2025-09-04","due":"2025-09-05","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","aliases":["Hacking Your Education With Obsidian.md"],"recorded":"2025-09-15"}}
 ---
 
 
