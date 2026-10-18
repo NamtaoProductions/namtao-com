@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:21:41.304+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:46:07.026+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 
 A lesson that I suspect many parents and teachers are already hoping to instil in the young people in their care is: No one is ALWAYS more important than anyone else, and no relationship is ALWAYS more important than any other.
-This received wisdom comes in many forms, "don't forget your mates when you get a girlfriend" would be an example, but so would "Don't let your parents dictate whom you choose to marry".
+
+This received wisdom comes in many forms, 
+
+> "don't forget your mates when you get a girlfriend" would be an example, but so would "Don't let your parents dictate whom you choose to marry".
+
 These might seem like common sense, but society actually has VERY specific ideas about which relationships are more important than others.
 And as anyone who has learned chemistry after high school will tell you, sometimes you have to unlearn everything you had been taught for your entire life to improve.
 Relationship Anarchy provides an alternative lens for us here, but first we must ask ourselves, do we know what anarchy is?
@@ -53,13 +57,13 @@ Relationship Anarchy questions inherent hierarchies in our relationships, especi
 
 ---
 
-![image:width:100%](/img/user/Resources/Meta/attachments/anarc.png)
-"NO GODS, NO MASTERS"
+Its:
+
+**"NO GODS, NO MASTERS"**
 
 vs
-![image:width:100%](/img/user/Resources/Meta/attachments/ra.png)
 
-"OH GOD, YES MASTER"
+**"OH GOD, YES MASTER"**
 
 Anarchy rejects hierarchy in our political process, _relationship_ anarchy rejects hierarchy in our relationships with each other.
 Are we clear? An-archy; Against hierarchy.
@@ -83,7 +87,7 @@ I have provided links to books, articles, and other vides by queer experts in th
 
 # AMATONORMATIVITY
 
-(the societal assumption that everyone prospers with one exclusive romantic relationship[^1])
+(the societal assumption that everyone prospers with one exclusive romantic relationship)
 
 As we move through our lives, we are surrounded by bad relationship examples, in books, films, online, and even in our parents and teachers.
 I don't blame them, they're just doing the best they can, following society's default path that Relationship Anarchists name "The Relationship Escalator":
@@ -307,7 +311,7 @@ classDiagram
     }
 ```
 
-AN EXAMPLE RELATIONSHIP ANARCHY SMORGASBORD
+_AN EXAMPLE RELATIONSHIP ANARCHY SMORGASBORD_
 
 Just look at the options that are available! Quite a menu.
 Most people won't have an appetite for everything here, and that's fine, that's how a menu WORKS!
@@ -422,7 +426,7 @@ As The Thinking Aro says:
 > "relationship anarchy is fundamentally about community, as much as monogamous and polyamorous lifestyles are fundamentally about the couple.
 > That doesn’t mean couples can’t exist in relationship anarchy, but it does mean that the focus of a relationship anarchist’s life and emotional energy is not a couple relationship by default, the way it is for monogamists and polyamorists."
 
---thethinkingasexual.wordpress.com[^2]
+--thethinkingasexual.wordpress.com
 
 ---
 
@@ -473,6 +477,9 @@ instead of having romantic partners and friends you just have relationships - de
 
 You might one day get married, I can highly recommend it!
 But if you do so on the strong foundation of communication that RA requires, you will be happier, and your partner will be too.
-And her partner
-And his thruple
-and all friends who you loved along the way.
+
+_And her partner_
+
+_And his thruple_
+
+_and all friends who you loved along the way._
