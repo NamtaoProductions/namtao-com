@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:46:07.026+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:52:20.435+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 
 A lesson that I suspect many parents and teachers are already hoping to instil in the young people in their care is: No one is ALWAYS more important than anyone else, and no relationship is ALWAYS more important than any other.
 
-This received wisdom comes in many forms, 
-
-> "don't forget your mates when you get a girlfriend" would be an example, but so would "Don't let your parents dictate whom you choose to marry".
+This received wisdom comes in many forms, "don't forget your mates when you get a girlfriend" would be an example, but so would "Don't let your parents dictate whom you choose to marry".
 
 These might seem like common sense, but society actually has VERY specific ideas about which relationships are more important than others.
 And as anyone who has learned chemistry after high school will tell you, sometimes you have to unlearn everything you had been taught for your entire life to improve.
+
 Relationship Anarchy provides an alternative lens for us here, but first we must ask ourselves, do we know what anarchy is?
 
 ---
