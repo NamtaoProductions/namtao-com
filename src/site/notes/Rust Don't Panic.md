@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"rust-dont-panic","permalink":"/rust-dont-panic/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-16T13:42:56.976+01:00","dg-note-properties":{"start":"2026-06-30","due":"2026-07-31","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"dg-path":"rust-dont-panic","permalink":"/rust-dont-panic/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:56:35.192+01:00","dg-note-properties":{"start":"2026-06-30","due":"2026-07-31","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 <!-- new_lines: 3 -->
 
 <!-- skip_slide -->
+
+<iframe title="Rust: Don't Panic" width="560" height="315" src="https://makertube.net/videos/embed/sPBJihWsLmkDiNoEsHNoxw" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 ## THE MISTAKE
 

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:52:20.435+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:55:38.755+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
+<iframe title="Hack Your Brain with Relationship Anarchy" width="560" height="315" src="https://makertube.net/videos/embed/mE4mMTA93zL2e72Jcaz9JA" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 A lesson that I suspect many parents and teachers are already hoping to instil in the young people in their care is: No one is ALWAYS more important than anyone else, and no relationship is ALWAYS more important than any other.
 

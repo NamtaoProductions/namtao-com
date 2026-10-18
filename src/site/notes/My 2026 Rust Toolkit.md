@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-10T10:03:37.996+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2026-08-08T09:59:14.933+01:00"}}
+{"dg-publish":true,"dg-path":"rust-toolkit-2026","permalink":"/rust-toolkit-2026/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:55:16.516+01:00","dg-note-properties":{"start":"2026-08-10","due":"2026-08-14","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","modified":"2026-08-08T09:59:14.933+01:00"}}
 ---
 
+<div style="position: relative; padding-top: 56.25%;"><iframe title="My 2026 Rust Toolkit" width="100%" height="100%" src="https://makertube.net/videos/embed/9oHdviJ8EGRuGFy6ysjk4g?controlBar=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 Hi folks. Today I'm going to demo my 2026 toolkit for writing rust, containing a dozen or so tools & packages that I use in every project, along with smart default config.
 
