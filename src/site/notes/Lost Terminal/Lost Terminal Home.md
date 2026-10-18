@@ -39,6 +39,7 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[LT20.0\|LT20.0]]                                           | After a stormy voyage, the MH2 arrives at Samoylov, grain basket of the Novamediterra. Quent and Stillman, residents from The Kuithir, attempt a romantic holiday, despite the thick smoke of the city, and Seth is reminded unpleasantly of his past.                                                                                  |
 | [[LT21.0\|LT21.0]]                                           | To be revealed...                                                                                                                                                                                                                                                                                                                       |
 | [[LT22.0\|LT22.0]]                                           | TODO                                                                                                                                                                                                                                                                                                                                    |
+| [[Lost Terminal/Season 23.0/LT23.0\|LT23.0]]                 | TODO                                                                                                                                                                                                                                                                                                                                    |
 
 { .block-language-dataview}
 
@@ -79,10 +80,10 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 | [[StoryLine/Lost Terminal/Codex/Characters/LUNA\|LUNA]]                               | journalist                                  |
 | [[StoryLine/Lost Terminal/Codex/Characters/Lyosha Omarov\|Lyosha Omarov]]             | explorer                                    |
 | [[StoryLine/Lost Terminal/Codex/Characters/Maddie\|Maddie]]                           | satalite maintenance scutter                |
-| [[maddies-s22-friend\|maddies-s22-friend]]                                            | Rocky from PHM                              |
 | [[StoryLine/Lost Terminal/Codex/Characters/Mathilde from Horns\|Mathilde from Horns]] | fisher                                      |
 | [[StoryLine/Lost Terminal/Codex/Characters/Mato Valdemar\|Mato Valdemar]]             | fishingboat captain                         |
 | [[StoryLine/Lost Terminal/Codex/Characters/Nia Andersen\|Nia Andersen]]               | repeaterkeeper                              |
+| [[StoryLine/Lost Terminal/Codex/Characters/Paweł Wayda\|Paweł Wayda]]                 | maker                                       |
 | [[Piotr Morozova\|Piotr Morozova]]                                                    | finance bro                                 |
 | [[StoryLine/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]]           | teacher of oceanography                     |
 | [[StoryLine/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]               | writer                                      |
