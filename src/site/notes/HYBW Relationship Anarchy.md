@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-18T12:55:38.755+01:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"dg-path":"relationship-anarchy","permalink":"/relationship-anarchy/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-26T10:26:44.159+00:00","dg-note-properties":{"start":"2026-05-09","due":"2026-05-15","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 <iframe title="Hack Your Brain with Relationship Anarchy" width="560" height="315" src="https://makertube.net/videos/embed/mE4mMTA93zL2e72Jcaz9JA" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
@@ -32,7 +32,7 @@ in our _political process_
 Political anarchy questions inherent hierarchies in society:
 - kings and subjects
 - lords and serfs
-- bosses / eployees
+- bosses / employees
 - rich / poor
 
 Asking especially why having some people in power over other people is so highly valued in our society.
