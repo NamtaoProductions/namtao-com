@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/namtao/lost-terminal/codex/characters/lyosha-omarov/","hide":true,"noteIcon":"","updated":"2026-10-12T09:37:15.000+01:00","dg-note-properties":{"aliases":["Lyosha"],"voice":"mid-high","archetype":"explorer","home":["[[Namtao/Lost Terminal/Provorny]]"],"hair":"short, blonde","eyes":null,"pronouns":"he/him","lt-network-magic":null,"ai":null,"birthdate":null,"deathdate":null,"created":"2026-04-23","updated":"2025-04-03T09:08","up":["[[LT Characters]]"],"mother":"[[Namtao/Lost Terminal/Codex/Characters/Tanya Omarov]]","father":"[[Namtao/Lost Terminal/Codex/Characters/Alek Omarov]]","brother":"[[Namtao/Lost Terminal/Codex/Characters/Lev Omarov]]","image":"[[Resources/Meta/attachments/Lyosha Omarov pexels.jpg]]","current-location":"[[the Kuethir]]","type":"character","name":"Lyosha Omarov","modified":"2026-04-23","relations":[{"category":"social","type":"friend","target":"Kat Stronski"},{"category":"social","type":"best-friend","target":"Maddie"},{"category":"family","type":"sibling","target":"Lev Omarov"},{"category":"family","type":"parent","target":"Tanya Omarov"},{"category":"family","type":"parent","target":"Alek Omarov"}]}}
+---
+
+
+ 

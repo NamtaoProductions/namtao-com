@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nb/powerlifting","permalink":"/nb/powerlifting/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-10T10:03:37.622+01:00","dg-note-properties":{"start":"2025-12-21","due":"2026-02-12","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","titles":["Hack Your Brain With Powerlifting","Powerlifting for Programmers","Powerlifting Engineering"],"modified":"2026-01-23T15:21:57.970+00:00"}}
+{"dg-publish":true,"dg-path":"nb/powerlifting","permalink":"/nb/powerlifting/","tags":["project/nb"],"noteIcon":"","updated":"2026-09-10T10:03:37.000+01:00","dg-note-properties":{"start":"2025-12-21","due":"2026-02-12","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done","titles":["Hack Your Brain With Powerlifting","Powerlifting for Programmers","Powerlifting Engineering"],"modified":"2026-01-23T15:21:57.970+00:00"}}
 ---
 
 
@@ -98,7 +98,7 @@ A Deadlift using a Smith Machine is easier and safer because it greatly reduces 
 
 <!-- column: 1 -->
 
-![image:width:50%](/img/user/Resources/Meta/attachments/starting-strength-cover.png)
+![image:width:50%](Resources/Meta/attachments/starting-strength-cover.png)
 
 <!-- reset_layout -->
 
@@ -664,7 +664,7 @@ Rest, eat, sleep, and the weights will go up next time, certainly in the beginni
 ![image:width:60%](/img/user/Resources/Meta/attachments/a-physical-education-cover.png)
 
 <!-- column: 1 -->
-![image:width:70%](/img/user/Resources/Meta/attachments/starting-strength-cover.png)
+![image:width:70%](Resources/Meta/attachments/starting-strength-cover.png)
 
 <!-- reset_layout -->
 <!-- alignment: center -->

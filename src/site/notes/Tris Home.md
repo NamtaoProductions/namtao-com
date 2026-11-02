@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"tris","permalink":"/tris/","hide":true,"noteIcon":"","updated":"2026-09-10T10:03:37.979+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"tris","permalink":"/tris/","hide":true,"noteIcon":"","updated":"2026-09-10T10:03:37.000+01:00","dg-note-properties":{}}
 ---
 
 

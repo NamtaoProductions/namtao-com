@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/namtao/lost-terminal/codex/characters/maddie/","hide":true,"tags":["character"],"noteIcon":"","updated":"2026-10-29T09:27:31.000+00:00","dg-note-properties":{"voice":"high, Rocky","archetype":"satalite maintenance scutter","home":"[[Namtao/Lost Terminal/Molly Hughes II]]","hair":null,"eyes":null,"pronouns":"she/her","ai":true,"birthdate":"2077-07-13","deathdate":null,"groups":["Station 6"],"aliases":["MAT-3"],"created":"2025-02-23T16:17","updated":"2025-03-17T17:57","up":["[[LT Characters]]"],"image":"[[Resources/Meta/attachments/Maddie hoog.png]]","current-location":"[[Namtao/Lost Terminal/Season 23.0/Barentsburg Mine]]","tags":["character"],"type":"character","name":"Maddie","modified":"2026-06-17","relations":[{"category":"social","type":"best-friend","target":"Lyosha Omarov"},{"category":"family","type":"ward","target":"Seth"},{"category":"social","type":"friend","target":"Linda Noor"},{"category":"social","type":"friend","target":"Heaton"}]}}
+---
+
+
+ 
