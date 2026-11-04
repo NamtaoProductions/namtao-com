@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-for-learning-part-iii-projects/","tags":["project/nb"],"noteIcon":"","updated":"2026-10-17T18:04:33.000+01:00","dg-note-properties":{"start":"2026-08-07","due":"2026-09-30","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"permalink":"/obsidian-for-learning-part-iii-projects/","tags":["project/nb"],"noteIcon":"","updated":"2026-11-04T07:06:38.203+00:00","dg-note-properties":{"start":"2026-08-07","due":"2026-09-30","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 
@@ -546,8 +546,8 @@ Work
 Home
 ```
 
-<br/>
  ---
+
 ```mermaid
 ---
 config:
@@ -560,9 +560,6 @@ style Phone stroke-width:4px,fill:#333,stroke:#42affa
 
 Phone
 ```
-
-
-
 
 - Shopping
 - Telephone
@@ -581,8 +578,6 @@ One computer or tablet or phone, or at the very least one room we do everything 
 
 "Spaceship You" CGP Grey
 
-
-
 This is like the single module of CGP Grey's "Spaceship You", something he used as a metaphor for being trapped inside during the covid lockdowns.
 
 But just like in Grey's video, the solution to the Context problem is to make the delination mental, not physical.
@@ -592,8 +587,6 @@ But just like in Grey's video, the solution to the Context problem is to make th
 ![Resources/Meta/attachments/spaceship-you-contexts.png](/img/user/Resources/Meta/attachments/spaceship-you-contexts.png)
 
 "Spaceship You" CGP Grey
-
-
 
 Yes we may use the same device for work, gaming, reading, and communication, but these are very different MENTAL contexts, and we should identify the repeated contexts we slip into during the day and strengthen them.
 
@@ -612,8 +605,6 @@ To get you started (and for fun!), let me show you you what inspired my own weir
 ![](/img/user/Resources/Meta/attachments/eudamonia-machine.png)
 
 (From "Deep Work", Cal Newport)
-
-
 
 When I read Deep Work by Cal Newport, a book I highly recommend, I was struck by his description of this cool piece of theoretical architecture.
 The "Eudaimonia Machine" was a building where office workers could travel through different work contexts, and were not allowed to bypass rooms.
@@ -634,8 +625,6 @@ As someone who works from home and can control their own schedule, I have discov
 | 18:00 | Theatre | Entertainment |
 
 _(they are ~~autisticly~~ conveniently in alphabetical order)_
-
-
 
 - I start my day in the Chamber, where deep work happens. No web access, no distractions. I leave my phone in the other room! I find that my mornings are when my best creative writing happens, perhaps, as some have ventured, in the mornings we still remember our dreams. On a more practical note, I have not yet, at this time, read Hacker News.
 - I then move to the Library, where lighter writing happens. I allow myself a web browser at this stage, letting me look up facts and figures:
