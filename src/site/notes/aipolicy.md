@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"aipolicy","permalink":"/aipolicy/","noteIcon":"","updated":"2026-11-07T16:45:53.097+00:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"aipolicy","permalink":"/aipolicy/","noteIcon":"","updated":"2026-11-07T21:31:43.227+00:00","dg-note-properties":{}}
 ---
 
 
 
 > [!QUOTE] Hackaday is pro-human. We’re in it for the hackers as much as for the hacks.
+> -- https://hackaday.com/2026/08/29/same-as-it-ever-was/
 
 (this policy is almost entirely based on [Complexly's AI Policy](https://complexly.info/aipolicy), retrieved on 2026-08-15)
 
