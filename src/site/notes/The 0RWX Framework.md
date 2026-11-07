@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ai-levels","permalink":"/ai-levels/","tags":["project/nb","project"],"noteIcon":"","updated":"2026-11-07T16:32:13.608+00:00","dg-note-properties":{"up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb","project"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing","priority":"normal","modified":"2026-10-17T19:13:57.302+02:00","image":"[[Resources/Meta/attachments/backrooms-2yellow-agents-monster.jpg]]"}}
+{"dg-publish":true,"dg-path":"0rwx","permalink":"/0rwx/","tags":["project/nb","project"],"noteIcon":"","updated":"2026-11-07T16:47:43.831+00:00","dg-note-properties":{"up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb","project"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing","priority":"normal","modified":"2026-10-17T19:13:57.302+02:00","image":"[[Resources/Meta/attachments/backrooms-2yellow-agents-monster.jpg]]"}}
 ---
 
 <!-- new_lines: 7 -->
