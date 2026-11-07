@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-for-learning-part-iii-projects/","tags":["project/nb"],"noteIcon":"","updated":"2026-11-04T07:06:38.203+00:00","dg-note-properties":{"start":"2026-08-07","due":"2026-09-30","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
+{"dg-publish":true,"permalink":"/obsidian-for-learning-part-iii-projects/","tags":["project/nb"],"noteIcon":"","updated":"2026-11-04T07:06:38.000+00:00","dg-note-properties":{"start":"2026-08-07","due":"2026-09-30","up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb"],"state":"done"}}
 ---
 
 

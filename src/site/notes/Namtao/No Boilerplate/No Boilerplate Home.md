@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","tags":["index"],"noteIcon":"","updated":"2026-11-02T12:49:18.792+00:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-27T10:32","updated":"2025-06-03T18:42","title":"No Boilerplate"}}
+{"dg-publish":true,"dg-path":"nb","permalink":"/nb/","title":"No Boilerplate","tags":["index"],"noteIcon":"","updated":"2026-11-07T16:32:36.321+00:00","dg-note-properties":{"up":["[[Namtao Home]]"],"tags":["index"],"created":"2025-01-27T10:32","updated":"2025-06-03T18:42","title":"No Boilerplate"}}
 ---
 
 
@@ -30,6 +30,7 @@ I build these using [obsidian.md](https://obsidian.md/) and [presenterm](https:/
 56. [[My 2026 Rust Toolkit\|My 2026 Rust Toolkit]]
 57. [[Rust Don't Panic\|Rust Don't Panic]]
 58. [[Obsidian for Learning Part III Projects\|Obsidian for Learning Part III Projects]]
+59. [[The 0RWX Framework\|The 0RWX Framework]]
 
 ---
 # Rust

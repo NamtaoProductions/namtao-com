@@ -45,56 +45,58 @@ A hard sci-fi hopepunk podcast following the journey of a little satellite tryin
 
 ## Characters
 
-| Note                                                                                  | archetype                                   |
-| ------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [[Namtao/Lost Terminal/Codex/Characters/50 Meg\|50 Meg]]                           | VHF Witch                                   |
-| [[Namtao/Lost Terminal/Codex/Characters/Aero Lyberth\|Aero Lyberth]]               | harbourmaster                               |
-| [[Namtao/Lost Terminal/Codex/Characters/Alek Omarov\|Alek Omarov]]                 | \-                                          |
-| [[Namtao/Lost Terminal/Codex/Characters/Alexander\|Alexander]]                     | solitary inventor                           |
-| [[Namtao/Lost Terminal/Codex/Characters/Amelie Kotov\|Amelie Kotov]]               | generalist engineer                         |
-| [[Namtao/Lost Terminal/Codex/Characters/Anouk Peters\|Anouk Peters]]               | \-                                          |
-| [[Astrid\|Astrid]]                                                                 | gardener                                    |
-| [[Namtao/Lost Terminal/Codex/Characters/Bay Langley\|Bay Langley]]                 | \-                                          |
-| [[black suit\|black suit]]                                                         | chill manager                               |
-| [[Namtao/Lost Terminal/Codex/Characters/Carma Sah\|Carma Sah]]                     | School Principle                            |
-| [[charcoal-grey suit\|charcoal-grey suit]]                                         | brusque manager                             |
-| [[Dmitri\|Dmitri]]                                                                 | engineer                                    |
-| [[Namtao/Lost Terminal/Codex/Characters/Dr Boldt\|Dr Boldt]]                       | Cruel psychologist                          |
-| [[Namtao/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]                   | programmer                                  |
-| [[Namtao/Lost Terminal/Codex/Characters/Ezekiel Frangoulis\|Ezekiel Frangoulis]]   | Excitable student                           |
-| [[Namtao/Lost Terminal/Codex/Characters/Freja from Horns\|Freja from Horns]]       | fisher                                      |
-| [[Namtao/Lost Terminal/Codex/Characters/Geraldo Ko\|Geraldo Ko]]                   | Chemistry teacher                           |
-| [[Namtao/Lost Terminal/Codex/Characters/Heaton\|Heaton]]                           | gardener                                    |
-| [[Namtao/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]                   | radio ham                                   |
-| [[Namtao/Lost Terminal/Codex/Characters/James Li\|James Li]]                       | caring ai scientist                         |
-| [[Namtao/Lost Terminal/Codex/Characters/Jenny Noll\|Jenny Noll]]                   | retired bard                                |
-| [[Namtao/Lost Terminal/Codex/Characters/Kamil Forester\|Kamil Forester]]           | subnautical technician                      |
-| [[Namtao/Lost Terminal/Codex/Characters/Kat Stronski\|Kat Stronski]]               | student                                     |
-| [[Katherine\|Katherine]]                                                           | engineer                                    |
-| [[Namtao/Lost Terminal/Codex/Characters/Kaycee Stronski\|Kaycee Stronski]]         | engineer, worried mother                    |
-| [[Kaz\|Kaz]]                                                                       | engineer                                    |
-| [[Namtao/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]                   | harbourmaster                               |
-| [[Namtao/Lost Terminal/Codex/Characters/Leila Tazi\|Leila Tazi]]                   | worried mother                              |
-| [[Namtao/Lost Terminal/Codex/Characters/Lev Omarov\|Lev Omarov]]                   | \-                                          |
-| [[Namtao/Lost Terminal/Codex/Characters/Linda Noor\|Linda Noor]]                   | biologist and gardener                      |
-| [[Namtao/Lost Terminal/Codex/Characters/LUNA\|LUNA]]                               | journalist                                  |
-| [[Namtao/Lost Terminal/Codex/Characters/Lyosha Omarov\|Lyosha Omarov]]             | explorer                                    |
-| [[Namtao/Lost Terminal/Codex/Characters/Maddie\|Maddie]]                           | satalite maintenance scutter                |
-| [[Namtao/Lost Terminal/Codex/Characters/Mathilde from Horns\|Mathilde from Horns]] | fisher                                      |
-| [[Namtao/Lost Terminal/Codex/Characters/Mato Valdemar\|Mato Valdemar]]             | fishingboat captain                         |
-| [[Namtao/Lost Terminal/Codex/Characters/Nia Andersen\|Nia Andersen]]               | repeaterkeeper                              |
-| [[Namtao/Lost Terminal/Codex/Characters/Paweł Wayda\|Paweł Wayda]]                 | maker                                       |
-| [[Piotr Morozova\|Piotr Morozova]]                                                 | finance bro                                 |
-| [[Namtao/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]]           | teacher of oceanography                     |
-| [[Namtao/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]               | writer                                      |
-| [[Namtao/Lost Terminal/Codex/Characters/Seth\|Seth]]                               | author stand-in, autistic, excitable, naive |
-| [[Namtao/Lost Terminal/Codex/Characters/Siegfried Lin\|Siegfried Lin]]             | \-                                          |
-| [[Namtao/Lost Terminal/Codex/Characters/Sofia Tazi\|Sofia Tazi]]                   | adventurous and loyal                       |
-| [[Namtao/Lost Terminal/Codex/Characters/Stillman Fowlkes\|Stillman Fowlkes]]       | engineer                                    |
-| [[Svetla\|Svetla]]                                                                 | engineer                                    |
-| [[Namtao/Lost Terminal/Codex/Characters/Tanya Omarov\|Tanya Omarov]]               | \-                                          |
-| [[Namtao/Lost Terminal/Codex/Characters/Valentia Dalton\|Valentia Dalton]]         | student                                     |
-| [[Namtao/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                                       |
+| Note                                                                                  | archetype                                      |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [[Namtao/Lost Terminal/Codex/Characters/50 Meg\|50 Meg]]                           | VHF Witch                                      |
+| [[Namtao/Lost Terminal/Codex/Characters/Aero Lyberth\|Aero Lyberth]]               | harbourmaster                                  |
+| [[Namtao/Lost Terminal/Codex/Characters/Alek Omarov\|Alek Omarov]]                 | \-                                             |
+| [[Namtao/Lost Terminal/Codex/Characters/Alexander\|Alexander]]                     | solitary inventor                              |
+| [[Namtao/Lost Terminal/Codex/Characters/Amelie Kotov\|Amelie Kotov]]               | generalist engineer                            |
+| [[Namtao/Lost Terminal/Codex/Characters/Anouk Peters\|Anouk Peters]]               | \-                                             |
+| [[Namtao/Lost Terminal/Codex/Characters/Arctica\|Arctica]]                         | bossy and controlling but with good intentions |
+| [[Astrid\|Astrid]]                                                                 | gardener                                       |
+| [[Namtao/Lost Terminal/Codex/Characters/Bay Langley\|Bay Langley]]                 | \-                                             |
+| [[black suit\|black suit]]                                                         | chill manager                                  |
+| [[Namtao/Lost Terminal/Codex/Characters/Carma Sah\|Carma Sah]]                     | School Principle                               |
+| [[charcoal-grey suit\|charcoal-grey suit]]                                         | brusque manager                                |
+| [[Dmitri\|Dmitri]]                                                                 | engineer                                       |
+| [[Namtao/Lost Terminal/Codex/Characters/Dr Boldt\|Dr Boldt]]                       | Cruel psychologist                             |
+| [[Namtao/Lost Terminal/Codex/Characters/Dr Redwing\|Dr Redwing]]                   | programmer                                     |
+| [[Namtao/Lost Terminal/Codex/Characters/Ezekiel Frangoulis\|Ezekiel Frangoulis]]   | Excitable student                              |
+| [[Namtao/Lost Terminal/Codex/Characters/Freja from Horns\|Freja from Horns]]       | fisher                                         |
+| [[Namtao/Lost Terminal/Codex/Characters/Geraldo Ko\|Geraldo Ko]]                   | Chemistry teacher                              |
+| [[Namtao/Lost Terminal/Codex/Characters/Heaton\|Heaton]]                           | gardener                                       |
+| [[Namtao/Lost Terminal/Codex/Characters/Jakub Glas\|Jakub Glas]]                   | radio ham                                      |
+| [[Namtao/Lost Terminal/Codex/Characters/James Li\|James Li]]                       | caring ai scientist                            |
+| [[Namtao/Lost Terminal/Codex/Characters/Jenny Noll\|Jenny Noll]]                   | retired bard                                   |
+| [[Namtao/Lost Terminal/Codex/Characters/Kamil Forester\|Kamil Forester]]           | subnautical technician                         |
+| [[Namtao/Lost Terminal/Codex/Characters/Kat Stronski\|Kat Stronski]]               | student                                        |
+| [[Katherine\|Katherine]]                                                           | engineer                                       |
+| [[Namtao/Lost Terminal/Codex/Characters/Kaycee Stronski\|Kaycee Stronski]]         | engineer, worried mother                       |
+| [[Kaz\|Kaz]]                                                                       | engineer                                       |
+| [[Namtao/Lost Terminal/Codex/Characters/Kimmo Shyu\|Kimmo Shyu]]                   | harbourmaster                                  |
+| [[Namtao/Lost Terminal/Codex/Characters/Leila Tazi\|Leila Tazi]]                   | worried mother                                 |
+| [[Namtao/Lost Terminal/Codex/Characters/Lev Omarov\|Lev Omarov]]                   | \-                                             |
+| [[Namtao/Lost Terminal/Codex/Characters/Linda Noor\|Linda Noor]]                   | biologist and gardener                         |
+| [[Namtao/Lost Terminal/Codex/Characters/LUNA\|LUNA]]                               | journalist                                     |
+| [[Namtao/Lost Terminal/Codex/Characters/Lyosha Omarov\|Lyosha Omarov]]             | explorer                                       |
+| [[Namtao/Lost Terminal/Codex/Characters/Maddie\|Maddie]]                           | satalite maintenance scutter                   |
+| [[Namtao/Lost Terminal/Codex/Characters/Mathilde from Horns\|Mathilde from Horns]] | fisher                                         |
+| [[Namtao/Lost Terminal/Codex/Characters/Mato Valdemar\|Mato Valdemar]]             | fishingboat captain                            |
+| [[Namtao/Lost Terminal/Codex/Characters/Nia Andersen\|Nia Andersen]]               | repeaterkeeper                                 |
+| [[Namtao/Lost Terminal/Codex/Characters/Paweł Wayda\|Paweł Wayda]]                 | maker                                          |
+| [[Piotr Morozova\|Piotr Morozova]]                                                 | finance bro                                    |
+| [[Namtao/Lost Terminal/Codex/Characters/Quent Heinlein\|Quent Heinlein]]           | teacher of oceanography                        |
+| [[Namtao/Lost Terminal/Codex/Characters/Samik Jensen\|Samik Jensen]]               | writer                                         |
+| [[Namtao/Lost Terminal/Codex/Characters/Seth\|Seth]]                               | author stand-in, autistic, excitable, naive    |
+| [[Namtao/Lost Terminal/Codex/Characters/Siegfried Lin\|Siegfried Lin]]             | \-                                             |
+| [[Namtao/Lost Terminal/Codex/Characters/Sofia Tazi\|Sofia Tazi]]                   | adventurous and loyal                          |
+| [[Namtao/Lost Terminal/Codex/Characters/Stillman Fowlkes\|Stillman Fowlkes]]       | engineer                                       |
+| [[Svetla\|Svetla]]                                                                 | engineer                                       |
+| [[Namtao/Lost Terminal/Codex/Characters/Tanya Omarov\|Tanya Omarov]]               | \-                                             |
+| [[The Other Valdemar\|The Other Valdemar]]                                         | \-                                             |
+| [[Namtao/Lost Terminal/Codex/Characters/Valentia Dalton\|Valentia Dalton]]         | student                                        |
+| [[Namtao/Lost Terminal/Codex/Characters/Yeshi Svoboda\|Yeshi Svoboda]]             | maker                                          |
 
 { .block-language-dataview}
 

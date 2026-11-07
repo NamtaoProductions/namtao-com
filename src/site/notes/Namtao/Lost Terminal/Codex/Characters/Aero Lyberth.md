@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/namtao/lost-terminal/codex/characters/aero-lyberth/","hide":true,"noteIcon":"","updated":"2026-09-10T10:03:37.000+01:00","dg-note-properties":{"up":["[[LT Characters]]"],"voice":"cheerful, young","archetype":"harbourmaster","home":"[[Namtao/Lost Terminal/Thule]]","hair":null,"eyes":null,"pronouns":"she/her","lt-network-magic":["[[Namtao/Lost Terminal/Thule]]"],"ai":null,"birthdate":null,"deathdate":null,"created":"2026-04-23","updated":"2024-11-25T14:57","current-location":"[[Namtao/Lost Terminal/Thule]]","type":"character","name":null,"modified":"2026-04-23","aliases":["Aero"]}}
+{"dg-publish":true,"permalink":"/namtao/lost-terminal/codex/characters/aero-lyberth/","hide":true,"tags":["character","lostterminal"],"noteIcon":"","updated":"2026-11-03T08:30:03.000+00:00","dg-note-properties":{"up":["[[LT Characters]]"],"voice":"cheerful, young","archetype":"harbourmaster","home":"[[Namtao/Lost Terminal/Thule]]","hair":null,"eyes":null,"pronouns":"she/her","lt-network-magic":["[[Namtao/Lost Terminal/Thule]]"],"ai":null,"birthdate":null,"deathdate":null,"created":"2026-04-23","updated":"2024-11-25T14:57","current-location":"[[Namtao/Lost Terminal/Thule]]","type":"character","name":null,"modified":"2026-04-23","aliases":["Aero"],"tags":["character","lostterminal"]}}
 ---
 
 ## Description

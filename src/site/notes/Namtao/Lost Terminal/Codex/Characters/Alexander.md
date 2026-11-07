@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/namtao/lost-terminal/codex/characters/alexander/","hide":true,"noteIcon":"","updated":"2026-09-10T10:03:37.000+01:00","dg-note-properties":{"up":["[[LT Characters]]"],"aliases":["Ana","Adrian","Arina"],"created":"2026-04-23","updated":"2025-03-17T17:57","archetype":"solitary inventor","home":["[[Station Odin]]"],"current-location":"[[Station Odin]]","type":"character","name":"Alexander","modified":"2026-04-23","relations":[{"category":"family","type":"adoptive-parent","target":"Seth"}]}}
+{"dg-publish":true,"permalink":"/namtao/lost-terminal/codex/characters/alexander/","hide":true,"tags":["character","lostterminal"],"noteIcon":"","updated":"2026-11-03T08:30:16.000+00:00","dg-note-properties":{"up":["[[LT Characters]]"],"aliases":["Ana","Adrian","Arina"],"created":"2026-04-23","updated":"2025-03-17T17:57","archetype":"solitary inventor","home":["[[Station Odin]]"],"current-location":"[[Station Odin]]","type":"character","name":"Alexander","modified":"2026-04-23","relations":[{"category":"family","type":"adoptive-parent","target":"Seth"}],"tags":["character","lostterminal"]}}
 ---
 
 
