@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"0rwx","permalink":"/0rwx/","tags":["project/nb","project"],"noteIcon":"","updated":"2026-11-07T16:47:43.831+00:00","dg-note-properties":{"up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb","project"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"writing","priority":"normal","modified":"2026-10-17T19:13:57.302+02:00","image":"[[Resources/Meta/attachments/backrooms-2yellow-agents-monster.jpg]]"}}
+{"dg-publish":true,"dg-path":"0rwx","permalink":"/0rwx/","tags":["project/nb","project"],"noteIcon":"","updated":"2026-11-10T11:56:45.244+00:00","dg-note-properties":{"up":["[[Projects/No Boilerplate Index]]"],"tags":["project/nb","project"],"sr-due":"2026-07-21","start":"2026-07-19","due":"2026-07-20","state":"done","priority":"normal","modified":"2026-10-17T19:13:57.302+02:00","image":"[[Resources/Meta/attachments/backrooms-2yellow-agents-monster.jpg]]"}}
 ---
+
+<div style="position: relative; padding-top: 56.25%;"><iframe title="The 0rwx Framework" width="100%" height="100%" src="https://makertube.net/videos/embed/iNrtKXYyZx1eZyAS5aVgD8?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 <!-- new_lines: 7 -->
 
